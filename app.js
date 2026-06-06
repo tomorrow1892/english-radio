@@ -401,12 +401,7 @@ class EnglishRadioApp {
     `;
     lucide.createIcons();
 
-    if (this.currentArticle.summary) {
-      this.elements.summaryText.textContent = this.currentArticle.summary;
-      this.elements.summaryBox.style.display = 'block';
-    } else {
-      this.elements.summaryBox.style.display = 'none';
-    }
+
 
     if (this.currentArticle.sentences?.length > 0) {
       this.elements.transcriptContainer.innerHTML = this.currentArticle.sentences

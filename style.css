@@ -404,6 +404,8 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: opacity var(--transition-speed), max-height var(--transition-speed), padding var(--transition-speed);
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .current-sentence-display.visible {
@@ -418,6 +420,9 @@ body {
   line-height: 1.6;
   color: var(--text-primary);
   margin-bottom: 0.5rem;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 
 .current-ja {
@@ -694,6 +699,9 @@ body {
   line-height: 1.7;
   color: var(--text-secondary);
   transition: color var(--transition-speed);
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 
 .transcript-sentence.active .sentence-en {
