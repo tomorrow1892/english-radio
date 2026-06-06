@@ -72,7 +72,7 @@
           </div>
 
           <!-- Visualizer Waveform -->
-          <div class="visualizer-container">
+          <!-- <div class="visualizer-container">
             <div class="wave-bar" style="--i:1"></div>
             <div class="wave-bar" style="--i:2"></div>
             <div class="wave-bar" style="--i:3"></div>
@@ -83,8 +83,7 @@
             <div class="wave-bar" style="--i:8"></div>
             <div class="wave-bar" style="--i:9"></div>
             <div class="wave-bar" style="--i:10"></div>
-          </div>
-
+          </div> -->
           <!-- Player Controls -->
           <div class="player-controls">
             <button id="btn-prev" class="control-btn secondary" title="前の文" disabled>
@@ -104,19 +103,24 @@
           <!-- Parameters Tuning -->
           <div class="player-settings">
             <div class="setting-item">
-              <label for="select-voice"><i data-lucide="volume-2"></i>話者音声</label>
-              <select id="select-voice" class="custom-select" disabled>
-                <option value="">音声を読み込んでいます...</option>
-              </select>
-            </div>
-            <div class="setting-item">
               <label for="range-rate"><i data-lucide="gauge"></i>再生速度: <span id="rate-value">1.0x</span></label>
               <div class="range-container">
                 <input type="range" id="range-rate" min="0.5" max="2.0" step="0.1" value="1.0" class="custom-range"
                   disabled>
               </div>
             </div>
+            <div class="setting-item">
+              <label for="select-voice"><i data-lucide="volume-2"></i>話者音声</label>
+              <select id="select-voice" class="custom-select" disabled>
+                <option value="">音声を読み込んでいます...</option>
+              </select>
+            </div>
+
           </div>
+
+
+
+
         </div>
 
         <!-- Dual Text Viewer (Bilingual Interactive Area) -->
