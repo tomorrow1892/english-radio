@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,14 +10,17 @@
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest"></script>
   <!-- Custom Stylesheet -->
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <div class="app-container">
+  <div class="app-container" id="app-container">
     <!-- Header -->
     <header class="app-header">
       <div class="logo">
@@ -45,6 +49,12 @@
 
       <!-- Main Content: Player & Translation -->
       <section class="player-container" aria-label="英語プレイヤー">
+        <div class="detail-nav">
+          <button id="btn-back-to-list" class="control-btn secondary back-button" type="button" style="display:none;"
+            title="一覧に戻る">
+            <i data-lucide="arrow-left" class="btn-icon"></i>
+          </button>
+        </div>
         <!-- Active Article Info -->
         <div class="active-article-header" id="active-article-header">
           <div class="placeholder-active-header">
@@ -102,14 +112,15 @@
             <div class="setting-item">
               <label for="range-rate"><i data-lucide="gauge"></i>再生速度: <span id="rate-value">1.0x</span></label>
               <div class="range-container">
-                <input type="range" id="range-rate" min="0.5" max="2.0" step="0.1" value="1.0" class="custom-range" disabled>
+                <input type="range" id="range-rate" min="0.5" max="2.0" step="0.1" value="1.0" class="custom-range"
+                  disabled>
               </div>
             </div>
           </div>
         </div>
 
         <!-- Dual Text Viewer (Bilingual Interactive Area) -->
-        <div class="text-viewer glass">
+        <div class="text-viewer ">
           <!-- Summary Header -->
           <div class="english-summary-box" id="summary-box" style="display: none;">
             <h3><i data-lucide="info"></i>English Summary</h3>
@@ -131,6 +142,7 @@
     <footer class="app-footer">
       <p>&copy; 2026 English Radio. powered by Google Gemini API & Web Speech API.</p>
     </footer>
+
   </div>
 
   <!-- Lucide Icons Initialize & Main App Script -->
@@ -142,4 +154,5 @@
   </script>
   <script src="app.js"></script>
 </body>
+
 </html>

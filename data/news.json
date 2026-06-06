@@ -1,155 +1,153 @@
-[
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142821000.html",
-    "title": "九州南部 線状降水帯発生のおそれ 7日未明～昼前",
-    "title_ja": "九州南部で線状降水帯発生のおそれ、西日本で非常に激しい雨の見込み",
-    "date": "Sat, 06 Jun 2026 18:11:14 +0900",
-    "summary": "A low-pressure system is expected to bring heavy rain to western Japan, with a warning issued for potential linear rainbands and landslides in southern Kyushu.",
-    "sentences": [
+{
+  "main_news": [
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142861000.html",
+      "title": "東京 新島 旧日本軍の「遺棄弾」これまで6万発以上発見・処理",
+      "title_ja": "東京・新島で戦時の砲弾など6万発以上を発見、続く戦後処理",
+      "date": "Sat, 06 Jun 2026 16:16:55 +0900",
+      "summary": "More than 60,000 World War II munitions have been recovered from the sea around Niijima, Tokyo, highlighting the ongoing efforts to handle post-war disposal even after 80 years.",
+      "sentences": [
+        {
+          "en": "It has been revealed that more than 60,000 artillery shells and bullets from World War II have been discovered in Niijima, Tokyo, mostly from the sea.",
+          "ja": "東京都の新島で、太平洋戦争中の旧日本軍の砲弾や銃弾が、これまでに海中などから6万発以上見つかっていることが明らかになりました。"
+        },
+        {
+          "en": "This year alone, approximately 1,500 pieces of ammunition were found and successfully disposed of.",
+          "ja": "今年だけでも、およそ1500発の弾薬が見つかり、無事に処理されました。"
+        },
+        {
+          "en": "These weapons were left behind by the former Japanese military more than eight decades ago.",
+          "ja": "これらの兵器は、80年以上前に旧日本軍によって残されたものです。"
+        },
+        {
+          "en": "An official from Niijima Village expressed that post-war disposal remains an ongoing challenge even after all this time.",
+          "ja": "新島村の担当者は、これほどの歳月が流れた今でも、戦後処理は未だに続いている課題であると述べました。"
+        },
+        {
+          "en": "Continuous efforts are being made to clear these dangerous relics to ensure the safety of local residents and fishermen.",
+          "ja": "地域住民や漁業関係者の安全を確保するため、これらの危険な遺物を除去する取り組みが現在も続けられています。"
+        }
+      ]
+    }
+  ],
+  "category_news": {
+    "その他": [
       {
-        "en": "A low-pressure system moving along a weather front is expected to pass through southern Kyushu on the 7th and head toward the southern coast of Honshu.",
-        "ja": "前線上の低気圧が7日に九州南部を通過し、本州の南岸へ進む見込みです。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142821000.html",
+        "title": "奄美除く鹿児島県 線状降水帯発生のおそれ 7日未明～昼前",
+        "title_ja": "鹿児島県で線状降水帯発生のおそれ 気象庁が警戒呼びかけ",
+        "date": "Sat, 06 Jun 2026 16:01:52 +0900",
+        "summary": "The Japan Meteorological Agency is warning residents in Kagoshima of a high risk of natural disasters due to potential linear rainbands on the morning of the 7th.",
+        "sentences": [
+          {
+            "en": "A low-pressure system and an active weather front are expected to bring heavy rain to Kagoshima Prefecture, excluding the Amami region.",
+            "ja": "低気圧と前線の影響により、奄美地方を除く鹿児島県に大雨がもたらされる見込みです。"
+          },
+          {
+            "en": "Weather officials warn that linear rainbands, which are blocks of storm clouds that cause torrential rain, may develop from dawn to before noon on the 7th.",
+            "ja": "気象庁は、豪雨をもたらす積乱雲の連なりである「線状降水帯」が、7日の未明から昼前にかけて発生する可能性があると警告しています。"
+          },
+          {
+            "en": "This sudden weather pattern could cause the risk of natural disasters to increase rapidly in the affected areas.",
+            "ja": "この急激な天候の変化により、対象地域では災害の危険度が急激に高まるおそれがあります。"
+          },
+          {
+            "en": "The Japan Meteorological Agency is calling on residents to remain highly vigilant against landslides and flooding.",
+            "ja": "気象庁は住民に対し、土砂災害や浸水への厳重な警戒を呼びかけています。"
+          },
+          {
+            "en": "People in these regions are advised to check the latest weather updates and take steps to ensure their safety.",
+            "ja": "これらの地域の人々は、最新の気象情報を確認し、自らの安全を確保するための行動をとるよう推奨されています。"
+          }
+        ]
       },
       {
-        "en": "Due to this system, extremely heavy rain is forecast mainly along the Pacific side of western Japan.",
-        "ja": "この影響により、西日本の太平洋側を中心に非常に激しい雨が降ると予想されています。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html",
+        "title": "将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる",
+        "title_ja": "加藤一二三九段のお別れの会、「名誉十段」の称号を授与",
+        "date": "Sat, 06 Jun 2026 16:13:56 +0900",
+        "summary": "A farewell ceremony was held in Tokyo for the legendary shogi player Hifumi Kato, widely known as 'Hifumin,' where he was awarded the special title of 'Honorary 10-dan' to honor his brilliant career.",
+        "sentences": [
+          {
+            "en": "A farewell ceremony was held at the Tokyo Shogi Kaikan for Hifumi Kato, a legendary shogi player affectionately known by his nickname \"Hifumin.\"",
+            "ja": "「ひふみん」の愛称で親しまれた伝説的な棋士、加藤一二三九段のお別れの会が、東京の将棋会館で開かれました。"
+          },
+          {
+            "en": "Kato is one of the most prominent figures in the shogi world, having won a total of eight major titles throughout his career, including the prestigious Meijin.",
+            "ja": "加藤九段は、最高峰のタイトルである名人を含め、通算8期のタイトルを獲得した将棋界を代表する棋士の1人です。"
+          },
+          {
+            "en": "To honor his outstanding contributions and long career, the Japan Shogi Association specially awarded him the title of \"Honorary 10-dan.\"",
+            "ja": "彼の卓越した貢献と長年の功績を称え、日本将棋連盟から特別に「名誉十段」の称号が贈られました。"
+          },
+          {
+            "en": "Many fans and fellow players gathered at the venue to express their deep gratitude and respect for his achievements.",
+            "ja": "会場には多くのファンや棋士たちが集まり、彼の功績に対する深い感謝と敬意を表しました。"
+          },
+          {
+            "en": "His cheerful personality and passionate playing style will continue to inspire generations of shogi players.",
+            "ja": "彼の明るい人柄と情熱的な対局スタイルは、これからも多くの棋士たちにインスピレーションを与え続けるでしょう。"
+          }
+        ]
       },
       {
-        "en": "Weather officials warn that linear rainbands, which often bring torrential downpours, may develop in southern Kyushu from dawn through late morning on the 7th.",
-        "ja": "気象庁は、九州南部で7日の未明から昼前にかけて、猛烈な雨をもたらす「線状降水帯」が発生するおそれがあると警告しています。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html",
+        "title": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
+        "title_ja": "「飛鳥・藤原の宮都」世界遺産登録へ勧告",
+        "date": "Sat, 06 Jun 2026 15:23:45 +0900",
+        "summary": "A UNESCO advisory body has recommended registering the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture as a World Cultural Heritage site, with a final decision expected next month.",
+        "sentences": [
+          {
+            "en": "An advisory body to UNESCO has recommended that a group of archaeological sites in Nara Prefecture be registered as a World Cultural Heritage site.",
+            "ja": "ユネスコの諮問機関は、奈良県にある遺跡群を世界文化遺産に登録するよう勧告しました。"
+          },
+          {
+            "en": "Known as \"Asuka-Fujiwara,\" these sites represent the ancient capitals and imperial palaces of the Asuka period.",
+            "ja": "「飛鳥・藤原の宮都」として知られるこれらの遺跡は、飛鳥時代の古代の都や宮殿の跡で構成されています。"
+          },
+          {
+            "en": "The advisory body recognized the historical value of these ruins and deemed them worthy of global recognition.",
+            "ja": "諮問機関はこれらの遺跡の歴史的価値を認め、世界的な登録にふさわしいと判断しました。"
+          },
+          {
+            "en": "Following this positive recommendation, a final decision is expected to be made at the World Heritage Committee meeting next month.",
+            "ja": "この前向きな勧告を受けて、来月開催される世界遺産委員会で最終決定が下される見通しです。"
+          },
+          {
+            "en": "Local residents and officials in Nara are highly anticipating the official registration, which will further highlight the region's rich history.",
+            "ja": "奈良の地元住民や関係者は、地域の豊かな歴史をさらに際立たせることになる、この正式な登録を強く期待しています。"
+          }
+        ]
       },
       {
-        "en": "These heavy rains could significantly increase the risk of natural disasters in the affected regions.",
-        "ja": "この大雨により、影響を受ける地域では自然災害の危険性が大幅に高まる可能性があります。"
-      },
-      {
-        "en": "The Japan Meteorological Agency is urging residents to remain on high alert for landslides and flooding.",
-        "ja": "気象庁は住民に対し、土砂災害や河川の氾濫に厳重に警戒するよう呼びかけています。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142931000.html",
-    "title": "タンクローリー転落 81歳男性が海に飛び込み運転手救出 和歌山",
-    "title_ja": "和歌山の漁港でタンクローリー転落、81歳男性が海に飛び込み運転手を救出",
-    "date": "Sat, 06 Jun 2026 18:03:30 +0900",
-    "summary": "An 81-year-old man fishing at a port in Wakayama City courageously jumped into the sea to rescue a driver after a tank truck plunged into the water.",
-    "sentences": [
-      {
-        "en": "On the morning of the 6th, a tank truck plunged into the sea at Saikazaki fishing port in Wakayama City.",
-        "ja": "6日の午前、和歌山市の雑賀崎漁港で、タンクローリーが海に転落する事故がありました。"
-      },
-      {
-        "en": "An 81-year-old man who was fishing nearby witnessed the accident.",
-        "ja": "近くで釣りをしていた81歳の男性が、この事故を目撃しました。"
-      },
-      {
-        "en": "Without hesitation, he jumped into the water to save the driver inside the truck.",
-        "ja": "彼はためらうことなく海に飛び込み、トラックの中にいた運転手を救出しようとしました。"
-      },
-      {
-        "en": "Thanks to his quick action, the driver was successfully rescued and brought to safety.",
-        "ja": "彼の迅速な行動のおかげで、運転手は無事に救出され、安全な場所に運ばれました。"
-      },
-      {
-        "en": "The elderly man's brave rescue has received high praise from local residents and officials.",
-        "ja": "この高齢男性の勇敢な救出活動は、地元の住民や関係者から高い称賛を受けています。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142961000.html",
-    "title": "栃木強盗殺人事件 高校生ら3人を再逮捕 容疑を否認",
-    "title_ja": "栃木・上三川町の親子3人死傷事件、強盗殺人未遂容疑で高校生ら3人を再逮捕",
-    "date": "Sat, 06 Jun 2026 18:40:35 +0900",
-    "summary": "Police have re-arrested three suspects, including a high school student, on charges of attempted robbery-murder following a violent home invasion in Tochigi Prefecture that left one dead and two injured.",
-    "sentences": [
-      {
-        "en": "In Kaminokawa Town, Tochigi Prefecture, a violent robbery occurred at a residence, leaving a family of three dead or injured.",
-        "ja": "栃木県上三川町の住宅に強盗が押し入り、親子3人が死傷する凄惨な事件が発生しました。"
-      },
-      {
-        "en": "Police had previously arrested three suspects, including a high school student, on suspicion of robbery and murder.",
-        "ja": "警察は、強盗殺人の疑いで高校生を含む容疑者3人をすでに逮捕していました。"
-      },
-      {
-        "en": "Recently, authorities re-arrested these three individuals on additional charges of attempted robbery-murder.",
-        "ja": "先日、警察はこれら3人の容疑者を強盗殺人未遂の疑いで再逮捕しました。"
-      },
-      {
-        "en": "This new charge is related to the family members who survived the brutal attack.",
-        "ja": "この新たな容疑は、残忍な襲撃を生き延びた家族に対するものに関連しています。"
-      },
-      {
-        "en": "During questioning, some of the suspects have denied the allegations, claiming they know nothing about the incident.",
-        "ja": "取り調べに対し、容疑者の一部は事件について「知らない」と容疑を否認しています。"
-      },
-      {
-        "en": "However, others have reportedly made statements about striking the victims with a crowbar.",
-        "ja": "しかし、バールで被害者を殴ったという趣旨の供述をしている容疑者もいるとのことです。"
-      },
-      {
-        "en": "The police are continuing their investigation to uncover the full details of this crime.",
-        "ja": "警察は、この事件の全容を解明するために捜査を続けています。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142941000.html",
-    "title": "団地内で水道管壊れる「10ｍほど水噴き出している」相模原",
-    "title_ja": "相模原市の団地で水道管が破裂、10メートルの高さまに水が噴き出す",
-    "date": "Sat, 06 Jun 2026 18:04:05 +0900",
-    "summary": "On the afternoon of the 6th, a water pipe burst at an apartment complex in Sagamihara City, shooting water about 10 meters into the air.",
-    "sentences": [
-      {
-        "en": "On the afternoon of the 6th, a water pipe burst in Sagamihara City, causing water to shoot high into the air.",
-        "ja": "6日の午後、相模原市で水道管が破裂し、水が空高くに噴き出す事案が発生しました。"
-      },
-      {
-        "en": "According to local police, the incident occurred shortly after 1:30 PM on the grounds of an apartment complex in Midori Ward.",
-        "ja": "地元警察によりますと、この事案は午後1時半すぎ、緑区にある団地の敷地内で発生しました。"
-      },
-      {
-        "en": "The water reportedly reached a height of about 10 meters and continued to gush out uncontrollably.",
-        "ja": "水は約10メートルの高さまで達し、勢いよく噴き出したまま止まらない状態が続いたとのことです。"
-      },
-      {
-        "en": "Emergency workers were dispatched to the scene to stop the flow and investigate the cause of the break.",
-        "ja": "水を止め、水道管が破損した原因を調査するため、緊急作業員が現場に派遣されました。"
-      },
-      {
-        "en": "Authorities worked quickly to resolve the issue and minimize the impact on nearby residents.",
-        "ja": "周辺住民への影響を最小限に抑えるため、関係各所は速やかに問題の解決に取り組みました。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142861000.html",
-    "title": "東京 新島 旧日本軍の「遺棄弾」これまで6万発以上発見・処理",
-    "title_ja": "新島で戦後も続く砲弾処理、これまでに6万発以上を発見",
-    "date": "Sat, 06 Jun 2026 16:16:55 +0900",
-    "summary": "More than 60,000 World War II-era munitions have been found around Tokyo's Niijima Island, showing that post-war disposal efforts continue even after 80 years.",
-    "sentences": [
-      {
-        "en": "It has been revealed that more than 60,000 artillery shells and bullets from World War II have been recovered from the sea and other areas around Niijima Island in Tokyo.",
-        "ja": "東京の新島周辺の海の中などから、太平洋戦争中の旧日本軍の砲弾や銃弾が、これまでに6万発以上見つかっていたことが分かりました。"
-      },
-      {
-        "en": "These weapons were left behind by the former Japanese military during the war.",
-        "ja": "これらの武器は、戦争中に旧日本軍によって残されたものです。"
-      },
-      {
-        "en": "Even today, discoveries continue, with approximately 1,500 pieces of ammunition found and disposed of this year alone.",
-        "ja": "現在でも発見は続いており、今年だけでもおよそ1500発の弾薬が見つかり、処理されています。"
-      },
-      {
-        "en": "Local officials in Niijima Village expressed that post-war disposal is still an active issue, even though more than 80 years have passed since the end of the conflict.",
-        "ja": "新島村の担当者は、終戦から80年以上が経過した今でも、戦後処理が現在進行形の課題であると述べています。"
-      },
-      {
-        "en": "The local government continues to work with relevant authorities to ensure the safety of the island's waters and its community.",
-        "ja": "地方自治体は、島の海域と地域社会の安全を確保するため、関係機関と協力して取り組みを続けています。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142891000.html",
+        "title": "ドジャース佐々木朗希 7回無失点10奪三振 大谷翔平は無安打",
+        "title_ja": "佐々木朗希が7回無失点の好投、大谷の連続安打は7でストップ",
+        "date": "Sat, 06 Jun 2026 16:00:09 +0900",
+        "summary": "Dodgers pitcher Roki Sasaki delivered a brilliant performance with seven scoreless innings and ten strikeouts against the Angels, while Shohei Ohtani's seven-game hitting streak came to an end.",
+        "sentences": [
+          {
+            "en": "In Major League Baseball, Dodgers pitcher Roki Sasaki started in a game against the Angels.",
+            "ja": "大リーグ、ドジャースの佐々木朗希投手がエンゼルス戦に先発登板しました。"
+          },
+          {
+            "en": "Sasaki delivered an outstanding performance, pitching seven scoreless innings and striking out ten batters.",
+            "ja": "佐々木投手は7回を投げて無失点、10個の三振を奪う素晴らしい力投を見せました。"
+          },
+          {
+            "en": "His powerful pitching controlled the game and kept the opposing team's hitters completely quiet.",
+            "ja": "彼の力強いピッチングは試合を支配し、相手チームの打線を完全に抑え込みました。"
+          },
+          {
+            "en": "Meanwhile, superstar Shohei Ohtani went without a hit in this matchup.",
+            "ja": "一方、スーパースターの大谷翔平選手はこの試合でヒットが出ませんでした。"
+          },
+          {
+            "en": "As a result, Ohtani's impressive seven-game hitting streak came to an end.",
+            "ja": "その結果、大谷選手の7試合連続安打記録はストップしました。"
+          }
+        ]
       }
     ]
   }
-]
+}
