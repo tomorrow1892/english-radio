@@ -1,0 +1,17 @@
+{
+  "name": "english-radio",
+  "version": "1.0.0",
+  "description": "Japanese news audio english listening helper application.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx http-server -p 8080 -c-1"
+  },
+  "keywords": [
+    "english-listening",
+    "web-speech-api",
+    "nhk-news",
+    "gemini-api"
+  ],
+  "author": "",
+  "license": "MIT"
+}

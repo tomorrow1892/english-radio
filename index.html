@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Radio - ニュースで学ぶ英語リスニング</title>
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="日本の最新ニュースを題材に、英語の要約と対訳テキストでリスニング力を鍛える無料のWebアプリケーションです。">
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo">
+        <i data-lucide="radio" class="logo-icon"></i>
+        <h1>English Radio</h1>
+      </div>
+      <div class="header-tagline">日本のニュースで鍛える英語リスニング</div>
+    </header>
+
+    <!-- Main Workspace -->
+    <main class="app-main">
+      <!-- Sidebar: News List -->
+      <section class="news-sidebar" aria-label="ニュース一覧">
+        <div class="sidebar-header">
+          <h2><i data-lucide="newspaper"></i>最新ニュース</h2>
+          <span class="news-count" id="news-count">0 件</span>
+        </div>
+        <div class="news-list-container" id="news-list">
+          <!-- Loading placeholder -->
+          <div class="loading-state">
+            <div class="spinner"></div>
+            <p>ニュースを読み込んでいます...</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Main Content: Player & Translation -->
+      <section class="player-container" aria-label="英語プレイヤー">
+        <!-- Active Article Info -->
+        <div class="active-article-header" id="active-article-header">
+          <div class="placeholder-active-header">
+            <i data-lucide="sparkles" class="sparkles-icon"></i>
+            <p>左のリストからニュースを選択してください</p>
+          </div>
+        </div>
+
+        <!-- Interactive Audio Player Card -->
+        <div class="player-card glass">
+          <!-- Current Sentence Highlight (Bilingual Sync) -->
+          <div class="current-sentence-display" id="current-sentence-display">
+            <p class="current-en" id="current-en"></p>
+            <p class="current-ja" id="current-ja"></p>
+          </div>
+
+          <!-- Visualizer Waveform -->
+          <div class="visualizer-container">
+            <div class="wave-bar" style="--i:1"></div>
+            <div class="wave-bar" style="--i:2"></div>
+            <div class="wave-bar" style="--i:3"></div>
+            <div class="wave-bar" style="--i:4"></div>
+            <div class="wave-bar" style="--i:5"></div>
+            <div class="wave-bar" style="--i:6"></div>
+            <div class="wave-bar" style="--i:7"></div>
+            <div class="wave-bar" style="--i:8"></div>
+            <div class="wave-bar" style="--i:9"></div>
+            <div class="wave-bar" style="--i:10"></div>
+          </div>
+
+          <!-- Player Controls -->
+          <div class="player-controls">
+            <button id="btn-prev" class="control-btn secondary" title="前の文" disabled>
+              <i data-lucide="skip-back"></i>
+            </button>
+            <button id="btn-play" class="control-btn primary play" title="再生" disabled>
+              <i data-lucide="play" class="btn-icon"></i>
+            </button>
+            <button id="btn-stop" class="control-btn secondary" title="停止" disabled>
+              <i data-lucide="square"></i>
+            </button>
+            <button id="btn-next" class="control-btn secondary" title="次の文" disabled>
+              <i data-lucide="skip-forward"></i>
+            </button>
+          </div>
+
+          <!-- Parameters Tuning -->
+          <div class="player-settings">
+            <div class="setting-item">
+              <label for="select-voice"><i data-lucide="volume-2"></i>話者音声</label>
+              <select id="select-voice" class="custom-select" disabled>
+                <option value="">音声を読み込んでいます...</option>
+              </select>
+            </div>
+            <div class="setting-item">
+              <label for="range-rate"><i data-lucide="gauge"></i>再生速度: <span id="rate-value">1.0x</span></label>
+              <div class="range-container">
+                <input type="range" id="range-rate" min="0.5" max="2.0" step="0.1" value="1.0" class="custom-range" disabled>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Dual Text Viewer (Bilingual Interactive Area) -->
+        <div class="text-viewer glass">
+          <!-- Summary Header -->
+          <div class="english-summary-box" id="summary-box" style="display: none;">
+            <h3><i data-lucide="info"></i>English Summary</h3>
+            <p id="english-summary-text"></p>
+          </div>
+
+          <!-- Bilingual Transcript Container -->
+          <div class="transcript-container" id="transcript-container">
+            <div class="empty-transcript">
+              <i data-lucide="book-open" class="empty-icon"></i>
+              <p>ニュースを選択すると、ここに英文と和文の対訳が表示されます。</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>&copy; 2026 English Radio. powered by Google Gemini API & Web Speech API.</p>
+    </footer>
+  </div>
+
+  <!-- Lucide Icons Initialize & Main App Script -->
+  <script>
+    // Initialize icons as soon as script tag loads
+    document.addEventListener("DOMContentLoaded", () => {
+      lucide.createIcons();
+    });
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>

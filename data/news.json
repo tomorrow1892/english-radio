@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://news.example.com/mock1",
+    "title": "日本の桜、満開の季節を迎える",
+    "title_ja": "日本の桜が満開に",
+    "date": "2026-06-06",
+    "summary": "Cherry blossoms are reaching full bloom in various regions across Japan, drawing crowds of visitors despite the mild weather.",
+    "sentences": [
+      {
+        "en": "Cherry blossoms have reached full bloom in Tokyo, attracting many visitors to local parks.",
+        "ja": "東京で桜が満開となり、多くの人が地元の公園を訪れています。"
+      },
+      {
+        "en": "Weather officials say this year's bloom arrived slightly earlier than average due to warmer temperatures.",
+        "ja": "気象庁によると、温暖な気候のため、今年の開花は平年より少し早かったということです。"
+      },
+      {
+        "en": "Many families and tourists are enjoying outdoor picnics under the beautiful pink flowers.",
+        "ja": "多くの家族連れや観光客が、美しいピンクの桜の下でピクニックを楽しんでいます。"
+      },
+      {
+        "en": "Local authorities are reminding visitors to clean up their trash to keep the parks clean.",
+        "ja": "地元自治体は、公園を綺麗に保つため、ゴミを持ち帰るよう呼びかけています。"
+      },
+      {
+        "en": "The viewing season is expected to last for another week if the weather remains stable.",
+        "ja": "天気が安定していれば、花見シーズンはあと1週間ほど続く見込みです。"
+      }
+    ]
+  },
+  {
+    "url": "https://news.example.com/mock2",
+    "title": "宇宙ステーションに新型ロボットが到着",
+    "title_ja": "宇宙ステーションに新型ロボット到着",
+    "date": "2026-06-05",
+    "summary": "A new autonomous assistant robot has successfully docked at the International Space Station to help astronauts with daily maintenance.",
+    "sentences": [
+      {
+        "en": "A next-generation robotic assistant has successfully arrived at the International Space Station.",
+        "ja": "次世代のアシスタントロボットが、国際宇宙ステーションに無事到着しました。"
+      },
+      {
+        "en": "The autonomous machine was launched last week from a spaceport in southern Japan.",
+        "ja": "この自律型ロボットは、先週日本南部の宇宙基地から打ち上げられました。"
+      },
+      {
+        "en": "It is designed to perform routine maintenance tasks, reducing the workload of human astronauts.",
+        "ja": "宇宙飛行士の負担を軽減するため、日常のメンテナンス作業を自動で行うよう設計されています。"
+      },
+      {
+        "en": "Researchers hope this technology will pave the way for fully automated deep space missions in the future.",
+        "ja": "研究者らは、この技術が将来の完全自動ディープスペース探査への道を開くことを期待しています。"
+      }
+    ]
+  }
+]
