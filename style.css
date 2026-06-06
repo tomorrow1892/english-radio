@@ -5,24 +5,24 @@
   --bg-gradient-end: #f5f7fa;
   --card-bg: rgba(255, 255, 255, 0.95);
   --card-border: rgba(59, 130, 246, 0.12);
-  
+
   /* Text Colors */
   --text-primary: #1f2937;
   --text-secondary: #6b7280;
   --text-muted: #9ca3af;
-  
+
   /* Primary Colors - Bright Blue */
   --primary-color: #0066ff;
   --primary-glow: rgba(0, 102, 255, 0.15);
-  
+
   /* Accent Colors - Vibrant Cyan */
   --accent-color: #00d9ff;
   --accent-glow: rgba(0, 217, 255, 0.15);
-  
+
   /* Highlight for Synchronized Bilingual Display */
   --highlight-bg: #e8f4ff;
   --highlight-border: #0066ff;
-  
+
   /* Layout */
   --sidebar-width: 320px;
   --transition-speed: 0.3s;
@@ -70,8 +70,8 @@ body {
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border: 1px solid var(--card-border);
-  border-radius: 16px;
-  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  border-radius: 8px;
+
 }
 
 /* Layout Container */
@@ -304,7 +304,9 @@ body {
 }
 
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 /* Player & Interactive Workspace (Right Side) */
@@ -338,8 +340,16 @@ body {
 }
 
 @keyframes pulse {
-  0%, 100% { opacity: 0.6; }
-  50% { opacity: 1; transform: scale(1.05); }
+
+  0%,
+  100% {
+    opacity: 0.6;
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+  }
 }
 
 .detail-nav {
@@ -410,7 +420,7 @@ body {
 
 .current-sentence-display.visible {
   opacity: 1;
-  max-height: 200px;
+  max-height: 5000px;
   padding: 1rem 1.25rem;
 }
 
@@ -465,8 +475,13 @@ body {
 }
 
 @keyframes wave {
-  0% { height: 4px; }
-  100% { height: 38px; }
+  0% {
+    height: 4px;
+  }
+
+  100% {
+    height: 38px;
+  }
 }
 
 /* Player Buttons */
@@ -575,7 +590,8 @@ body {
   border-color: var(--primary-color);
 }
 
-.custom-select:disabled, .custom-range:disabled {
+.custom-select:disabled,
+.custom-range:disabled {
   opacity: 0.5;
   cursor: not-allowed;
 }
