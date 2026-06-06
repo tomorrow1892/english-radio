@@ -25,45 +25,45 @@ RSS_URL = "https://www3.nhk.or.jp/rss/news/cat0.xml"  # Legacy: kept for backwar
 RSS_FEEDS = {
     "main": {
         "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-        "max_articles": 5,
+        "max_articles": 10,
         "label": "主要ニュース"
+    },
+    "society": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+        "max_articles": 5,
+        "label": "社会"
+    },
+    "culture_entertainment": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
+        "max_articles": 5,
+        "label": "文化・エンタメ"
+    },
+    "science_health": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+        "max_articles": 5,
+        "label": "科学・医療"
+    },
+    "politics": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
+        "max_articles": 5,
+        "label": "政治"
+    },
+    "economy": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
+        "max_articles": 5,
+        "label": "経済"
+    },
+    "international": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+        "max_articles": 5,
+        "label": "国際"
+    },
+    "sports": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
+        "max_articles": 5,
+        "label": "スポーツ"
     }
 }
-# "society": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-#         "max_articles": 5,
-#         "label": "社会"
-#     },
-#     "culture_entertainment": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
-#         "max_articles": 5,
-#         "label": "文化・エンタメ"
-#     },
-#     "science_health": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-#         "max_articles": 5,
-#         "label": "科学・医療"
-#     },
-#     "politics": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
-#         "max_articles": 5,
-#         "label": "政治"
-#     },
-#     "economy": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
-#         "max_articles": 5,
-#         "label": "経済"
-#     },
-#     "international": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-#         "max_articles": 5,
-#         "label": "国際"
-#     },
-#     "sports": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
-#         "max_articles": 5,
-#         "label": "スポーツ"
-#     }
 MAX_ARTICLES = 5  # Legacy: kept for backward compatibility
 MIN_BODY_CHARS = 30
 OUTPUT_DIR = "data"

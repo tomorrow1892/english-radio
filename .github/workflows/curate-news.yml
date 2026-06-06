@@ -3,7 +3,7 @@ name: Curate and Translate News
 on:
   schedule:
     # Runs 3 times a day (e.g. 00:00, 08:00, 16:00 UTC)
-    - cron: '0 22,3,9 * * *'
+    - cron: '0 22 * * *'
   workflow_dispatch: # Allows manual trigger
 
 permissions:
