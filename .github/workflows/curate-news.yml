@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser newspaper3k google-generativeai lxml_html_clean
+          pip install -r requirements.txt
 
       - name: Run curation script
         env:
