@@ -211,7 +211,37 @@ class EnglishRadioApp {
         throw new Error(`HTTP ${response.status}`);
       }
       const data = await response.json();
-      this.newsData = Array.isArray(data) ? data.filter((item) => this.validateNewsItem(item)) : [];
+      
+      // Store structured data for category-based rendering
+      this.newsDataStructured = {};
+      this.newsData = [];
+      
+      if (data.main_news && Array.isArray(data.main_news)) {
+        // New multi-category structure
+        const mainNews = data.main_news.filter((item) => this.validateNewsItem(item));
+        if (mainNews.length > 0) {
+          this.newsDataStructured['主要ニュース'] = mainNews;
+          this.newsData.push(...mainNews);
+        }
+        
+        if (data.category_news && typeof data.category_news === 'object') {
+          // Store category news with their labels
+          Object.entries(data.category_news).forEach(([category, articles]) => {
+            if (Array.isArray(articles)) {
+              const validArticles = articles.filter((item) => this.validateNewsItem(item));
+              if (validArticles.length > 0) {
+                this.newsDataStructured[category] = validArticles;
+                this.newsData.push(...validArticles);
+              }
+            }
+          });
+        }
+      } else if (Array.isArray(data)) {
+        // Legacy array format
+        this.newsData = data.filter((item) => this.validateNewsItem(item));
+        this.newsDataStructured = {}; // Empty for legacy format
+      }
+      
       this.renderNewsList();
 
       if (this.newsData.length > 0) {
@@ -235,19 +265,50 @@ class EnglishRadioApp {
     }
 
     this.elements.newsCount.textContent = `${this.newsData.length} 件`;
-    this.elements.newsList.innerHTML = this.newsData
-      .map(
-        (article, index) => `
-        <div class="news-card" data-index="${index}">
-          <div class="news-card-title">${article.title_ja || article.title}</div>
-          <div class="news-card-meta">
-            <span>${article.date || '今日'}</span>
-            <span>${article.sentences.length} 文</span>
+    
+    // If we have structured data, render with categories
+    if (Object.keys(this.newsDataStructured).length > 0) {
+      let html = '';
+      
+      Object.entries(this.newsDataStructured).forEach(([categoryLabel, articles]) => {
+        html += `
+          <div class="news-category-section">
+            <div class="category-header">${categoryLabel}</div>
+            <div class="category-cards">
+              ${articles.map((article, catIndex) => {
+                const globalIndex = this.newsData.indexOf(article);
+                return `
+                  <div class="news-card" data-index="${globalIndex}">
+                    <div class="news-card-title">${article.title_ja || article.title}</div>
+                    <div class="news-card-meta">
+                      <span>${article.date || '今日'}</span>
+                      <span>${article.sentences.length} 文</span>
+                    </div>
+                  </div>
+                `;
+              }).join('')}
+            </div>
           </div>
-        </div>
-      `
-      )
-      .join('');
+        `;
+      });
+      
+      this.elements.newsList.innerHTML = html;
+    } else {
+      // Legacy rendering (flat list)
+      this.elements.newsList.innerHTML = this.newsData
+        .map(
+          (article, index) => `
+          <div class="news-card" data-index="${index}">
+            <div class="news-card-title">${article.title_ja || article.title}</div>
+            <div class="news-card-meta">
+              <span>${article.date || '今日'}</span>
+              <span>${article.sentences.length} 文</span>
+            </div>
+          </div>
+        `
+        )
+        .join('');
+    }
 
     this.elements.newsList.querySelectorAll('.news-card').forEach((card) => {
       card.addEventListener('click', () => {

@@ -8,7 +8,9 @@ Runs periodically inside GitHub Actions.
 import json
 import os
 import re
+import time
 import traceback
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from html import unescape
 
 import feedparser
@@ -19,8 +21,50 @@ from bs4 import BeautifulSoup
 from newspaper import Article, Config
 
 # Configuration
-RSS_URL = "https://www3.nhk.or.jp/rss/news/cat0.xml"
-MAX_ARTICLES = 5
+RSS_URL = "https://www3.nhk.or.jp/rss/news/cat0.xml"  # Legacy: kept for backward compatibility
+RSS_FEEDS = {
+    "main": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+        "max_articles": 10,
+        "label": "主要ニュース"
+    },
+    "society": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+        "max_articles": 5,
+        "label": "社会"
+    },
+    "culture_entertainment": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
+        "max_articles": 5,
+        "label": "文化・エンタメ"
+    },
+    "science_health": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+        "max_articles": 5,
+        "label": "科学・医療"
+    },
+    "politics": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
+        "max_articles": 5,
+        "label": "政治"
+    },
+    "economy": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
+        "max_articles": 5,
+        "label": "経済"
+    },
+    "international": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+        "max_articles": 5,
+        "label": "国際"
+    },
+    "sports": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
+        "max_articles": 5,
+        "label": "スポーツ"
+    }
+}
+MAX_ARTICLES = 5  # Legacy: kept for backward compatibility
 MIN_BODY_CHARS = 30
 OUTPUT_DIR = "data"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "news.json")
@@ -42,6 +86,11 @@ REQUEST_HEADERS = {
 }
 
 BOILERPLATE_MARKERS = ("受信契約", "ご利用の場合は", "受信料の未納")
+
+# Rate limiting: Track API calls to stay under 20 calls per minute
+api_calls_in_window = []
+RATE_LIMIT_CALLS = 20
+RATE_LIMIT_WINDOW_SECONDS = 60
 
 # System prompt for Gemini
 SYSTEM_PROMPT = """
@@ -69,6 +118,30 @@ Guidelines:
 - Generate between 5 and 10 sentences total.
 - If the input is only a short RSS summary, expand it into a natural listening script while staying faithful to the stated facts. Do not invent unrelated details.
 """
+
+
+def rate_limit_check():
+    """Check and enforce rate limit (20 calls per 60 seconds).
+    If limit reached, sleep until the oldest call is outside the window.
+    """
+    global api_calls_in_window
+    now = time.time()
+    
+    # Remove calls older than 60 seconds from the window
+    api_calls_in_window = [call_time for call_time in api_calls_in_window 
+                           if now - call_time < RATE_LIMIT_WINDOW_SECONDS]
+    
+    if len(api_calls_in_window) >= RATE_LIMIT_CALLS:
+        # Calculate wait time until oldest call leaves the window
+        oldest_call = api_calls_in_window[0]
+        wait_time = RATE_LIMIT_WINDOW_SECONDS - (now - oldest_call)
+        if wait_time > 0:
+            print(f"\n⏳ Rate limit approaching (20/20 calls). Waiting {wait_time:.1f}s...")
+            time.sleep(wait_time + 0.5)  # Add small buffer
+            api_calls_in_window = []  # Reset window after waiting
+    
+    # Record this API call
+    api_calls_in_window.append(time.time())
 
 
 def load_local_env():
@@ -260,6 +333,9 @@ def process_article(url, title, date, rss_summary):
 
         print(f"Article text ready ({len(body_text)} chars). Generating translation via Gemini API...")
 
+        # Check rate limit before calling Gemini API
+        rate_limit_check()
+        
         prompt = f"{SYSTEM_PROMPT}\n\nInput Japanese News Content:\n{body_text}"
         response = generate_gemini_json(prompt)
 
@@ -297,48 +373,99 @@ def load_existing_news():
         return []
 
 
+def fetch_from_feed(feed_key, feed_config):
+    """Fetch and process articles from a single RSS feed with parallel processing."""
+    print(f"\nFetching from {feed_config['label']}: {feed_config['url']}")
+    
+    try:
+        feed = feedparser.parse(feed_config['url'])
+        entries = feed.entries
+        print(f"Found {len(entries)} entries in RSS feed.")
+        
+        # Collect articles to process
+        articles_to_process = []
+        for entry in entries[:feed_config['max_articles']]:
+            url = entry.link
+            title = entry.title
+            date = entry.get("published", entry.get("updated", "今日"))
+            rss_summary = entry.get("summary", "")
+            articles_to_process.append((url, title, date, rss_summary))
+        
+        # Process articles in parallel with ThreadPoolExecutor
+        curated_articles = []
+        fetched = 0
+        total = len(articles_to_process)
+        
+        # Use max_workers=4 to limit concurrent API calls (respects rate_limit_check)
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            # Submit all tasks
+            futures = {
+                executor.submit(process_article, url, title, date, rss_summary): title
+                for url, title, date, rss_summary in articles_to_process
+            }
+            
+            # Process results as they complete
+            for future in as_completed(futures):
+                try:
+                    result = future.result()
+                    if result and result.get("sentences"):
+                        curated_articles.append(result)
+                        fetched += 1
+                        print(f"  ✓ Fetched article {fetched}/{total}: {futures[future]}")
+                except Exception as e:
+                    print(f"  ✗ Failed to process {futures[future]}: {e}")
+        
+        print(f"Feed summary for {feed_config['label']}: {fetched}/{total} succeeded")
+        return curated_articles
+    
+    except Exception as error:
+        print(f"Error fetching from {feed_config['label']}: {error}")
+        traceback.print_exc()
+        return []
+
+
 def main():
     load_local_env()
     api_key = os.environ.get("GEMINI_API_KEY")
 
     if not api_key:
         print("Warning: GEMINI_API_KEY not found in environment variables.")
-        curated_news = generate_mock_data()
-        print(f"Article fetch summary: {len(curated_news)} mock articles generated")
+        mock_data = generate_mock_data()
+        curated_output = {
+            "main_news": mock_data[:1],
+            "category_news": {
+                "mock": mock_data[1:] if len(mock_data) > 1 else []
+            }
+        }
+        print(f"Generated mock news with {len(mock_data)} articles")
     else:
         print("Initializing Gemini API client...")
         genai.configure(api_key=api_key)
         model_names = get_gemini_model_names()
         print(f"Gemini models to try: {', '.join(model_names)}")
 
-        print(f"Parsing RSS Feed: {RSS_URL}")
-        feed = feedparser.parse(RSS_URL)
-        entries = feed.entries
-        print(f"Found {len(entries)} entries in RSS.")
-
-        curated_news = []
-        attempted = 0
-        fetched = 0
-
-        for entry in entries:
-            if attempted >= MAX_ARTICLES:
-                break
-
-            attempted += 1
-            url = entry.link
-            title = entry.title
-            date = entry.get("published", entry.get("updated", "今日"))
-            rss_summary = entry.get("summary", "")
-
-            curated_item = process_article(url, title, date, rss_summary)
-            if curated_item and curated_item.get("sentences"):
-                curated_news.append(curated_item)
-                fetched += 1
-                print(f"  ✓ Fetched article {fetched}/{MAX_ARTICLES}: {title}")
-
-        print(f"Article fetch summary: {fetched}/{attempted} succeeded (RSS entries: {len(entries)})")
-
-        if not curated_news:
+        curated_output = {
+            "main_news": [],
+            "category_news": {}
+        }
+        
+        # Fetch from all RSS feeds
+        for feed_key, feed_config in RSS_FEEDS.items():
+            articles = fetch_from_feed(feed_key, feed_config)
+            
+            if feed_key == "main":
+                curated_output["main_news"] = articles
+            else:
+                # Store category news with the feed key as category name
+                category_name = feed_config.get("label", feed_key)
+                curated_output["category_news"][category_name] = articles
+        
+        # If no articles were fetched, try to keep existing data
+        total_articles = len(curated_output["main_news"]) + sum(
+            len(articles) for articles in curated_output["category_news"].values()
+        )
+        
+        if total_articles == 0:
             existing = load_existing_news()
             if existing:
                 print("No new articles curated; keeping existing news.json.")
@@ -347,9 +474,14 @@ def main():
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        json.dump(curated_news, file, ensure_ascii=False, indent=2)
+        json.dump(curated_output, file, ensure_ascii=False, indent=2)
 
-    print(f"Successfully wrote {len(curated_news)} articles to {OUTPUT_FILE}")
+    total_count = len(curated_output["main_news"]) + sum(
+        len(articles) for articles in curated_output["category_news"].values()
+    )
+    print(f"Successfully wrote {total_count} articles to {OUTPUT_FILE}")
+    print(f"  Main news: {len(curated_output['main_news'])} articles")
+    print(f"  Category news: {len(curated_output['category_news'])} categories")
 
 
 if __name__ == "__main__":

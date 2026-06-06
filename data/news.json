@@ -1,147 +1,153 @@
-[
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142861000.html",
-    "title": "東京 新島 旧日本軍の「遺棄弾」これまで6万発以上発見・処理",
-    "title_ja": "東京・新島で戦時の砲弾など6万発以上を発見、続く戦後処理",
-    "date": "Sat, 06 Jun 2026 16:16:55 +0900",
-    "summary": "More than 60,000 World War II munitions have been recovered from the sea around Niijima, Tokyo, highlighting the ongoing efforts to handle post-war disposal even after 80 years.",
-    "sentences": [
+{
+  "main_news": [
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142861000.html",
+      "title": "東京 新島 旧日本軍の「遺棄弾」これまで6万発以上発見・処理",
+      "title_ja": "東京・新島で戦時の砲弾など6万発以上を発見、続く戦後処理",
+      "date": "Sat, 06 Jun 2026 16:16:55 +0900",
+      "summary": "More than 60,000 World War II munitions have been recovered from the sea around Niijima, Tokyo, highlighting the ongoing efforts to handle post-war disposal even after 80 years.",
+      "sentences": [
+        {
+          "en": "It has been revealed that more than 60,000 artillery shells and bullets from World War II have been discovered in Niijima, Tokyo, mostly from the sea.",
+          "ja": "東京都の新島で、太平洋戦争中の旧日本軍の砲弾や銃弾が、これまでに海中などから6万発以上見つかっていることが明らかになりました。"
+        },
+        {
+          "en": "This year alone, approximately 1,500 pieces of ammunition were found and successfully disposed of.",
+          "ja": "今年だけでも、およそ1500発の弾薬が見つかり、無事に処理されました。"
+        },
+        {
+          "en": "These weapons were left behind by the former Japanese military more than eight decades ago.",
+          "ja": "これらの兵器は、80年以上前に旧日本軍によって残されたものです。"
+        },
+        {
+          "en": "An official from Niijima Village expressed that post-war disposal remains an ongoing challenge even after all this time.",
+          "ja": "新島村の担当者は、これほどの歳月が流れた今でも、戦後処理は未だに続いている課題であると述べました。"
+        },
+        {
+          "en": "Continuous efforts are being made to clear these dangerous relics to ensure the safety of local residents and fishermen.",
+          "ja": "地域住民や漁業関係者の安全を確保するため、これらの危険な遺物を除去する取り組みが現在も続けられています。"
+        }
+      ]
+    }
+  ],
+  "category_news": {
+    "その他": [
       {
-        "en": "It has been revealed that more than 60,000 artillery shells and bullets from World War II have been discovered in Niijima, Tokyo, mostly from the sea.",
-        "ja": "東京都の新島で、太平洋戦争中の旧日本軍の砲弾や銃弾が、これまでに海中などから6万発以上見つかっていることが明らかになりました。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142821000.html",
+        "title": "奄美除く鹿児島県 線状降水帯発生のおそれ 7日未明～昼前",
+        "title_ja": "鹿児島県で線状降水帯発生のおそれ 気象庁が警戒呼びかけ",
+        "date": "Sat, 06 Jun 2026 16:01:52 +0900",
+        "summary": "The Japan Meteorological Agency is warning residents in Kagoshima of a high risk of natural disasters due to potential linear rainbands on the morning of the 7th.",
+        "sentences": [
+          {
+            "en": "A low-pressure system and an active weather front are expected to bring heavy rain to Kagoshima Prefecture, excluding the Amami region.",
+            "ja": "低気圧と前線の影響により、奄美地方を除く鹿児島県に大雨がもたらされる見込みです。"
+          },
+          {
+            "en": "Weather officials warn that linear rainbands, which are blocks of storm clouds that cause torrential rain, may develop from dawn to before noon on the 7th.",
+            "ja": "気象庁は、豪雨をもたらす積乱雲の連なりである「線状降水帯」が、7日の未明から昼前にかけて発生する可能性があると警告しています。"
+          },
+          {
+            "en": "This sudden weather pattern could cause the risk of natural disasters to increase rapidly in the affected areas.",
+            "ja": "この急激な天候の変化により、対象地域では災害の危険度が急激に高まるおそれがあります。"
+          },
+          {
+            "en": "The Japan Meteorological Agency is calling on residents to remain highly vigilant against landslides and flooding.",
+            "ja": "気象庁は住民に対し、土砂災害や浸水への厳重な警戒を呼びかけています。"
+          },
+          {
+            "en": "People in these regions are advised to check the latest weather updates and take steps to ensure their safety.",
+            "ja": "これらの地域の人々は、最新の気象情報を確認し、自らの安全を確保するための行動をとるよう推奨されています。"
+          }
+        ]
       },
       {
-        "en": "This year alone, approximately 1,500 pieces of ammunition were found and successfully disposed of.",
-        "ja": "今年だけでも、およそ1500発の弾薬が見つかり、無事に処理されました。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html",
+        "title": "将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる",
+        "title_ja": "加藤一二三九段のお別れの会、「名誉十段」の称号を授与",
+        "date": "Sat, 06 Jun 2026 16:13:56 +0900",
+        "summary": "A farewell ceremony was held in Tokyo for the legendary shogi player Hifumi Kato, widely known as 'Hifumin,' where he was awarded the special title of 'Honorary 10-dan' to honor his brilliant career.",
+        "sentences": [
+          {
+            "en": "A farewell ceremony was held at the Tokyo Shogi Kaikan for Hifumi Kato, a legendary shogi player affectionately known by his nickname \"Hifumin.\"",
+            "ja": "「ひふみん」の愛称で親しまれた伝説的な棋士、加藤一二三九段のお別れの会が、東京の将棋会館で開かれました。"
+          },
+          {
+            "en": "Kato is one of the most prominent figures in the shogi world, having won a total of eight major titles throughout his career, including the prestigious Meijin.",
+            "ja": "加藤九段は、最高峰のタイトルである名人を含め、通算8期のタイトルを獲得した将棋界を代表する棋士の1人です。"
+          },
+          {
+            "en": "To honor his outstanding contributions and long career, the Japan Shogi Association specially awarded him the title of \"Honorary 10-dan.\"",
+            "ja": "彼の卓越した貢献と長年の功績を称え、日本将棋連盟から特別に「名誉十段」の称号が贈られました。"
+          },
+          {
+            "en": "Many fans and fellow players gathered at the venue to express their deep gratitude and respect for his achievements.",
+            "ja": "会場には多くのファンや棋士たちが集まり、彼の功績に対する深い感謝と敬意を表しました。"
+          },
+          {
+            "en": "His cheerful personality and passionate playing style will continue to inspire generations of shogi players.",
+            "ja": "彼の明るい人柄と情熱的な対局スタイルは、これからも多くの棋士たちにインスピレーションを与え続けるでしょう。"
+          }
+        ]
       },
       {
-        "en": "These weapons were left behind by the former Japanese military more than eight decades ago.",
-        "ja": "これらの兵器は、80年以上前に旧日本軍によって残されたものです。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html",
+        "title": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
+        "title_ja": "「飛鳥・藤原の宮都」世界遺産登録へ勧告",
+        "date": "Sat, 06 Jun 2026 15:23:45 +0900",
+        "summary": "A UNESCO advisory body has recommended registering the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture as a World Cultural Heritage site, with a final decision expected next month.",
+        "sentences": [
+          {
+            "en": "An advisory body to UNESCO has recommended that a group of archaeological sites in Nara Prefecture be registered as a World Cultural Heritage site.",
+            "ja": "ユネスコの諮問機関は、奈良県にある遺跡群を世界文化遺産に登録するよう勧告しました。"
+          },
+          {
+            "en": "Known as \"Asuka-Fujiwara,\" these sites represent the ancient capitals and imperial palaces of the Asuka period.",
+            "ja": "「飛鳥・藤原の宮都」として知られるこれらの遺跡は、飛鳥時代の古代の都や宮殿の跡で構成されています。"
+          },
+          {
+            "en": "The advisory body recognized the historical value of these ruins and deemed them worthy of global recognition.",
+            "ja": "諮問機関はこれらの遺跡の歴史的価値を認め、世界的な登録にふさわしいと判断しました。"
+          },
+          {
+            "en": "Following this positive recommendation, a final decision is expected to be made at the World Heritage Committee meeting next month.",
+            "ja": "この前向きな勧告を受けて、来月開催される世界遺産委員会で最終決定が下される見通しです。"
+          },
+          {
+            "en": "Local residents and officials in Nara are highly anticipating the official registration, which will further highlight the region's rich history.",
+            "ja": "奈良の地元住民や関係者は、地域の豊かな歴史をさらに際立たせることになる、この正式な登録を強く期待しています。"
+          }
+        ]
       },
       {
-        "en": "An official from Niijima Village expressed that post-war disposal remains an ongoing challenge even after all this time.",
-        "ja": "新島村の担当者は、これほどの歳月が流れた今でも、戦後処理は未だに続いている課題であると述べました。"
-      },
-      {
-        "en": "Continuous efforts are being made to clear these dangerous relics to ensure the safety of local residents and fishermen.",
-        "ja": "地域住民や漁業関係者の安全を確保するため、これらの危険な遺物を除去する取り組みが現在も続けられています。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142821000.html",
-    "title": "奄美除く鹿児島県 線状降水帯発生のおそれ 7日未明～昼前",
-    "title_ja": "鹿児島県で線状降水帯発生のおそれ 気象庁が警戒呼びかけ",
-    "date": "Sat, 06 Jun 2026 16:01:52 +0900",
-    "summary": "The Japan Meteorological Agency is warning residents in Kagoshima of a high risk of natural disasters due to potential linear rainbands on the morning of the 7th.",
-    "sentences": [
-      {
-        "en": "A low-pressure system and an active weather front are expected to bring heavy rain to Kagoshima Prefecture, excluding the Amami region.",
-        "ja": "低気圧と前線の影響により、奄美地方を除く鹿児島県に大雨がもたらされる見込みです。"
-      },
-      {
-        "en": "Weather officials warn that linear rainbands, which are blocks of storm clouds that cause torrential rain, may develop from dawn to before noon on the 7th.",
-        "ja": "気象庁は、豪雨をもたらす積乱雲の連なりである「線状降水帯」が、7日の未明から昼前にかけて発生する可能性があると警告しています。"
-      },
-      {
-        "en": "This sudden weather pattern could cause the risk of natural disasters to increase rapidly in the affected areas.",
-        "ja": "この急激な天候の変化により、対象地域では災害の危険度が急激に高まるおそれがあります。"
-      },
-      {
-        "en": "The Japan Meteorological Agency is calling on residents to remain highly vigilant against landslides and flooding.",
-        "ja": "気象庁は住民に対し、土砂災害や浸水への厳重な警戒を呼びかけています。"
-      },
-      {
-        "en": "People in these regions are advised to check the latest weather updates and take steps to ensure their safety.",
-        "ja": "これらの地域の人々は、最新の気象情報を確認し、自らの安全を確保するための行動をとるよう推奨されています。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html",
-    "title": "将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる",
-    "title_ja": "加藤一二三九段のお別れの会、「名誉十段」の称号を授与",
-    "date": "Sat, 06 Jun 2026 16:13:56 +0900",
-    "summary": "A farewell ceremony was held in Tokyo for the legendary shogi player Hifumi Kato, widely known as 'Hifumin,' where he was awarded the special title of 'Honorary 10-dan' to honor his brilliant career.",
-    "sentences": [
-      {
-        "en": "A farewell ceremony was held at the Tokyo Shogi Kaikan for Hifumi Kato, a legendary shogi player affectionately known by his nickname \"Hifumin.\"",
-        "ja": "「ひふみん」の愛称で親しまれた伝説的な棋士、加藤一二三九段のお別れの会が、東京の将棋会館で開かれました。"
-      },
-      {
-        "en": "Kato is one of the most prominent figures in the shogi world, having won a total of eight major titles throughout his career, including the prestigious Meijin.",
-        "ja": "加藤九段は、最高峰のタイトルである名人を含め、通算8期のタイトルを獲得した将棋界を代表する棋士の1人です。"
-      },
-      {
-        "en": "To honor his outstanding contributions and long career, the Japan Shogi Association specially awarded him the title of \"Honorary 10-dan.\"",
-        "ja": "彼の卓越した貢献と長年の功績を称え、日本将棋連盟から特別に「名誉十段」の称号が贈られました。"
-      },
-      {
-        "en": "Many fans and fellow players gathered at the venue to express their deep gratitude and respect for his achievements.",
-        "ja": "会場には多くのファンや棋士たちが集まり、彼の功績に対する深い感謝と敬意を表しました。"
-      },
-      {
-        "en": "His cheerful personality and passionate playing style will continue to inspire generations of shogi players.",
-        "ja": "彼の明るい人柄と情熱的な対局スタイルは、これからも多くの棋士たちにインスピレーションを与え続けるでしょう。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html",
-    "title": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
-    "title_ja": "「飛鳥・藤原の宮都」世界遺産登録へ勧告",
-    "date": "Sat, 06 Jun 2026 15:23:45 +0900",
-    "summary": "A UNESCO advisory body has recommended registering the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture as a World Cultural Heritage site, with a final decision expected next month.",
-    "sentences": [
-      {
-        "en": "An advisory body to UNESCO has recommended that a group of archaeological sites in Nara Prefecture be registered as a World Cultural Heritage site.",
-        "ja": "ユネスコの諮問機関は、奈良県にある遺跡群を世界文化遺産に登録するよう勧告しました。"
-      },
-      {
-        "en": "Known as \"Asuka-Fujiwara,\" these sites represent the ancient capitals and imperial palaces of the Asuka period.",
-        "ja": "「飛鳥・藤原の宮都」として知られるこれらの遺跡は、飛鳥時代の古代の都や宮殿の跡で構成されています。"
-      },
-      {
-        "en": "The advisory body recognized the historical value of these ruins and deemed them worthy of global recognition.",
-        "ja": "諮問機関はこれらの遺跡の歴史的価値を認め、世界的な登録にふさわしいと判断しました。"
-      },
-      {
-        "en": "Following this positive recommendation, a final decision is expected to be made at the World Heritage Committee meeting next month.",
-        "ja": "この前向きな勧告を受けて、来月開催される世界遺産委員会で最終決定が下される見通しです。"
-      },
-      {
-        "en": "Local residents and officials in Nara are highly anticipating the official registration, which will further highlight the region's rich history.",
-        "ja": "奈良の地元住民や関係者は、地域の豊かな歴史をさらに際立たせることになる、この正式な登録を強く期待しています。"
-      }
-    ]
-  },
-  {
-    "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142891000.html",
-    "title": "ドジャース佐々木朗希 7回無失点10奪三振 大谷翔平は無安打",
-    "title_ja": "佐々木朗希が7回無失点の好投、大谷の連続安打は7でストップ",
-    "date": "Sat, 06 Jun 2026 16:00:09 +0900",
-    "summary": "Dodgers pitcher Roki Sasaki delivered a brilliant performance with seven scoreless innings and ten strikeouts against the Angels, while Shohei Ohtani's seven-game hitting streak came to an end.",
-    "sentences": [
-      {
-        "en": "In Major League Baseball, Dodgers pitcher Roki Sasaki started in a game against the Angels.",
-        "ja": "大リーグ、ドジャースの佐々木朗希投手がエンゼルス戦に先発登板しました。"
-      },
-      {
-        "en": "Sasaki delivered an outstanding performance, pitching seven scoreless innings and striking out ten batters.",
-        "ja": "佐々木投手は7回を投げて無失点、10個の三振を奪う素晴らしい力投を見せました。"
-      },
-      {
-        "en": "His powerful pitching controlled the game and kept the opposing team's hitters completely quiet.",
-        "ja": "彼の力強いピッチングは試合を支配し、相手チームの打線を完全に抑え込みました。"
-      },
-      {
-        "en": "Meanwhile, superstar Shohei Ohtani went without a hit in this matchup.",
-        "ja": "一方、スーパースターの大谷翔平選手はこの試合でヒットが出ませんでした。"
-      },
-      {
-        "en": "As a result, Ohtani's impressive seven-game hitting streak came to an end.",
-        "ja": "その結果、大谷選手の7試合連続安打記録はストップしました。"
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142891000.html",
+        "title": "ドジャース佐々木朗希 7回無失点10奪三振 大谷翔平は無安打",
+        "title_ja": "佐々木朗希が7回無失点の好投、大谷の連続安打は7でストップ",
+        "date": "Sat, 06 Jun 2026 16:00:09 +0900",
+        "summary": "Dodgers pitcher Roki Sasaki delivered a brilliant performance with seven scoreless innings and ten strikeouts against the Angels, while Shohei Ohtani's seven-game hitting streak came to an end.",
+        "sentences": [
+          {
+            "en": "In Major League Baseball, Dodgers pitcher Roki Sasaki started in a game against the Angels.",
+            "ja": "大リーグ、ドジャースの佐々木朗希投手がエンゼルス戦に先発登板しました。"
+          },
+          {
+            "en": "Sasaki delivered an outstanding performance, pitching seven scoreless innings and striking out ten batters.",
+            "ja": "佐々木投手は7回を投げて無失点、10個の三振を奪う素晴らしい力投を見せました。"
+          },
+          {
+            "en": "His powerful pitching controlled the game and kept the opposing team's hitters completely quiet.",
+            "ja": "彼の力強いピッチングは試合を支配し、相手チームの打線を完全に抑え込みました。"
+          },
+          {
+            "en": "Meanwhile, superstar Shohei Ohtani went without a hit in this matchup.",
+            "ja": "一方、スーパースターの大谷翔平選手はこの試合でヒットが出ませんでした。"
+          },
+          {
+            "en": "As a result, Ohtani's impressive seven-game hitting streak came to an end.",
+            "ja": "その結果、大谷選手の7試合連続安打記録はストップしました。"
+          }
+        ]
       }
     ]
   }
-]
+}
