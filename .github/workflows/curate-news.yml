@@ -31,7 +31,13 @@ jobs:
       - name: Run curation script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: |
+          if [ -z "$GEMINI_API_KEY" ]; then
+            echo "::error::GEMINI_API_KEY is not set. Add it in Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          echo "GEMINI_MODEL=${GEMINI_MODEL}"
           python scripts/fetch_news.py
 
       - name: Commit and push changes

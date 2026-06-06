@@ -1,0 +1,9 @@
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+scripts/_test_*
+scripts/_page.html
+scripts/_newsarticle.json
+scripts/_next_data.json
