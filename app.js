@@ -9,7 +9,7 @@ class SpeechController {
   }
 
   get rate() {
-    return this.app.playbackRate;
+    return parseFloat(this.app.elements.rangeRate.value);
   }
 
   get voice() {
@@ -131,9 +131,6 @@ class EnglishRadioApp {
       selectVoice: document.getElementById('select-voice'),
       rangeRate: document.getElementById('range-rate'),
       rateValue: document.getElementById('rate-value'),
-      btnSpeedDown: document.getElementById('btn-speed-down'),
-      btnSpeedUp: document.getElementById('btn-speed-up'),
-      speedDisplay: document.getElementById('speed-display'),
       summaryBox: document.getElementById('summary-box'),
       summaryText: document.getElementById('english-summary-text'),
       transcriptContainer: document.getElementById('transcript-container'),
@@ -141,8 +138,6 @@ class EnglishRadioApp {
       currentEn: document.getElementById('current-en'),
       currentJa: document.getElementById('current-ja'),
     };
-
-    this.playbackRate = 1.0;
 
     this.init();
   }
@@ -162,20 +157,13 @@ class EnglishRadioApp {
     this.elements.btnBackToList.addEventListener('click', () => this.navigateToList());
     window.addEventListener('hashchange', () => this.handleRoute());
 
-    // Speed control buttons
-    this.elements.btnSpeedDown.addEventListener('click', () => this.changePlaybackRate(-0.1));
-    this.elements.btnSpeedUp.addEventListener('click', () => this.changePlaybackRate(0.1));
-
-    // Legacy range rate handler (kept for compatibility)
-    if (this.elements.rangeRate) {
-      this.elements.rangeRate.addEventListener('input', (e) => {
-        const rate = parseFloat(e.target.value);
-        this.elements.rateValue.textContent = `${rate.toFixed(1)}x`;
-        if (this.speech.isPlaying) {
-          this.speech.restartFromCurrentSentence();
-        }
-      });
-    }
+    this.elements.rangeRate.addEventListener('input', (e) => {
+      const rate = parseFloat(e.target.value);
+      this.elements.rateValue.textContent = `${rate.toFixed(1)}x`;
+      if (this.speech.isPlaying) {
+        this.speech.restartFromCurrentSentence();
+      }
+    });
 
     this.elements.selectVoice.addEventListener('change', (e) => {
       this.selectedVoice = this.voices.find((v) => v.name === e.target.value) || null;
@@ -199,9 +187,7 @@ class EnglishRadioApp {
           .map((v) => `<option value="${v.name}">${v.name} (${v.lang})</option>`)
           .join('');
         this.elements.selectVoice.disabled = false;
-        if (this.elements.rangeRate) this.elements.rangeRate.disabled = false;
-        if (this.elements.btnSpeedDown) this.elements.btnSpeedDown.disabled = this.playbackRate <= 0.5;
-        if (this.elements.btnSpeedUp) this.elements.btnSpeedUp.disabled = this.playbackRate >= 2.0;
+        this.elements.rangeRate.disabled = false;
         this.selectedVoice = this.voices[0];
       } else {
         this.elements.selectVoice.innerHTML = '<option value="">No English Voice Available</option>';
@@ -445,13 +431,6 @@ class EnglishRadioApp {
       this.elements.btnStop.disabled = false;
       this.elements.btnPrev.disabled = false;
       this.elements.btnNext.disabled = false;
-      
-      // Enable speed controls
-      if (this.elements.btnSpeedDown) this.elements.btnSpeedDown.disabled = this.playbackRate <= 0.5;
-      if (this.elements.btnSpeedUp) this.elements.btnSpeedUp.disabled = this.playbackRate >= 2.0;
-      
-      // Update speed display
-      if (this.elements.speedDisplay) this.elements.speedDisplay.textContent = `${this.playbackRate.toFixed(1)}x`;
 
       this.highlightSentence(0);
     } else {
@@ -554,30 +533,6 @@ class EnglishRadioApp {
       }
     } else {
       this.highlightSentence(index);
-    }
-  }
-
-  changePlaybackRate(delta) {
-    const newRate = Math.max(0.5, Math.min(2.0, this.playbackRate + delta));
-    this.playbackRate = parseFloat(newRate.toFixed(1));
-    
-    if (this.elements.speedDisplay) {
-      this.elements.speedDisplay.textContent = `${this.playbackRate.toFixed(1)}x`;
-    }
-    if (this.elements.rateValue) {
-      this.elements.rateValue.textContent = `${this.playbackRate.toFixed(1)}x`;
-    }
-    
-    // Update button disabled states
-    if (this.elements.btnSpeedDown) {
-      this.elements.btnSpeedDown.disabled = this.playbackRate <= 0.5;
-    }
-    if (this.elements.btnSpeedUp) {
-      this.elements.btnSpeedUp.disabled = this.playbackRate >= 2.0;
-    }
-    
-    if (this.speech.isPlaying) {
-      this.speech.restartFromCurrentSentence();
     }
   }
 }
