@@ -1,184 +1,192 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143161000.html",
-      "title": "米・イスラエル イランへの軍事作戦100日 終結見通せず",
-      "title_ja": "イラン軍事作戦から100日、緊迫する中東情勢とパキスタンの調停",
-      "date": "Sun, 07 Jun 2026 07:32:09 +0900",
-      "summary": "As military operations against Iran mark 100 days, intermittent attacks continue with no peace agreement in sight, prompting diplomatic efforts from mediating Pakistan.",
+      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143591000.html",
+      "title": "ペルー大統領選挙 決選投票始まる 支持きっ抗で接戦か",
+      "title_ja": "ペルー大統領選の決選投票が開始",
+      "date": "Sun, 07 Jun 2026 22:23:09 +0900",
+      "summary": "The runoff vote for the Peruvian presidential election has begun, featuring a tight race between right-wing candidate Keiko Fujimori and left-wing candidate Roberto Sánchez.",
       "sentences": [
         {
-          "en": "January 7th marks 100 days since the United States and Israel began military operations against Iran.",
-          "ja": "アメリカとイスラエルがイランへの軍事作戦を開始してから、7日で100日を迎えます。"
+          "en": "The runoff vote for the presidential election in Peru has officially begun.",
+          "ja": "南米ペルーの大統領選挙の決選投票が正式に始まりました。"
         },
         {
-          "en": "During this period, intermittent retaliatory attacks have continued between both sides.",
-          "ja": "この間、双方の間で断続的な報復攻撃の応酬が続いています。"
+          "en": "Voting started at 9:00 p.m. on the 7th, Japan time.",
+          "ja": "投票は日本時間の7日午後9時から開始されました。"
         },
         {
-          "en": "Despite various efforts, there is still no clear prospect for progress in talks to end the conflict.",
-          "ja": "様々な努力にもかかわらず、戦闘終結に向けた協議の進展は見通せない状況が続いています。"
+          "en": "This decisive round is expected to be a very tight race.",
+          "ja": "この決戦投票は、大接戦になるとみられています。"
         },
         {
-          "en": "Amid these rising tensions, Pakistan has been playing a role as a mediating country.",
-          "ja": "こうした緊張が高まるなか、仲介国であるパキスタンが調整役を務めてきました。"
+          "en": "The right-wing candidate is Keiko Fujimori, the eldest daughter of the former president.",
+          "ja": "右派の候補者は、フジモリ元大統領の長女であるケイコ・フジモリ氏です。"
         },
         {
-          "en": "Recently, Pakistan's Interior Minister made statements addressing the crisis and seeking a diplomatic breakthrough.",
-          "ja": "そうしたなか、仲介国パキスタンの内相がこの危機に言及し、外交的な打開策を模索する発言を行いました。"
+          "en": "She is facing Roberto Sánchez, a left-wing candidate and former Minister of Foreign Trade and Tourism.",
+          "ja": "彼女に対抗するのは、左派で元通商観光相のロベルト・サンチェス氏です。"
         },
         {
-          "en": "The international community remains highly concerned about further escalation in the region.",
-          "ja": "国際社会は、この地域におけるさらなる緊張の激化を強く懸念し続けています。"
+          "en": "The outcome of this election will determine the future direction of the South American nation.",
+          "ja": "この選挙の結果は、この南米の国の今後の方向性を決定することになります。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143061000.html",
-      "title": "九州南部 きょう昼前にかけ線状降水帯発生のおそれ 厳重警戒を",
-      "title_ja": "九州南部で大雨、線状降水帯と土砂災害に厳重警戒",
-      "date": "Sun, 07 Jun 2026 07:23:34 +0900",
-      "summary": "Heavy rain is battering parts of southern Kyushu, with weather officials warning of potential linear rainbands and urging residents to stay alert for landslides.",
+      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143501000.html",
+      "title": "栃木強盗殺人 現場指示役か夫婦再逮捕 「知らない」と容疑否認",
+      "title_ja": "栃木・上三川の強盗死傷事件、指示役の夫婦を再逮捕",
+      "date": "Sun, 07 Jun 2026 18:37:11 +0900",
+      "summary": "In Tochigi Prefecture, a married couple suspected of directing a fatal residential robbery has been re-arrested on suspicion of attempted robbery-homicide.",
       "sentences": [
         {
-          "en": "Due to the influence of a weather front and a low-pressure system, atmospheric conditions have become extremely unstable in southern Kyushu.",
-          "ja": "前線と低気圧の影響で、九州南部では大気の状態が非常に不安定になっています。"
+          "en": "In Kaminokawa Town, Tochigi Prefecture, a tragic robbery occurred at a residence, leaving three family members dead or injured.",
+          "ja": "栃木県上三川町の住宅に強盗が押し入り、親子3人が死傷する痛ましい事件が発生しました。"
         },
         {
-          "en": "Some areas in Miyazaki Prefecture are already experiencing heavy rainfall.",
-          "ja": "宮崎県の一部地域では、すでに大雨となっています。"
+          "en": "Police have arrested multiple suspects, including high school students believed to be the perpetrators and a married couple suspected of directing them at the scene.",
+          "ja": "警察は、実行役とみられる高校生らや、現場での指示役とみられる夫婦など、複数の容疑者を逮捕しています。"
         },
         {
-          "en": "Weather officials warn that linear rainbands, which bring torrential downpours, could develop in southern Kyushu through the morning of the 7th.",
-          "ja": "気象庁は、猛烈な雨をもたらす「線状降水帯」が、7日の昼前にかけて九州南部で発生するおそれがあると警告しています。"
+          "en": "On March 7th, the police re-arrested the couple on suspicion of attempted robbery-homicide.",
+          "ja": "7日、警察は強盗殺人未遂の疑いでこの夫婦を再逮捕しました。"
         },
         {
-          "en": "These localized, heavy rainstorms can significantly increase the risk of natural disasters in a short period of time.",
-          "ja": "こうした局地的な大雨は、短時間で自然災害の危険性を著しく高める可能性があります。"
+          "en": "The couple had already been arrested on suspicion of robbery-homicide, and this new arrest follows that of the high school students.",
+          "ja": "夫婦はすでに強盗殺人の疑いで逮捕されており、今回の再逮捕は高校生らに続くものとなります。"
         },
         {
-          "en": "The Japan Meteorological Agency is urging residents in the affected areas to be on high alert for potential landslides.",
-          "ja": "気象庁は、対象地域の住民に対し、土砂災害に厳重に警戒するよう呼びかけています。"
-        },
-        {
-          "en": "It is highly recommended to stay updated with the latest weather advisories and prepare to evacuate safely if necessary.",
-          "ja": "最新の気象情報をこまめに確認し、必要に応じて安全に避難できるよう準備しておくことが強く推奨されます。"
+          "en": "Authorities are continuing to investigate the coordination between the directors and the executors of this crime.",
+          "ja": "警察は、指示役と実行役の間の連携など、事件の詳しい経緯について捜査を進めています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143021000.html",
-      "title": "日本列島のナウマンゾウ これまでの推定より1万年早く絶滅か",
-      "title_ja": "ナウマンゾウ、推定より1万年早く絶滅していた",
-      "date": "Sun, 07 Jun 2026 05:45:34 +0900",
-      "summary": "A research team including Tokai University has announced that the Naumann's elephant went extinct 10,000 years earlier than previously thought, based on new fossil dating.",
+      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143511000.html",
+      "title": "宇都宮 中学校でクマ見つかるも逃走 8日朝から再び捜索へ",
+      "title_ja": "宇都宮市の中心部でクマの目撃相次ぐ、中学校にも出現し住民に警戒呼びかけ",
+      "date": "Sun, 07 Jun 2026 21:44:24 +0900",
+      "summary": "Since the 6th, multiple bear sightings have been reported in central Utsunomiya City, including one at a junior high school. The bear is still on the loose, prompting local authorities to urge residents to lock their doors and stay alert.",
       "sentences": [
         {
-          "en": "A research team from Tokai University and other institutions has made a major announcement regarding ancient Japanese wildlife.",
-          "ja": "東海大学などの研究チームが、古代の日本の野生生物に関する重大な発表を行いました。"
+          "en": "Since the 6th, police in Utsunomiya City have received multiple reports of bear sightings in the central area.",
+          "ja": "宇都宮市の中心部で、6日から警察などにクマの目撃情報が相次いで寄せられています。"
         },
         {
-          "en": "According to their study, the Naumann's elephant, which once lived in the Japanese archipelago, may have gone extinct much earlier than previously believed.",
-          "ja": "彼らの研究によると、かつて日本列島に生息していたナウマンゾウは、これまでの想定よりもかなり早く絶滅していた可能性があります。"
+          "en": "Then, on the evening of the 7th, a bear was spotted at a junior high school in the city.",
+          "ja": "その後、7日の夕方には、市内の中学校でクマ1頭が見つかりました。"
         },
         {
-          "en": "By performing dating tests on fossils, the researchers determined that the extinction occurred about 10,000 years earlier than the prior estimate.",
-          "ja": "研究者たちが化石の年代測定を行ったところ、従来の推定よりも約1万年早く絶滅が起きていたことが判明しました。"
+          "en": "The bear subsequently fled the school grounds, and its current location is unknown.",
+          "ja": "クマはその後、校庭から逃走し、現在の居場所は分かっていません。"
         },
         {
-          "en": "This species is famous in Japan, and its fossils have been discovered in various regions across the country.",
-          "ja": "この種は日本でよく知られており、その化石は国内の様々な地域で発見されています。"
+          "en": "Local authorities believe the animal may still be roaming in nearby residential areas.",
+          "ja": "地元当局は、クマがまだ近くの住宅街を徘徊している可能性があるとみています。"
         },
         {
-          "en": "This new timeline will help scientists better understand how environmental changes affected large mammals in prehistoric Japan.",
-          "ja": "この新たなタイムラインは、先史時代の日本における環境変化が大型哺乳類にどのように影響を与えたかを科学者がより深く理解する手がかりとなるでしょう。"
+          "en": "In response, Utsunomiya City is urging residents to keep their doors and windows securely locked.",
+          "ja": "これを受けて宇都宮市は、住民に対して戸締まりを徹底するよう呼びかけています。"
+        },
+        {
+          "en": "People are also advised to stay alert and avoid going outside unless absolutely necessary.",
+          "ja": "また、住民は警戒を怠らず、不要不急の外出は避けるよう求められています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143041000.html",
-      "title": "カンボジア詐欺拠点の幹部か タイで日本人の男を拘束 警察発表",
-      "title_ja": "カンボジア特殊詐欺事件、タイでグループ幹部とみられる日本人の男を拘束",
-      "date": "Sun, 07 Jun 2026 06:17:27 +0900",
-      "summary": "Thai police have detained a Japanese man suspected of being a leader of a fraud group linked to the arrest of 29 Japanese nationals in Cambodia last year.",
+      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143271000.html",
+      "title": "沖縄 大雨に厳重警戒を 関東甲信と東海で梅雨入り",
+      "title_ja": "関東甲信と東海が梅雨入り、沖縄では大雨でレベル4警戒",
+      "date": "Sun, 07 Jun 2026 20:46:55 +0900",
+      "summary": "The Japan Meteorological Agency has announced the start of the rainy season in the Kanto-Koshin and Tokai regions, while Okinawa faces heavy rain and a Level 4 landslide warning.",
       "sentences": [
         {
-          "en": "Thai police announced on the 6th that they have detained a Japanese man suspected of being a leader of a specialized fraud group.",
-          "ja": "タイの警察は6日、特殊詐欺グループの幹部とみられる日本人の男を拘束したと発表しました。"
+          "en": "The Japan Meteorological Agency announced on the 7th that the Kanto-Koshin and Tokai regions have likely entered the rainy season.",
+          "ja": "気象庁は7日、関東甲信と東海地方が梅雨入りしたとみられると発表しました。"
         },
         {
-          "en": "This arrest is connected to a major case last year, in which 29 Japanese nationals were arrested at a scam base in Cambodia.",
-          "ja": "今回の逮捕は、昨年カンボジアの詐欺拠点で日本人の男女29人が逮捕された重大な事件に関連しています。"
+          "en": "Due to the influence of a seasonal front and humid air, clouds have been spreading across eastern Japan.",
+          "ja": "前線や湿った空気の影響で、東日本の広い範囲で雲が広がっています。"
         },
         {
-          "en": "The detained man is believed to have played a leading role in managing the organization's fraudulent activities.",
-          "ja": "拘束された男は、組織の詐欺活動を管理する主導的な役割を果たしていたとみられています。"
+          "en": "Meanwhile, weather conditions are becoming more severe in southern parts of the country.",
+          "ja": "その一方で、日本の南部地域では気象状況がより深刻になっています。"
         },
         {
-          "en": "Thai authorities tracking the suspect located and apprehended him in the capital city.",
-          "ja": "容疑者を追跡していたタイ当局は、首都で男の身柄を確保しました。"
+          "en": "In Okinawa Prefecture, the active front has intensified, bringing extremely heavy rainfall to the area.",
+          "ja": "沖縄県では前線の活動が活発化しており、地域に非常に激しい雨をもたらしています。"
         },
         {
-          "en": "Japanese police plan to cooperate with Thai officials to extradite him and investigate the full scale of the fraud network.",
-          "ja": "日本の警察はタイ当局と連携し、男の身柄引き渡しを受けて詐欺グループの全容解明を進める方針です。"
+          "en": "As the risk of mudslides increases, authorities have issued a Level 4 landslide disaster warning.",
+          "ja": "土砂災害の危険性が高まっていることから、自治体などはレベル4の土砂災害警戒情報を発表しました。"
+        },
+        {
+          "en": "Residents in high-risk areas are urged to stay vigilant and take immediate precautions to ensure their safety.",
+          "ja": "危険な地域にいる住民は、警戒を怠らず、安全を確保するために直ちに予防措置をとるよう呼びかけられています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143181000.html",
-      "title": "長野 天龍村 85歳妻をバットで殴るなどし殺害か 88歳夫を逮捕",
-      "title_ja": "長野県天龍村で88歳の夫が85歳の妻を殺害した疑いで逮捕される",
-      "date": "Sun, 07 Jun 2026 05:35:44 +0900",
-      "summary": "An 88-year-old man in Nagano Prefecture has been arrested on suspicion of murdering his 85-year-old wife with a wooden bat and a sharp weapon.",
+      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143261000.html",
+      "title": "中国 習近平国家主席があす7年ぶりに北朝鮮訪問 両国の思惑は",
+      "title_ja": "習主席、8日から国賓として訪朝へ",
+      "date": "Sun, 07 Jun 2026 18:47:42 +0900",
+      "summary": "Chinese President Xi Jinping will make a two-day state visit to North Korea starting on the 8th to meet with leader Kim Jong Un and reaffirm their bilateral ties.",
       "sentences": [
         {
-          "en": "On the 6th, an 88-year-old man was arrested in Nagano Prefecture on suspicion of murdering his 85-year-old wife.",
-          "ja": "6日、長野県で、同居する85歳の妻を殺害した疑いで88歳の男が逮捕されました。"
+          "en": "Chinese President Xi Jinping is scheduled to visit North Korea for a two-day state visit starting on the 8th.",
+          "ja": "中国の習近平国家主席は、8日から2日間の日程で国賓として北朝鮮を訪問する予定です。"
         },
         {
-          "en": "The suspect, identified as Wazo Morita, is an unemployed resident of Tenryu Village.",
-          "ja": "逮捕されたのは、天龍村に住む無職の森田和造容疑者です。"
+          "en": "This official visit marks President Xi's first trip to the country since his last visit in 2019.",
+          "ja": "今回の公式訪問は、習主席にとって2019年の前回の訪問以来、初めての訪朝となります。"
         },
         {
-          "en": "According to the police, Morita is accused of attacking his wife with a wooden bat and slashing her with a sharp weapon, leading to her death.",
-          "ja": "警察によると、森田容疑者は妻を木製バットで殴ったり刃物で切りつけたりして殺害した疑いが持たれています。"
+          "en": "During his stay, President Xi is expected to hold a summit meeting with North Korean leader Kim Jong Un.",
+          "ja": "滞在中、習主席は北朝鮮のキム・ジョンウン総書記との首脳会談を行う見通しです。"
         },
         {
-          "en": "The couple lived together, and the tragic incident took place at their home.",
-          "ja": "二人は同居しており、この悲劇的な事件は彼らの自宅で起きました。"
+          "en": "The meeting is seen as an opportunity for the two neighbors to once again reaffirm their strong solidarity.",
+          "ja": "この会談は、隣国同士である両国が強固な結束を改めて確認する機会になると見られています。"
         },
         {
-          "en": "Local authorities are currently investigating the details of the case and trying to determine the motive behind the crime.",
-          "ja": "地元の警察は現在、事件の詳しい経緯を調べるとともに、犯行の動機を特定するための捜査を進めています。"
+          "en": "Observers are paying close attention to how this diplomatic event will influence regional dynamics in East Asia.",
+          "ja": "専門家らは、この外交イベントが東アジアの地域情勢にどのような影響を与えるか、注視しています。"
+        },
+        {
+          "en": "We will keep you updated as more details about this important meeting emerge.",
+          "ja": "この重要な会談に関する詳細が入り次第、随時お伝えします。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142931000.html",
-      "title": "タンクローリー転落 81歳男性が海に飛び込み運転手救出 和歌山",
-      "title_ja": "和歌山市の漁港でタンクローリー転落、81歳男性が運転手を救出",
-      "date": "Sat, 06 Jun 2026 18:03:30 +0900",
-      "summary": "An 81-year-old man heroically rescued a driver after a tank truck plunged into the sea at a fishing port in Wakayama City.",
+      "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143411000.html",
+      "title": "陸自大規模演習「高速滑空弾」発射機 配備開始以来初めて公開",
+      "title_ja": "陸上自衛隊が離島防衛の演習を実施、「25式高速滑空弾」の発射機を初公開",
+      "date": "Sun, 07 Jun 2026 17:47:06 +0900",
+      "summary": "The Ground Self-Defense Force held a large-scale live-fire drill in Shizuoka Prefecture simulating remote island defense, where they unveiled the launcher for the Type 25 High-Speed Gliding Projectile for the first time.",
       "sentences": [
         {
-          "en": "On the morning of the 6th, a dramatic rescue took place at a fishing port in Wakayama City.",
-          "ja": "6日の午前、和歌山市の漁港で劇的な救出劇がありました。"
+          "en": "The Ground Self-Defense Force recently conducted a large-scale live-fire exercise at a training area in Shizuoka Prefecture.",
+          "ja": "陸上自衛隊は先日、静岡県の演習場で大規模な実弾射撃演習を行いました。"
         },
         {
-          "en": "Around 10:30 a.m., a tank truck plunged into the sea at Saikazaki Port.",
-          "ja": "午前10時半ごろ、雑賀崎の漁港でタンクローリーが海に転落しました。"
+          "en": "The drill was designed to simulate the defense of remote islands.",
+          "ja": "この演習は、離島の防衛を想定して計画されたものです。"
         },
         {
-          "en": "An 81-year-old man who was fishing nearby witnessed the accident.",
-          "ja": "近くで釣りをしていた81歳の男性が、その事故を目撃しました。"
+          "en": "During the exercise, the launcher for the Type 25 High-Speed Gliding Projectile was shown to the public for the first time since its deployment began.",
+          "ja": "演習の中では、「25式高速滑空弾」の発射機が、配備開始以来初めて公開されました。"
         },
         {
-          "en": "Without hesitation, he jumped into the water to rescue the driver.",
-          "ja": "男性はためらうことなく海に飛び込み、運転していた男性を救出しました。"
+          "en": "This long-range missile is expected to play a key role in Japan's \"counterstrike capability.\"",
+          "ja": "この長射程ミサイルは、日本の「反撃能力」において重要な役割を果たすと期待されています。"
         },
         {
-          "en": "The brave action of this elderly fisherman saved the driver's life and touched many hearts.",
-          "ja": "この高齢の釣り人の勇敢な行動が運転手の命を救い、多くの人々の心を動かしました。"
+          "en": "The defense exercise underscores Japan's efforts to strengthen its deterrence in response to regional security challenges.",
+          "ja": "今回の防衛演習は、地域の安全保障上の課題に対応し、抑止力を強化しようとする日本の取り組みを強調するものとなりました。"
         }
       ]
     }
@@ -188,186 +196,190 @@
     "文化・エンタメ": [],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142291000.html",
-        "title": "奈良の「飛鳥・藤原の宮都」世界文化遺産に登録される見通しに",
-        "title_ja": "「飛鳥・藤原の宮都」世界遺産登録へ勧告",
-        "date": "Sat, 06 Jun 2026 15:23:45 +0900",
-        "summary": "An advisory body to UNESCO has recommended registering the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture as a World Cultural Heritage site, with a final decision expected next month.",
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142531000.html",
+        "title": "将棋 編入試験の資格3回でプロ棋士案 反対多数で否決",
+        "title_ja": "プロ編入の新制度提案、将棋連盟の総会で否決",
+        "date": "Sat, 06 Jun 2026 08:19:39 +0900",
+        "summary": "The Japan Shogi Association proposed a new system to grant professional status to female players and amateurs who qualify for the admission exam three times, but it was rejected by a majority vote.",
         "sentences": [
           {
-            "en": "An advisory body to UNESCO has recommended the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture for registration as a World Cultural Heritage site.",
-            "ja": "ユネスコの諮問機関は、奈良県にある「飛鳥・藤原の宮都」の遺跡群を世界文化遺産に登録するよう勧告しました。"
+            "en": "The Japan Shogi Association recently proposed a new rule regarding professional admission.",
+            "ja": "日本将棋連盟は先日、プロへの編入に関する新たな規則を提案しました。"
           },
           {
-            "en": "These historical ruins from the Asuka period showcase the political and cultural foundations of Japan's ancient capital.",
-            "ja": "飛鳥時代のこれらの歴史的遺跡は、日本の古代の首都における政治的・文化的な基盤を示しています。"
+            "en": "Under the proposal, female players and amateurs would automatically earn professional status if they qualified for the admission exam three times.",
+            "ja": "提案された制度では、女流棋士やアマチュアがプロ編入試験の受験資格を通算3回獲得した場合、自動的にプロの資格が与えられることになっていました。"
           },
           {
-            "en": "The advisory body recognized the outstanding value of the sites in representing the formation of a centralized state.",
-            "ja": "諮問機関は、中央集権国家の形成を表すものとして、これらの遺跡の傑出した価値を認めました。"
+            "en": "Currently, candidates must still take and pass a rigorous exam even after qualifying to attempt it.",
+            "ja": "現在、受験資格を得た後であっても、候補者は厳しい編入試験を受けて合格しなければなりません。"
           },
           {
-            "en": "Following this positive recommendation, a formal decision on the registration is expected to be made at the World Heritage Committee meeting next month.",
-            "ja": "この前向きな勧告を受けて、来月の世界遺産委員会で登録に関する正式な決定が下される見通しです。"
+            "en": "The new rule aimed to ease this path for those who consistently demonstrate top-level skills.",
+            "ja": "新たな規則は、継続してトップレベルの実力を示している人々に対して、その道のりを緩和することを目的としていました。"
           },
           {
-            "en": "Local communities in Nara are expressing great excitement and hope that this recognition will help preserve these precious historic treasures for future generations.",
-            "ja": "奈良の地元地域では大きな喜びの声が上がっており、この登録がこれらの貴重な歴史的宝物を未来の世代へと保存していく助けになることを期待しています。"
+            "en": "However, during the association's general meeting on the 5th, the proposal was rejected by a majority of votes.",
+            "ja": "しかし、5日に開かれた同連盟の通常総会において、この提案は反対多数で否決されました。"
+          },
+          {
+            "en": "This decision shows that maintaining traditional, strict standards for becoming a professional shogi player remains highly valued.",
+            "ja": "この決定は、プロの将棋棋士になるための伝統的で厳しい基準を維持することが、依然として強く重視されていることを示しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143021000.html",
-        "title": "日本列島のナウマンゾウ これまでの推定より1万年早く絶滅か",
-        "title_ja": "ナウマンゾウ、推定より1万年早く絶滅か",
-        "date": "Sun, 07 Jun 2026 05:45:34 +0900",
-        "summary": "A research team including Tokai University has announced that Naumann's elephants in Japan likely went extinct 10,000 years earlier than previously believed, based on new fossil dating.",
+        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142831000.html",
+        "title": "福島県内の7割の地域 放射線量が全国と同レベルに",
+        "title_ja": "福島県内の放射線量測定、15年の結果まとまる",
+        "date": "Sat, 06 Jun 2026 18:19:19 +0900",
+        "summary": "The Nuclear Regulation Authority has compiled 15 years of radiation data in Fukushima, showing that levels in 70 percent of the prefecture have decreased significantly.",
         "sentences": [
           {
-            "en": "Naumann's elephants once roamed the Japanese archipelago, but a new study suggests they may have disappeared much earlier than previously thought.",
-            "ja": "かつて日本列島に生息していたナウマンゾウですが、新たな研究により、これまでの推定よりもかなり早く絶滅していた可能性が示されました。"
+            "en": "The Nuclear Regulation Authority has compiled the results of radiation measurements in Fukushima Prefecture, which have been conducted for nearly 15 years.",
+            "ja": "原子力規制委員会は、福島県内でおよそ15年間にわたり続けてきた放射線量の測定結果をまとめました。"
           },
           {
-            "en": "A research team from Tokai University and other institutions announced this discovery based on the dating of fossil remains.",
-            "ja": "東海大学などの研究チームは、化石の年代測定に基づき、この発見を発表しました。"
+            "en": "This monitoring began shortly after the disaster at Tokyo Electric Power Company's Fukushima Daiichi Nuclear Power Plant.",
+            "ja": "この測定は、東京電力福島第一原子力発電所の事故の直後から開始されたものです。"
           },
           {
-            "en": "According to their findings, these prehistoric elephants likely went extinct about 10,000 years earlier than prior estimates.",
-            "ja": "彼らの研究結果によると、これらの古代のゾウは、これまでの推定よりも約1万年早く絶滅していた可能性が高いとのことです。"
+            "en": "According to the report, as of December last year, radiation levels in 70 percent of the prefecture's area have decreased significantly.",
+            "ja": "報告書によると、昨年12月の時点で、県内面積の7割にあたる地域で放射線量が大幅に低下しました。"
           },
           {
-            "en": "The team used advanced dating techniques to determine the age of the fossils with much higher accuracy.",
-            "ja": "研究チームは最新の測定技術を使い、より高い精度で化石の年代を特定しました。"
+            "en": "In these areas, hourly radiation levels have fallen to levels comparable to other major cities in Japan.",
+            "ja": "これらの地域では、1時間当たりの放射線量が日本国内の他の主要都市と同等の水準にまで下がっています。"
           },
           {
-            "en": "This new timeline could change how we understand the relationship between prehistoric humans, climate change, and wildlife extinction in ancient Japan.",
-            "ja": "この新たな時間軸は、古代の日本における先史時代の人類、気候変動、そして野生動物の絶滅との関係についての理解を変える可能性があります。"
+            "en": "The authority attributes this steady decline to natural decay and decontamination efforts carried out over the years.",
+            "ja": "規制委員会は、この着実な低下について、長年にわたる自然減衰や除染活動によるものだとしています。"
+          },
+          {
+            "en": "They plan to continue monitoring the radiation levels to ensure the safety and peace of mind of local residents.",
+            "ja": "委員会は、地域住民の安全と安心を確保するため、今後も放射線量の監視を続ける方針です。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142741000.html",
-        "title": "パスポート申請手数料減額へ 7月以降は申請大幅増の予想",
-        "title_ja": "7月からパスポート申請手数料が引き下げへ、外務省が早期申請を呼びかけ",
-        "date": "Sat, 06 Jun 2026 09:55:23 +0900",
-        "summary": "Japan will reduce passport application fees starting in July, prompting the Ministry of Foreign Affairs to urge summer travelers to apply well in advance to avoid expected delays.",
+        "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143371000.html",
+        "title": "補正予算“有効活用し経済財政運営に万全期す” 高市首相",
+        "title_ja": "中東情勢を受けた補正予算成立と高市総理の対応",
+        "date": "Sun, 07 Jun 2026 14:34:49 +0900",
+        "summary": "Following the passage of the supplementary budget addressing the Middle East situation, Prime Minister Takaichi thanked certain opposition parties on X for their cooperation and vowed to ensure stable economic management.",
         "sentences": [
           {
-            "en": "Passport application fees in Japan are set to be reduced starting this July.",
-            "ja": "日本のパスポートの申請手数料が、今年7月から減額されることになりました。"
+            "en": "Following the passage of this fiscal year's supplementary budget in response to the situation in the Middle East, Prime Minister Takaichi posted a message on X, formerly known as Twitter.",
+            "ja": "中東情勢を受けた今年度の補正予算の成立を受けて、高市総理大臣は旧ツイッターの「X」にメッセージを投稿しました。"
           },
           {
-            "en": "This change comes after the Diet recently passed the amended Passport Act.",
-            "ja": "この変更は、先に国会で改正旅券法が成立したことを受けたものです。"
+            "en": "In her post, she noted that cooperation from some opposition parties led to the swift approval of the budget.",
+            "ja": "投稿の中で首相は、一部の野党から協力を得られたことが、予算の迅速な成立につながったと述べました。"
           },
           {
-            "en": "The Ministry of Foreign Affairs expects a major surge in passport applications due to the lower fees.",
-            "ja": "手数料の引き下げに伴い、外務省は申請数が大幅に増加すると予想しています。"
+            "en": "She expressed her gratitude for their support during this challenging international situation.",
+            "ja": "彼女は、この困難な国際情勢の中での彼らの支援に対し、感謝の意を示しました。"
           },
           {
-            "en": "Therefore, the ministry is urging those planning to travel abroad this summer to apply well in advance.",
-            "ja": "そのため、同省はこの夏に海外旅行を予定している人々に対し、余裕を持って申請するよう呼びかけています。"
+            "en": "Furthermore, Prime Minister Takaichi emphasized her commitment to taking all possible measures for economic and fiscal management.",
+            "ja": "さらに、高市総理大臣は、経済財政運営に万全を期すという強い決意を強調しました。"
           },
           {
-            "en": "Applying early will help ensure that your passport is ready in time for your trip.",
-            "ja": "早めに申請しておくことで、旅行に間に合うようにパスポートを確実に受け取ることができます。"
+            "en": "The government aims to minimize the impact of global instability on the domestic economy.",
+            "ja": "政府は、世界的な不安定さが国内経済に与える影響を最小限に抑えることを目指しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142541000.html",
-        "title": "安定的な皇位継承 とりまとめ案 8日に各党・各会派に提示へ",
-        "title_ja": "皇位継承をめぐる衆参両院による合意案",
-        "date": "Sat, 06 Jun 2026 04:52:36 +0900",
-        "summary": "Leaders of Japan's parliament have agreed on a proposal accepting two key options to ensure stable imperial succession: allowing female members to remain in the imperial family after marriage, and adopting male descendants from former imperial branches.",
+        "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143301000.html",
+        "title": "食料品の消費税減税めぐり各党政策責任者が議論 NHK日曜討論",
+        "title_ja": "食料品の消費税減税をめぐる各党の討論",
+        "date": "Sun, 07 Jun 2026 12:09:20 +0900",
+        "summary": "Policy chiefs from various Japanese political parties debated the potential reduction of the consumption tax on food, discussing system design and business support.",
         "sentences": [
           {
-            "en": "Discussions are underway in Japan regarding how to ensure a stable succession to the imperial throne.",
-            "ja": "安定的な皇位継承をどのように確保するかについて、日本国内で議論が進められています。"
+            "en": "Policy chiefs from various political parties recently appeared on NHK's debate program to discuss reducing the consumption tax on food.",
+            "ja": "先日、各政党の政策責任者らがNHKの討論番組に出演し、食料品の消費税減税について議論を交わしました。"
           },
           {
-            "en": "Recently, the speakers and vice-speakers of both houses of parliament reached an agreement on a draft proposal.",
-            "ja": "最近、衆参両院の議長と副議長が、とりまとめ案に合意しました。"
+            "en": "During the discussion, they exchanged views on how to design a system for reducing taxes and how to support affected business operators.",
+            "ja": "討論の中では、減税を行う場合の制度設計や、影響を受ける事業者への対応などについて意見が交わされました。"
           },
           {
-            "en": "One option in the proposal is to allow female members of the imperial family to retain their royal status even after marriage.",
-            "ja": "その案の一つは、女性皇族が結婚後も皇族の身分を維持できるようにすることです。"
+            "en": "Kobayashi, the Policy Research Council Chairman of the Liberal Democratic Party, was among those who expressed their views on the matter.",
+            "ja": "自民党の小林政務調査会長も出席し、この問題に関する見解を示しました。"
           },
           {
-            "en": "Another option is to adopt male descendants in the male line from former imperial branches back into the family.",
-            "ja": "もう一つの案は、旧皇族の男系男子を養子に迎えて皇室に復帰させることです。"
+            "en": "Some participants emphasized the need for tax relief to help households struggling with rising prices.",
+            "ja": "参加者の一部は、物価高に苦しむ家計を助けるための減税措置の必要性を強調しました。"
           },
           {
-            "en": "The parliamentary leaders agreed to accept both of these plans as viable options.",
-            "ja": "議会指導者らは、これら両方の案を「いずれも了とする」ことで合意しました。"
+            "en": "Others raised concerns about the potential confusion and administrative burden that a complex tax system could place on small businesses.",
+            "ja": "一方で、複雑な税制度が中小企業にもたらす混乱や事務負担を懸念する声も上がりました。"
           },
           {
-            "en": "This compiled proposal is expected to be presented to various political parties and factions early next week.",
-            "ja": "このとりまとめ案は、週明けに各党や各会派に示される予定です。"
+            "en": "The debate highlighted the challenges of balancing immediate relief for consumers with practical implementation for businesses.",
+            "ja": "今回の討論は、消費者への即座の支援と、事業者にとっての現実的な制度運用のバランスを取ることの難しさを浮き彫りにしました。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142981000.html",
         "title": "日本医師会 会長選挙 松本吉郎氏の3選が決まる",
-        "title_ja": "日本医師会の松本会長が無投票で3選",
+        "title_ja": "日本医師会 松本会長の3選が決定",
         "date": "Sat, 06 Jun 2026 19:07:57 +0900",
-        "summary": "Yoshiro Matsumoto has secured his third term as the president of the Japan Medical Association after running unopposed in the election.",
+        "summary": "Yoshiro Matsumoto has secured his third term as the president of the Japan Medical Association after running unopposed in the latest election.",
         "sentences": [
           {
-            "en": "Yoshiro Matsumoto, the current president of the Japan Medical Association, has secured his third term.",
-            "ja": "現職の松本吉郎会長が、日本医師会の会長選挙で3回連続の当選を果たしました。"
+            "en": "On June 6th, the registration for the Japan Medical Association's presidential election closed.",
+            "ja": "6日、日本医師会の会長選挙の立候補届出が締め切られました。"
           },
           {
-            "en": "The election registration concluded on the 6th, and Matsumoto was the only candidate to run.",
-            "ja": "6日に立候補の届け出が締め切られ、松本氏以外の立候補者は現れませんでした。"
+            "en": "The current president, Yoshiro Matsumoto, was the only candidate who registered.",
+            "ja": "現職の松本吉郎会長以外に立候補の届け出はありませんでした。"
           },
           {
-            "en": "Born in Yamaguchi Prefecture, the 71-year-old doctor has a long and distinguished career in medicine.",
-            "ja": "山口県出身で71歳の松本氏は、医療分野において長年活躍してきました。"
+            "en": "As there were no other candidates, Dr. Matsumoto has officially secured his third term.",
+            "ja": "ほかに立候補者がいなかったため、松本氏の3選が正式に決まりました。"
           },
           {
-            "en": "He currently runs a clinic in Saitama City that specializes in dermatology and plastic surgery.",
-            "ja": "現在はさいたま市で、皮膚科や形成外科を専門とする診療所を運営しています。"
+            "en": "He is 71 years old, originally from Yamaguchi Prefecture, and runs a clinic in Saitama City.",
+            "ja": "山口県出身で71歳の松本氏は、さいたま市で診療所を運営しています。"
           },
           {
-            "en": "With his re-election confirmed, Matsumoto is expected to continue leading the country's medical community through ongoing challenges.",
-            "ja": "再選が決定したことで、松本氏はさまざまな課題に直面する国内の医療界を今後も引き続きリードしていくことが期待されています。"
+            "en": "His medical practice focuses on dermatology and plastic surgery.",
+            "ja": "彼の診療所は、皮膚科や形成外科を専門としています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142581000.html",
-        "title": "補正予算成立 与党 定数削減目指す 野党の協力得られるか焦点",
-        "title_ja": "中東情勢に対応する補正予算が成立、国会は後半戦へ",
-        "date": "Sat, 06 Jun 2026 07:21:30 +0900",
-        "summary": "A supplementary budget addressing the situation in the Middle East has been enacted, but the minority ruling coalition now faces the challenge of gaining opposition support with only a month left in the Diet session.",
+        "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143361000.html",
+        "title": "中道 立民 公明 3党の合流めぐり協議進むか焦点",
+        "title_ja": "3党合流をめぐる動きと慎重論",
+        "date": "Sun, 07 Jun 2026 14:42:44 +0900",
+        "summary": "Komeito aims to pave the way for a three-party merger during the current Diet session, but the Constitutional Democratic Party remains cautious about whether it will increase voter support.",
         "sentences": [
           {
-            "en": "On the 5th, Japan's Diet passed a supplementary budget for the current fiscal year, which addresses the ongoing situation in the Middle East.",
-            "ja": "5日、中東情勢に対応するための今年度の補正予算が国会で成立しました。"
+            "en": "Discussions are underway regarding a potential merger between three political parties: the Moderate Reform Coalition, the Constitutional Democratic Party, and Komeito.",
+            "ja": "中道改革連合、立憲民主党、公明党の3党による合流に向けた協議が進められています。"
           },
           {
-            "en": "With just over a month remaining in the current Diet session, attention is turning to key political goals.",
-            "ja": "国会の会期が残り1か月余りとなる中、重要となる政治目標に注目が集まっています。"
+            "en": "Komeito is eager to pave the way for this merger during the current Diet session.",
+            "ja": "公明党は、現在の国会会期中にこの合流への道筋をつけたいと考えています。"
           },
           {
-            "en": "The ruling coalition aims to fulfill its agreement, which includes reducing the number of seats in the House of Representatives.",
-            "ja": "与党側は、衆議院議員の定数削減など、連立合意の実現を目指す方針です。"
+            "en": "However, strong caution remains within the Constitutional Democratic Party.",
+            "ja": "しかし、立憲民主党内には慎重論が根強く残っています。"
           },
           {
-            "en": "However, the ruling parties currently hold a minority in the House of Councillors.",
-            "ja": "しかし、与党は現在、参議院では少数派となっています。"
+            "en": "Some members of the party are concerned that it is unclear whether the merger will actually lead to an expansion of voter support.",
+            "ja": "党内の一部には、この合流が実際に支持の拡大につながるかどうか不透明であると懸念する声があります。"
           },
           {
-            "en": "Therefore, a major challenge is how they will gain the cooperation of opposition parties to pass future bills.",
-            "ja": "そのため、今後の法案を通過させるために、野党側の協力をどのように得ていくかが大きな課題となっています。"
-          },
-          {
-            "en": "Discussions are expected to intensify as both sides negotiate during the final weeks of the session.",
-            "ja": "会期末に向けた最後の数週間、与野党の交渉に伴い、議論はさらに活発化するとみられます。"
+            "en": "Attention is now focused on whether these three parties can reach an agreement as discussions continue.",
+            "ja": "協議が継続するなか、これら3つの政党が合意に達することができるかどうかに注目が集まっています。"
           }
         ]
       }
@@ -376,31 +388,31 @@
     "国際": [],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142391000.html",
-        "title": "世界を見据えた“好奇心” バレーボール女子日本代表 宮部藍梨",
-        "title_ja": "宮部藍梨選手、27歳での新たなポジションへの挑戦",
-        "date": "Sat, 06 Jun 2026 21:22:22 +0900",
-        "summary": "Japanese volleyball player Airi Miyabe is taking on an unusual challenge by switching to a new position at the age of 27, driven by her desire for a final career milestone.",
+        "url": "http://www3.nhk.or.jp/news/html/20260607/k10015143571000.html",
+        "title": "競泳日本選手権 35歳の鈴木聡美 50m平泳ぎで9連覇 今大会3冠",
+        "title_ja": "競泳日本選手権、35歳の鈴木聡美が50m平泳ぎで9連覇と3冠を達成",
+        "date": "Sun, 07 Jun 2026 22:27:26 +0900",
+        "summary": "At the Japan Swimming Championships, 35-year-old Satomi Suzuki won the women's 50-meter breaststroke, securing her ninth consecutive title and a triple crown. The event also serves as a qualifier for upcoming international competitions.",
         "sentences": [
           {
-            "en": "Airi Miyabe, a middle blocker for the Japanese women's national volleyball team, has decided to take on a new challenge this season at the age of 27.",
-            "ja": "バレーボール女子日本代表のミドルブロッカー、宮部藍梨選手は、27歳で迎えた今シーズン、新たな挑戦に踏み出しました。"
+            "en": "On the final day of the Japan Swimming Championships, 35-year-old Satomi Suzuki won the women's 50-meter breaststroke.",
+            "ja": "競泳の日本選手権の最終日、35歳の鈴木聡美選手が女子50メートル平泳ぎで優勝を果たしました。"
           },
           {
-            "en": "She has made the unusual decision to switch to a completely different position on the court.",
-            "ja": "彼女はコート上で全く異なるポジションに転向するという、異例の決断を下しました。"
+            "en": "This victory marks her ninth consecutive title in this event, demonstrating her incredible strength and longevity.",
+            "ja": "この勝利により、彼女は同種目で9連覇を達成し、その驚異的な強さと息の長さを証明しました。"
           },
           {
-            "en": "Reflecting on her career, she expressed her strong determination, saying, 'This is my last chance to take on the final challenge of my volleyball life.'",
-            "ja": "自身のキャリアを振り返り、彼女は「バレーボール人生で、最後の挑戦をするのは今しかない」と強い決意を表しました。"
+            "en": "With this win, Suzuki successfully achieved a triple crown at this year's championships.",
+            "ja": "この優勝により、鈴木選手は今大会で3冠を達成することに成功しました。"
           },
           {
-            "en": "Transitioning to a new role at this stage of a professional career is highly uncommon and requires immense courage.",
-            "ja": "プロのキャリアにおけるこの段階での新しい役割への転向は非常に珍しく、計り知れない勇気を必要とします。"
+            "en": "Her remarkable achievement at the age of 35 has inspired many sports fans across the nation.",
+            "ja": "35歳での彼女の目覚ましい快挙は、全国の多くのスポーツファンに感動を与えています。"
           },
           {
-            "en": "Fans and coaches are watching her closely as she adapts to this new chapter in her athletic journey.",
-            "ja": "彼女がアスリートとしての新たな章に適応していく様子を、ファンやコーチ陣が温かく見守っています。"
+            "en": "The championships also serve as a selection trial for international competitions, including the Pan Pacific Championships to be held in the United States this August.",
+            "ja": "この日本選手権は、今年8月にアメリカで開催されるパンパシフィック選手権など、国際大会の代表選考会も兼ねています。"
           }
         ]
       }
