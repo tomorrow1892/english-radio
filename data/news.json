@@ -1,93 +1,31 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144461000.html",
-      "title": "名古屋 商業施設で複数の人が目やのどの痛み訴え5人搬送",
-      "title_ja": "名古屋の商業施設で目やのどの痛み、5人搬送",
-      "date": "Mon, 08 Jun 2026 20:21:50 +0900",
-      "summary": "On the evening of May 8th, five people were hospitalized after experiencing eye and throat pain at a shopping mall in Nagoya, prompting an investigation by authorities.",
+      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144621000.html",
+      "title": "中国海警局の船 与那国島沖の日本のEEZ内を航行し管轄権主張",
+      "title_ja": "与那国島沖の日本のEEZに中国海警局の船が進入",
+      "date": "Tue, 09 Jun 2026 05:28:39 +0900",
+      "summary": "Two Chinese Coast Guard ships sailed inside Japan's exclusive economic zone off Yonaguni Island this month, claiming the area was under Chinese jurisdiction.",
       "sentences": [
         {
-          "en": "On the evening of May 8th, an incident occurred at a shopping mall in Nagoya where several people suddenly complained of pain in their eyes and throats.",
-          "ja": "5月8日の夕方、名古屋市の商業施設で、複数の人が突然目やのどの痛みを訴えるという事案が発生しました。"
+          "en": "It has been revealed that two Chinese Coast Guard vessels sailed inside Japan's exclusive economic zone off Yonaguni Island in Okinawa Prefecture earlier this month.",
+          "ja": "今月、沖縄県の与那国島沖の日本の排他的経済水域（EEZ）内を、中国海警局の船2隻が航行していたことが明らかになりました。"
         },
         {
-          "en": "Emergency services were called to the scene, and five people were transported to the hospital.",
-          "ja": "救急隊が現場に駆けつけ、5人が病院に搬送されました。"
+          "en": "When the Japan Coast Guard contacted the ships, the Chinese crew responded by claiming they were operating in China's jurisdictional waters.",
+          "ja": "海上保安庁がこれらの船に呼びかけたところ、中国の乗組員は「中国の管轄海域を航行している」と主張して応答しました。"
         },
         {
-          "en": "Fortunately, all of them are reported to have only mild symptoms.",
-          "ja": "幸いなことに、いずれも症状は軽いということです。"
+          "en": "Yonaguni Island is Japan's westernmost inhabited island and is located close to Taiwan.",
+          "ja": "与那国島は日本最西端の有人島であり、台湾の近くに位置しています。"
         },
         {
-          "en": "According to the local fire department, the incident began around 5:30 p.m.",
-          "ja": "消防によりますと、事案が発生したのは午後5時30分頃とのことです。"
+          "en": "This is reportedly the first time a Chinese Coast Guard ship has openly claimed jurisdiction in this specific sea area.",
+          "ja": "中国海警局の船がこの特定の海域で、公然と管轄権を主張したのは今回が初めてであるとされています。"
         },
         {
-          "en": "The police and the fire department are currently investigating the scene to determine the exact cause of the irritation.",
-          "ja": "警察と消防は、刺激の原因を特定するために現在詳しい現場の状況を調べています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144471000.html",
-      "title": "フィリピン地震 事業者向け緊急地震速報が揺れを過大予測",
-      "title_ja": "フィリピンの地震を誤検知、東北に誤った緊急地震速報",
-      "date": "Mon, 08 Jun 2026 21:14:12 +0900",
-      "summary": "An Earthquake Early Warning issued for the Tohoku region on the morning of the 8th was a false alarm. The Japan Meteorological Agency explained that the system miscalculated the epicenter of an earthquake near the Philippines, leading to an overestimated forecast.",
-      "sentences": [
-        {
-          "en": "On the morning of the 8th, just before 9:00 AM, an Earthquake Early Warning was issued for the Tohoku region.",
-          "ja": "8日の午前9時前、東北地方に向けて緊急地震速報が発表されました。"
-        },
-        {
-          "en": "The forecast, targeted at businesses, predicted a maximum seismic intensity of around 4.",
-          "ja": "事業者向けのこの「予報」では、最大震度4程度の揺れが予測されていました。"
-        },
-        {
-          "en": "However, no major shaking was felt, and the warning turned out to be a false alarm.",
-          "ja": "しかし、実際には強い揺れは観測されず、この速報は誤報であることが判明しました。"
-        },
-        {
-          "en": "According to the Japan Meteorological Agency, the mistake happened when they detected tremors from an earthquake near the Philippines.",
-          "ja": "気象庁によると、フィリピン付近で発生した地震の揺れを検知した際にミスが起きたとのことです。"
-        },
-        {
-          "en": "The system miscalculated the epicenter, which caused it to overestimate the scale of the earthquake.",
-          "ja": "システムが震源地を誤って特定したため、地震の規模を過大に予測してしまいました。"
-        },
-        {
-          "en": "The agency is now looking into the system error to prevent similar false warnings in the future.",
-          "ja": "気象庁は、今後の誤報を防ぐために、このシステムエラーの原因を調査しています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144431000.html",
-      "title": "高市首相 “中傷動画”報道めぐり 「流儀でない」と重ねて否定",
-      "title_ja": "高市氏、総裁選での中傷動画報道を否定",
-      "date": "Mon, 08 Jun 2026 19:29:04 +0900",
-      "summary": "Prime Minister Takaichi denied involvement in reported slanderous videos posted by her campaign during the recent LDP leadership election, stating it is not her style.",
-      "sentences": [
-        {
-          "en": "During the recent Liberal Democratic Party presidential election, reports emerged regarding the campaign of Prime Minister Sanae Takaichi.",
-          "ja": "先の自由民主党総裁選挙において、高市総理大臣の陣営に関する報道がなされました。"
-        },
-        {
-          "en": "The reports alleged that her campaign had posted videos slandering other candidates running in the election.",
-          "ja": "その報道では、彼女の陣営が総裁選の他の候補者をひぼう中傷する動画を投稿したと伝えられています。"
-        },
-        {
-          "en": "In response to these allegations, Prime Minister Takaichi addressed the issue, reiterating her previous statements made in the Diet.",
-          "ja": "これらの疑惑に対し、高市総理大臣は国会でのこれまでの答弁を改めて繰り返す形で言及しました。"
-        },
-        {
-          "en": "She firmly denied any involvement, stating that posting such defamatory content is \"not my style.\"",
-          "ja": "彼女は関与を否定し、そのような誹謗中傷を行うことは「みずからの流儀ではない」と述べました。"
-        },
-        {
-          "en": "The situation continues to draw attention as political discussions around campaign ethics and online behavior remain active.",
-          "ja": "選挙キャンペーンの倫理やネット上の振る舞いをめぐる政治的議論が活発に行われる中、この問題は引き続き注目を集めています。"
+          "en": "The Japanese government is monitoring the situation closely as maritime tensions in the region continue to rise.",
+          "ja": "この地域での海上における緊張が高まり続ける中、日本政府は状況を注視しています。"
         }
       ]
     }
