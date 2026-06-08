@@ -1,155 +1,93 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143811000.html",
-      "title": "【ライブ】気象庁 3回目の会見 津波注意報すべて解除",
-      "title_ja": "フィリピン沖M8.2地震、日本の津波注意報は全面解除",
-      "date": "Mon, 08 Jun 2026 17:09:46 +0900",
-      "summary": "Following a powerful magnitude 8.2 earthquake near the Philippines, Japan issued a tsunami advisory for a wide coastal area, which has now been completely lifted.",
+      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144461000.html",
+      "title": "名古屋 商業施設で複数の人が目やのどの痛み訴え5人搬送",
+      "title_ja": "名古屋の商業施設で目やのどの痛み、5人搬送",
+      "date": "Mon, 08 Jun 2026 20:21:50 +0900",
+      "summary": "On the evening of May 8th, five people were hospitalized after experiencing eye and throat pain at a shopping mall in Nagoya, prompting an investigation by authorities.",
       "sentences": [
         {
-          "en": "On the morning of the 8th, a powerful magnitude 8.2 earthquake struck near the Philippines.",
-          "ja": "8日午前、フィリピン付近でマグニチュード8.2の強力な地震が発生しました。"
+          "en": "On the evening of May 8th, an incident occurred at a shopping mall in Nagoya where several people suddenly complained of pain in their eyes and throats.",
+          "ja": "5月8日の夕方、名古屋市の商業施設で、複数の人が突然目やのどの痛みを訴えるという事案が発生しました。"
         },
         {
-          "en": "In response to this event, the Japan Meteorological Agency issued a tsunami advisory for coastal areas stretching from Okinawa to Ibaraki Prefecture.",
-          "ja": "これを受けて気象庁は、沖縄県から茨城県にかけての沿岸地域に津波注意報を発表しました。"
+          "en": "Emergency services were called to the scene, and five people were transported to the hospital.",
+          "ja": "救急隊が現場に駆けつけ、5人が病院に搬送されました。"
         },
         {
-          "en": "Residents in the affected areas were urged to stay away from the coast and remain cautious.",
-          "ja": "対象地域の住民に対しては、海岸から離れ、警戒を怠らないよう呼びかけが行われました。"
+          "en": "Fortunately, all of them are reported to have only mild symptoms.",
+          "ja": "幸いなことに、いずれも症状は軽いということです。"
         },
         {
-          "en": "Fortunately, no major damage was reported, and all tsunami advisories were completely lifted at 4:50 PM.",
-          "ja": "幸いなことに大きな被害は報告されず、午後4時50分に津波注意報はすべて解除されました。"
+          "en": "According to the local fire department, the incident began around 5:30 p.m.",
+          "ja": "消防によりますと、事案が発生したのは午後5時30分頃とのことです。"
         },
         {
-          "en": "Although the immediate threat has passed, officials continue to remind the public to stay informed during such events.",
-          "ja": "当面の危険は去ったものの、関係機関はこうした事態の際には引き続き情報を確認するよう呼びかけています。"
+          "en": "The police and the fire department are currently investigating the scene to determine the exact cause of the irritation.",
+          "ja": "警察と消防は、刺激の原因を特定するために現在詳しい現場の状況を調べています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143981000.html",
-      "title": "イスラエルとイラン双方が攻撃 本格的な戦闘再開 懸念",
-      "title_ja": "イスラエル軍、イランの軍事施設を攻撃",
-      "date": "Mon, 08 Jun 2026 17:07:37 +0900",
-      "summary": "The Israeli military has attacked military facilities in western and central Iran in response to earlier missile launches, leading to fears of further regional escalation.",
+      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144471000.html",
+      "title": "フィリピン地震 事業者向け緊急地震速報が揺れを過大予測",
+      "title_ja": "フィリピンの地震を誤検知、東北に誤った緊急地震速報",
+      "date": "Mon, 08 Jun 2026 21:14:12 +0900",
+      "summary": "An Earthquake Early Warning issued for the Tohoku region on the morning of the 8th was a false alarm. The Japan Meteorological Agency explained that the system miscalculated the epicenter of an earthquake near the Philippines, leading to an overestimated forecast.",
       "sentences": [
         {
-          "en": "The Israeli military has announced that it carried out strikes against military targets in Iran.",
-          "ja": "イスラエル軍は、イランの軍事施設に対して攻撃を実施したと発表しました。"
+          "en": "On the morning of the 8th, just before 9:00 AM, an Earthquake Early Warning was issued for the Tohoku region.",
+          "ja": "8日の午前9時前、東北地方に向けて緊急地震速報が発表されました。"
         },
         {
-          "en": "The attacks, which occurred around 10:30 AM Japan Time on the 8th, targeted facilities in western and central Iran.",
-          "ja": "日本時間の8日午前10時半ごろに行われたこの攻撃は、イランの西部と中部にある施設を標的にしたものでした。"
+          "en": "The forecast, targeted at businesses, predicted a maximum seismic intensity of around 4.",
+          "ja": "事業者向けのこの「予報」では、最大震度4程度の揺れが予測されていました。"
         },
         {
-          "en": "Prior to these strikes, Israel reported that missiles had been launched from Iran toward its territory.",
-          "ja": "この攻撃に先立ち、イスラエルはイランから自国領土に向けてミサイルが発射されたと発表していました。"
+          "en": "However, no major shaking was felt, and the warning turned out to be a false alarm.",
+          "ja": "しかし、実際には強い揺れは観測されず、この速報は誤報であることが判明しました。"
         },
         {
-          "en": "Tensions between the two nations have risen sharply, sparking global concern over a wider conflict.",
-          "ja": "両国間の緊張は急激に高まっており、より広範な衝突に対する世界的な懸念が生じています。"
+          "en": "According to the Japan Meteorological Agency, the mistake happened when they detected tremors from an earthquake near the Philippines.",
+          "ja": "気象庁によると、フィリピン付近で発生した地震の揺れを検知した際にミスが起きたとのことです。"
         },
         {
-          "en": "International observers are closely monitoring the situation as it continues to develop.",
-          "ja": "事態が推移する中、国際社会の観測筋は状況を注視しています。"
+          "en": "The system miscalculated the epicenter, which caused it to overestimate the scale of the earthquake.",
+          "ja": "システムが震源地を誤って特定したため、地震の規模を過大に予測してしまいました。"
+        },
+        {
+          "en": "The agency is now looking into the system error to prevent similar false warnings in the future.",
+          "ja": "気象庁は、今後の誤報を防ぐために、このシステムエラーの原因を調査しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144301000.html",
-      "title": "津波注意報すべて解除",
-      "title_ja": "フィリピン沖M8.2地震による津波注意報、全面解除",
-      "date": "Mon, 08 Jun 2026 17:06:39 +0900",
-      "summary": "Following a magnitude 8.2 earthquake near the Philippines, Japan's Meteorological Agency issued and later lifted a tsunami advisory for its eastern and southern coasts.",
+      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144431000.html",
+      "title": "高市首相 “中傷動画”報道めぐり 「流儀でない」と重ねて否定",
+      "title_ja": "高市氏、総裁選での中傷動画報道を否定",
+      "date": "Mon, 08 Jun 2026 19:29:04 +0900",
+      "summary": "Prime Minister Takaichi denied involvement in reported slanderous videos posted by her campaign during the recent LDP leadership election, stating it is not her style.",
       "sentences": [
         {
-          "en": "On the morning of the 8th, a powerful magnitude 8.2 earthquake struck near the Philippines.",
-          "ja": "8日の午前、フィリピン付近でマグニチュード8.2の強い地震が発生しました。"
+          "en": "During the recent Liberal Democratic Party presidential election, reports emerged regarding the campaign of Prime Minister Sanae Takaichi.",
+          "ja": "先の自由民主党総裁選挙において、高市総理大臣の陣営に関する報道がなされました。"
         },
         {
-          "en": "Following the quake, the Japan Meteorological Agency issued a tsunami advisory for coastal areas stretching from Okinawa to Ibaraki Prefecture.",
-          "ja": "この地震を受けて、気象庁は沖縄県から茨城県にかけての沿岸部に津波注意報を発表していました。"
+          "en": "The reports alleged that her campaign had posted videos slandering other candidates running in the election.",
+          "ja": "その報道では、彼女の陣営が総裁選の他の候補者をひぼう中傷する動画を投稿したと伝えられています。"
         },
         {
-          "en": "Fortunately, the agency lifted all tsunami advisories at 4:50 PM on the same day.",
-          "ja": "幸いなことに、気象庁は同日の午後4時50分にすべての津波注意報を解除しました。"
+          "en": "In response to these allegations, Prime Minister Takaichi addressed the issue, reiterating her previous statements made in the Diet.",
+          "ja": "これらの疑惑に対し、高市総理大臣は国会でのこれまでの答弁を改めて繰り返す形で言及しました。"
         },
         {
-          "en": "Although the advisory has been lifted, officials warn that slight changes in sea levels may continue for about a day.",
-          "ja": "注意報は解除されたものの、今後1日程度はわずかな潮位の変化が続く可能性があると警告されています。"
+          "en": "She firmly denied any involvement, stating that posting such defamatory content is \"not my style.\"",
+          "ja": "彼女は関与を否定し、そのような誹謗中傷を行うことは「みずからの流儀ではない」と述べました。"
         },
         {
-          "en": "People living near the coast are advised to remain cautious when conducting activities near the water.",
-          "ja": "沿岸部付近に住む人々は、海辺で活動する際、引き続き注意するよう呼びかけられています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143601000.html",
-      "title": "中国 習主席を北朝鮮 キム総書記が出迎え 歓迎式典も開催",
-      "title_ja": "習国家主席、北朝鮮訪問へ",
-      "date": "Mon, 08 Jun 2026 16:32:42 +0900",
-      "summary": "Chinese President Xi Jinping is visiting North Korea to meet with Kim Jong Un, aiming to strengthen bilateral ties and discuss regional security.",
-      "sentences": [
-        {
-          "en": "Chinese President Xi Jinping is scheduled to arrive in North Korea around noon today to meet with leader Kim Jong Un.",
-          "ja": "中国の習近平国家主席は、金正恩総書記と会談するため、本日正午ごろ北朝鮮に到着する予定です。"
-        },
-        {
-          "en": "During the summit, the two leaders are expected to reaffirm the strong alliance between their nations.",
-          "ja": "首脳会談において、両首脳は両国間の強固な同盟関係を改めて確認する見通しです。"
-        },
-        {
-          "en": "This historic visit marks an important milestone in strengthening diplomatic relations between Beijing and Pyongyang.",
-          "ja": "この歴史的な訪問は、北京と平壌の間の外交関係を強化する上で重要な節目となります。"
-        },
-        {
-          "en": "Prior to his arrival, President Xi contributed a special article to North Korea's official state newspaper.",
-          "ja": "到着に先立ち、習主席は北朝鮮の機関紙に特別な記事を寄稿しました。"
-        },
-        {
-          "en": "In the article, he emphasized the deep historical ties between the two countries and expressed hope for a bright future.",
-          "ja": "その記事の中で、同氏は両国間の深い歴史的つながりを強調し、明るい未来への期待を表明しました。"
-        },
-        {
-          "en": "Observers are closely watching how this meeting will impact regional security and international diplomacy.",
-          "ja": "専門家らは、この会談が地域の安全保障や国際外交にどのような影響を与えるかを注視しています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143861000.html",
-      "title": "フィリピンで大地震 “少なくとも15人死亡 129人けが”当局",
-      "title_ja": "フィリピン付近でM8.2の地震、ミンダナオ島で建物倒壊などの被害",
-      "date": "Mon, 08 Jun 2026 16:52:15 +0900",
-      "summary": "A powerful magnitude 8.2 earthquake struck near the southern Philippines on the morning of the 8th, causing significant damage and building collapses on Mindanao Island.",
-      "sentences": [
-        {
-          "en": "On the morning of the 8th, a powerful magnitude 8.2 earthquake struck near the Philippines.",
-          "ja": "8日の朝、フィリピン付近でマグニチュード8.2の強い地震が発生しました。"
-        },
-        {
-          "en": "The southern island of Mindanao, which is close to the epicenter, has reported widespread damage, including collapsed buildings.",
-          "ja": "震源に近い南部ミンダナオ島では、建物の倒壊を含む広範囲にわたる被害が報告されています。"
-        },
-        {
-          "en": "According to the local disaster management authorities, emergency rescue teams have been deployed to the affected areas.",
-          "ja": "現地の防災当局によると、被災地には緊急救助隊が派遣されているとのことです。"
-        },
-        {
-          "en": "The region is known for its high level of seismic activity, but an earthquake of this scale is relatively rare and highly dangerous.",
-          "ja": "この地域は地震活動が活発なことで知られていますが、この規模の地震は比較的まれで非常に危険です。"
-        },
-        {
-          "en": "Officials are warning residents to remain alert for potential aftershocks and to stay away from damaged structures.",
-          "ja": "当局は住民に対し、余震の可能性に警戒し、被害を受けた建物には近づかないよう呼びかけています。"
-        },
-        {
-          "en": "Efforts are currently underway to assess the full extent of the casualties and destruction.",
-          "ja": "現在、人的被害や壊滅的な状況の全容を把握するための調査が進められています。"
+          "en": "The situation continues to draw attention as political discussions around campaign ethics and online behavior remain active.",
+          "ja": "選挙キャンペーンの倫理やネット上の振る舞いをめぐる政治的議論が活発に行われる中、この問題は引き続き注目を集めています。"
         }
       ]
     }
@@ -157,314 +95,9 @@
   "category_news": {
     "社会": [],
     "文化・エンタメ": [],
-    "科学・医療": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143691000.html",
-        "title": "打ち上げ失敗から再起かけるH3ロケット 10日に6号機打ち上げへ",
-        "title_ja": "H3ロケット6号機、打ち上げへ",
-        "date": "Mon, 08 Jun 2026 06:31:40 +0900",
-        "summary": "Japan is preparing to launch its sixth H3 rocket from Tanegashima, aiming to recover from past failures and restore confidence in its space program.",
-        "sentences": [
-          {
-            "en": "Japan's flagship H3 rocket is scheduled to launch its sixth unit on the 10th from the Tanegashima Space Center in Kagoshima Prefecture.",
-            "ja": "日本の主力ロケット「H3」の6号機が、10日に鹿児島県の種子島宇宙センターから打ち上げられる予定です。"
-          },
-          {
-            "en": "This mission represents a crucial step forward as Japan seeks to recover from previous launch failures.",
-            "ja": "今回のミッションは、日本が過去の打ち上げ失敗からの再起を図る上で、極めて重要な一歩となります。"
-          },
-          {
-            "en": "Japan's space program has faced significant challenges since its initial setbacks starting in 2023.",
-            "ja": "日本の宇宙開発計画は、2023年に始まった最初のつまずき以来、大きな課題に直面してきました。"
-          },
-          {
-            "en": "Engineers have worked tirelessly to analyze the past issues and improve the rocket's reliability.",
-            "ja": "技術者たちはこれまでの課題を分析し、ロケットの信頼性を高めるために休むことなく取り組んできました。"
-          },
-          {
-            "en": "A successful launch would restore confidence in Japan's space capabilities in the global aerospace industry.",
-            "ja": "打ち上げが成功すれば、世界の宇宙航空産業における日本の宇宙開発能力に対する信頼が回復することになります。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260606/k10015142901000.html",
-        "title": "将棋 加藤一二三さんお別れの会 連盟から「名誉十段」贈られる",
-        "title_ja": "加藤一二三九段にお別れの会、「名誉十段」の称号授与",
-        "date": "Sat, 06 Jun 2026 16:13:56 +0900",
-        "summary": "A farewell ceremony was held in Tokyo for the legendary Shogi player Hifumi Kato, where he was specially awarded the title of 'Honorary 10-dan' in recognition of his lifetime achievements.",
-        "sentences": [
-          {
-            "en": "A farewell ceremony was held at the Tokyo Shogi Kaikan for Hifumi Kato, a 9-dan Shogi player widely known by his affectionate nickname 'Hifumin.'",
-            "ja": "将棋界を代表し、「ひふみん」の愛称で広く親しまれた加藤一二三九段のお別れの会が、東京の将棋会館で開かれました。"
-          },
-          {
-            "en": "Kato is one of the most prominent players in Shogi history, having won a total of eight major titles, including the prestigious Meijin title.",
-            "ja": "加藤九段は、最高峰とされる「名人」を含む通算8期のタイトルを獲得した、将棋の歴史において最も傑出した棋士の1人です。"
-          },
-          {
-            "en": "During the ceremony, the Japan Shogi Association specially awarded him the title of 'Honorary 10-dan.'",
-            "ja": "式典では、日本将棋連盟から特別に「名誉十段」の称号が贈られました。"
-          },
-          {
-            "en": "This special title recognizes his lifetime of achievements and his significant contributions to the world of Shogi.",
-            "ja": "この特別な称号は、彼の生涯にわたる業績と、将棋界への多大な貢献を称えるものです。"
-          },
-          {
-            "en": "He remains a beloved figure, bringing warmth and smiles to many people even after his retirement from active play.",
-            "ja": "現役引退後も、彼は多くの人々に温かさと笑顔を届ける愛される存在であり続けています。"
-          }
-        ]
-      }
-    ],
-    "政治": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143751000.html",
-        "title": "高市首相動静 6月5日～7日",
-        "title_ja": "高市首相、週末は公邸で過ごす",
-        "date": "Mon, 08 Jun 2026 10:43:09 +0900",
-        "summary": "Prime Minister Takaichi spent a quiet weekend at her official residence from June 6th to June 7th, 2026, after starting her Friday morning on foot.",
-        "sentences": [
-          {
-            "en": "Prime Minister Takaichi spent a quiet weekend at her official residence in early June 2026.",
-            "ja": "高市首相は2026年6月上旬、公邸で静かな週末を過ごしました。"
-          },
-          {
-            "en": "According to the official schedule, she did not leave her residence on Saturday, June 6th, or Sunday, June 7th.",
-            "ja": "公式日程によると、6月6日土曜日と7日日曜日の両日、首相は公邸から外出することはありませんでした。"
-          },
-          {
-            "en": "For both of those days, she spent the entire time inside the building.",
-            "ja": "この2日間、首相は終日、建物の中で過ごしました。"
-          },
-          {
-            "en": "Before the weekend, on the morning of Friday, June 5th, her day began just after 8:00 AM.",
-            "ja": "週末を控えた6月5日金曜日の朝、首相の一日は午前8時過ぎに始まりました。"
-          },
-          {
-            "en": "At exactly 8:11 AM, she left the official residence on foot to start her scheduled activities.",
-            "ja": "午前8時11分、首相は予定された活動を開始するため、徒歩で公邸を出発しました。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143611000.html",
-        "title": "【ライブ】安定的な皇位継承 とりまとめ案報告の協議終わる",
-        "title_ja": "安定的な皇位継承に向けた国会協議",
-        "date": "Mon, 08 Jun 2026 17:17:18 +0900",
-        "summary": "Discussions have been held in the Japanese parliament regarding stable imperial succession, with leaders of both houses meeting with various political parties to discuss a summary proposal.",
-        "sentences": [
-          {
-            "en": "Discussions have begun in Japan regarding how to ensure a stable succession to the imperial throne.",
-            "ja": "安定的な皇位継承をどのように確保するかについて、日本で議論が始まりました。"
-          },
-          {
-            "en": "The leaders of both houses of parliament met with representatives from various political parties and factions.",
-            "ja": "衆参両院の議長と副議長が、各政党や会派の代表者らと会合を行いました。"
-          },
-          {
-            "en": "During the meeting, the leaders presented a summary proposal aimed at addressing the shrinking number of imperial family members.",
-            "ja": "会合の中で議長らは、減少する皇族数に対応するためのとりまとめ案を提示しました。"
-          },
-          {
-            "en": "They then gathered opinions and feedback on this draft proposal from each political group.",
-            "ja": "その後、このとりまとめ案について、各会派から意見やフィードバックを聴取しました。"
-          },
-          {
-            "en": "Finding a consensus is crucial, as the current law limits succession to male descendants on the father's side.",
-            "ja": "現在の法律では皇位継承が男系男子に限定されているため、合意形成が極めて重要となっています。"
-          },
-          {
-            "en": "The government hopes these discussions will lead to a viable solution for the future of the imperial family.",
-            "ja": "政府は、これらの議論が皇室の未来に向けた実行可能な解決策につながることを期待しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143901000.html",
-        "title": "高市首相「被害防止の措置など指示」投稿",
-        "title_ja": "高市首相、津波警戒地域に迅速な避難を呼びかけ",
-        "date": "Mon, 08 Jun 2026 10:15:47 +0900",
-        "summary": "Prime Minister Takaichi posted an urgent message on X, instructing officials to provide timely information and urging residents in tsunami-threatened areas to evacuate immediately.",
-        "sentences": [
-          {
-            "en": "Just before 10:00 AM, Prime Minister Takaichi posted an urgent message on the social media platform X, formerly known as Twitter.",
-            "ja": "高市総理大臣は午前10時前、旧ツイッターの「X」に緊急のメッセージを投稿しました。"
-          },
-          {
-            "en": "She stated that she has instructed officials to provide the public with timely and accurate information and to take all necessary measures to prevent damage, such as evacuating residents.",
-            "ja": "首相は、国民に対する適時的確な情報提供や、住民避難などの被害防止措置を指示し、現在対応にあたっていると述べました。"
-          },
-          {
-            "en": "She also urged people in areas where a tsunami is expected to arrive to pay close attention to updates from the Japan Meteorological Agency and local governments.",
-            "ja": "また、津波の到達が予想されている地域の皆様に対し、気象庁や自治体からの最新情報に十分注意するよう呼びかけました。"
-          },
-          {
-            "en": "Residents in the affected areas are strongly advised to evacuate immediately to higher ground or safe locations.",
-            "ja": "対象地域の住民は、直ちに高台や安全な場所へ避難することが強く求められています。"
-          },
-          {
-            "en": "The government has set up an emergency response office to coordinate rescue and safety operations.",
-            "ja": "政府は救助や安全確保の活動を調整するため、対策本部を設置しました。"
-          },
-          {
-            "en": "Officials are continuing to monitor the situation closely to ensure public safety.",
-            "ja": "政府は国民の安全を確保するため、引き続き状況を注意深く注視しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144141000.html",
-        "title": "中傷動画報道“参考人招致要求” 官房長官「コメントしない」",
-        "title_ja": "高市氏陣営の動画投稿問題と秘書の参考人招致要求",
-        "date": "Mon, 08 Jun 2026 13:30:10 +0900",
-        "summary": "Following reports that Prime Minister Takaichi's camp posted videos slandering other candidates during the LDP leadership race, the Centrist Reform Coalition has called for summoning Takaichi's secretary as a witness.",
-        "sentences": [
-          {
-            "en": "Recent reports indicate that the camp of Prime Minister Takaichi posted videos slandering other candidates during the Liberal Democratic Party presidential election.",
-            "ja": "先の自民党総裁選挙などで、高市総理大臣の陣営がほかの候補者を誹謗中傷する動画を投稿したなどと報じられました。"
-          },
-          {
-            "en": "In light of these reports, the Centrist Reform Coalition has expressed its intention to request that Takaichi's secretary be summoned to the Diet as a witness.",
-            "ja": "この報道を受け、中道改革連合は高市総理大臣の秘書の参考人招致を求める考えを示しました。"
-          },
-          {
-            "en": "This request has drawn significant attention as opposition parties seek to clarify the truth behind the online campaign.",
-            "ja": "野党側がオンラインキャンペーンの裏にある真相を明らかにしようとする中、この要求は大きな注目を集めています。"
-          },
-          {
-            "en": "Regarding this development, Chief Cabinet Secretary Kihara addressed the situation during a press conference.",
-            "ja": "この動きに関連して、木原官房長官は記者会見で状況について言及しました。"
-          },
-          {
-            "en": "He emphasized the importance of individual political groups explaining their actions transparently to the public.",
-            "ja": "同氏は、個々の政治グループが自らの行動について国民に透明性をもって説明することの重要性を強調しました。"
-          },
-          {
-            "en": "The controversy surrounding the election tactics continues to cause tension within the political arena.",
-            "ja": "選挙戦術を巡るこの論争は、政界に緊張をもたらし続けています。"
-          }
-        ]
-      }
-    ],
-    "経済": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144281000.html",
-        "title": "5月街角景気 3か月ぶり上昇 旅行・飲食堅調も中東懸念続く",
-        "title_ja": "先月の景気ウォッチャー調査、3か月ぶりに改善",
-        "date": "Mon, 08 Jun 2026 16:48:49 +0900",
-        "summary": "According to the latest Economy Watcher Survey, Japan's economic sentiment index rose for the first time in three months due to strong consumer spending during the Golden Week holidays.",
-        "sentences": [
-          {
-            "en": "According to the latest Economy Watcher Survey, Japan's economic sentiment index has risen for the first time in three months.",
-            "ja": "最新の景気ウォッチャー調査によると、日本の景気の現状を示す指数が3か月ぶりに上昇しました。"
-          },
-          {
-            "en": "This monthly survey asks people with jobs close to the market, such as taxi drivers and restaurant staff, about their everyday economic feelings.",
-            "ja": "この月次調査は、タクシー運転手や飲食店のスタッフなど、街の景気に敏感な働く人々に日々の景気感を尋ねるものです。"
-          },
-          {
-            "en": "The Cabinet Office reported that consumer spending on travel and dining out was particularly strong during the Golden Week holidays.",
-            "ja": "内閣府は、大型連休を中心に旅行や外食などの消費が特に堅調だったと報告しています。"
-          },
-          {
-            "en": "Thanks to this boost in holiday spending, the current conditions index improved compared to the previous month.",
-            "ja": "この連休中の消費拡大のおかげで、景気の現状を示す指数は前の月と比べて改善しました。"
-          },
-          {
-            "en": "Based on these results, the government maintains its assessment that regional economies are recovering moderately.",
-            "ja": "これらの結果に基づき、政府は地域の景気が緩やかに回復しているという見方を維持しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143971000.html",
-        "title": "株価 終値は過去5番目の下落幅 米の利上げ観測背景に",
-        "title_ja": "日経平均株価が一時3,000円超急落、半導体株の売りや中東情勢緊迫化で",
-        "date": "Mon, 08 Jun 2026 16:37:08 +0900",
-        "summary": "On Monday the 8th, the Tokyo Stock Exchange saw a major sell-off, with the Nikkei plummeting over 3,000 yen due to US interest rate speculations and geopolitical tensions between Israel and Iran.",
-        "sentences": [
-          {
-            "en": "On Monday the 8th, the Tokyo Stock Exchange experienced a sharp decline, with the Nikkei Stock Average plummeting by over 3,000 yen at one point.",
-            "ja": "週明けの8日、東京株式市場は急落し、日経平均株価は一時、3,000円を超える下落を記録しました。"
-          },
-          {
-            "en": "Selling pressure mounted particularly on semiconductor-related stocks, which had previously been on a steady upward trend.",
-            "ja": "これまで上昇が続いていた半導体関連の銘柄を中心に、売り注文が膨らみました。"
-          },
-          {
-            "en": "This shift was largely triggered by growing speculation about potential interest rate hikes in the United States.",
-            "ja": "この変化は、アメリカの利上げ観測が背景にあるとみられています。"
-          },
-          {
-            "en": "In addition, rising geopolitical tensions between Israel and Iran further fueled anxiety in the market.",
-            "ja": "さらに、イスラエルとイランの間の地政学的緊張の高まりも、市場の不安を一段と強めました。"
-          },
-          {
-            "en": "Many investors chose to lock in their profits, resulting in a highly volatile day for Tokyo stocks.",
-            "ja": "多くの投資家が利益確定売りに動き、この日の東京株式市場は大きく荒れる展開となりました。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144321000.html",
-        "title": "5月倒産件数 770社余り 前年下回る 今後増加基調の可能性も",
-        "title_ja": "企業倒産、6か月ぶりに減少も今後の増加に懸念",
-        "date": "Mon, 08 Jun 2026 17:15:47 +0900",
-        "summary": "Last month, Japan's corporate bankruptcies fell below the previous year's level for the first time in six months, but experts warn of a potential rise due to rising prices driven by Middle East tensions.",
-        "sentences": [
-          {
-            "en": "According to a recent report, the number of corporate bankruptcies in Japan fell last month for the first time in six months.",
-            "ja": "最近の報告によると、先月の日本国内の企業倒産件数は、6か月ぶりに減少しました。"
-          },
-          {
-            "en": "There were just over 770 bankruptcies nationwide, which is lower than the figure from the same month last year.",
-            "ja": "全国の倒産件数は770社余りで、前年の同じ月の件数を下回りました。"
-          },
-          {
-            "en": "Although this temporary drop is welcome news, a research firm warns that the situation remains unpredictable.",
-            "ja": "この一時的な減少は歓迎すべきニュースですが、調査会社は状況が依然として予測不可能であると警告しています。"
-          },
-          {
-            "en": "They pointed out that rising prices, driven by geopolitical tensions in Iran, could put additional pressure on businesses.",
-            "ja": "同社は、イランをめぐる地政学的緊張による物価の上昇が、企業にさらなる圧力をかける可能性があると指摘しています。"
-          },
-          {
-            "en": "As a result, corporate bankruptcies may shift back to an upward trend in the near future.",
-            "ja": "その結果、近い将来、企業の倒産は再び増加基調に転じる可能性があります。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144231000.html",
-        "title": "中小企業の賃上げ率4.29％ 中東情勢で「未定」の企業も",
-        "title_ja": "中小企業の平均賃上げ率4.29%に上昇、一方で2割超が「未定」",
-        "date": "Mon, 08 Jun 2026 15:26:23 +0900",
-        "summary": "A survey by the Japan Chamber of Commerce and Industry shows that while the average wage hike at SMEs rose to 4.29% this fiscal year, over 20% of companies remain undecided due to global uncertainties like the Middle East situation.",
-        "sentences": [
-          {
-            "en": "According to a survey by the Japan Chamber of Commerce and Industry, the average wage hike rate for regular employees at small and medium-sized enterprises reached 4.29% this fiscal year.",
-            "ja": "日本商工会議所の調査によると、今年度の中小企業で働く正社員の平均賃上げ率は4.29％に達しました。"
-          },
-          {
-            "en": "This figure is higher than the rate recorded in the previous fiscal year, showing a positive trend.",
-            "ja": "この数値は前年度の記録を上回っており、前向きな傾向を示しています。"
-          },
-          {
-            "en": "On the other hand, the survey also revealed that more than 20% of the companies responded that their wage hikes are still \"undecided.\"",
-            "ja": "一方で、同調査は2割を超える企業が賃上げを「未定」と回答していることも明らかにしました。"
-          },
-          {
-            "en": "The Japan Chamber of Commerce and Industry points out that global uncertainties, such as the tense situation in the Middle East, are affecting these business decisions.",
-            "ja": "日本商工会議所は、緊迫する中東情勢などの世界的な不確実性が、こうした企業の意思決定に影響を与えていると指摘しています。"
-          },
-          {
-            "en": "While some SMEs are successfully raising wages, many others remain cautious due to unstable economic conditions.",
-            "ja": "一部の中小企業が賃上げに成功している一方で、不安定な経済情勢を理由に慎重姿勢を崩さない企業も多く存在します。"
-          }
-        ]
-      }
-    ],
+    "科学・医療": [],
+    "政治": [],
+    "経済": [],
     "国際": [],
     "スポーツ": []
   }
