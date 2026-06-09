@@ -1,35 +1,5 @@
 {
-  "main_news": [
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144621000.html",
-      "title": "中国海警局の船 与那国島沖の日本のEEZ内を航行し管轄権主張",
-      "title_ja": "与那国島沖の日本のEEZに中国海警局の船が進入",
-      "date": "Tue, 09 Jun 2026 05:28:39 +0900",
-      "summary": "Two Chinese Coast Guard ships sailed inside Japan's exclusive economic zone off Yonaguni Island this month, claiming the area was under Chinese jurisdiction.",
-      "sentences": [
-        {
-          "en": "It has been revealed that two Chinese Coast Guard vessels sailed inside Japan's exclusive economic zone off Yonaguni Island in Okinawa Prefecture earlier this month.",
-          "ja": "今月、沖縄県の与那国島沖の日本の排他的経済水域（EEZ）内を、中国海警局の船2隻が航行していたことが明らかになりました。"
-        },
-        {
-          "en": "When the Japan Coast Guard contacted the ships, the Chinese crew responded by claiming they were operating in China's jurisdictional waters.",
-          "ja": "海上保安庁がこれらの船に呼びかけたところ、中国の乗組員は「中国の管轄海域を航行している」と主張して応答しました。"
-        },
-        {
-          "en": "Yonaguni Island is Japan's westernmost inhabited island and is located close to Taiwan.",
-          "ja": "与那国島は日本最西端の有人島であり、台湾の近くに位置しています。"
-        },
-        {
-          "en": "This is reportedly the first time a Chinese Coast Guard ship has openly claimed jurisdiction in this specific sea area.",
-          "ja": "中国海警局の船がこの特定の海域で、公然と管轄権を主張したのは今回が初めてであるとされています。"
-        },
-        {
-          "en": "The Japanese government is monitoring the situation closely as maritime tensions in the region continue to rise.",
-          "ja": "この地域での海上における緊張が高まり続ける中、日本政府は状況を注視しています。"
-        }
-      ]
-    }
-  ],
+  "main_news": [],
   "category_news": {
     "社会": [],
     "文化・エンタメ": [],
