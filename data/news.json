@@ -1,10 +1,174 @@
 {
-  "main_news": [],
+  "main_news": [
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260609/k10015145321000.html",
+      "title": "“無戸籍問題の解消を” 弁護士が戸籍作成の制度運用を訴え",
+      "title_ja": "無戸籍児問題の解消に向け、弁護士グループが制度改善を要求",
+      "date": "Tue, 09 Jun 2026 20:33:12 +0900",
+      "summary": "A group of lawyers in Japan has called for system improvements to safely register children who remain without family registers due to legal loopholes.",
+      "sentences": [
+        {
+          "en": "A group of Japanese lawyers recently held a press conference to address the ongoing issue of children left without family registers.",
+          "ja": "弁護士のグループが最近記者会見を開き、今もなお解消されていない無戸籍の子どもの問題について言及しました。"
+        },
+        {
+          "en": "Under Japan's Civil Code, a child born within 300 days of a divorce is legally presumed to be the child of the ex-husband.",
+          "ja": "日本の民法では、離婚から300日以内に生まれた子どもは、法的に前夫の子どもと推定されます。"
+        },
+        {
+          "en": "To avoid registering their child under an abusive ex-husband, many mothers choose not to file a birth registration.",
+          "ja": "暴力などを振るう前夫の戸籍に子どもが入るのを避けるため、多くの母親が出生届を出さないことを選択しています。"
+        },
+        {
+          "en": "This leaves the children unregistered, making it extremely difficult for them to access basic public services like education and healthcare.",
+          "ja": "これにより子どもが無戸籍となり、教育や医療などの基本的な公的サービスを受けることが極めて困難になります。"
+        },
+        {
+          "en": "The lawyers issued a statement demanding the government implement a safer and more flexible system to register these children.",
+          "ja": "弁護士グループは政府に対し、これらの子どもたちが安全に戸籍を作成できる、より柔軟な制度の運用を求める声明を発表しました。"
+        },
+        {
+          "en": "They emphasize that immediate support is needed to protect the basic human rights of these unregistered children.",
+          "ja": "彼らは、これら無戸籍児の基本的人権を守るために、即時の支援が必要であると強調しています。"
+        }
+      ]
+    }
+  ],
   "category_news": {
     "社会": [],
     "文化・エンタメ": [],
-    "科学・医療": [],
-    "政治": [],
+    "科学・医療": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144741000.html",
+        "title": "ことしの放送文化基金賞 NHK制作のドキュメンタリー番組など",
+        "title_ja": "今年の放送文化基金賞にNHKのドキュメンタリーなどが選出",
+        "date": "Tue, 09 Jun 2026 11:05:03 +0900",
+        "summary": "This year's Hoso Bunka Foundation Awards have honored outstanding programs, including documentaries produced by NHK, for their contribution to broadcasting technology and culture.",
+        "sentences": [
+          {
+            "en": "The winners of this year's Hoso Bunka Foundation Awards, which honor outstanding programs and contributors to broadcasting technology, have been announced.",
+            "ja": "優れた番組や放送技術の向上に貢献した人などを表彰する、今年の放送文化基金賞の受賞者が発表されました。"
+          },
+          {
+            "en": "Among the winners are several highly acclaimed documentary programs produced by NHK.",
+            "ja": "受賞作には、NHKが制作した高い評価を得ているドキュメンタリー番組などが選ばれました。"
+          },
+          {
+            "en": "This prestigious award is held annually to recognize excellence in both television and radio broadcasting.",
+            "ja": "この権威ある賞は、テレビとラジオの放送における優れた業績を称えるために毎年開催されています。"
+          },
+          {
+            "en": "This year, numerous entries were submitted by broadcasting stations from all across Japan.",
+            "ja": "今年は、日本全国の放送局から数多くの作品が寄せられました。"
+          },
+          {
+            "en": "The selected programs were highly praised for their deep societal impact and innovative production techniques.",
+            "ja": "選ばれた番組は、深い社会的影響力や革新的な制作技術が高く評価されました。"
+          },
+          {
+            "en": "These awards continue to inspire creators to push the boundaries of media and technology.",
+            "ja": "これらの賞は、クリエイターたちがメディアや技術の限界に挑戦し続けるための励みとなっています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015143691000.html",
+        "title": "打ち上げ失敗から再起かけるH3ロケット 10日に6号機打ち上げへ",
+        "title_ja": "H3ロケット6号機、再起をかけた打ち上げへ",
+        "date": "Mon, 08 Jun 2026 06:31:40 +0900",
+        "summary": "Japan is preparing to launch its flagship H3 rocket No. 6, aiming for a successful comeback after past launch failures.",
+        "sentences": [
+          {
+            "en": "Japan is preparing to launch its flagship H3 rocket No. 6 from the Tanegashima Space Center in Kagoshima Prefecture on the 10th.",
+            "ja": "日本の主力ロケットである「H3」6号機が、10日に鹿児島県の種子島宇宙センターから打ち上げられる予定です。"
+          },
+          {
+            "en": "This upcoming launch is seen as a crucial step for Japan's space program to regain its footing after past setbacks.",
+            "ja": "今回の打ち上げは、過去の挫折を経て、日本の宇宙開発プログラムが再起を図るための極めて重要な一歩と見なされています。"
+          },
+          {
+            "en": "Since 2023, the country's space agency has faced several challenges, including a major launch failure of the first H3 model.",
+            "ja": "2023年以降、日本の宇宙開発機関は、H3初号機の重大な打ち上げ失敗など、いくつかの困難に直面してきました。"
+          },
+          {
+            "en": "To prevent another failure, engineers have conducted rigorous tests and improved the rocket's engine system.",
+            "ja": "再度の失敗を防ぐため、技術者たちは厳格なテストを重ね、ロケットのエンジンシステムを改良してきました。"
+          },
+          {
+            "en": "The successful mission of Unit 6 is expected to boost confidence in Japan's space technology on the global stage.",
+            "ja": "6号機のミッション成功は、世界の舞台における日本の宇宙技術への信頼を高めるものと期待されています。"
+          },
+          {
+            "en": "Many space enthusiasts and researchers are keeping a close eye on this significant event.",
+            "ja": "多くの宇宙ファンや研究者が、この重要な出来事に熱い視線を送っています。"
+          }
+        ]
+      }
+    ],
+    "政治": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260609/k10015145371000.html",
+        "title": "G7サミット 首脳宣言とりまとめ見送りの見方強まる",
+        "title_ja": "G7サミット、首脳宣言見送りか",
+        "date": "Tue, 09 Jun 2026 20:43:52 +0900",
+        "summary": "Expectations are growing that the upcoming G7 summit in France will not issue a joint declaration due to deep divisions between the US and Europe, particularly over Iran.",
+        "sentences": [
+          {
+            "en": "The G7 summit is scheduled to be held in France next week.",
+            "ja": "来週、フランスでG7サミットが開催される予定です。"
+          },
+          {
+            "en": "However, expectations are growing that the leaders will forgo issuing a comprehensive joint declaration.",
+            "ja": "しかし、首脳陣が包括的な共同宣言のとりまとめを見送るという見方が強まっています。"
+          },
+          {
+            "en": "This development comes amid noticeable differences in opinion between the United States and European nations.",
+            "ja": "この動きは、アメリカとヨーロッパ諸国の間の顕著な意見の相違の中で生じています。"
+          },
+          {
+            "en": "In particular, the two sides remain divided over how to handle the ongoing situation in Iran.",
+            "ja": "特に、イランをめぐる現在の情勢をどのように扱うかについて、両者の意見は分かれたままです。"
+          },
+          {
+            "en": "As these gaps in positions become more apparent, reaching a unified consensus is proving to be a major challenge.",
+            "ja": "こうした立場の隔たりが浮き彫りになるにつれ、統一された合意に達することが大きな課題となっています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144941000.html",
+        "title": "中道 立民 公明 “養子案めぐる森衆院議長の発言は不適切”",
+        "title_ja": "皇位継承をめぐる衆議院議長の見解と各党の反応",
+        "date": "Tue, 09 Jun 2026 19:38:36 +0900",
+        "summary": "Following the House Speaker's proposal that adopted male descendants of former royalty could pass on succession rights, major political parties have held talks with the legislative leadership.",
+        "sentences": [
+          {
+            "en": "Discussions regarding stable imperial succession in Japan are intensifying following a new view expressed by the Speaker of the House of Representatives.",
+            "ja": "安定的な皇位継承をめぐる議論は、衆議院議長が新たな見解を示したことを受けて活発化しています。"
+          },
+          {
+            "en": "On May 8th, the Speaker suggested that if a male descendant from the former imperial family is adopted, any male child born to them would hold succession rights.",
+            "ja": "8日、議長は旧皇族の男系男子を養子に迎えた場合、その人物に男の子が生まれれば皇位継承権を持つという見解を示しました。"
+          },
+          {
+            "en": "This proposal is seen as one way to address the shrinking number of imperial family members eligible to inherit the throne.",
+            "ja": "この提案は、皇位を継承する資格を持つ皇族の減少に対処するためのアプローチの一つと見なされています。"
+          },
+          {
+            "en": "In response, secretary-generals from several political parties met with the Speaker and Vice Speaker to discuss the statement.",
+            "ja": "これを受け、複数の政党の幹事長らが議長および副議長と会談し、この発言について協議しました。"
+          },
+          {
+            "en": "These parties include the Constitutional Democratic Party, Komeito, and the Center-Reform Coalition.",
+            "ja": "これらの政党には、立憲民主党、公明党、そして中道改革連合が含まれます。"
+          },
+          {
+            "en": "Securing a stable line of succession remains one of the most complex and sensitive political debates in Japan.",
+            "ja": "安定的な皇位継承の確保は、日本における最も複雑で困難な政治的議論の一つであり続けています。"
+          }
+        ]
+      }
+    ],
     "経済": [],
     "国際": [],
     "スポーツ": []
