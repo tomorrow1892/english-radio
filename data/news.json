@@ -1,229 +1,476 @@
 {
   "main_news": [
     {
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146071000.html",
+      "title": "日米 外務防衛事務レベル協議 安保3文書説明 中国核戦略も議論",
+      "title_ja": "日米が事務レベル協議、中国の核増強などを議論",
+      "date": "Wed, 10 Jun 2026 16:01:13 +0900",
+      "summary": "Japan and the U.S. held working-level security talks to discuss the revision of Japan's key defense documents and share concerns over China's rapid nuclear build-up.",
+      "sentences": [
+        {
+          "en": "Working-level talks were recently held between foreign and defense officials from Japan and the United States.",
+          "ja": "日米両政府の外務・防衛当局による事務レベルの協議が先日、行われました。"
+        },
+        {
+          "en": "During the meeting, the Japanese representatives explained their progress on revising three key national security documents.",
+          "ja": "会合の中で日本側は、安全保障関連の3文書の改定に向けた検討状況を説明しました。"
+        },
+        {
+          "en": "These documents outline the country's fundamental defense and security policies for the coming years.",
+          "ja": "これらの文書は、今後の日本の防衛および安全保障政策の基本方針を定めるものです。"
+        },
+        {
+          "en": "In addition, both sides shared concerns and exchanged views on China's rapid expansion of its nuclear arsenal.",
+          "ja": "さらに両者は、中国による急激な核戦力の増強をめぐっても意見を交わしました。"
+        },
+        {
+          "en": "This discussion highlights the ongoing efforts by both nations to strengthen the Japan-U.S. alliance amid growing regional tensions.",
+          "ja": "今回の協議は、地域の緊張が高まる中で、日米同盟を強化するための両国の継続的な取り組みを浮き彫りにしています。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146101000.html",
+      "title": "沖縄 宮古島市の池間島全域に避難指示",
+      "title_ja": "沖縄・宮古島市の池間島全域に避難指示、土砂災害の危険高まる",
+      "date": "Wed, 10 Jun 2026 16:03:47 +0900",
+      "summary": "An evacuation order was issued for Ikema Island in Miyakojima City, Okinawa, after a landslide warning was released, prompting a level four alert.",
+      "sentences": [
+        {
+          "en": "Miyakojima City in Okinawa Prefecture issued an evacuation order for the entire area of Ikema Island at 3:30 p.m.",
+          "ja": "沖縄県宮古島市は午後3時半、池間島全域に避難指示を出しました。"
+        },
+        {
+          "en": "This action was taken in response to a landslide warning issued for the area.",
+          "ja": "これは、同地域に土砂災害警戒情報が発表されたことを受けての措置です。"
+        },
+        {
+          "en": "The order represents alert level four on Japan's five-level disaster warning scale.",
+          "ja": "この避難指示は、5段階の警戒レベルのうち、レベル4の情報に相当します。"
+        },
+        {
+          "en": "Under this level, authorities are urging everyone in dangerous areas to evacuate immediately.",
+          "ja": "このレベルでは、危険な場所にいる全員が直ちに避難するよう呼びかけられています。"
+        },
+        {
+          "en": "Residents should prioritize their safety and move to designated shelters or secure locations.",
+          "ja": "住民の皆さんは安全を最優先にし、指定された避難所や安全な場所へ移動してください。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146091000.html",
+      "title": "さいたま 中学校でスプレー噴射されたと通報 16人が病院に搬送",
+      "title_ja": "さいたま市の中学校でスプレー噴射、生徒らが体調不良を訴え通報",
+      "date": "Wed, 10 Jun 2026 15:51:21 +0900",
+      "summary": "On October 10th, emergency services responded to Sashiuogi Junior High School in Saitama City after a teacher reported that students became unwell due to a sprayed substance.",
+      "sentences": [
+        {
+          "en": "On the afternoon of October 10th, an incident occurred at a junior high school in Saitama City.",
+          "ja": "10日の午後、さいたま市の中学校でトラブルが発生しました。"
+        },
+        {
+          "en": "Around 2:00 p.m., a teacher at Sashiuogi Junior High School in Nishi Ward called the fire department.",
+          "ja": "午後2時すぎ、西区にある指扇中学校の教員から消防に通報がありました。"
+        },
+        {
+          "en": "The teacher reported that some kind of spray had been discharged and several students were feeling unwell.",
+          "ja": "教員は、スプレーが噴射され、生徒らが体調不良を訴えていると伝えました。"
+        },
+        {
+          "en": "Police officers and firefighters rushed to the school immediately to investigate the situation.",
+          "ja": "状況を調査するため、警察と消防がすぐに学校へと駆けつけました。"
+        },
+        {
+          "en": "Preliminary reports suggest that a first-year male student may have been involved in the incident.",
+          "ja": "報道によると、1年生の男子生徒がこの事案に関与している可能性があるとのことです。"
+        }
+      ]
+    },
+    {
       "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145641000.html",
-      "title": "沖縄・奄美 11日にかけて激しい雨のおそれ 落雷や突風にも注意",
-      "title_ja": "沖縄・奄美で大雨のおそれ、梅雨前線の影響で大気不安定に",
-      "date": "Wed, 10 Jun 2026 06:55:28 +0900",
-      "summary": "Due to a stationary rain front, Okinawa and Amami are facing highly unstable weather with risks of heavy rain, landslides, and flooding through June 11th.",
+      "title": "沖縄・奄美に前線停滞 東海～九州は梅雨の晴れ間 熱中症対策を",
+      "title_ja": "沖縄・奄美で大雨の恐れ、東海から九州は気温上昇",
+      "date": "Wed, 10 Jun 2026 14:18:41 +0900",
+      "summary": "Heavy localized rain is forecast for Okinawa and Amami due to a stationary rain front, while areas from Tokai to Kyushu are experiencing rising temperatures.",
       "sentences": [
         {
-          "en": "Due to a stationary seasonal rain front, atmospheric conditions in Okinawa and Amami are expected to become highly unstable through June 11th.",
-          "ja": "停滞する梅雨前線の影響により、沖縄・奄美では11日にかけて大気の状態が非常に不安定になる見込みです。"
+          "en": "Due to a stationary seasonal rain front, heavy localized rain is expected in Okinawa and Amami through June 11th.",
+          "ja": "停滞する梅雨前線の影響で、沖縄や奄美では11日にかけて局地的に激しい雨が降るおそれがあります。"
         },
         {
-          "en": "This weather system could bring localized, heavy rainfall to these regions.",
-          "ja": "この気象状況により、これらの地域では局地的に激しい雨が降るおそれがあります。"
+          "en": "The Japan Meteorological Agency is urging residents to remain highly vigilant against landslides and flooding in low-lying areas.",
+          "ja": "気象庁は、土砂災害や低い土地の浸水などに十分注意するよう住民に呼びかけています。"
         },
         {
-          "en": "The Japan Meteorological Agency is advising residents to remain on high alert.",
-          "ja": "気象庁は、住民に対して十分注意するよう呼びかけています。"
+          "en": "There is also a risk of sudden lightning strikes and strong gusts of wind in these affected areas.",
+          "ja": "被害の恐れがある地域では、突然の落雷や突風が発生する危険性もあります。"
         },
         {
-          "en": "There are serious risks of landslides and flooding in low-lying areas.",
-          "ja": "土砂災害や低い土地の浸水が発生する危険性があります。"
+          "en": "Meanwhile, temperatures are rising in regions stretching from Tokai to Kyushu.",
+          "ja": "一方、東海から九州にかけての地域では気温が上昇しています。"
         },
         {
-          "en": "Additionally, people should watch out for lightning strikes and sudden gusts of wind.",
-          "ja": "さらに、落雷や突風にも注意する必要があります。"
-        },
-        {
-          "en": "Please stay updated with the latest weather forecasts and prioritize your safety.",
-          "ja": "最新の気象情報を確認し、安全を最優先にしてください。"
+          "en": "Officials are advising people in those areas to take proper precautions against heatstroke, such as staying hydrated.",
+          "ja": "関係機関は、こまめな水分補給など、熱中症への適切な対策をとるよう呼びかけています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145591000.html",
-      "title": "“イランに対して自衛のための攻撃を開始” アメリカ中央軍",
-      "title_ja": "イランによる米軍ヘリ撃墜と米国の報復措置",
-      "date": "Wed, 10 Jun 2026 07:07:22 +0900",
-      "summary": "President Trump announced that a US military helicopter was shot down by Iran over the Strait of Hormuz, prompting a defensive military response from the United States.",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145901000.html",
+      "title": "株価 一時1600円超値下がり AI・半導体銘柄に売り注文広がる",
+      "title_ja": "日経平均株価が1600円超急落、半導体株の売りやイラン情勢への懸念で",
+      "date": "Wed, 10 Jun 2026 13:56:39 +0900",
+      "summary": "The Nikkei Stock Average plummeted by over 1,600 yen on the Tokyo Stock Exchange due to sell-offs in AI and semiconductor stocks, compounded by rising geopolitical tensions in Iran.",
       "sentences": [
         {
-          "en": "US President Donald Trump has announced that a US military helicopter was shot down by Iran over the Strait of Hormuz.",
-          "ja": "アメリカのトランプ大統領は、ホルムズ海峡の上空でアメリカ軍のヘリコプターがイラン側によって撃墜されたと明らかにしました。"
+          "en": "On the Tokyo Stock Exchange on the 10th, selling pressure increased significantly in the afternoon.",
+          "ja": "10日の東京株式市場では、午後に入って売り注文が急増しました。"
         },
         {
-          "en": "While the President confirmed that the pilot is safe, the incident has significantly heightened regional tensions.",
-          "ja": "大統領は操縦士が無事であることを確認したものの、この事件により地域の緊張は著しく高まっています。"
+          "en": "As a result, the benchmark Nikkei Stock Average plummeted, with the drop exceeding 1,600 yen.",
+          "ja": "その結果、日経平均株価は急落し、値下がり幅は1,600円を超えました。"
         },
         {
-          "en": "In response, the US military has reportedly initiated a strike against Iran in what they describe as an act of self-defense.",
-          "ja": "これに対抗して、アメリカ軍は自衛のための措置として、イランに対する攻撃を開始したとのことです。"
+          "en": "The selling spread rapidly to AI and semiconductor-related shares, which had previously been leading the market's gains.",
+          "ja": "これまで市場の上昇を牽引してきたAIや半導体に関連する銘柄に、売り注文が急速に広がりました。"
         },
         {
-          "en": "The Strait of Hormuz is a vital maritime route for global oil shipments, making any conflict there highly sensitive.",
-          "ja": "ホルムズ海峡は世界の原油輸送にとって極めて重要な海上ルートであり、そこでのいかなる衝突も非常に敏感な問題となります。"
+          "en": "Investors are also becoming more cautious due to rising geopolitical risks, including the escalating situation in Iran.",
+          "ja": "また、緊迫化するイラン情勢をはじめとした地政学的リスクの高まりを受けて、投資家は警戒感を強めています。"
         },
         {
-          "en": "International leaders are closely watching the situation, hoping to prevent further military escalation.",
-          "ja": "国際社会の指導者たちは、これ以上の軍事的なエスカレーションを防ぐことを望みつつ、状況を注視しています。"
+          "en": "Market analysts suggest that these factors have prompted many to secure their profits amid growing global uncertainty.",
+          "ja": "市場関係者は、こうした世界的な不透明感の中で、多くの投資家が利益確定売りに動いたためだと指摘しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145581000.html",
-      "title": "サグラダ・ファミリア メインタワー完成 10日に記念ミサ",
-      "title_ja": "サグラダ・ファミリアの「イエスの塔」が完成、教皇がミサに出席へ",
-      "date": "Wed, 10 Jun 2026 06:36:40 +0900",
-      "summary": "The main tower of Barcelona's famous Sagrada Família has been completed, and Pope Leo XIV is scheduled to attend a commemorative mass to mark the occasion.",
+      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145831000.html",
+      "title": "ヘリ撃墜受け米軍がイラン攻撃 イランも報復主張で緊張続く",
+      "title_ja": "米軍、イランの防空施設を攻撃 ヘリ撃墜に対する自衛と発表",
+      "date": "Wed, 10 Jun 2026 14:44:06 +0900",
+      "summary": "The US military has completed self-defense strikes against Iranian air defense and radar facilities after a US helicopter was reportedly shot down over the Strait of Hormuz.",
       "sentences": [
         {
-          "en": "The Sagrada Família in Barcelona, Spain, widely known as an unfinished masterpiece, has reached a major milestone.",
-          "ja": "未完の傑作として広く知られるスペイン・バルセロナのサグラダ・ファミリア教会が、大きな節目を迎えました。"
+          "en": "The US military has announced the completion of defensive strikes against several targets in Iran.",
+          "ja": "アメリカ軍は、イラン国内の複数の標的に対する自衛のための攻撃を完了したと発表しました。"
         },
         {
-          "en": "Construction has finally been completed on the main tower, called the \"Tower of Jesus Christ,\" which stands over 170 meters tall.",
-          "ja": "高さ170メートルを超えるメインタワー、「イエスの塔」の建設がついに完了しました。"
+          "en": "This military action was taken after a US helicopter was shot down over the Strait of Hormuz.",
+          "ja": "この軍事行動は、ホルムズ海峡の上空でアメリカ軍のヘリコプターが撃墜されたことを受けて行われました。"
         },
         {
-          "en": "To celebrate this historic achievement, a special commemorative mass is scheduled to be held at the basilica.",
-          "ja": "この歴史的な偉業を祝うため、聖堂では記念ミサが執り行われる予定です。"
+          "en": "According to official reports, the strikes successfully targeted air defense facilities and surveillance radars.",
+          "ja": "公式発表によると、今回の攻撃は防空施設や監視レーダーなどを標的にし、無事に完了したとのことです。"
         },
         {
-          "en": "Pope Leo XIV is expected to visit the site on the 10th to lead the ceremony.",
-          "ja": "10日にはローマ教皇レオ14世も現地を訪れ、式典を執り行う予定です。"
+          "en": "The United States emphasized that these operations were conducted strictly for self-defense.",
+          "ja": "米国は、これらの作戦が純粋に自衛のために行われたものであることを強調しました。"
         },
         {
-          "en": "This event marks a monumental step forward for the famous landmark, which has been under construction for over a century.",
-          "ja": "この出来事は、1世紀以上にわたって建設が続けられてきたこの有名な建造物にとって、記念碑的な一歩となります。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145341000.html",
-      "title": "ひぼう中傷などの投稿削除 SNS事業者によってばらつき",
-      "title_ja": "SNS事業者の誹謗中傷対応にばらつき、専門家が改善を指摘",
-      "date": "Wed, 10 Jun 2026 07:17:25 +0900",
-      "summary": "A new report reveals that social media operators vary widely in how they handle user requests to delete online slander, prompting experts to call for improvements.",
-      "sentences": [
-        {
-          "en": "A report has been released showing how social media operators handle online slander and defamation.",
-          "ja": "インターネット上の誹謗中傷などに対し、SNSを運営する事業者がどのように対応しているかを示す状況が公表されました。"
-        },
-        {
-          "en": "According to the report, the number of posts deleted in response to user requests varies greatly among different operators.",
-          "ja": "報告書によると、利用者からの申し出を受けて投稿を削除した件数は、事業者によって大きなばらつきがあります。"
-        },
-        {
-          "en": "Some platforms act quickly to remove harmful content, while others show much lower deletion rates.",
-          "ja": "有害なコンテンツを素早く削除するプラットフォームがある一方で、削除率が著しく低いところもあります。"
-        },
-        {
-          "en": "This lack of consistency has raised concerns about user safety and the responsibility of these tech companies.",
-          "ja": "このような一貫性の欠如は、利用者の安全やこれらIT企業の責任に対する懸念を引き起こしています。"
-        },
-        {
-          "en": "In response, experts are calling for a thorough review to identify key areas for improvement.",
-          "ja": "これを受けて、専門家らは改善すべき主な点を特定するために、徹底的な見直しを行うよう求めています。"
-        },
-        {
-          "en": "They emphasize the need for clearer standards and faster response times to protect users from online abuse.",
-          "ja": "専門家らは、オンライン上の悪質な行為から利用者を守るため、より明確な基準と迅速な対応が必要であると強調しています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145431000.html",
-      "title": "中国 習主席が訪朝終え帰国 非核化への言及なしで懸念も",
-      "title_ja": "習主席の北朝鮮訪問、友好を強調するも核協議の詳細は不明",
-      "date": "Wed, 10 Jun 2026 05:20:25 +0900",
-      "summary": "Chinese President Xi Jinping concluded his two-day visit to North Korea, emphasizing bilateral friendship, though details about discussions on denuclearization remain unclear.",
-      "sentences": [
-        {
-          "en": "Chinese President Xi Jinping has completed his two-day state visit to North Korea.",
-          "ja": "中国の習近平国家主席は、2日間にわたる北朝鮮への公式訪問を終えました。"
-        },
-        {
-          "en": "During the visit, both nations strongly emphasized their traditional friendly relations.",
-          "ja": "訪問中、両国は従来の友好関係を強く強調しました。"
-        },
-        {
-          "en": "President Xi and North Korean leader Kim Jong Un held talks to strengthen bilateral ties.",
-          "ja": "習主席と北朝鮮の金正恩総書記は、二国間関係を強化するための会談を行いました。"
-        },
-        {
-          "en": "However, it remains unclear whether they had deep discussions regarding North Korea's nuclear weapons program.",
-          "ja": "しかし、北朝鮮の核兵器開発について、両者が深い議論を交わしたのかどうかは明らかになっていません。"
-        },
-        {
-          "en": "Experts point out that China likely wants to maintain regional stability while managing its relations with the United States.",
-          "ja": "専門家は、中国が米国との関係をコントロールしつつ、地域の安定を維持したいと考えているのではないかと指摘しています。"
-        },
-        {
-          "en": "This visit marked the first by a Chinese president to North Korea in 14 years, drawing significant international attention.",
-          "ja": "今回の訪問は中国の国家主席として14年ぶりの北朝鮮訪問となり、国際的な注目を集めました。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145351000.html",
-      "title": "経団連会長 “対中 新ビジネス枯渇に懸念” 関係改善探る",
-      "title_ja": "日中関係悪化に伴うビジネス停滞への懸念",
-      "date": "Wed, 10 Jun 2026 07:31:59 +0900",
-      "summary": "The chairman of Keidanren has expressed strong concern that deteriorating Japan-China relations, triggered by parliamentary debates on a Taiwan contingency, are causing new business opportunities to dry up.",
-      "sentences": [
-        {
-          "en": "Chairman Tsutsui of Keidanren, the Japan Business Federation, has expressed strong concern over the deteriorating relations between Japan and China.",
-          "ja": "経団連の筒井会長は、悪化している日中関係に対して強い懸念を表明しました。"
-        },
-        {
-          "en": "He noted that this strain was triggered by recent discussions in parliament regarding a potential \"Taiwan contingency.\"",
-          "ja": "同氏は、いわゆる「台湾有事」をめぐる国会での答弁が、この関係悪化のきっかけになったと指摘しました。"
-        },
-        {
-          "en": "According to the chairman, new business opportunities and projects with China are starting to dry up.",
-          "ja": "会長によると、中国との新しいビジネスの話やプロジェクトが枯渇しかけているとのことです。"
-        },
-        {
-          "en": "He fears that a prolonged political freeze will severely impact economic activities between the two nations.",
-          "ja": "政治的な冷え込みが長引けば、両国間の経済活動に深刻な影響が及ぶことを彼は懸念しています。"
-        },
-        {
-          "en": "To prevent further decline, he emphasized the need for the business community to take action and work toward improving bilateral relations.",
-          "ja": "これ以上の衰退を防ぐため、同氏は経済界としても行動を起こし、二国間関係の改善に向けて取り組む必要があると強調しました。"
+          "en": "In response to these developments, tension is rising as observers wait to see how Iran will react.",
+          "ja": "これらの動きに対し、イランがどのように反応するのか注視される中、緊張が高まっています。"
         }
       ]
     }
   ],
   "category_news": {
-    "社会": [],
-    "文化・エンタメ": [],
-    "科学・医療": [
+    "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260608/k10015144201000.html",
-        "title": "H3ロケット 10日の打ち上げを延期 “天候悪化予想”JAXA",
-        "title_ja": "主力ロケット「H3」の打ち上げ延期",
-        "date": "Mon, 08 Jun 2026 17:46:33 +0900",
-        "summary": "The launch of Japan's flagship H3 rocket has been postponed due to predicted bad weather, delaying JAXA's highly anticipated comeback attempt.",
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146091000.html",
+        "title": "さいたま 中学校でスプレー噴射されたと通報 16人が病院に搬送",
+        "title_ja": "さいたま市の中学校でスプレー噴射、生徒らが体調不良訴え",
+        "date": "Wed, 10 Jun 2026 15:51:21 +0900",
+        "summary": "On the afternoon of October 10th, emergency services were called to a junior high school in Saitama City after a spray was discharged and students complained of feeling unwell.",
         "sentences": [
           {
-            "en": "The launch of Japan's flagship H3 rocket, originally scheduled for the 10th, has been postponed due to bad weather.",
-            "ja": "10日に予定されていた日本の主力ロケット「H3」の打ち上げは、悪天候のため延期されました。"
+            "en": "On the afternoon of October 10th, an emergency call was made from a junior high school in Saitama City.",
+            "ja": "10日の午後、さいたま市の中学校から消防に緊急通報がありました。"
           },
           {
-            "en": "This mission is highly anticipated as JAXA aims for a successful comeback after a launch failure last year.",
-            "ja": "宇宙航空研究開発機構（JAXA）にとって、今回のミッションは去年の打ち上げ失敗からの再起をかけた重要なものです。"
+            "en": "A teacher at Sashiougi Junior High School reported that a spray had been discharged and several students were feeling sick.",
+            "ja": "指扇中学校の教員から、「スプレーが噴射され、生徒たちが体調不良を訴えている」と通報があったとのことです。"
           },
           {
-            "en": "However, with unfavorable weather conditions forecasted around the launch site, JAXA decided to delay the liftoff.",
-            "ja": "しかし、射場周辺で悪天候が予想されたため、JAXAは打ち上げの延期を決定しました。"
+            "en": "The incident occurred shortly after 2:00 p.m. in the city's Nishi Ward.",
+            "ja": "この事案は、同市西区で午後2時過ぎに発生しました。"
           },
           {
-            "en": "A new launch date has not yet been decided, and officials are currently monitoring the weather closely.",
-            "ja": "新たな打ち上げ日はまだ決まっておらず、関係者は現在も慎重に気象状況を監視しています。"
+            "en": "Police officers and firefighters rushed to the school immediately after receiving the call.",
+            "ja": "通報を受けた警察と消防は、すぐに学校へと駆けつけました。"
           },
           {
-            "en": "JAXA is expected to make an announcement as soon as a new window for the launch is confirmed.",
-            "ja": "JAXAは、新たな打ち上げ期間が確定し次第、発表を行う見通しです。"
+            "en": "When they arrived at the scene, they found several individuals, including a first-year male student, affected by the spray.",
+            "ja": "駆けつけたところ、1年生の男子生徒を含む複数人がスプレーの影響を受けている状況でした。"
+          },
+          {
+            "en": "Local authorities are now investigating the details of the incident and the contents of the spray.",
+            "ja": "警察などは現在、事案の詳しい経緯やスプレーの成分について調査を進めています。"
           }
         ]
       }
     ],
-    "政治": [],
+    "文化・エンタメ": [],
+    "科学・医療": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260609/k10015144861000.html",
+        "title": "赤澤経産相“原発建て替えへ立地自治体などの理解求めていく”",
+        "title_ja": "経産相、2040年代までに最大5基の原発建て替え見通しを重要視",
+        "date": "Tue, 09 Jun 2026 11:27:57 +0900",
+        "summary": "Japan's Economy, Trade and Industry Minister stated that rebuilding up to five nuclear reactors by the 2040s is crucial for energy security and human resource development.",
+        "sentences": [
+          {
+            "en": "Japan's Economy, Trade and Industry Minister discussed a new outlook for the country's nuclear energy sector.",
+            "ja": "経済産業大臣は、日本の原子力部門に関する新たな見通しについて言及しました。"
+          },
+          {
+            "en": "During a press conference following a cabinet meeting on the 9th, he mentioned the need to rebuild up to five nuclear reactors by the 2040s.",
+            "ja": "9日の閣議後の記者会見で、同大臣は2040年代までに最大5基の原子力発電所を建て替える必要があるとの見通しを示しました。"
+          },
+          {
+            "en": "The minister emphasized that this plan is crucial for securing Japan's energy supply.",
+            "ja": "大臣は、この計画が日本のエネルギー安全保障を確保するために極めて重要であると強調しました。"
+          },
+          {
+            "en": "He also noted that maintaining and rebuilding these plants will help train and strengthen the next generation of nuclear industry experts.",
+            "ja": "また、これらの発電所を維持し建て替えることは、次世代の原子力産業の人材を育成・強化することにもつながると指摘しました。"
+          },
+          {
+            "en": "This policy highlights Japan's ongoing efforts to balance its energy needs with long-term safety and technological growth.",
+            "ja": "この方針は、エネルギー需要と長期的な安全性、そして技術的な成長とのバランスを取ろうとする、日本の継続的な取り組みを示しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145781000.html",
+        "title": "月探査「アルテミス計画」 NASAが次の試験飛行の計画を発表",
+        "title_ja": "NASA、アルテミス計画の次期試験飛行計画を発表",
+        "date": "Wed, 10 Jun 2026 10:39:29 +0900",
+        "summary": "NASA has announced plans for the next Artemis test flight, which includes docking its spacecraft with private landers in space next year to prepare for future moon missions.",
+        "sentences": [
+          {
+            "en": "NASA has announced its plans for the next test flight under the US-led international moon exploration project, the Artemis program.",
+            "ja": "NASA（アメリカ航空宇宙局）は、アメリカが主導する国際深宇宙探査プロジェクト「アルテミス計画」における次の試験飛行計画を発表しました。"
+          },
+          {
+            "en": "Next year, NASA plans to conduct an experimental test to dock its spacecraft with landers built by two private companies in outer space.",
+            "ja": "来年、NASAは宇宙空間において、自社の宇宙船と民間企業2社が開発した着陸船をドッキングさせる実証実験を行う予定です。"
+          },
+          {
+            "en": "This collaborative effort aims to test how different technologies can work together seamlessly during future lunar missions.",
+            "ja": "この共同の取り組みは、将来の月面ミッションにおいて異なる技術がどのようにシームレスに連携できるかを検証することを目的としています。"
+          },
+          {
+            "en": "The Artemis program ultimately aims to send humans back to the moon, including the first woman and the first person of color.",
+            "ja": "アルテミス計画は、最終的には初となる女性や有色人種の宇宙飛行士を含む人類を再び月に送ることを目指しています。"
+          },
+          {
+            "en": "This upcoming test flight will be a crucial step in establishing a sustainable human presence on the lunar surface.",
+            "ja": "今回の試験飛行は、月面における持続可能な人類の活動拠点を構築するための極めて重要な一歩となります。"
+          },
+          {
+            "en": "By partnering with private industries, NASA hopes to accelerate space exploration and pave the way for future journeys to Mars.",
+            "ja": "民間企業と提携することで、NASAは宇宙探査を加速させ、将来の火星への旅への道を切り開くことを期待しています。"
+          }
+        ]
+      }
+    ],
+    "政治": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145971000.html",
+        "title": "改正学校教育法が成立「デジタル教科書」導入へ 参院本会議",
+        "title_ja": "デジタル教科書の導入法案が成立、2030年度の導入を目指す",
+        "date": "Wed, 10 Jun 2026 14:55:44 +0900",
+        "summary": "Japan has passed a revised education bill to introduce digital textbooks in schools, aiming for full implementation by fiscal year 2030.",
+        "sentences": [
+          {
+            "en": "Japan's parliament has passed a revised education bill to introduce digital textbooks in schools.",
+            "ja": "日本の国会は、学校へのデジタル教科書の導入に向けて、改正学校教育法などを可決・成立させました。"
+          },
+          {
+            "en": "The new legislation will allow elementary, junior high, and high schools to use tablets and other digital devices as textbooks.",
+            "ja": "新しい法律により、小学校、中学校、高校で、タブレットなどの端末を教科書として使用できるようになります。"
+          },
+          {
+            "en": "The bill was officially enacted after being approved by a majority vote in the House of Councillors.",
+            "ja": "この法案は、参議院本会議で賛成多数で可決され、正式に成立しました。"
+          },
+          {
+            "en": "The Japanese government aims to fully roll out these digital textbooks starting in the 2030 fiscal year.",
+            "ja": "日本政府は、2030年度からのデジタル教科書の本格的な導入を目指しています。"
+          },
+          {
+            "en": "This change is expected to make learning more interactive and tailored to individual student needs.",
+            "ja": "この変化により、学習がよりインタラクティブになり、個々の生徒のニーズに合わせたものになることが期待されています。"
+          },
+          {
+            "en": "Meanwhile, experts emphasize the importance of preparing school networks and addressing concerns about screen time.",
+            "ja": "一方で専門家は、学校のネットワーク環境の整備や、画面を見る時間への懸念に対処することの重要性を強調しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146071000.html",
+        "title": "日米 外務防衛事務レベル協議 安保3文書説明 中国核戦略も議論",
+        "title_ja": "日米が事務レベルの安全保障協議を開催",
+        "date": "Wed, 10 Jun 2026 16:01:13 +0900",
+        "summary": "Officials from Japan and the US held working-level talks to discuss Japan's defense document revisions and express concerns over China's rapid nuclear buildup.",
+        "sentences": [
+          {
+            "en": "Working-level officials from the foreign affairs and defense departments of Japan and the United States recently held security talks.",
+            "ja": "日米両政府の外務・防衛当局による事務レベルの安全保障協議が最近行われました。"
+          },
+          {
+            "en": "During the meeting, the Japanese representatives explained the current progress of their review to revise three key national security documents.",
+            "ja": "会合の中で日本側の代表者は、安全保障関連の3文書の改定に向けた検討状況を説明しました。"
+          },
+          {
+            "en": "This revision is seen as a crucial step for Japan to strengthen its defense capabilities and adapt to the changing security environment.",
+            "ja": "この改定は、日本が防衛力を強化し、変化する安全保障環境に適応するための極めて重要なステップとみなされています。"
+          },
+          {
+            "en": "The two sides also shared concerns and exchanged views regarding China's rapid buildup of its nuclear forces.",
+            "ja": "両者はまた、中国の急激な核戦力増強に対する懸念を共有し、意見を交わしました。"
+          },
+          {
+            "en": "Both nations reaffirmed their commitment to working closely together to ensure peace and stability in the Indo-Pacific region.",
+            "ja": "両国は、インド太平洋地域の平和と安定を確保するため、緊密に協力していく方針を再確認しました。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146021000.html",
+        "title": "海外事業支援制度を創設 改正経済安全保障推進法など成立",
+        "title_ja": "改正経済安全保障推進法が成立、重要企業の海外事業を支援へ",
+        "date": "Wed, 10 Jun 2026 15:25:32 +0900",
+        "summary": "Japan has enacted an amended economic security law to support the overseas operations of key companies in sectors like telecommunications and port infrastructure.",
+        "sentences": [
+          {
+            "en": "Japan's House of Councillors has passed and enacted an amendment to the Economic Security Promotion Act.",
+            "ja": "日本の参議院は、経済安全保障推進法の改正案を可決・成立させました。"
+          },
+          {
+            "en": "The revised law includes the creation of a new system to support the overseas operations of companies crucial to Japan's economic security.",
+            "ja": "改正法には、日本の経済安全保障にとって重要な企業の海外事業を支援する新たな制度の創設が盛り込まれています。"
+          },
+          {
+            "en": "This support targets key sectors such as information technology, telecommunications, and port infrastructure development.",
+            "ja": "この支援は、情報通信や港湾整備といった重要な分野を対象としています。"
+          },
+          {
+            "en": "The goal is to strengthen supply chains and protect critical technologies from geopolitical risks.",
+            "ja": "その目的は、サプライチェーンを強化し、地政学的リスクから重要な技術を保護することにあります。"
+          },
+          {
+            "en": "As global tensions rise, Japan aims to secure its economic interests through closer cooperation between the government and the private sector.",
+            "ja": "世界的な緊張が高まる中、日本は政府と民間企業の緊密な連携を通じて、経済的利益を確保することを目指しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145861000.html",
+        "title": "国旗損壊罪法案 自民 国民 表現の自由などで修正協議へ",
+        "title_ja": "国旗損壊を罰する法案、自民と国民民主が修正へ",
+        "date": "Wed, 10 Jun 2026 16:06:16 +0900",
+        "summary": "The LDP explained a bill to punish the desecration of the Japanese flag to the DPP, leading to discussions on balancing the law with freedom of expression and revising the bill.",
+        "sentences": [
+          {
+            "en": "The Liberal Democratic Party of Japan, or LDP, has explained a proposed bill to the Democratic Party for the People, or DPP, which aims to punish acts of damaging the Japanese national flag.",
+            "ja": "日本の自民党は、日本の国旗を損壊する行為を罰することを目指す法案について、国民民主党に説明を行いました。"
+          },
+          {
+            "en": "During the meeting, the LDP sought the DPP's understanding and support for the passage of the bill.",
+            "ja": "会合の中で、自民党は法案の成立に向けて国民民主党の理解と支持を求めました。"
+          },
+          {
+            "en": "In response, members of the DPP pointed out that the bill must be carefully balanced with the constitutional right to freedom of expression.",
+            "ja": "これに対し、国民民主党のメンバーは、この法案が憲法で保障された表現の自由とのバランスに慎重に配慮しなければならないと指摘しました。"
+          },
+          {
+            "en": "They expressed concerns that punishing such acts could potentially suppress political speech or protests.",
+            "ja": "彼らは、そのような行為を処罰することが、政治的発言や抗議活動を抑制する可能性があるとの懸念を示しました。"
+          },
+          {
+            "en": "Following these discussions, both parties have agreed to work together on making revisions to the bill.",
+            "ja": "これらの議論を経て、両党は法案の修正に向けて共同で作業を進めることで合意しました。"
+          },
+          {
+            "en": "This move highlights the ongoing debate in Japan over national symbols and individual liberties.",
+            "ja": "この動きは、国家の象徴と個人の自由をめぐり、日本国内で続いている議論を浮き彫りにしています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146001000.html",
+        "title": "高市首相 マレーシア首相と首脳会談 LNGの安定供給などで一致",
+        "title_ja": "日・マレーシア首脳会談、エネルギー分野での協力強化で一致",
+        "date": "Wed, 10 Jun 2026 14:30:16 +0900",
+        "summary": "Prime Minister Takaichi and Malaysian Prime Minister Anwar met in Japan and agreed to strengthen energy security cooperation, focusing on a stable LNG supply.",
+        "sentences": [
+          {
+            "en": "Prime Minister Takaichi held a meeting with Malaysian Prime Minister Anwar, who is currently visiting Japan.",
+            "ja": "高市総理大臣は、日本を訪れているマレーシアのアンワル首相と会談を行いました。"
+          },
+          {
+            "en": "Taking the current situation in the Middle East into consideration, the two leaders discussed their shared challenges.",
+            "ja": "中東情勢を踏まえ、両首脳は共有する課題について話し合いました。"
+          },
+          {
+            "en": "They agreed to promote cooperation in the field of energy security.",
+            "ja": "両氏は、エネルギー安全保障の分野における協力を推進していくことで一致しました。"
+          },
+          {
+            "en": "Specifically, they will work together to ensure a stable supply of liquefied natural gas, or LNG, from Malaysia.",
+            "ja": "具体的には、マレーシアからの液化天然ガス（LNG）の安定供給などを通じて協力していく方針です。"
+          },
+          {
+            "en": "This partnership is expected to further strengthen the relationship between the two nations.",
+            "ja": "このパートナーシップにより、両国間の関係がさらに強化されることが期待されています。"
+          }
+        ]
+      }
+    ],
     "経済": [],
     "国際": [],
-    "スポーツ": []
+    "スポーツ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015141261000.html",
+        "title": "【1分解説】今回のワールドカップ 新ルールって？",
+        "title_ja": "サッカーにクオーター制？W杯の給水タイム",
+        "date": "Wed, 10 Jun 2026 13:48:53 +0900",
+        "summary": "New hydration rules at the World Cup are making soccer matches feel like they have a basketball-style quarter system to protect players from extreme heat.",
+        "sentences": [
+          {
+            "en": "You might sometimes wonder if soccer has adopted a \"quarter system\" similar to basketball.",
+            "ja": "サッカーってバスケットボールのような「クオーター制」になったのだろうかと、不思議に思うことがあるかもしれません。"
+          },
+          {
+            "en": "This is because new rules are being introduced at the current World Cup.",
+            "ja": "これは、今回のワールドカップで新たなルールが導入されるためです。"
+          },
+          {
+            "en": "The main point of interest is the so-called \"hydration break.\"",
+            "ja": "注目されているのは、いわゆる「給水タイム」です。"
+          },
+          {
+            "en": "Under these rules, players are allowed to take official breaks to drink water during intense heat.",
+            "ja": "このルールのもとでは、選手たちは猛暑のなか、水分補給のために公式な休み時間を取ることが認められます。"
+          },
+          {
+            "en": "These short breaks temporarily halt the traditional 45-minute halves, making the match feel like it is split into quarters.",
+            "ja": "この短い休息によって従来の前後半45分が一時的に中断され、まるで試合がクオーター制に分割されているかのように感じられます。"
+          },
+          {
+            "en": "While some fans worry this disrupts the flow of the game, it is crucial for protecting player health.",
+            "ja": "試合の流れを損なうと心配するファンもいますが、選手の健康を守るためには極めて重要です。"
+          },
+          {
+            "en": "This change shows how modern sports are adapting to extreme weather conditions.",
+            "ja": "この変化は、現代のスポーツが過酷な気象条件にどのように適応しているかを示しています。"
+          }
+        ]
+      }
+    ]
   }
 }
