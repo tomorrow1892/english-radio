@@ -1,64 +1,35 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146371000.html",
-      "title": "大阪 天王寺の地下街で女性刺される 襲った2人組は逃走",
-      "title_ja": "大阪・天王寺の地下街で外国人女性が刺される 2人組が逃走中",
-      "date": "Wed, 10 Jun 2026 21:17:56 +0900",
-      "summary": "A foreign woman was stabbed by two attackers in an underground shopping mall in Osaka's Tennoji district, and the suspects are currently on the run.",
+      "url": "http://www3.nhk.or.jp/news/html/20260611/k10015146501000.html",
+      "title": "サグラダ・ファミリア教会 「イエスの塔」完成記念のミサ",
+      "title_ja": "サグラダ・ファミリア「イエスの塔」完成記念ミサと教皇のメッセージ",
+      "date": "Thu, 11 Jun 2026 07:33:36 +0900",
+      "summary": "A special mass was held at the Sagrada Familia in Barcelona to celebrate the completion of the 170-meter 'Tower of Jesus,' where a message from the Pope criticized promoting war while professing faith.",
       "sentences": [
         {
-          "en": "According to investigative sources, a foreign woman was stabbed on the 10th in an underground shopping mall in Osaka.",
-          "ja": "捜査関係者によりますと、10日、大阪市の地下街で外国人の女性が刺される事件がありました。"
+          "en": "A special mass was held at the Sagrada Familia in Barcelona, Spain, to celebrate the completion of the main tower, the \"Tower of Jesus.\"",
+          "ja": "スペイン・バルセロナのサグラダ・ファミリア教会で、メインタワーである「イエスの塔」の完成を記念する特別なミサが執り行われました。"
         },
         {
-          "en": "The incident took place in Tennoji, which is a busy downtown area of the city.",
-          "ja": "現場は、同市の繁華街である天王寺にある地下街です。"
+          "en": "This impressive tower stands at over 170 meters tall, marking a major milestone for the historic basilica.",
+          "ja": "この見事な塔は高さ170メートルを超え、この歴史的な聖堂にとって大きな節目となりました。"
         },
         {
-          "en": "Police say that the woman was attacked by a pair of individuals.",
-          "ja": "女性を襲ったのは2人組の人物だということです。"
+          "en": "During the ceremony, a message from Pope Leo XIV was shared with the attendees.",
+          "ja": "式典中、ローマ教皇レオ14世からのメッセージが参列者に伝えられました。"
         },
         {
-          "en": "The suspects fled the scene immediately after the incident and are currently on the run.",
-          "ja": "容疑者らは事件後すぐに現場から逃走しており、現在も逃げ続けています。"
+          "en": "In his message, the Pope strongly criticized those who promote war while claiming to believe in Jesus.",
+          "ja": "教皇はそのメッセージの中で、イエスを信じながら戦争を助長する人々を強く批判しました。"
         },
         {
-          "en": "There is also information suggesting that the two attackers may be foreigners themselves.",
-          "ja": "また、襲撃した2人組も外国人である可能性があるという情報が出ています。"
+          "en": "He emphasized that true faith should lead to peace, rather than conflict and violence.",
+          "ja": "彼は、真の信仰は対立や暴力ではなく、平和をもたらすべきであると強調しました。"
         },
         {
-          "en": "The police are currently searching for the suspects and investigating the details of the attack.",
-          "ja": "警察は現在、容疑者の行方を追うとともに、襲撃の詳しい経緯を調べています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260610/k10015146291000.html",
-      "title": "河野洋平 元衆議院議長が死去 89歳",
-      "title_ja": "河野洋平元衆院議長が死去、89歳",
-      "date": "Wed, 10 Jun 2026 21:25:09 +0900",
-      "summary": "Yohei Kono, a prominent Japanese politician who served as Speaker of the House of Representatives and LDP president, has passed away at the age of 89.",
-      "sentences": [
-        {
-          "en": "Former Speaker of the House of Representatives and Liberal Democratic Party President Yohei Kono has passed away at the age of 89.",
-          "ja": "自民党総裁や衆議院議長を務めた河野洋平元衆議院議長が、89歳で亡くなりました。"
-        },
-        {
-          "en": "Born in Hiratsuka City, Kanagawa Prefecture, Kono came from a highly influential political family.",
-          "ja": "神奈川県平塚市出身の河野氏は、非常に影響力のある政治家一族の生まれでした。"
-        },
-        {
-          "en": "His father, Ichiro Kono, served as Minister of Agriculture and Forestry as well as Minister of Construction.",
-          "ja": "父親の河野一郎氏は、農林大臣や建設大臣を務めました。"
-        },
-        {
-          "en": "Additionally, his uncle, Kenzo Kono, served as the President of the House of Councillors.",
-          "ja": "さらに、叔父の河野謙三氏は参議院議長を務めました。"
-        },
-        {
-          "en": "His passing marks the end of an era for a prominent figure who left a significant mark on Japan's postwar politics.",
-          "ja": "彼の逝去は、日本の戦後政治に大きな足跡を残した著名な政治家の一つの時代の終わりを告げるものです。"
+          "en": "The event brought together many people to celebrate both this architectural achievement and a call for global peace.",
+          "ja": "この行事には多くの人々が集まり、建築的な偉業と世界平和への呼びかけの両方を祝いました。"
         }
       ]
     }
@@ -67,39 +38,65 @@
     "社会": [],
     "文化・エンタメ": [],
     "科学・医療": [],
-    "政治": [],
+    "政治": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260611/k10015146471000.html",
+        "title": "安定的な皇位継承 6月中めどに皇室典範改正案など提出目指す",
+        "title_ja": "安定的な皇位継承に向けた法案提出へ",
+        "date": "Thu, 11 Jun 2026 05:11:05 +0900",
+        "summary": "Following a legislative consensus, the Japanese government plans to quickly draft and submit bills to the Diet by the end of this month to ensure a stable imperial succession.",
+        "sentences": [
+          {
+            "en": "The Japanese government is preparing to submit bills to ensure a stable imperial succession.",
+            "ja": "日本政府は、安定的な皇位継承を確保するための法案提出に向けて準備を進めています。"
+          },
+          {
+            "en": "This move comes after the legislature reached a consensus on how to address the issue.",
+            "ja": "この動きは、この課題への対応策について立法府の総意がとりまとめられたことを受けたものです。"
+          },
+          {
+            "en": "The government plans to quickly draft the necessary bills, including an amendment to the Imperial House Law.",
+            "ja": "政府は、皇室典範の改正案をはじめとする必要な法案の作成を速やかに急ぐ方針です。"
+          },
+          {
+            "en": "They aim to submit these legislative proposals to the Diet by the end of this month.",
+            "ja": "政府は、これらの法案を今月中をめどに国会へ提出することを目指しています。"
+          },
+          {
+            "en": "Securing a stable line of succession has long been a crucial topic for the future of the Japanese imperial family.",
+            "ja": "安定的な皇位継承の確保は、日本の皇室の将来にとって長年にわたり極めて重要な課題となっています。"
+          }
+        ]
+      }
+    ],
     "経済": [],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260610/k10015145791000.html",
-        "title": "サグラダ・ファミリア「イエスの塔」完成 今夜 記念のミサへ",
-        "title_ja": "サグラダ・ファミリアの「イエスの塔」が完成へ",
-        "date": "Wed, 10 Jun 2026 19:38:18 +0900",
-        "summary": "The main tower of Barcelona's famous Sagrada Familia, the Tower of Jesus Christ, has been completed, and Pope Leo XIV will hold a commemorative mass to celebrate.",
+        "url": "http://www3.nhk.or.jp/news/html/20260611/k10015146671000.html",
+        "title": "アメリカ中央軍「イラン国内の複数の標的に攻撃開始」",
+        "title_ja": "米軍、イラン国内の標的に対し追加攻撃を実施",
+        "date": "Thu, 11 Jun 2026 07:29:11 +0900",
+        "summary": "The U.S. Central Command has conducted additional self-defense strikes against targets in Iran, amid regional visits by Defense Secretary Pete Hegseth.",
         "sentences": [
           {
-            "en": "The Sagrada Familia in Barcelona, Spain, is widely known as an unfinished masterpiece.",
-            "ja": "スペイン・バルセロナのサグラダ・ファミリア教会は、未完の傑作として広く知られています。"
+            "en": "The U.S. Central Command announced that it has launched additional self-defense strikes against multiple targets inside Iran.",
+            "ja": "アメリカ中央軍は、イラン国内の複数の標的に対し、追加で自衛のための攻撃を開始したと発表しました。"
           },
           {
-            "en": "Recently, the construction of its main tower, the 'Tower of Jesus Christ,' has finally been completed.",
-            "ja": "このたび、そのメインタワーである「イエスの塔」の建設がついに完了しました。"
+            "en": "According to the announcement, the military action took place at 5:15 p.m. Eastern Standard Time on the 10th.",
+            "ja": "発表によると、この軍事行動は東部時間の10日午後5時15分に行われました。"
           },
           {
-            "en": "This impressive tower stands at an incredible height of over 170 meters.",
-            "ja": "この見事な塔は、170メートルを超える驚異的な高さを誇ります。"
+            "en": "These strikes were reportedly carried out to protect U.S. personnel and counter ongoing threats.",
+            "ja": "これらの攻撃は、米軍関係者を保護し、継続的な脅威に対抗するために実施されたとのことです。"
           },
           {
-            "en": "To celebrate this historic milestone, Pope Leo XIV will hold a special commemorative mass.",
-            "ja": "この歴史的な節目を祝うため、ローマ教皇レオ14世が特別な記念ミサを行います。"
+            "en": "Meanwhile, U.S. Defense Secretary Pete Hegseth has been on a visit to meet with regional partners.",
+            "ja": "一方、アメリカのヘグセス国防長官は、地域のパートナーと会談するため訪問を行っています。"
           },
           {
-            "en": "The ceremony is scheduled to take place on the evening of the 10th.",
-            "ja": "式典は10日の夜に行われる予定です。"
-          },
-          {
-            "en": "This event marks a significant step forward for the iconic basilica, which has been under construction for more than a century.",
-            "ja": "1世紀以上にわたって建設が続けられてきたこの象徴的な聖堂にとって、この出来事は大きな進展を意味しています。"
+            "en": "The United States maintains that it does not seek conflict but will remain prepared to defend its interests.",
+            "ja": "米国は衝突を望んでいないと主張しつつも、自国の利益を守るための備えは怠らないとしています。"
           }
         ]
       }
