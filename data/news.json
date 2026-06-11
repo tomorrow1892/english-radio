@@ -1,5 +1,93 @@
 {
-  "main_news": [],
+  "main_news": [
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015147931000.html",
+      "title": "サッカー日本代表 遠藤航がけがで離脱 W杯出場せず 町野を招集",
+      "title_ja": "遠藤航選手がケガでW杯代表離脱、町野修斗選手を追加招集",
+      "date": "Fri, 12 Jun 2026 04:55:18 +0900",
+      "summary": "Wataru Endo, the captain of the Japan national football team, will miss the upcoming World Cup due to a left foot injury, with Shuto Machino called up as his replacement.",
+      "sentences": [
+        {
+          "en": "Japan national football team captain Wataru Endo has left the squad ahead of the upcoming FIFA World Cup.",
+          "ja": "サッカー日本代表のキャプテン、遠藤航選手が、間近に迫ったワールドカップを前にチームを離脱しました。"
+        },
+        {
+          "en": "He is unable to participate in the tournament due to a persistent injury to his left foot.",
+          "ja": "左足のケガの状態が思わしくないため、今大会には出場しないことになりました。"
+        },
+        {
+          "en": "The midfielder's absence is a significant blow to the team, given his leadership and experience.",
+          "ja": "彼のリーダーシップと経験を考えると、このミッドフィルダーの不在はチームにとって大きな打撃です。"
+        },
+        {
+          "en": "In his place, forward Shuto Machino has been newly called up to join the squad.",
+          "ja": "遠藤選手に代わり、新たにフォワードの町野修斗選手が追加招集されました。"
+        },
+        {
+          "en": "Fans are hoping the team can overcome this setback and perform well in the North American tournament.",
+          "ja": "ファンはチームがこの逆境を乗り越え、北中米大会で活躍することを期待しています。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015147841000.html",
+      "title": "安定的な皇位継承 男系男子の養子案 法整備のあり方論点に",
+      "title_ja": "安定的な皇位継承に向けた法案作成と皇室典範改正の動き",
+      "date": "Fri, 12 Jun 2026 05:33:26 +0900",
+      "summary": "The Japanese government is drafting a bill for stable imperial succession following a legislative consensus. A key proposal involves amending the Imperial House Law to permanently allow the adoption of male descendants from former imperial branches.",
+      "sentences": [
+        {
+          "en": "The Japanese government is currently preparing a bill to ensure a stable imperial succession for the future.",
+          "ja": "政府は将来の安定的な皇位継承を確保するため、現在、必要な法案の作成を進めています。"
+        },
+        {
+          "en": "This development comes after the legislature reached a general consensus on how to address the issue.",
+          "ja": "この動きは、この課題にどのように対応するかについて、立法府の総意がとりまとめられたことを受けたものです。"
+        },
+        {
+          "en": "One of the major proposals being discussed is allowing current imperial members to adopt male descendants from former imperial branches.",
+          "ja": "議論されている主な提案の一つは、現行の皇族が旧皇族の男系男子を養子に迎えることを可能にすることです。"
+        },
+        {
+          "en": "There is a growing opinion within the government that the Imperial House Law should be amended to make this a permanent system.",
+          "ja": "政府内では、これを恒久的な制度とするために皇室典範を改正すべきだという意見が強まっています。"
+        },
+        {
+          "en": "Officials will continue to work on the details to balance traditional practices with the modern needs of the royal family.",
+          "ja": "政府関係者は、伝統的な慣習と皇室の現代的なニーズとのバランスをとるため、今後も詳細の検討を続けていきます。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260612/k10015147941000.html",
+      "title": "トランプ氏 一転して攻撃中止明らかに イランとの協議は不透明",
+      "title_ja": "米トランプ大統領、イランへの攻撃を急遽中止",
+      "date": "Fri, 12 Jun 2026 07:13:22 +0900",
+      "summary": "US President Donald Trump has reversed his decision to launch military strikes against Iran, claiming that Iran had approved the terms of their discussions, though Iran has not confirmed a final agreement.",
+      "sentences": [
+        {
+          "en": "US President Donald Trump has announced that he decided to call off planned military strikes against Iran.",
+          "ja": "米国のトランプ大統領は、イランに対して計画していた軍事攻撃を急遽中止することを明らかにしました。"
+        },
+        {
+          "en": "Previously, Trump had indicated a strong intention to launch further attacks on the country.",
+          "ja": "トランプ大統領はこれまで、同国に対してさらなる攻撃を行う考えを強く示していました。"
+        },
+        {
+          "en": "He reversed his decision after stating that the details of their discussions had been approved by the Iranian side.",
+          "ja": "しかし、協議の内容がイラン側で承認されたなどとして、一転して攻撃を中止したと説明しています。"
+        },
+        {
+          "en": "On the other hand, the Iranian side reportedly states that they have not yet reached a final conclusion.",
+          "ja": "一方、イラン側はまだ最終的な結論には至っていないと伝えられています。"
+        },
+        {
+          "en": "The international community is closely watching how these sudden developments will affect the future relationship between the two nations.",
+          "ja": "この突然の展開が今後の両国関係にどのような影響を与えるか、国際社会が注視しています。"
+        }
+      ]
+    }
+  ],
   "category_news": {
     "社会": [],
     "文化・エンタメ": [],
