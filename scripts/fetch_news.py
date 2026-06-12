@@ -25,42 +25,42 @@ RSS_URL = "https://www3.nhk.or.jp/rss/news/cat0.xml"  # Legacy: kept for backwar
 RSS_FEEDS = {
     "main": {
         "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-        "max_articles": 10,
+        "max_articles": 5,
         "label": "主要ニュース"
     },
     "society": {
         "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-        "max_articles": 5,
+        "max_articles": 2,
         "label": "社会"
     },
     "culture_entertainment": {
         "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
-        "max_articles": 5,
+        "max_articles": 2,
         "label": "文化・エンタメ"
     },
     "science_health": {
         "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-        "max_articles": 5,
+        "max_articles": 2,
         "label": "科学・医療"
     },
     "politics": {
         "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
-        "max_articles": 5,
+        "max_articles": 2,
         "label": "政治"
     },
     "economy": {
         "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
-        "max_articles": 5,
+        "max_articles": 2,
         "label": "経済"
     },
     "international": {
         "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-        "max_articles": 5,
+        "max_articles": 2,
         "label": "国際"
     },
     "sports": {
         "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
-        "max_articles": 5,
+        "max_articles": 2,
         "label": "スポーツ"
     }
 }
@@ -89,7 +89,7 @@ BOILERPLATE_MARKERS = ("受信契約", "ご利用の場合は", "受信料の未
 
 # Rate limiting: Track API calls to stay under 20 calls per minute
 api_calls_in_window = []
-RATE_LIMIT_CALLS = 20
+RATE_LIMIT_CALLS = 5
 RATE_LIMIT_WINDOW_SECONDS = 60
 
 # System prompt for Gemini
