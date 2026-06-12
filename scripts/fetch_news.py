@@ -27,43 +27,43 @@ RSS_FEEDS = {
         "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
         "max_articles": 5,
         "label": "主要ニュース"
-    },
-    "society": {
-        "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-        "max_articles": 2,
-        "label": "社会"
-    },
-    "culture_entertainment": {
-        "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
-        "max_articles": 2,
-        "label": "文化・エンタメ"
-    },
-    "science_health": {
-        "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-        "max_articles": 2,
-        "label": "科学・医療"
-    },
-    "politics": {
-        "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
-        "max_articles": 2,
-        "label": "政治"
-    },
-    "economy": {
-        "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
-        "max_articles": 2,
-        "label": "経済"
-    },
-    "international": {
-        "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-        "max_articles": 2,
-        "label": "国際"
-    },
-    "sports": {
-        "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
-        "max_articles": 2,
-        "label": "スポーツ"
     }
 }
+#  "society": {
+#         "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+#         "max_articles": 2,
+#         "label": "社会"
+#     },
+#     "culture_entertainment": {
+#         "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
+#         "max_articles": 2,
+#         "label": "文化・エンタメ"
+#     },
+#     "science_health": {
+#         "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+#         "max_articles": 2,
+#         "label": "科学・医療"
+#     },
+#     "politics": {
+#         "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
+#         "max_articles": 2,
+#         "label": "政治"
+#     },
+#     "economy": {
+#         "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
+#         "max_articles": 2,
+#         "label": "経済"
+#     },
+#     "international": {
+#         "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+#         "max_articles": 2,
+#         "label": "国際"
+#     },
+#     "sports": {
+#         "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
+#         "max_articles": 2,
+#         "label": "スポーツ"
+#     }
 MAX_ARTICLES = 5  # Legacy: kept for backward compatibility
 MIN_BODY_CHARS = 30
 OUTPUT_DIR = "data"
@@ -397,7 +397,7 @@ def fetch_from_feed(feed_key, feed_config):
         total = len(articles_to_process)
         
         # Use max_workers=4 to limit concurrent API calls (respects rate_limit_check)
-        with ThreadPoolExecutor(max_workers=4) as executor:
+        with ThreadPoolExecutor(max_workers=1) as executor:
             # Submit all tasks
             futures = {
                 executor.submit(process_article, url, title, date, rss_summary): title
