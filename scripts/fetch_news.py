@@ -27,43 +27,44 @@ RSS_FEEDS = {
         "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
         "max_articles": 5,
         "label": "主要ニュース"
+    },
+    "society": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+        "max_articles": 2,
+        "label": "社会"
+    },
+    "culture_entertainment": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
+        "max_articles": 2,
+        "label": "文化・エンタメ"
+    },
+    "science_health": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+        "max_articles": 2,
+        "label": "科学・医療"
+    },
+    "politics": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
+        "max_articles": 2,
+        "label": "政治"
+    },
+    "economy": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
+        "max_articles": 2,
+        "label": "経済"
+    },
+    "international": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+        "max_articles": 2,
+        "label": "国際"
+    },
+    "sports": {
+        "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
+        "max_articles": 2,
+        "label": "スポーツ"
     }
 }
-#  "society": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-#         "max_articles": 2,
-#         "label": "社会"
-#     },
-#     "culture_entertainment": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat2.xml",
-#         "max_articles": 2,
-#         "label": "文化・エンタメ"
-#     },
-#     "science_health": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-#         "max_articles": 2,
-#         "label": "科学・医療"
-#     },
-#     "politics": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat4.xml",
-#         "max_articles": 2,
-#         "label": "政治"
-#     },
-#     "economy": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
-#         "max_articles": 2,
-#         "label": "経済"
-#     },
-#     "international": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-#         "max_articles": 2,
-#         "label": "国際"
-#     },
-#     "sports": {
-#         "url": "https://www3.nhk.or.jp/rss/news/cat7.xml",
-#         "max_articles": 2,
-#         "label": "スポーツ"
-#     }
+ 
 MAX_ARTICLES = 5  # Legacy: kept for backward compatibility
 MIN_BODY_CHARS = 30
 OUTPUT_DIR = "data"
@@ -91,6 +92,12 @@ BOILERPLATE_MARKERS = ("受信契約", "ご利用の場合は", "受信料の未
 api_calls_in_window = []
 RATE_LIMIT_CALLS = 5
 RATE_LIMIT_WINDOW_SECONDS = 60
+
+# Global flag to suspend calls after hitting rate limits
+api_calls_suspended = False
+
+# Cached and ordered list of available Gemini models
+AVAILABLE_GEMINI_MODELS = None
 
 # System prompt for Gemini
 SYSTEM_PROMPT = """
@@ -163,31 +170,53 @@ def load_local_env():
 
 
 def get_gemini_model_names():
-    preferred = os.environ.get("GEMINI_MODEL", "").strip()
-    if preferred:
-        return [preferred] + [name for name in DEFAULT_GEMINI_MODELS if name != preferred]
-    return list(DEFAULT_GEMINI_MODELS)
+    global AVAILABLE_GEMINI_MODELS
+    if AVAILABLE_GEMINI_MODELS is None:
+        preferred = os.environ.get("GEMINI_MODEL", "").strip()
+        if preferred:
+            AVAILABLE_GEMINI_MODELS = [preferred]
+        else:
+            AVAILABLE_GEMINI_MODELS = list(DEFAULT_GEMINI_MODELS)
+    return AVAILABLE_GEMINI_MODELS
 
 
 def generate_gemini_json(prompt):
     """Call Gemini with model fallback when a model name is unavailable."""
+    global AVAILABLE_GEMINI_MODELS
     last_error = None
-    for model_name in get_gemini_model_names():
+    # Use list copy to safely modify the list if needed
+    for model_name in list(get_gemini_model_names()):
         try:
             model = genai.GenerativeModel(model_name)
-            response = model.generate_content(
-                prompt,
-                generation_config={"response_mime_type": "application/json"},
-            )
-            if model_name != get_gemini_model_names()[0]:
+            try:
+                response = model.generate_content(
+                    prompt,
+                    generation_config={"response_mime_type": "application/json"},
+                )
+            except google_exceptions.ResourceExhausted as error:
+                print(f"  Rate limit hit (ResourceExhausted) for model '{model_name}'. Waiting 60 seconds to retry...")
+                time.sleep(60)
+                # Retry call
+                response = model.generate_content(
+                    prompt,
+                    generation_config={"response_mime_type": "application/json"},
+                )
+            # If the fallback model succeeded, move it to the front so subsequent articles use it immediately
+            if model_name != AVAILABLE_GEMINI_MODELS[0]:
                 print(f"  Used fallback Gemini model: {model_name}")
+                if model_name in AVAILABLE_GEMINI_MODELS:
+                    AVAILABLE_GEMINI_MODELS.remove(model_name)
+                    AVAILABLE_GEMINI_MODELS.insert(0, model_name)
             return response
         except google_exceptions.NotFound as error:
             print(f"  Model '{model_name}' is not available.")
             last_error = error
+            # Remove from available models to avoid retrying in this run
+            if model_name in AVAILABLE_GEMINI_MODELS:
+                AVAILABLE_GEMINI_MODELS.remove(model_name)
     if last_error:
         raise last_error
-    raise RuntimeError("No Gemini models configured.")
+    raise RuntimeError("No Gemini models configured or available.")
 
 
 def generate_mock_data():
@@ -324,6 +353,11 @@ def fetch_article_body(url, title="", rss_summary=""):
 
 def process_article(url, title, date, rss_summary):
     """Scrapes article body and generates English translation using Gemini API."""
+    global api_calls_suspended
+    if api_calls_suspended:
+        print(f"Skipping {url}: Gemini API calls are suspended due to rate limit/errors.")
+        return None
+
     print(f"Fetching content from: {url}")
     try:
         body_text = fetch_article_body(url, title=title, rss_summary=rss_summary)
@@ -356,6 +390,10 @@ def process_article(url, title, date, rss_summary):
             "sentences": data.get("sentences", []),
         }
 
+    except google_exceptions.ResourceExhausted as error:
+        print(f"Rate limit hit (ResourceExhausted) during article {url}: {error}")
+        api_calls_suspended = True
+        return None
     except Exception as error:
         print(f"Error processing article {url}: {error}")
         traceback.print_exc()
@@ -364,13 +402,13 @@ def process_article(url, title, date, rss_summary):
 
 def load_existing_news():
     if not os.path.exists(OUTPUT_FILE):
-        return []
+        return {}
     try:
         with open(OUTPUT_FILE, encoding="utf-8") as file:
             data = json.load(file)
-        return data if isinstance(data, list) else []
+        return data if isinstance(data, dict) else {}
     except (json.JSONDecodeError, OSError):
-        return []
+        return {}
 
 
 def fetch_from_feed(feed_key, feed_config):
