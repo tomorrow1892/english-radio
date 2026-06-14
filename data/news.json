@@ -1,151 +1,167 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149471000.html",
-      "title": "トランプ大統領 覚書に「14日署名」イラン側「14日ではない」",
-      "title_ja": "イランとの戦闘終結の覚書、数日中に署名か",
-      "date": "Sun, 14 Jun 2026 06:14:52 +0900",
-      "summary": "U.S. President Donald Trump announced that a memorandum to end hostilities with Iran is expected to be signed on the 14th, while Iran suggests it will likely happen within a few days.",
+      "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149921000.html",
+      "title": "【速報】トランプ大統領 「イランとの合意完了 海峡は開放」",
+      "title_ja": "トランプ大統領、イランとの合意完了を発表",
+      "date": "Mon, 15 Jun 2026 06:57:46 +0900",
+      "summary": "U.S. President Donald Trump announced on social media that an agreement has been finalized with Iran to end hostilities, which includes keeping the Strait of Hormuz open without transit fees.",
       "sentences": [
         {
-          "en": "U.S. President Donald Trump has expressed expectations regarding a memorandum of understanding aimed at ending hostilities with Iran.",
-          "ja": "アメリカのトランプ大統領は、イランとの戦闘終結に向けた覚書について、署名の見通しを示しました。"
+          "en": "U.S. President Donald Trump announced on social media on the 14th that an agreement with Iran has been finalized.",
+          "ja": "アメリカのトランプ大統領は14日、SNSへの投稿で、イランとの合意が完了したと明らかにしました。"
         },
         {
-          "en": "He indicated that the agreement is anticipated to be signed on the 14th.",
-          "ja": "トランプ氏は、この合意文書が14日に署名される見込みであると言及しました。"
+          "en": "The agreement focuses on a memorandum of understanding aimed at ending hostilities between the two nations.",
+          "ja": "この合意は、両国間の戦闘終結に向けた協議をめぐる覚書に関するものです。"
         },
         {
-          "en": "However, the Iranian side had offered a slightly different timeline prior to this statement.",
-          "ja": "しかし、イラン側はこの投稿に先立って、わずかに異なるタイムラインを提示していました。"
+          "en": "In his post, Trump stated that the deal has been successfully completed.",
+          "ja": "トランプ氏は投稿の中で、「イランとの合意は完了した」と述べました。"
         },
         {
-          "en": "While they stated that the signing would not take place on the 14th, they acknowledged it is likely to happen within a few days.",
-          "ja": "署名は14日ではないとしつつも、数日中に行われる可能性が高いと認めています。"
+          "en": "He also mentioned that the Strait of Hormuz will be kept open without any transit fees.",
+          "ja": "さらに同氏は、ホルムズ海峡を通航料なしに開放することについても言及しました。"
         },
         {
-          "en": "Observers are closely watching whether the two nations can successfully finalize the agreement to ease regional tensions.",
-          "ja": "地域の緊張を緩和するため、両国が合意を無事に正式決定できるかどうかに注目が集まっています。"
+          "en": "The Strait of Hormuz is a crucial global shipping route, especially for oil transportation.",
+          "ja": "ホルムズ海峡は、特に石油輸送において世界的に極めて重要な海上交通路です。"
+        },
+        {
+          "en": "This development is expected to significantly reduce geopolitical tensions in the region.",
+          "ja": "今回の進展により、この地域における地政学的な緊張が大幅に緩和されることが期待されています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149251000.html",
-      "title": "高市首相 英に到着 首脳会談へ 経済安保の成果文書発表で調整",
-      "title_ja": "高市総理、イギリス到着、経済安保で共同文書発表へ",
-      "date": "Sun, 14 Jun 2026 04:35:00 +0900",
-      "summary": "Prime Minister Takaichi has arrived in the UK for a summit with Prime Minister Starmer to discuss economic security and cooperation on critical minerals.",
+      "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149851000.html",
+      "title": "【配信中】サッカーW杯 日本 初戦はオランダと引き分け",
+      "title_ja": "日本代表、W杯初戦でオランダと2-2の引き分け",
+      "date": "Mon, 15 Jun 2026 07:03:25 +0900",
+      "summary": "Japan's national soccer team drew 2-2 against the powerhouse Netherlands in their opening match of the World Cup, showing great resilience after falling behind twice.",
       "sentences": [
         {
-          "en": "Prime Minister Takaichi arrived in the United Kingdom on the morning of the 14th, Japan time.",
-          "ja": "高市総理大臣は、日本時間の14日朝、イギリスに到着しました。"
+          "en": "In the World Cup hosted in North and Central America, the Japanese national team, aiming for the championship, faced the powerhouse Netherlands in their highly anticipated opening match.",
+          "ja": "北中米で開催されているワールドカップで、優勝を目標に掲げる日本代表が、注目のグループリーグ初戦で強豪オランダと対戦しました。"
         },
         {
-          "en": "She is scheduled to hold a summit meeting with British Prime Minister Starmer on the evening of the 14th.",
-          "ja": "14日夜には、イギリスのスターマー首相との首脳会談に臨む予定です。"
+          "en": "The intense match ended in a dramatic two-to-two draw.",
+          "ja": "白熱した試合は、劇的な2対2の引き分けに終わりました。"
         },
         {
-          "en": "During the meeting, the two leaders are expected to discuss strengthening their bilateral relationship.",
-          "ja": "会談において、両首脳は二国間関係の強化について話し合う見通しです。"
+          "en": "After a scoreless first half, the Netherlands struck early in the second half to take the lead.",
+          "ja": "前半を無得点で終えた後、後半開始早々にオランダに先制点を許してしまいます。"
         },
         {
-          "en": "They are currently working to finalize a joint agreement on economic security.",
-          "ja": "現在、経済安全保障に関する成果文書の合意に向けて、最終調整が進められています。"
+          "en": "Japan responded quickly, scoring an equalizer to level the game.",
+          "ja": "しかし日本もすぐに同点に追いつき、試合を振り出しに戻しました。"
         },
         {
-          "en": "The document is expected to outline cooperation in areas such as stockpiling critical minerals.",
-          "ja": "この文書には、重要鉱物の備蓄といった分野での協力体制が盛り込まれる方向です。"
+          "en": "Although the Netherlands managed to pull ahead once more, Japan refused to give up.",
+          "ja": "その後、オランダに再び勝ち越しを許したものの、日本は諦めませんでした。"
+        },
+        {
+          "en": "They successfully scored another goal near the end of the match to secure a hard-earned point.",
+          "ja": "試合終盤に見事なゴールを決めて再び追いつき、貴重な勝ち点を獲得しました。"
+        },
+        {
+          "en": "This resilient performance in the opener gives Japan a solid foundation for the rest of the group stage.",
+          "ja": "初戦で見せたこの粘り強い戦いぶりは、今後のグループステージに向けて確かな足がかりとなりました。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149271000.html",
-      "title": "天皇皇后両陛下 公式訪問先のオランダに到着",
-      "title_ja": "天皇皇后両陛下、公式訪問のためオランダに到着",
-      "date": "Sun, 14 Jun 2026 03:31:12 +0900",
-      "summary": "The Emperor and Empress of Japan have arrived in the Netherlands, marking the beginning of their official visit to the Netherlands and Belgium.",
+      "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149881000.html",
+      "title": "日銀 きょうから金融政策決定会合 利上げを最終判断へ",
+      "title_ja": "日銀、総裁不在の異例の会合で利上げを議論へ",
+      "date": "Mon, 15 Jun 2026 05:55:44 +0900",
+      "summary": "The Bank of Japan is holding an unusual policy meeting without its hospitalized governor, facing growing pressure to raise interest rates due to high oil prices and a weak yen.",
       "sentences": [
         {
-          "en": "The Emperor and Empress of Japan have arrived in the Netherlands, the first stop of their official visit to Europe.",
-          "ja": "天皇皇后両陛下は、ヨーロッパ公式訪問の最初の訪問国であるオランダに到着されました。"
+          "en": "The Bank of Japan is scheduled to hold a two-day monetary policy meeting starting on the 15th.",
+          "ja": "日銀は15日から2日間の日程で、金融政策決定会合を開催する予定です。"
         },
         {
-          "en": "Their Majesties departed from Tokyo's Haneda Airport on a Japanese government plane.",
-          "ja": "両陛下は、東京の羽田空港から政府専用機で出発されました。"
+          "en": "This will be an unusual meeting, as Governor Kazuo Ueda will be absent due to being hospitalized.",
+          "ja": "植田和男総裁が入院中のため欠席するという、異例の会合となります。"
         },
         {
-          "en": "The aircraft landed safely at around 6:45 p.m. local time on the 13th.",
-          "ja": "政府専用機は、現地時間の13日午後6時45分ごろに無事着陸しました。"
+          "en": "Meanwhile, geopolitical tensions in Iran have led to rising crude oil prices and a weaker Japanese yen.",
+          "ja": "一方、イランの緊迫した情勢の影響により、原油価格の高騰や円安傾向が続いています。"
         },
         {
-          "en": "During this trip, they are scheduled to officially visit both the Netherlands and Belgium.",
-          "ja": "今回の滞在中、両陛下はオランダとベルギーの両国を公式に訪問される予定です。"
+          "en": "Under these challenging conditions, there is an urgent need for the central bank to address rising inflation.",
+          "ja": "こうした厳しい状況下で、日銀は物価上昇への対応を急ぐ必要があります。"
         },
         {
-          "en": "This visit is expected to further deepen the friendly relations between Japan and these two European nations.",
-          "ja": "この訪問により、日本とこれらヨーロッパ2カ国との友好関係がさらに深まることが期待されています。"
+          "en": "Because of this, policymakers are expected to discuss the possibility of raising interest rates.",
+          "ja": "そのため、政策決定者らは利上げに踏み切る可能性について議論する見通しです。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149481000.html",
-      "title": "サッカーＷ杯北中米大会 日本が会場のある米ダラスで最終調整",
-      "title_ja": "W杯初戦オランダ戦へ、日本代表がダラスで最終調整",
-      "date": "Sun, 14 Jun 2026 06:56:59 +0900",
-      "summary": "The Japanese national football team has held their final training session in Dallas, USA, ahead of their opening World Cup match against the Netherlands.",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149611000.html",
+      "title": "W杯 オランダとの初戦 元日本代表の2人が注目する日本選手は",
+      "title_ja": "W杯2026：オランダとの初戦を前に元代表が語る見どころ",
+      "date": "Sun, 14 Jun 2026 18:21:57 +0900",
+      "summary": "Japan will face the Netherlands in their opening match of the 2026 World Cup, and a former national team player has shared his expert insights on the key strategies and players.",
       "sentences": [
         {
-          "en": "The Japanese national football team is gearing up for their first match in the North American World Cup.",
-          "ja": "サッカーワールドカップ北中米大会に臨む日本代表が、いよいよ初戦に向けて準備を進めています。"
+          "en": "Japan's first match in the 2026 FIFA World Cup against the Netherlands is scheduled to kick off at 5:00 AM Japan Time on the 15th.",
+          "ja": "2026年サッカーワールドカップでの日本の初戦、オランダ戦は、日本時間の15日午前5時にキックオフ予定です。"
         },
         {
-          "en": "On the 13th, the team held their final training session in Dallas, USA, where the match will take place.",
-          "ja": "日本代表は13日、試合会場となるアメリカのダラスで最終調整を行いました。"
+          "en": "As anticipation builds, many are wondering what the key strategies will be against such a strong opponent.",
+          "ja": "期待が高まる中、このような強豪を相手にした際の重要な戦略が何になるのか、多くの人が注目しています。"
         },
         {
-          "en": "They are scheduled to play their first group stage match against the Netherlands on the 14th.",
-          "ja": "彼らは14日、1次リーグの初戦でオランダと対戦することになっています。"
+          "en": "To answer this, a former Japan national team player with World Cup experience shared his expert analysis.",
+          "ja": "これに応えるため、ワールドカップ出場経験のある元日本代表選手が専門的な分析を語りました。"
         },
         {
-          "en": "Japan, currently ranked 18th in the world, is preparing for a challenging start against a strong opponent.",
-          "ja": "世界ランキング18位の日本は、強豪を相手に厳しいスタートとなる初戦への準備を進めています。"
+          "en": "He highlighted the essential tactical points Japan must focus on during the game.",
+          "ja": "彼は、試合中に日本が集中すべき不可欠な戦術的ポイントを強調しました。"
         },
         {
-          "en": "Fans are eagerly anticipating how the team will perform in this highly anticipated opening game.",
-          "ja": "この大きな期待が集まる開幕戦でチームがどのようなパフォーマンスを見せてくれるのか、ファンは熱い視線を送っています。"
+          "en": "He also identified the key players who could make a difference in securing a victory for the Samurai Blue.",
+          "ja": "また、サムライブルーが勝利を手にするために決定的な役割を果たすであろうキーマンについても言及しました。"
+        },
+        {
+          "en": "With the kickoff fast approaching, fans across the nation are eagerly waiting to support their team.",
+          "ja": "キックオフが間近に迫る中、日本中のファンが代表チームを応援するために待ちわびています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149301000.html",
-      "title": "ウクライナ ロシアのエネルギー施設への攻撃続ける",
-      "title_ja": "ウクライナによるロシア・エネルギー施設への攻撃と戦闘能力の低下戦略",
-      "date": "Sun, 14 Jun 2026 05:55:53 +0900",
-      "summary": "As peace negotiations with Russia stall, Ukraine continues to target Russian energy infrastructure to weaken its military capabilities.",
+      "url": "http://www3.nhk.or.jp/news/html/20260614/k10015148031000.html",
+      "title": "日本の初戦どうなる？オランダの“辛口”ベテラン記者は…",
+      "title_ja": "オランダ代表の現状にベテラン記者が警鐘",
+      "date": "Sun, 14 Jun 2026 16:50:29 +0900",
+      "summary": "A veteran sports reporter who has covered the Netherlands national football team for 36 years expresses concern over their current performance ahead of the upcoming World Cup.",
       "sentences": [
         {
-          "en": "Peace talks between Ukraine and Russia have made very little progress recently.",
-          "ja": "ウクライナとロシアの間の和平交渉は、最近ほとんど進展していません。"
+          "en": "\"At the moment, it cannot be called good,\" says a veteran reporter who has covered the Netherlands national football team for 36 years.",
+          "ja": "「今のところよいとは言えない」と、オランダ代表チームを36年間取材してきたベテラン記者は語ります。"
         },
         {
-          "en": "Amid this stalemate, Ukraine has been launching continuous attacks on Russian energy facilities.",
-          "ja": "この膠着状態の中で、ウクライナはロシアのエネルギー施設への攻撃を継続しています。"
+          "en": "Having dedicated more than half of his life to following the team, his words carry significant weight.",
+          "ja": "人生の半分以上をチームの取材に捧げてきた彼の言葉には、大きな重みがあります。"
         },
         {
-          "en": "This strategy is believed to be aimed at reducing Russia's ability to sustain its military operations.",
-          "ja": "この戦略は、ロシアが軍事作戦を継続する能力を低下させることを目的としているとみられます。"
+          "en": "This critical assessment comes as teams prepare for the upcoming FIFA World Cup in North America.",
+          "ja": "この厳しい評価は、北中米で開催される次回のFIFAワールドカップに向けて各チームが準備を進める中で下されたものです。"
         },
         {
-          "en": "On the 13th, the General Staff of the Ukrainian Armed Forces reported new details regarding operations in southern Russia.",
-          "ja": "13日、ウクライナ軍参謀本部は、ロシア南部における作戦に関する詳細を発表しました。"
+          "en": "While the reporter holds high expectations, he feels the current Dutch squad is still lacking in key areas.",
+          "ja": "記者は高い期待を寄せているものの、現在のオランダ代表は重要ないくつかの分野でまだ不足していると感じています。"
         },
         {
-          "en": "By targeting fuel and power supplies, Ukraine hopes to disrupt the logistical support of the Russian military.",
-          "ja": "燃料や電力の供給を標的にすることで、ウクライナはロシア軍の補給支援を妨害したい考えです。"
+          "en": "As major soccer nations, including Japan, gear up for the global tournament, fans are watching closely.",
+          "ja": "日本を含むサッカー強豪国が世界大会に向けて準備を進める中、ファンは動向を注視しています。"
         },
         {
-          "en": "As the conflict continues, these strikes on key infrastructure remain a crucial part of Ukraine's defense strategy.",
-          "ja": "紛争が続く中、重要インフラへのこうした攻撃は、ウクライナの防衛戦略の極めて重要な部分を占め続けています。"
+          "en": "Only time will tell if the Netherlands can overcome their current struggles and shine on the world stage once again.",
+          "ja": "オランダが現在の困難を乗り越え、再び世界の舞台で輝くことができるかどうかは、時が経てば分かるでしょう。"
         }
       ]
     }
@@ -153,436 +169,448 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149391000.html",
-        "title": "【動画】Pickup NEWS（6月14日）",
+        "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149731000.html",
+        "title": "【動画】Pickup NEWS（6月15日）",
         "title_ja": "1分動画で見る最新ニュース",
-        "date": "Sun, 14 Jun 2026 06:39:00 +0900",
-        "summary": "This lesson introduces the concept of quick one-minute news updates, which are designed to help busy people stay informed about current events efficiently.",
+        "date": "Mon, 15 Jun 2026 07:02:58 +0900",
+        "summary": "This lesson introduces a quick one-minute video summarizing the latest news, while noting a technical limitation for data broadcasting viewers.",
         "sentences": [
           {
-            "en": "We will now bring you a quick roundup of the latest news in a one-minute video format.",
-            "ja": "これまでに寄せられた最新ニュースを、1分間の動画にまとめてお伝えします。"
+            "en": "Welcome to our daily news update, where we bring you the latest stories in a quick and convenient format.",
+            "ja": "デイリーニュースアップデートへようこそ。ここでは、最新の情報を素早く便利な形式でお届けします。"
           },
           {
-            "en": "Please note that these video summaries might not be accessible if you are viewing through standard data broadcasting services.",
-            "ja": "なお、データ放送からご覧いただいている場合は、こちらの動画をご覧いただけませんのでご注意ください。"
+            "en": "Today, we are presenting a summary of the news received so far in a brief one-minute video.",
+            "ja": "本日は、これまでに入っているニュースをまとめて、1分間の短い動画でお伝えします。"
           },
           {
-            "en": "In today's busy world, short-form news updates have become incredibly popular for staying informed on the go.",
-            "ja": "忙しい現代社会において、移動中に効率よく情報を得るための短時間ニュースは非常に人気を集めています。"
+            "en": "This video is designed to help you quickly catch up on today's key events even when you are busy.",
+            "ja": "この動画は、忙しい時でも今日の主要な出来事を素早く把握できるように設計されています。"
           },
           {
-            "en": "These brief digests are designed to deliver the most essential headlines clearly and efficiently.",
-            "ja": "これらの短いダイジェストは、最も重要な見出しを明確かつ効率的にお届けするように設計されています。"
+            "en": "Please note that this video content is not available if you are viewing through data broadcasting.",
+            "ja": "なお、データ放送でご覧いただいている場合、この動画コンテンツは表示されませんのでご注意ください。"
           },
           {
-            "en": "We hope this quick format helps you keep up with the fast-paced events happening around the world.",
-            "ja": "この手軽な形式が、世界中で起きている目まぐるしい出来事に遅れずについていく一助となれば幸いです。"
+            "en": "We hope this quick summary helps you stay informed about the latest happenings around the world.",
+            "ja": "この素早いまとめが、世界中の最新の出来事を知る上でお役に立てば幸いです。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149271000.html",
-        "title": "天皇皇后両陛下 公式訪問先のオランダに到着",
-        "title_ja": "天皇皇后両陛下、オランダに到着",
-        "date": "Sun, 14 Jun 2026 03:31:12 +0900",
-        "summary": "The Emperor and Empress of Japan have arrived in the Netherlands, beginning their official tour of the Netherlands and Belgium.",
+        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149391000.html",
+        "title": "【動画】Pickup NEWS（6月14日）",
+        "title_ja": "1分動画で見る最新ニュース",
+        "date": "Sun, 14 Jun 2026 19:46:56 +0900",
+        "summary": "This lesson introduces a convenient service that provides a quick, one-minute video summary of the latest news, along with a technical note for viewers.",
         "sentences": [
           {
-            "en": "The Emperor and Empress of Japan have arrived in the Netherlands, the first stop of their official visit to Europe.",
-            "ja": "天皇皇后両陛下は、ヨーロッパ公式訪問の最初の目的地であるオランダに到着されました。"
+            "en": "We will now bring you a quick summary of the latest news in a one-minute video.",
+            "ja": "これまでに届いている最新のニュースを、1分間の動画にまとめてお伝えします。"
           },
           {
-            "en": "Their Majesties departed from Tokyo's Haneda Airport on a government plane.",
-            "ja": "両陛下は、東京の羽田空港から政府専用機で出発されました。"
+            "en": "This digest is designed to help you catch up on today's key events quickly and efficiently.",
+            "ja": "このダイジェストは、今日の重要な出来事を素早く効率的に把握できるように設計されています。"
           },
           {
-            "en": "The special aircraft landed safely at around 6:45 p.m. local time on the 13th.",
-            "ja": "特別機は現地時間13日の午後6時45分ごろ、無事に着陸しました。"
+            "en": "It is perfect for busy people who want to stay informed while on the go.",
+            "ja": "外出先でも常に情報を得ていたい、忙しい方々に最適です。"
           },
           {
-            "en": "During their stay in the country, they are scheduled to attend various events to deepen international exchange.",
-            "ja": "オランダ滞年中、両陛下は国際交流を深めるための様々な行事に出席される予定です。"
+            "en": "Please note that this video content is not available through data broadcasting services.",
+            "ja": "なお、データ放送からはこの動画をご覧いただけませんのでご注意ください。"
           },
           {
-            "en": "After completing their itinerary in the Netherlands, they will travel to Belgium to continue their official tour.",
-            "ja": "オランダでの日程を終えられた後、公式訪問を続けるためベルギーへと移動されます。"
-          },
-          {
-            "en": "This trip is expected to further strengthen the friendly relations between Japan and both European nations.",
-            "ja": "今回の訪問は、日本とこれら欧州2カ国との友好関係をさらに強めるものと期待されています。"
+            "en": "We hope this brief update helps you stay connected with what is happening in the world.",
+            "ja": "この短いニュース更新が、世界で起きていることとつながる手助けになれば幸いです。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149261000.html",
-        "title": "1型糖尿病の家族 約30人に1人発症リスクか 国際医療福祉大",
-        "title_ja": "1型糖尿病、患者家族の30人に1人に発症リスク",
-        "date": "Sun, 14 Jun 2026 05:04:16 +0900",
-        "summary": "A study by a Japanese university reveals that about 1 in 30 family members of type 1 diabetes patients are at risk of developing the disease, highlighting the importance of regular testing.",
+        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149701000.html",
+        "title": "サッカーW杯 日本の初戦 ビーバーが勝敗を予想 兵庫 姫路",
+        "title_ja": "姫路のビーバーがW杯の日本戦を予想",
+        "date": "Sun, 14 Jun 2026 17:03:43 +0900",
+        "summary": "A three-year-old beaver at Himeji Central Park has predicted the winner of the upcoming World Cup match between Japan and the Netherlands.",
         "sentences": [
           {
-            "en": "It is estimated that about 100,000 people in Japan live with type 1 diabetes.",
-            "ja": "日本国内には、約10万人の1型糖尿病の患者がいると推定されています。"
+            "en": "Ahead of Japan's first World Cup match against the Netherlands, a unique prediction event took place in Himeji City, Hyogo Prefecture.",
+            "ja": "ワールドカップの日本対オランダの初戦を前に、兵庫県姫路市でユニークな勝敗予想イベントが行われました。"
           },
           {
-            "en": "Recently, a research group from the International University of Health and Welfare compiled a study regarding this condition.",
-            "ja": "最近、国際医療福祉大学の研究グループが、この病気に関する調査結果をまとめました。"
+            "en": "On November 14th, a three-year-old beaver at Himeji Central Park was given the task of predicting the winner.",
+            "ja": "14日、姫路セントラルパークで飼育されている3歳のビーバーが、勝者を予想する大役に挑みました。"
           },
           {
-            "en": "The findings show that approximately one in 30 family members of patients runs the risk of developing the disease in the future.",
-            "ja": "その結果によると、患者の家族のうちおよそ30人に1人は、将来的に発症するリスクがあることが分かりました。"
+            "en": "The beaver had to choose between two options representing Japan and the Netherlands.",
+            "ja": "ビーバーは日本とオランダを象徴する2つの選択肢から1つを選ぶことになりました。"
           },
           {
-            "en": "Due to this risk, the researchers recommend that family members undergo regular screening.",
-            "ja": "このリスクがあることから、研究グループは家族に対して定期的な検査を受けることを推奨しています。"
+            "en": "Many visitors gathered to watch the adorable animal make its decision for the match on the 15th.",
+            "ja": "15日の試合に向け、この愛らしい動物が決断を下す様子を見ようと、多くの来園者が集まりました。"
           },
           {
-            "en": "Early detection is key, as monitoring the condition helps ensure timely and effective treatment if it does develop.",
-            "ja": "早期発見が重要であり、経過を観察しておくことで、実際に発症した場合でも適時かつ効果的な治療が可能になります。"
+            "en": "Animal predictions like this have become a popular and fun tradition during major sporting events.",
+            "ja": "こうした動物による勝敗予想は、主要なスポーツ大会における人気の楽しい恒例行事となっています。"
+          },
+          {
+            "en": "Everyone is now excited to see if the beaver's prediction will actually come true during the match.",
+            "ja": "このビーバーの予想が試合で本当に当たるかどうか、誰もがワクワクしながら注目しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260613/k10015148791000.html",
-        "title": "食料品の消費税減税 実務者会議で議論が本格化する見通し",
-        "title_ja": "食料品の消費税減税めぐり、来週から実務者議論が本格化へ",
-        "date": "Sat, 13 Jun 2026 05:25:33 +0900",
-        "summary": "A bipartisan group in Japan is pushing to include specific tax rates and timelines for a food consumption tax cut in an upcoming report, with some proposing a reduction to one percent by next April.",
+        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149691000.html",
+        "title": "スイカで給水「スイカロードレース」千葉 富里",
+        "title_ja": "千葉県富里市で「給スイカ所」のあるマラソン大会が開催",
+        "date": "Sun, 14 Jun 2026 16:27:40 +0900",
+        "summary": "A unique marathon called the 'Watermelon Road Race' was held in Chiba Prefecture, where runners hydrated with local watermelons instead of just water.",
         "sentences": [
           {
-            "en": "Discussions are heating up in Japan over a proposed reduction in the consumption tax on food items.",
-            "ja": "日本では、食料品に対する消費税の減税案をめぐる議論が活発化しています。"
+            "en": "In Tomisato City, Chiba Prefecture, one of Japan's top watermelon-producing regions, a unique marathon was recently held.",
+            "ja": "全国有数のスイカの産地である千葉県富里市で、先日、ユニークなマラソン大会が開催されました。"
           },
           {
-            "en": "A bipartisan group known as the \"National Assembly\" aims to include specific tax rates and implementation dates in its upcoming interim report.",
-            "ja": "超党派の「国民会議」は、近くまとめる中間報告に具体的な税率や実施時期などを盛り込みたい考えです。"
+            "en": "Known as the 'Watermelon Road Race,' this event aims to promote the city's delicious local specialty.",
+            "ja": "「スイカロードレース」と呼ばれるこのイベントは、同市特産の美味しいスイカをPRすることを目的としています。"
           },
           {
-            "en": "To achieve this, working-level discussions are expected to begin in earnest starting next week.",
-            "ja": "これに向けて、来週以降、実務者会議での議論が本格化する見通しです。"
+            "en": "Instead of typical water stations, the race features 'watermelon stations' where runners can hydrate with juicy watermelon slices.",
+            "ja": "通常の給水所の代わりに、このレースではランナーがみずみずしいカットスイカで水分補給できる「給スイカ所」が設置されています。"
           },
           {
-            "en": "Within the government and ruling parties, there is already a proposal to lower the tax rate to one percent starting next April.",
-            "ja": "政府・与党内では、来年4月から税率を1％に引き下げる案などが浮上しています。"
+            "en": "Participants ran through the course while enjoying the sweet, refreshing fruit to keep their energy up.",
+            "ja": "参加者たちは、エネルギーを維持するために甘くて爽やかなスイカを味わいながら、コースを駆け抜けました。"
           },
           {
-            "en": "This move is drawing attention as citizens continue to struggle with rising living costs and inflation.",
-            "ja": "生活費の高騰やインフレに直面する国民にとって、この動きは大きな注目を集めています。"
+            "en": "The annual event attracted many runners from both inside and outside the prefecture, creating a festive atmosphere.",
+            "ja": "この恒例のイベントには県内外から多くのランナーが集まり、お祭りのような賑やかな雰囲気に包まれました。"
+          },
+          {
+            "en": "It serves as a fun and delicious way to kick off the summer season while supporting local agriculture.",
+            "ja": "地元の農業を支援しながら、夏のシーズンを楽しく美味しくスタートさせる行事となっています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149311000.html",
-        "title": "31年ぶりの大相撲パリ公演 会場は熱気と大歓声",
-        "title_ja": "31年ぶりの大相撲パリ公演が幕開け",
-        "date": "Sun, 14 Jun 2026 05:57:29 +0900",
-        "summary": "A Grand Sumo exhibition tournament has commenced in Paris, France, for the first time in 31 years, drawing enthusiastic crowds to watch 41 top-division wrestlers perform.",
+        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149781000.html",
+        "title": "NHK学生ロボコン2026全国大会 豊橋技術科学大が優勝",
+        "title_ja": "NHK学生ロボコン2026、豊橋技術科学大学が優勝",
+        "date": "Sun, 14 Jun 2026 19:55:40 +0900",
+        "summary": "The NHK Student Robot Contest 2026 was held in Tokyo, where Toyohashi University of Technology won the championship after competing against teams from all over Japan.",
         "sentences": [
           {
-            "en": "On October 13th, a Grand Sumo exhibition tournament began in Paris, France, marking its return to the French capital for the first time in 31 years.",
-            "ja": "10月13日、フランスの首都パリで大相撲の海外公演が始まり、同地での開催は31年ぶりとなりました。"
+            "en": "The \"NHK Student Robot Contest 2026\" was held in Tokyo, where students from across Japan competed with robots they designed and built themselves.",
+            "ja": "全国の学生たちが自作したロボットで技術やアイデアを競う「NHK学生ロボコン2026」が東京で開催されました。"
           },
           {
-            "en": "A large crowd of sumo fans gathered at the venue to watch the powerful matches.",
-            "ja": "力強い取組を見るために、会場には大勢の相撲ファンが集まりました。"
+            "en": "This year's tournament took place at a gymnasium in Ota Ward, Tokyo, featuring teams that successfully passed the preliminary screening.",
+            "ja": "今年の大会は東京の大田区にある体育館で行われ、事前の審査を通過したチームが参加しました。"
           },
           {
-            "en": "The spectators cheered enthusiastically and applauded as the wrestlers clashed with immense force.",
-            "ja": "力士たちが激しくぶつかり合う中、観客からは熱狂的な歓声と大きな拍手が送られました。"
+            "en": "The young engineers put their technical skills and creative ideas to the test in a series of intense matches.",
+            "ja": "若き技術者たちは、一連の激しい試合の中で、自らの技術力と独創的なアイデアを競い合いました。"
           },
           {
-            "en": "A total of 41 top-division \"Makuuchi\" wrestlers traveled to France to participate in this special event.",
-            "ja": "今回の特別なイベントに参加するため、合計41人の幕内力士がフランスを訪れました。"
+            "en": "After many exciting rounds, the team from Toyohashi University of Technology emerged as the champion.",
+            "ja": "数々の白熱した試合を経て、豊橋技術科学大学のチームが見事優勝を果たしました。"
           },
           {
-            "en": "This overseas tour offers a wonderful opportunity for French fans to experience the traditional Japanese sport up close.",
-            "ja": "この海外公演は、フランスのファンが日本の伝統スポーツを間近で体験できる素晴らしい機会となっています。"
+            "en": "The event highlighted the incredible passion and innovation of the next generation of roboticists.",
+            "ja": "この大会は、次世代を担うロボット開発者たちの素晴らしい情熱と革新性を浮き彫りにしました。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260613/k10015148991000.html",
         "title": "歌詞も曲もAIが生成した音楽「著作物に該当しない」JASRAC方針",
-        "title_ja": "JASRAC、生成AI音楽の著作権ガイドラインを発表",
+        "title_ja": "JASRAC、AI生成音楽の著作権に関するガイドラインを策定",
         "date": "Sat, 13 Jun 2026 08:43:40 +0900",
-        "summary": "JASRAC has released guidelines stating that AI-generated music created from simple prompts does not qualify for copyright protection due to a lack of human creative contribution.",
+        "summary": "JASRAC has released new guidelines stating that music and lyrics generated by AI based on simple prompts do not qualify as copyrighted works due to a lack of human creative contribution.",
         "sentences": [
           {
-            "en": "With the rapid spread of music created using generative AI, new questions about copyright are arising.",
-            "ja": "生成AIを利用して作られた音楽が急速に広がる中、著作権に関する新たな疑問が生じています。"
+            "en": "As music created using generative AI spreads rapidly, JASRAC has released new guidelines addressing this technology.",
+            "ja": "生成AIを利用して作られた音楽が急速に広がる中、JASRACはこの技術に対応する新たなガイドラインを公表しました。"
           },
           {
-            "en": "In response, the Japanese Society for Rights of Authors, Composers and Publishers, known as JASRAC, has released a new set of guidelines.",
-            "ja": "これを受けて、日本音楽著作権協会として知られるJASRACは、新たなガイドラインを公開しました。"
+            "en": "According to the guidelines, music and lyrics generated by AI based on simple prompts do not qualify as copyrighted works.",
+            "ja": "ガイドラインによると、単純な指示に基づいてAIが生成した音楽や歌詞は、著作物には該当しません。"
           },
           {
-            "en": "According to the guidelines, works where the AI generates both the lyrics and the music based on simple instructions do not qualify as copyrighted material.",
-            "ja": "ガイドラインによると、単純な指示に基づいてAIが歌詞と曲の両方を生成した作品は、著作物には該当しません。"
+            "en": "JASRAC stated that such pieces are considered to lack creative human contribution.",
+            "ja": "JASRACは、こうした作品は「人間の創作的寄与が認められない作品」とみなされると説明しています。"
           },
           {
-            "en": "JASRAC explains that such works lack the necessary 'human creative contribution' to be protected under copyright law.",
-            "ja": "JASRACは、そのような作品には著作権法で保護されるために必要な「人間の創作的寄与」が欠けていると説明しています。"
+            "en": "This decision addresses the growing need to clarify copyright boundaries as AI tools become more common.",
+            "ja": "この決定は、AIツールが普及する中で著作権の境界線を明確にするという、高まるニーズに対応するものです。"
           },
           {
-            "en": "This decision highlights the ongoing debate on how to balance technological advancement with the protection of human artists.",
-            "ja": "この決定は、技術の進歩と人間の芸術家の保護をどのように両立させるかという、現在も続く議論を浮き彫りにしています。"
+            "en": "It marks a significant step in defining the relationship between human creativity and artificial intelligence.",
+            "ja": "これは、人間の創造性と人工知能の関係を定義する上での重要な一歩となります。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149251000.html",
-        "title": "高市首相 英に到着 首脳会談へ 経済安保の成果文書発表で調整",
-        "title_ja": "高市首相、訪英しスターマー首相と会談へ 経済安保での連携強化",
-        "date": "Sun, 14 Jun 2026 04:35:00 +0900",
-        "summary": "Prime Minister Takaichi has arrived in the UK for a summit meeting with Prime Minister Starmer. The two leaders are expected to release a joint document on economic security cooperation, including the stockpiling of critical minerals.",
+        "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149871000.html",
+        "title": "高市首相 きょう日伊首脳会談 経済安保など連携強化へ",
+        "title_ja": "高市首相、イタリアに到着しメローニ首相と会談へ",
+        "date": "Mon, 15 Jun 2026 05:52:44 +0900",
+        "summary": "Prime Minister Takaichi has arrived in Italy, her second stop in Europe, to hold a summit with Prime Minister Meloni on economic security and science cooperation.",
         "sentences": [
           {
-            "en": "Prime Minister Takaichi arrived in the UK on the morning of September 14th, Japan time.",
-            "ja": "高市総理大臣は日本時間の14日朝、イギリスに到着しました。"
+            "en": "Prime Minister Takaichi, who is currently touring Europe, arrived in Italy, her second destination, in the early hours of October 15th, Japan time.",
+            "ja": "ヨーロッパを歴訪中の高市総理大臣は、日本時間の15日未明、2カ国目の訪問地であるイタリアに到着しました。"
           },
           {
-            "en": "She is scheduled to hold a summit meeting with British Prime Minister Keir Starmer on the evening of the 14th.",
-            "ja": "14日の夜には、イギリスのスターマー首相との首脳会談に臨む予定です。"
+            "en": "On the evening of the 15th, she is scheduled to hold a summit meeting with Italian Prime Minister Giorgia Meloni.",
+            "ja": "15日夜には、イタリアのメローニ首相との首脳会談に臨む予定です。"
           },
           {
-            "en": "During the meeting, the two leaders are expected to discuss strengthening cooperation, particularly in the field of economic security.",
-            "ja": "会談の中で両首脳は、特に経済安全保障分野での協力強化について話し合う見込みです。"
+            "en": "During the meeting, the two leaders are expected to discuss strengthening cooperation in economic security, including securing a stable supply of critical minerals.",
+            "ja": "会談では、重要鉱物の安定確保を含む経済安全保障分野での連携強化について話し合われる見通しです。"
           },
           {
-            "en": "They are currently making final arrangements to release a joint document outlining their agreement.",
-            "ja": "現在、合意に関する成果文書の発表に向けて最終調整が行われています。"
+            "en": "They will also focus on advancing partnerships in the field of science and technology.",
+            "ja": "また、科学技術分野における協力関係の推進にも焦点を当てる予定です。"
           },
           {
-            "en": "This agreement is expected to include collaborative efforts such as the stockpiling of critical minerals.",
-            "ja": "この合意には、重要鉱物の備蓄といった共同の取り組みが盛り込まれる方向で調整されています。"
+            "en": "This visit highlights Japan's efforts to deepen strategic ties with European partners amidst changing global dynamics.",
+            "ja": "今回の訪問は、変化する国際情勢の中で、欧州のパートナーとの戦略的関係を深めようとする日本の取り組みを浮き彫りにしています。"
           },
           {
-            "en": "Through this partnership, both nations aim to build more resilient supply chains.",
-            "ja": "このパートナーシップを通じて、両国はより強靭なサプライチェーンの構築を目指しています。"
+            "en": "The discussions aim to foster mutually beneficial ties and address shared global challenges.",
+            "ja": "この対話は、互いに利益となる関係を育み、共通のグローバルな課題に対処することを目指しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260613/k10015149231000.html",
-        "title": "自民 鈴木幹事長 終盤国会“皇室典範改正 優先で取り組む”",
-        "title_ja": "自民・鈴木幹事長、会期末までの皇室典範改正に意欲",
-        "date": "Sat, 13 Jun 2026 17:50:51 +0900",
-        "summary": "With just over a month left in the current Diet session, LDP Secretary General Suzuki has emphasized prioritizing the amendment of the Imperial House Law.",
+        "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149861000.html",
+        "title": "国会残り約1か月 定数削減 国旗損壊罪法案など調整本格化へ",
+        "title_ja": "国会会期末が近づく中、自民・維新が重要法案の成立を目指す",
+        "date": "Mon, 15 Jun 2026 05:12:22 +0900",
+        "summary": "With only about a month left in the current Diet session, the LDP and Japan Innovation Party are rushing to pass key bills amid strong resistance from opposition parties.",
         "sentences": [
           {
-            "en": "With just over a month remaining until the end of the current Diet session, attention is focusing on key legislative priorities.",
-            "ja": "国会の会期末まで1か月余りとなる中、主要な法案の優先順位に注目が集まっています。"
+            "en": "With about one month remaining until the end of the current Diet session, political movements in Japan are intensifying.",
+            "ja": "国会の会期末までおよそ1か月となる中、日本の政界における動きが活発化しています。"
           },
           {
-            "en": "LDP Secretary General Suzuki has reiterated his commitment to addressing critical issues before the deadline.",
-            "ja": "自民党の鈴木幹事長は、会期末までに重要な課題に取り組む姿勢を改めて強調しました。"
+            "en": "The Liberal Democratic Party and the Japan Innovation Party are rushing to submit several key bills to the Diet.",
+            "ja": "自民党と日本維新の会の両党は、いくつかの重要法案を国会に提出することを急いでいます。"
           },
           {
-            "en": "Specifically, he emphasized that achieving reforms such as the amendment of the Imperial House Law should be a top priority.",
-            "ja": "具体的には、皇室典範の改正などの実現を最優先で取り組むべきだと強調しました。"
+            "en": "Among these proposals is a bill to reduce the number of seats in the House of Representatives.",
+            "ja": "これらの提案の中には、衆議院議員の定数を削減する法案が含まれています。"
           },
           {
-            "en": "Secretary General Suzuki made these remarks during a meeting of the party's local chapter held in Morioka City.",
-            "ja": "鈴木幹事長は、盛岡市で開かれた党県連の会合でこのように述べました。"
+            "en": "Another notable bill aims to punish acts of damaging or desecrating the Japanese national flag.",
+            "ja": "もう一つの注目すべき法案は、日本の国旗を損壊するなどの行為を罰することを目指すものです。"
           },
           {
-            "en": "As the session draws to a close, discussions on stable imperial succession and other key reforms are expected to intensify.",
-            "ja": "会期末が近づくにつれ、安定的な皇位継承やその他の重要な改革に関する議論が活発化することが予想されます。"
+            "en": "While both parties are aiming to pass these bills during the current session, they face strong resistance from opposition parties.",
+            "ja": "両党は今国会中にこれらの法案を成立させることを目指していますが、野党側からの強い反発に直面しています。"
+          },
+          {
+            "en": "As a result, full-scale political negotiations and adjustments are now underway between the ruling and opposition camps.",
+            "ja": "その結果、与野党間での本格的な調整や政治的交渉が現在進められています。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148891000.html",
-        "title": "「スペースX」が上場 調達資金 約12兆円は過去最大規模",
-        "title_ja": "スペースXがナスダックに上場、約750億ドルを調達",
-        "date": "Sat, 13 Jun 2026 13:39:02 +0900",
-        "summary": "SpaceX, the space exploration and AI company led by Elon Musk, has officially listed on the Nasdaq, raising approximately 75 billion dollars.",
+        "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149881000.html",
+        "title": "日銀 きょうから金融政策決定会合 利上げを最終判断へ",
+        "title_ja": "植田総裁欠席の異例の日銀決定会合、利上げへの対応に注目",
+        "date": "Mon, 15 Jun 2026 05:55:44 +0900",
+        "summary": "The Bank of Japan is holding an unusual monetary policy meeting without the hospitalized Governor Ueda, as rising oil prices and a weak yen increase pressure to raise interest rates.",
         "sentences": [
           {
-            "en": "Space exploration and AI company SpaceX, led by American entrepreneur Elon Musk, has officially gone public.",
-            "ja": "アメリカの実業家イーロン・マスク氏が率いる、宇宙開発やAI事業を手がけるスペースX社が、正式に株式を公開しました。"
+            "en": "The Bank of Japan is scheduled to hold a two-day Monetary Policy Meeting starting on the 15th.",
+            "ja": "日銀は15日から2日間の日程で、金融政策決定会合を開催する予定です。"
           },
           {
-            "en": "The company listed its shares on the Nasdaq stock market in New York on the 12th.",
-            "ja": "同社は12日、ニューヨークのナスダック市場に上場しました。"
+            "en": "This will be an unusual meeting, as Governor Kazuo Ueda will be absent due to being hospitalized.",
+            "ja": "植田和男総裁が入院中のため欠席するという、異例の会合となります。"
           },
           {
-            "en": "Through this public offering, SpaceX raised approximately 75 billion dollars, which is equivalent to about 12 trillion yen.",
-            "ja": "この上場により、スペースX社はおよそ750億ドル、日本円にして約12兆円を調達しました。"
+            "en": "The meeting comes at a critical time when tensions involving Iran are causing crude oil prices to rise and the yen to weaken.",
+            "ja": "イラン情勢の影響で原油高や円安傾向が続く中、この決定会合は重要な時期に開かれます。"
           },
           {
-            "en": "This massive listing is being hailed as one of the largest market debuts in recent history.",
-            "ja": "この大規模な上場は、近年の市場デビューの中でも最大規模のものの一つとして注目されています。"
+            "en": "With these factors pushing up costs, there is an urgent need for the central bank to address rising inflation.",
+            "ja": "これらの要因がコストを押し上げる中、日銀には物価上昇への対応を急ぐ必要が生じています。"
           },
           {
-            "en": "The funds raised are expected to accelerate the company's ambitious space missions and AI technology development.",
-            "ja": "調達された資金は、同社の野心的な宇宙ミッションやAI技術開発を加速させることが期待されています。"
-          },
-          {
-            "en": "Investors around the world are closely watching how this move will impact the global aerospace industry.",
-            "ja": "世界中の投資家が、この動きが世界の航空宇宙産業にどのような影響を与えるかを注視しています。"
+            "en": "Under these circumstances, all eyes are on whether the bank will decide to take steps toward raising interest rates.",
+            "ja": "こうした状況下で、日銀が利上げに踏み切るかどうかに注目が集まっています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260612/k10015148851000.html",
-        "title": "ウリ信用組合に一部業務停止命令 顧客の預金着服などで 金融庁",
-        "title_ja": "ウリ信用組合への一部業務停止命令",
-        "date": "Fri, 12 Jun 2026 20:26:28 +0900",
-        "summary": "The Japanese Financial Services Agency has issued a partial business suspension order to the Sapporo-based Uri Credit Cooperative following a long-term management cover-up of embezzlement by a former executive.",
+        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149831000.html",
+        "title": "米FRBウォーシュ新議長のもと初会合へ 発言に関心集まる",
+        "title_ja": "FRB、ウォーシュ新議長のもとで初の金融政策会合を開催へ",
+        "date": "Sun, 14 Jun 2026 22:29:29 +0900",
+        "summary": "The U.S. Federal Reserve is set to hold its first monetary policy meeting under newly appointed Chairman Kevin Warsh to address inflation fueled by the situation in Iran.",
         "sentences": [
           {
-            "en": "The Financial Services Agency of Japan has issued an administrative penalty against the Uri Credit Cooperative based in Sapporo.",
-            "ja": "金融庁は、札幌市に本店を置くウリ信用組合に対して行政処分を下しました。"
+            "en": "The U.S. Federal Reserve, or the FRB, will hold its monetary policy meeting starting on the 16th of this week.",
+            "ja": "アメリカのFRB（連邦準備制度理事会）は、今週16日から金融政策を決定する会合を開催します。"
           },
           {
-            "en": "This action was taken after it was discovered that a former executive had embezzled customer deposits, among other misconduct.",
-            "ja": "この処分は、元役員が顧客の預金を着服するなどの不祥事が発覚したことを受けてのものです。"
+            "en": "This will be the first meeting under the leadership of the new chairman, Kevin Warsh, who was nominated by President Trump.",
+            "ja": "これは、トランプ大統領に指名されたウォーシュ新議長のもとで行われる初めての会合となります。"
           },
           {
-            "en": "Despite being aware of these issues, the cooperative's management actively covered them up for a long period of time.",
-            "ja": "これらの問題を把握していたにもかかわらず、経営陣の主導により、長期間にわたって隠蔽が行われていました。"
+            "en": "The main focus of the meeting is expected to be measures to curb rising prices driven by the ongoing situation in Iran.",
+            "ja": "今回の会合の主な焦点は、イラン情勢を背景とした物価の上昇を抑えるための対策になるとみられています。"
           },
           {
-            "en": "As part of the punishment, the regulator ordered a partial suspension of operations, including lending to new customers, starting on the 12th.",
-            "ja": "処分として、金融庁は12日、新規顧客への貸し付けを含む一部の業務停止を命令しました。"
+            "en": "With rising global tensions, inflation has become a key challenge for central bank policymakers.",
+            "ja": "世界的な緊張が高まる中、インフレは中央銀行の政策立案者にとって極めて重要な課題となっています。"
           },
           {
-            "en": "The government agency is now demanding that the credit union thoroughly reform its governance and prevent future occurrences.",
-            "ja": "同庁は、信用組合に対してガバナンスを抜本的に改善し、再発防止に努めるよう強く求めています。"
+            "en": "Market analysts are closely watching how the new chairman will steer monetary policy during these uncertain times.",
+            "ja": "市場のアナリストは、不確実な状況の中で新議長がどのように金融政策の舵取りを行うかを注視しています。"
+          },
+          {
+            "en": "The decisions made at this meeting could have a significant impact on both domestic and global financial markets.",
+            "ja": "この会合で下される決定は、国内外の金融市場に大きな影響を与える可能性があります。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149471000.html",
-        "title": "トランプ大統領 覚書に「14日署名」イラン側「14日ではない」",
-        "title_ja": "イランとの戦闘終結に向けた覚書、米イラン間で署名時期に見解の差",
-        "date": "Sun, 14 Jun 2026 06:14:52 +0900",
-        "summary": "US President Donald Trump announced that a memorandum to end hostilities with Iran is expected to be signed on the 14th, while Iran suggests it will likely take place within a few days.",
+        "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149921000.html",
+        "title": "【速報】トランプ大統領 「イランとの合意完了 海峡は開放」",
+        "title_ja": "トランプ大統領、イランとの戦闘終結合意を発表",
+        "date": "Mon, 15 Jun 2026 06:57:46 +0900",
+        "summary": "U.S. President Donald Trump announced that a landmark agreement with Iran has been finalized, which includes keeping the Strait of Hormuz open without transit fees.",
         "sentences": [
           {
-            "en": "US President Donald Trump has announced that a memorandum to end hostilities with Iran is expected to be signed on the 14th.",
-            "ja": "トランプ米大統領は、イランとの戦闘終結に向けた覚書が14日に署名される見通しであると発表しました。"
+            "en": "U.S. President Donald Trump announced on social media on the 14th that an agreement with Iran has been finalized.",
+            "ja": "アメリカのトランプ大統領は14日、SNSへの投稿で、イランとの合意が完了したことを明らかにしました。"
           },
           {
-            "en": "This potential agreement marks a significant step toward reducing tensions between the two nations.",
-            "ja": "この合意案は、両国間の緊張を緩和するための極めて重要な一歩となります。"
+            "en": "The agreement focuses on a memorandum aimed at ending the military conflict between the two nations.",
+            "ja": "この合意は、両国間の戦闘終結に向けた協議をめぐる覚書を中心としています。"
           },
           {
-            "en": "On the other hand, Iranian officials have expressed a slightly different timeline regarding the signing.",
-            "ja": "一方、イラン政府当局者は、署名の時期についてわずかに異なる見通しを示しています。"
+            "en": "Furthermore, President Trump stated that the Strait of Hormuz will be kept open with no transit fees.",
+            "ja": "さらにトランプ大統領は、ホルムズ海峡を通航料なしで開放すると述べました。"
           },
           {
-            "en": "Prior to Trump's statement, Iran indicated that while the signing may not take place on the 14th, it is highly likely to happen within a few days.",
-            "ja": "トランプ氏の発言に先立ち、イラン側は署名が14日には行われないものの、数日中に行われる可能性が高いと指摘しました。"
+            "en": "This strategic waterway is highly critical for global oil shipments and international trade.",
+            "ja": "この戦略的に重要な航路は、世界の石油輸送や国際貿易にとって極めて重要です。"
           },
           {
-            "en": "Observers are closely watching whether both sides can successfully finalize the agreement despite this minor difference in timing.",
-            "ja": "時期に関するこうした細かな違いはあるものの、双方が合意を無事に妥結できるかどうかに注目が集まっています。"
-          },
-          {
-            "en": "A final agreement could pave the way for more stable diplomatic relations in the region.",
-            "ja": "最終合意が実現すれば、この地域におけるより安定した外交関係への道が開かれる可能性があります。"
+            "en": "The deal is expected to ease long-standing tensions in the Middle East and bring stability to the region.",
+            "ja": "この合意により、中東における長年の緊張が緩和され、地域に安定がもたらされることが期待されています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149311000.html",
-        "title": "31年ぶりの大相撲パリ公演 会場は熱気と大歓声",
-        "title_ja": "パリで31年ぶりの大相撲海外公演が開催",
-        "date": "Sun, 14 Jun 2026 05:57:29 +0900",
-        "summary": "Grand Sumo wrestling returned to Paris for the first time in 31 years, where 41 top-division wrestlers performed in front of an enthusiastic French crowd.",
+        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149831000.html",
+        "title": "米FRBウォーシュ新議長のもと初会合へ 発言に関心集まる",
+        "title_ja": "FRB、ウォーシュ新議長のもとで初の金融政策決定会合へ",
+        "date": "Sun, 14 Jun 2026 22:29:29 +0900",
+        "summary": "The U.S. Federal Reserve is holding its first monetary policy meeting under newly nominated chair Kevin Warsh, focusing on rising inflation linked to geopolitical tensions in Iran.",
         "sentences": [
           {
-            "en": "Grand Sumo has returned to the French capital of Paris for the first time in 31 years.",
-            "ja": "フランスの首都パリで、大相撲の海外公演が31年ぶりに開催されました。"
+            "en": "The U.S. Federal Reserve is set to hold its monetary policy-setting meeting this week, starting on the 16th.",
+            "ja": "アメリカの連邦準備制度理事会（FRB）は、今週16日から金融政策決定会合を開催する予定です。"
           },
           {
-            "en": "The exhibition event began on the 13th, drawing a large crowd of excited sumo fans.",
-            "ja": "この公演は13日に始まり、会場には大勢の興奮した相撲ファンが集まりました。"
+            "en": "This will be the first meeting under the leadership of the new chair, Kevin Warsh, who was nominated by President Trump.",
+            "ja": "これは、トランプ大統領に指名されたウォーシュ新議長のもとで開かれる初めての会合となります。"
           },
           {
-            "en": "Spectators cheered and applauded loudly as they watched the powerful bouts of the wrestlers.",
-            "ja": "力士たちの力強い取組に、観客からは大きな歓声と拍手が送られました。"
+            "en": "Financial markets are closely watching the outcome, as this marks a key transition in the central bank's leadership.",
+            "ja": "中央銀行の指導体制の重要な節目となるため、金融市場はその行方に高い関心を寄せています。"
           },
           {
-            "en": "A total of 41 top-division Makuuchi wrestlers traveled to France to showcase their skills.",
-            "ja": "その実力を披露するため、総勢41人の幕内力士がフランスを訪れました。"
+            "en": "A major focus of the meeting will be addressing rising prices and inflationary pressures.",
+            "ja": "今回の会合の主な焦点は、物価の上昇とインフレ圧力への対応となります。"
           },
           {
-            "en": "This tour offers a rare opportunity for European fans to experience the traditional Japanese sport live.",
-            "ja": "このツアーは、ヨーロッパのファンにとって、日本の伝統スポーツを現地で体験できる貴重な機会となっています。"
+            "en": "These economic challenges have been fueled in part by escalating tensions in the Middle East, particularly regarding Iran.",
+            "ja": "こうした経済的課題の一部は、イランをめぐる情勢など、緊迫する中東情勢を背景にしたものです。"
+          },
+          {
+            "en": "Under the new leadership, the Federal Reserve is expected to discuss strategies to stabilize the economy while controlling inflation.",
+            "ja": "新体制のもと、FRBがインフレを抑制しつつ経済を安定させるための戦略をどのように議論するかが注目されています。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149481000.html",
-        "title": "サッカーＷ杯北中米大会 日本が会場のある米ダラスで最終調整",
-        "title_ja": "W杯初戦に向けて日本代表がダラスで最終調整",
-        "date": "Sun, 14 Jun 2026 06:56:59 +0900",
-        "summary": "The Japanese national soccer team has completed their final training session in Dallas ahead of their World Cup opening match against the Netherlands.",
+        "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149851000.html",
+        "title": "サッカーW杯 日本 初戦はオランダと引き分け 2度追いつく",
+        "title_ja": "W杯初戦、日本は強豪オランダと2対2で引き分け",
+        "date": "Mon, 15 Jun 2026 07:10:19 +0900",
+        "summary": "Japan's national football team started their World Cup campaign with a thrilling 2-2 draw against the powerhouse Netherlands.",
         "sentences": [
           {
-            "en": "The Japanese national soccer team is preparing for their upcoming World Cup campaign in North and Central America.",
-            "ja": "サッカーワールドカップ北中米大会に臨む日本代表が、大会に向けて準備を進めています。"
+            "en": "In their highly anticipated opening match of the World Cup group stage, the Japanese national football team faced off against the powerful Netherlands.",
+            "ja": "注目のワールドカップ1次リーグ初戦で、サッカー日本代表は強豪オランダと対戦しました。"
           },
           {
-            "en": "On the 13th, the team held their final training session in Dallas, Texas, where their opening match will take place.",
-            "ja": "13日、チームは初戦の会場となるアメリカ・テキサス州のダラスで最終調整を行いました。"
+            "en": "Japan has entered this tournament with the ambitious goal of winning the championship.",
+            "ja": "日本代表は、今大会で優勝するという高い目標を掲げて臨んでいます。"
           },
           {
-            "en": "They are set to face the Netherlands on the 14th in their first match of the group stage.",
-            "ja": "日本は14日、1次リーグの初戦でオランダと対戦する予定です。"
+            "en": "Early in the second half, the Netherlands scored first to take the lead.",
+            "ja": "後半開始早々、日本はオランダに先制ゴールを許してしまいます。"
           },
           {
-            "en": "Currently ranked 18th in the world, Japan is looking to make a strong start in this highly anticipated tournament.",
-            "ja": "現在世界ランキング18位の日本は、期待が高まるこの大会で好スタートを切りたいと考えています。"
+            "en": "However, Japan responded quickly, scoring an equalizer to level the score.",
+            "ja": "しかし、日本もすぐに同点ゴールを決めて追いつきました。"
           },
           {
-            "en": "Fans are eager to see how the team performs against their formidable opponents in the opening game.",
-            "ja": "初戦で強豪相手にチームがどのような戦いを見せてくれるのか、ファンたちの期待が高まっています。"
+            "en": "After a fierce back-and-forth battle, the exciting match ended in a 2-2 draw.",
+            "ja": "その後、一進一退の激しい攻防が繰り広げられ、試合は2対2の引き分けに終わりました。"
+          },
+          {
+            "en": "Securing a point against such a strong opponent is a positive step forward for Japan.",
+            "ja": "強豪を相手に勝ち点1をもぎ取ったことは、日本にとって前向きな一歩となりました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260614/k10015149521000.html",
-        "title": "サッカーW杯 カタール対スイスは引き分け",
-        "title_ja": "W杯グループB、カタール対スイスは1対1の引き分け",
-        "date": "Sun, 14 Jun 2026 06:29:08 +0900",
-        "summary": "Qatar and Switzerland ended their World Cup Group B match in a 1-1 draw, after Switzerland took an early lead with a penalty kick.",
+        "url": "http://www3.nhk.or.jp/news/html/20260615/k10015149931000.html",
+        "title": "サッカーW杯 ドイツがキュラソーに圧勝 強豪国の力見せる",
+        "title_ja": "ワールドカップ初戦、ドイツがキュラソーに7対1で圧勝",
+        "date": "Mon, 15 Jun 2026 05:56:41 +0900",
+        "summary": "In the Group E opening match of the FIFA World Cup in Texas, Germany secured a dominant 7-1 victory over Curaçao.",
         "sentences": [
           {
-            "en": "In the group stage of the football World Cup, Qatar and Switzerland played to a 1-1 draw in their Group B match.",
-            "ja": "サッカーワールドカップの1次リーグ・グループBで、カタールとスイスが対戦し、1対1の引き分けに終わりました。"
+            "en": "In the opening match of Group E at the FIFA World Cup, Germany secured a dominant victory over Curaçao.",
+            "ja": "サッカーワールドカップ、1次リーグのグループE初戦で、ドイツがキュラソーに圧勝しました。"
           },
           {
-            "en": "Switzerland, making their sixth consecutive appearance in the tournament, started the game strong.",
-            "ja": "6大会連続の出場を果たしているスイスは、試合開始から力強い滑り出しを見せました。"
+            "en": "The match took place on the 14th at Houston Stadium in Texas, in the southern United States.",
+            "ja": "この試合は14日、アメリカ南部テキサス州のヒューストンスタジアムで行われました。"
           },
           {
-            "en": "In the 17th minute of the first half, Switzerland was awarded a penalty kick.",
-            "ja": "前半17分、スイスはペナルティーキックを獲得します。"
+            "en": "Germany showcased its incredible strength, defeating Curaçao with an overwhelming final score of 7 to 1.",
+            "ja": "ドイツは驚異的な強さを見せつけ、7対1という圧倒的なスコアでキュラソーを下しました。"
           },
           {
-            "en": "Forward Breel Embolo confidently stepped up and scored to give Switzerland the lead.",
-            "ja": "フォワードのエンボロ選手がこのPKを落ち着いて決め、スイスに先制点をもたらしました。"
+            "en": "From the very beginning, the German team controlled the game with relentless attacks.",
+            "ja": "ドイツ代表は試合開始直後から、容赦ない攻撃でゲームを支配しました。"
           },
           {
-            "en": "However, Qatar managed to equalize later in the match, resulting in both teams sharing the points.",
-            "ja": "しかし、その後カタールが同点に追いつき、両チームは勝ち点を分け合う結果となりました。"
+            "en": "With this powerful performance, Germany has made a perfect start to their World Cup campaign.",
+            "ja": "この力強いパフォーマンスにより、ドイツはワールドカップで完璧なスタートを切りました。"
           }
         ]
       }
