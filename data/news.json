@@ -1,155 +1,159 @@
 {
   "main_news": [
     {
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163371000.html",
+      "title": "“アメリカ・イランが攻撃停止で合意 30日に協議”米報道",
+      "title_ja": "米イ、ホルムズ海峡めぐる攻撃停止とカタールでの協議合意と報道",
+      "date": "Mon, 29 Jun 2026 06:26:55 +0900",
+      "summary": "According to U.S. media, the United States and Iran have agreed to halt mutual attacks over the Strait of Hormuz and are scheduled to hold mediated talks in Qatar.",
+      "sentences": [
+        {
+          "en": "Amid ongoing retaliatory attacks between the United States and Iran over the Strait of Hormuz in the Middle East, a new diplomatic development has emerged.",
+          "ja": "中東のホルムズ海峡をめぐるアメリカとイランの攻撃の応酬が続くなか、新たな外交的進展が見られました。"
+        },
+        {
+          "en": "According to U.S. media reports on the 28th, both nations have agreed to halt their mutual military actions.",
+          "ja": "28日のアメリカメディアの報道によると、両国は互いへの攻撃を停止することに合意しました。"
+        },
+        {
+          "en": "This agreement marks a significant step toward easing the growing tensions in the strategically vital waterway.",
+          "ja": "この合意は、戦略的に極めて重要なこの海路において高まる緊張を緩和するための、大きな一歩となります。"
+        },
+        {
+          "en": "To solidify this truce, representatives from both sides are expected to hold talks on the 30th.",
+          "ja": "この一時的な停戦を確実なものにするため、双方の代表は30日に会談を行う見通しです。"
+        },
+        {
+          "en": "The discussions will take place in Qatar, which has been playing a key role as a mediator.",
+          "ja": "協議は、仲介役として重要な役割を果たしてきたカタールで行われる予定です。"
+        },
+        {
+          "en": "Observers are hopeful that these talks will lead to a more stable resolution in the region.",
+          "ja": "関係者は、この会談がこの地域におけるより安定した解決につながることを期待しています。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163381000.html",
+      "title": "近鉄京都線 京都駅の構内で脱線事故 “けが人の情報なし”",
+      "title_ja": "近鉄京都線の京都駅構内で普通列車が脱線 けが人なし",
+      "date": "Mon, 29 Jun 2026 06:51:22 +0900",
+      "summary": "A four-car local train on the Kintetsu Kyoto Line derailed inside Kyoto Station early on the 29th, but no injuries have been reported.",
+      "sentences": [
+        {
+          "en": "Early in the morning on the 29th, a train derailment occurred at Kyoto Station.",
+          "ja": "29日の早朝、京都駅の構内で列車の脱線事故が発生しました。"
+        },
+        {
+          "en": "At around 5:13 a.m., a four-car local train on the Kintetsu Kyoto Line derailed inside the station area.",
+          "ja": "午前5時13分ごろ、近鉄京都線の京都駅構内で、4両編成の普通列車が脱線しました。"
+        },
+        {
+          "en": "Emergency services were quickly notified, and authorities rushed to the scene to assess the situation.",
+          "ja": "関係各所に速やかに連絡が入るなど、状況を把握するために当局が現場に急行しました。"
+        },
+        {
+          "en": "According to the local fire department and the railway operator, there are currently no reports of any injuries.",
+          "ja": "地元の消防や鉄道会社によると、現在のところけが人の情報は入っていないとのことです。"
+        },
+        {
+          "en": "Investigations are now underway to determine the cause of the derailment and restore normal train operations.",
+          "ja": "脱線の原因を特定し、電車の通常運行を再開するための調査が現在進められています。"
+        }
+      ]
+    },
+    {
       "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162811000.html",
-      "title": "【地震情報】青森県 岩手県で震度5弱 津波の心配なし",
-      "title_ja": "岩手県沖で震度5弱の地震、津波の心配なし",
-      "date": "Sun, 28 Jun 2026 06:51:08 +0900",
-      "summary": "An earthquake with a maximum seismic intensity of lower 5 struck off the coast of Iwate Prefecture, but officials say there is no threat of a tsunami.",
+      "title": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
+      "title_ja": "岩手県沖で震度5弱の地震、気象庁が今後の余震に警戒呼びかけ",
+      "date": "Sun, 28 Jun 2026 12:43:24 +0900",
+      "summary": "An earthquake with a maximum intensity of lower 5 struck off the coast of Iwate Prefecture, prompting the Japan Meteorological Agency to warn of potential large aftershocks for the next week.",
       "sentences": [
         {
-          "en": "Early in the morning on the 28th, a strong earthquake struck off the coast of Iwate Prefecture in northeastern Japan.",
-          "ja": "28日の早朝、日本の東北地方にあたる岩手県沖を震源とする強い地震がありました。"
+          "en": "Early in the morning on the 28th, an earthquake struck off the coast of Iwate Prefecture.",
+          "ja": "28日朝早く、岩手県沖を震源とする地震がありました。"
         },
         {
-          "en": "The tremor, which occurred around 5:21 AM, registered a lower 5 on the Japanese seismic intensity scale in parts of Aomori and Iwate Prefectures.",
-          "ja": "午前5時21分ごろに発生したこの地震で、青森県と岩手県の一部で震度5弱の強い揺れを観測しました。"
+          "en": "Strong shaking with a seismic intensity of lower 5 was observed in Aomori and Iwate prefectures.",
+          "ja": "青森県と岩手県で、震度5弱の強い揺れが観測されました。"
         },
         {
-          "en": "Fortunately, local authorities confirmed that there is no threat of a tsunami resulting from this earthquake.",
-          "ja": "幸いなことに、この地震による津波の心配はないと地元当局が発表しています。"
+          "en": "According to the Japan Meteorological Agency, this earthquake occurred in the active zone of the magnitude 7.2 earthquake that hit on the 25th of this month.",
+          "ja": "気象庁によると、この地震は今月25日に発生したマグニチュード7.2の地震の活動域で起きています。"
         },
         {
-          "en": "This area has experienced active seismic activity recently, including a powerful magnitude 7.2 earthquake that hit the same region on the 25th of this month.",
-          "ja": "この地域では最近地震活動が活発になっており、今月の25日にも同じ海域でマグニチュード7.2の強い地震が発生していました。"
+          "en": "The agency is warning residents to stay alert for about a week.",
+          "ja": "気象庁は、1週間程度は注意を怠らないよう呼びかけています。"
         },
         {
-          "en": "The Japan Meteorological Agency is urging residents to remain vigilant for potential aftershocks over the coming days.",
-          "ja": "気象庁は、今後数日間にわたり発生する可能性のある余震に対して、住民に警戒を続けるよう呼びかけています。"
+          "en": "They cautioned that another earthquake with a maximum intensity of up to upper 6 could still occur in the area.",
+          "ja": "同地域では、最大震度6強程度の地震が再び発生する可能性があると警告しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162851000.html",
-      "title": "東北・上越・北陸新幹線 始発から平常どおり運行予定",
-      "title_ja": "JR東日本の新幹線、始発から平常どおり運行",
-      "date": "Sun, 28 Jun 2026 06:15:58 +0900",
-      "summary": "JR East announced that the Tohoku, Joetsu, and Hokuriku Shinkansen lines are operating normally from the first train of the day, with no major delays reported.",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163301000.html",
+      "title": "ベネズエラ地震から4日 各国救助チームの活動本格化",
+      "title_ja": "ベネズエラ大地震、死者1450人に 救助活動が本格化",
+      "date": "Mon, 29 Jun 2026 05:49:40 +0900",
+      "summary": "Four days after a devastating earthquake in Venezuela, the death toll has reached 1,450, while international rescue teams step up their efforts in heavily damaged areas like La Guaira State.",
       "sentences": [
         {
-          "en": "Good news for travelers using Japan's high-speed rail network today.",
-          "ja": "本日、日本の新幹線をご利用になる旅行者の皆様に良いニュースです。"
+          "en": "Four days after a devastating earthquake struck Venezuela, the death toll has risen to 1,450 as of the 28th.",
+          "ja": "ベネズエラで大地震が発生してから4日が経過した28日までに、死者数は1450人に達しました。"
         },
         {
-          "en": "According to East Japan Railway Company, also known as JR East, major bullet train lines are running smoothly.",
-          "ja": "JR東日本によりますと、主要な新幹線各線は順調に運行しているとのことです。"
+          "en": "Rescue operations by international teams are now fully underway in the most affected areas.",
+          "ja": "最も被害が大きい地域では、各国の救助チームによる捜索救助活動が本格化しています。"
         },
         {
-          "en": "Specifically, the Tohoku, Joetsu, and Hokuriku Shinkansen lines have been operating on schedule starting from their very first trains of the day.",
-          "ja": "具体的には、東北新幹線、上越新幹線、北陸新幹線は、いずれも始発から平常どおり運行しています。"
+          "en": "La Guaira State is one of the hardest-hit regions, where building damage is heavily concentrated.",
+          "ja": "建物の被害が集中しているラ・グアイラ州は、最も深刻な被害を受けた地域の一つです。"
         },
         {
-          "en": "No major delays or suspensions have been reported, ensuring a smooth morning commute or travel experience.",
-          "ja": "重大な遅延や運休は報告されておらず、朝の通勤や移動もスムーズに行われています。"
+          "en": "Emergency workers from various countries are searching through the rubble in hopes of finding survivors.",
+          "ja": "各国の救急隊員たちは、生存者を見つけ出すことを願いながらがれきの中の捜索を続けています。"
         },
         {
-          "en": "Passengers are still advised to check the official website for any real-time updates throughout the day.",
-          "ja": "乗客の皆様は、日中のリアルタイムな更新情報について、引き続き公式サイトで確認することをお勧めします。"
+          "en": "Local authorities are working around the clock to coordinate relief efforts and distribute essential supplies.",
+          "ja": "地元当局は、救護活動の調整や必需品の配給を行うため、24時間体制で活動しています。"
+        },
+        {
+          "en": "As the full scale of the disaster becomes clear, the international community is offering further support to the country.",
+          "ja": "災害の全容が明らかになるにつれ、国際社会は同国へのさらなる支援を表明しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162831000.html",
-      "title": "宮城 女川原発 地震による異常は確認されず",
-      "title_ja": "地震後の女川原発、異常なしと発表",
-      "date": "Sun, 28 Jun 2026 06:09:09 +0900",
-      "summary": "Tohoku Electric Power announced that no abnormalities have been found at the Onagawa Nuclear Power Plant in Miyagi Prefecture, and radiation monitoring levels remain unchanged after the earthquake.",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163361000.html",
+      "title": "サッカーW杯 日本代表がブラジル戦に向け最終調整",
+      "title_ja": "W杯決勝Tブラジル戦を控え、日本代表が最終調整",
+      "date": "Mon, 29 Jun 2026 06:24:29 +0900",
+      "summary": "Japan's national soccer team has completed their final training in Houston, USA, ahead of their crucial World Cup Round of 16 match against Brazil. Having advanced from the group stage with one win and two draws, the team is highly motivated to face the football powerhouse.",
       "sentences": [
         {
-          "en": "Tohoku Electric Power has announced that no abnormalities have been detected so far at the Onagawa Nuclear Power Plant following the recent earthquake.",
-          "ja": "東北電力によると、最近の地震による女川原子力発電所への異常は、これまでのところ確認されていません。"
+          "en": "The Japanese national soccer team has completed their final training in Houston, USA, ahead of their World Cup Round of 16 match against Brazil.",
+          "ja": "サッカーワールドカップ北中米大会の日本代表は、翌日に控えた決勝トーナメント1回戦のブラジル戦に向けて、アメリカのヒューストンで最終調整を行いました。"
         },
         {
-          "en": "The facility is located across Ishinomaki City and Onagawa Town in Miyagi Prefecture.",
-          "ja": "この発電所は、宮城県の石巻市と女川町に位置しています。"
+          "en": "Japan, currently ranked 18th in the world, advanced to the knockout stage after finishing the group stage with one win and two draws.",
+          "ja": "世界ランキング18位の日本は、1次リーグを1勝2引き分けで終え、見事に決勝トーナメント進出を果たしました。"
         },
         {
-          "en": "According to the utility company, there are also no changes in the radiation levels measured by monitoring posts around the plant.",
-          "ja": "同社によると、原発周辺の放射線量を測定するモニタリングポストの値にも変化は見られないとのことです。"
+          "en": "Facing football giants Brazil will be a massive challenge, but the team is preparing with high spirits.",
+          "ja": "サッカー大国であるブラジルとの対戦は大きな試練となりますが、チームは高い士気を持って準備を進めています。"
         },
         {
-          "en": "Local authorities continue to closely monitor the situation to ensure the safety of nearby residents.",
-          "ja": "周辺住民の安全を確保するため、関係機関は引き続き状況を注視しています。"
+          "en": "During the training session, the players focused on tactical strategies and practiced penalty shootouts.",
+          "ja": "練習セッションでは、選手たちは戦術的な戦略に集中し、ペナルティーキックの練習も行いました。"
         },
         {
-          "en": "Officials advise the public to remain calm and stay tuned for further updates.",
-          "ja": "関係者は住民に対し、冷静に行動し、今後の最新情報に注意するよう呼びかけています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162821000.html",
-      "title": "青森 東通原発など原子力関連施設 地震による異常は確認されず",
-      "title_ja": "地震発生後の青森県原子力施設の状況について",
-      "date": "Sun, 28 Jun 2026 06:35:02 +0900",
-      "summary": "Following a recent earthquake, operators of nuclear facilities in Aomori Prefecture, including those in Mutsu, Higashidori, and Rokkasho, report no abnormalities.",
-      "sentences": [
-        {
-          "en": "An earthquake recently struck northern Japan, prompting immediate safety checks at local nuclear facilities.",
-          "ja": "先ほど北日本で地震が発生し、地元の原子力施設で即座に安全確認が行われました。"
+          "en": "The head coach emphasized the importance of solid defense and quick counterattacks against the skilled Brazilian players.",
+          "ja": "監督は、技術の高いブラジル選手に対抗するため、堅実な守備と素早いカウンター攻撃の重要性を強調しました。"
         },
         {
-          "en": "According to operators in Aomori Prefecture, no abnormalities have been reported at any of their locations.",
-          "ja": "青森県の各事業者によりますと、管内のどの施設においても異常は報告されていないとのことです。"
-        },
-        {
-          "en": "This includes the interim storage facility located in Mutsu City.",
-          "ja": "これには、むつ市にある中間貯蔵施設が含まれます。"
-        },
-        {
-          "en": "Similarly, the Higashidori Nuclear Power Plant, which is currently offline, remains stable.",
-          "ja": "同様に、現在運転を停止している東通村の東通原子力発電所も安定した状態を保っています。"
-        },
-        {
-          "en": "Furthermore, no damage has been confirmed at the spent nuclear fuel reprocessing plant in Rokkasho Village.",
-          "ja": "さらに、六ヶ所村にある使用済み核燃料の再処理工場でも被害は確認されていません。"
-        },
-        {
-          "en": "Operators and local authorities will continue to monitor the facilities to ensure ongoing safety.",
-          "ja": "各事業者と地元自治体は、今後の安全を確保するため、引き続き施設の監視を続けます。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162751000.html",
-      "title": "山梨の震度6弱地震 地震調査委“同程度の規模の地震に注意を”",
-      "title_ja": "山梨県の地震、プレート衝突が原因か",
-      "date": "Sun, 28 Jun 2026 06:52:17 +0900",
-      "summary": "The Japanese government's Earthquake Research Committee evaluated that a recent earthquake in Yamanashi Prefecture was caused by the collision of two tectonic plates.",
-      "sentences": [
-        {
-          "en": "On the 26th, a strong earthquake with a maximum seismic intensity of lower 6 struck Yamanashi Prefecture.",
-          "ja": "26日、山梨県で最大震度6弱を観測する強い地震がありました。"
-        },
-        {
-          "en": "In response to the event, the government's Earthquake Research Committee held an extraordinary meeting to analyze the situation.",
-          "ja": "これを受けて、政府の地震調査委員会は臨時の会合を開き、状況の分析を行いました。"
-        },
-        {
-          "en": "The committee concluded that the earthquake was likely caused by the collision of two tectonic plates.",
-          "ja": "委員会は、この地震が2つのプレートの衝突に起因して発生した可能性が高いとする評価をまとめました。"
-        },
-        {
-          "en": "According to experts, this region has a highly complex geological structure where multiple plates meet.",
-          "ja": "専門家によると、この地域は複数のプレートが交わる非常に複雑な地質構造をしています。"
-        },
-        {
-          "en": "Committee Chairman Kazushige Obara noted that this area has always been prone to seismic activity.",
-          "ja": "小原一成委員長は、この地域はもともと地震活動が起こりやすい場所であると指摘しました。"
-        },
-        {
-          "en": "Officials are urging residents to remain vigilant against potential aftershocks over the coming days.",
-          "ja": "関係機関は、今後数日間は発生する可能性のある余震に対して警戒を怠らないよう住民に呼びかけています。"
+          "en": "Soccer fans in Japan and around the world are eagerly waiting to see if Japan can pull off an upset victory.",
+          "ja": "日本をはじめ世界中のサッカーファンが、日本が番狂わせの勝利を収めることができるか注目しています。"
         }
       ]
     }
@@ -157,343 +161,44 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162781000.html",
-        "title": "中国とロシアの爆撃機 日本周辺を共同飛行 防衛省が警戒と監視",
-        "title_ja": "中露の爆撃機が日本周辺を共同飛行、防衛省が重大な懸念を表明",
-        "date": "Sun, 28 Jun 2026 06:58:58 +0900",
-        "summary": "Chinese and Russian bombers conducted a joint flight near Japan, prompting the Japanese Ministry of Defense to express grave concern and maintain strict surveillance.",
+        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163331000.html",
+        "title": "大分 別府ひき逃げ事件から4年 新映像公開し情報提供呼びかけ",
+        "title_ja": "別府ひき逃げ事件：発生から4年、新たな映像を公開",
+        "date": "Mon, 29 Jun 2026 06:52:32 +0900",
+        "summary": "It has been four years since a fatal hit-and-run in Beppu, Oita Prefecture, where a university student was killed. Police have released new security camera footage of suspect Yoichi Hatta in hopes of receiving public leads.",
         "sentences": [
           {
-            "en": "On November 27th, Chinese and Russian bombers conducted a joint flight around Japan.",
-            "ja": "11月27日、中国軍とロシア軍の爆撃機が日本周辺を共同飛行したことが確認されました。"
+            "en": "June 29th marks four years since a fatal hit-and-run incident in Beppu City, Oita Prefecture, which resulted in the death of a university student.",
+            "ja": "大分県別府市で大学生がひき逃げされて死亡した事件は、29日で発生から4年を迎えます。"
           },
           {
-            "en": "The military planes flew from the skies over the East China Sea to the Pacific Ocean off the coast of Shikoku.",
-            "ja": "両国の爆撃機は、東シナ海上空から四国沖の太平洋上空にかけて飛行しました。"
+            "en": "The suspect, Yoichi Hatta, is currently on the police's special wanted list under suspicion of murder and other charges.",
+            "ja": "殺人などの疑いで、八田與一容疑者が重要指名手配されています。"
           },
           {
-            "en": "This joint operation prompted immediate attention from the Japanese government.",
-            "ja": "この共同行動は、日本政府の即座の注目を集めました。"
+            "en": "In an effort to gather more information, the police have newly released security camera footage filmed near the scene just before the incident.",
+            "ja": "警察はさらなる情報を集めるため、事件の直前に現場近くで撮影された防犯カメラの映像を新たに公開しました。"
           },
           {
-            "en": "Japan's Ministry of Defense expressed grave concerns to both nations through diplomatic channels.",
-            "ja": "防衛省は外交ルートを通じて、両国に対して重大な懸念を表明しました。"
+            "en": "The footage shows the suspect's behavior and the surroundings right before the collision occurred.",
+            "ja": "映像には、衝突が起きる直前の容疑者の動きや周囲の状況が映っています。"
           },
           {
-            "en": "The ministry also stated that it is maintaining a high level of vigilance and continuing its surveillance activities.",
-            "ja": "同省はまた、高い警戒レベルを維持し、監視活動を続けていると述べています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162751000.html",
-        "title": "山梨の震度6弱地震 地震調査委“同程度の規模の地震に注意を”",
-        "title_ja": "山梨県での震度6弱地震、プレート衝突が原因か",
-        "date": "Sun, 28 Jun 2026 06:52:17 +0900",
-        "summary": "Following a seismic intensity lower 6 earthquake in Yamanashi Prefecture, Japan's Earthquake Research Committee concluded that the event was likely caused by the collision of two tectonic plates.",
-        "sentences": [
-          {
-            "en": "On the 26th, an earthquake with a maximum seismic intensity of lower 6 struck Yamanashi Prefecture.",
-            "ja": "26日、山梨県で最大震度6弱を観測する地震が発生しました。"
+            "en": "Authorities are urging the public to provide any information that could lead to the suspect's arrest.",
+            "ja": "捜査当局は、容疑者の逮捕につながるいかなる情報でも提供するよう、広く呼びかけています。"
           },
           {
-            "en": "In response, the government's Earthquake Research Committee held an extraordinary meeting to evaluate the situation.",
-            "ja": "これを受けて、政府の地震調査委員会は臨時会合を開き、状況の評価を行いました。"
-          },
-          {
-            "en": "The committee concluded that the earthquake was likely caused by the collision of two tectonic plates.",
-            "ja": "委員会は、この地震が2つのプレートの衝突に起因して発生したものと考えられるという評価をまとめました。"
-          },
-          {
-            "en": "Committee Chairman Kazushige Obara pointed out that this region has a complex geological structure where earthquakes are naturally prone to occur.",
-            "ja": "小原一成委員長は、この地域はもともと地質構造が複雑で、地震が発生しやすい場所であると指摘しました。"
-          },
-          {
-            "en": "Experts advise local residents to stay alert for potential aftershocks over the coming days.",
-            "ja": "専門家は地元の住民に対し、今後数日間は余震に警戒するよう呼びかけています。"
+            "en": "Even small details could be crucial in solving this tragic case and bringing closure to the victim's family.",
+            "ja": "些細な情報であっても、この悲惨な事件を解決し、遺族に平穏をもたらすための重大な鍵となる可能性があります。"
           }
         ]
       }
     ],
-    "文化・エンタメ": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260627/k10015162651000.html",
-        "title": "広島 福山 ため池が決壊し 住宅16棟浸水",
-        "title_ja": "広島県福山市で農業用ため池が決壊、16棟が浸水",
-        "date": "Sat, 27 Jun 2026 18:35:05 +0900",
-        "summary": "An agricultural reservoir collapsed in Fukuyama City, Hiroshima Prefecture, causing flood damage to 16 homes, though fortunately no injuries were reported.",
-        "sentences": [
-          {
-            "en": "Early in the morning on the 27th, an agricultural reservoir collapsed in a mountainous area of Fukuyama City, Hiroshima Prefecture.",
-            "ja": "27日未明、広島県福山市の山あいにある農業用のため池が決壊しました。"
-          },
-          {
-            "en": "The collapse occurred around 3:30 a.m. in the town of Shinichi within the city.",
-            "ja": "決壊は同市新市町で、午前3時半ごろに発生しました。"
-          },
-          {
-            "en": "Due to the breach, water rushed downstream, flooding 16 residential buildings located along the waterway.",
-            "ja": "この決壊により水が下流に流れ込み、水路沿いにある16棟の住宅が浸水しました。"
-          },
-          {
-            "en": "Fortunately, local authorities reported that no injuries have been confirmed so far.",
-            "ja": "幸いなことに、市によると、これまでのところけが人は確認されていないということです。"
-          },
-          {
-            "en": "Officials are now investigating the cause of the failure and checking the safety of other nearby reservoirs.",
-            "ja": "関係者は現在、決壊の原因を調査するとともに、近くにある他のため池の安全性を確認しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260626/k10015162041000.html",
-        "title": "大手携帯電話会社 “地震による通話・通信への影響なし”",
-        "title_ja": "地震による携帯電話への影響なし",
-        "date": "Fri, 26 Jun 2026 23:13:30 +0900",
-        "summary": "Major Japanese mobile carriers reported no disruptions to call or data services following the recent earthquake.",
-        "sentences": [
-          {
-            "en": "Following the recent earthquake, many people have been concerned about the state of communication networks.",
-            "ja": "先日の地震の発生に伴い、多くの人々が通信ネットワークの状況を心配しています。"
-          },
-          {
-            "en": "Fortunately, Japan's major mobile carriers have released reassuring updates regarding their services.",
-            "ja": "幸いなことに、日本の主要な携帯電話会社はサービスに関する安心できる最新情報を発表しました。"
-          },
-          {
-            "en": "According to NTT Docomo, KDDI, SoftBank, and Rakuten Mobile, there are no major disruptions.",
-            "ja": "NTTドコモ、KDDI、ソフトバンク、楽天モバイルによると、大きな混乱は発生していないとのことです。"
-          },
-          {
-            "en": "They confirmed that as of 10:50 PM on the 26th, there was no impact on mobile phone calls or data communications.",
-            "ja": "各社は、26日午後10時50分の時点で、携帯電話の通話やデータ通信への影響は確認されていないと発表しました。"
-          },
-          {
-            "en": "These companies will likely continue to monitor their networks to ensure stable connections for all users.",
-            "ja": "各社はすべての利用者に安定した接続を提供するため、今後もネットワークの監視を続けるとみられます。"
-          }
-        ]
-      }
-    ],
-    "科学・医療": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260626/k10015161591000.html",
-        "title": "チョルノービリ原発周辺自治体 復興で福島県双葉町と協定締結",
-        "title_ja": "チョルノービリ事故から40年、福島県双葉町との復興の絆",
-        "date": "Fri, 26 Jun 2026 18:59:50 +0900",
-        "summary": "This year marks the 40th anniversary of the Chornobyl disaster. Municipalities near the Ukrainian plant and Fukushima's Futaba Town, both affected by nuclear accidents, are connecting to share their recovery experiences.",
-        "sentences": [
-          {
-            "en": "This year marks nearly 40 years since the disaster at the Chornobyl nuclear power plant in Ukraine, which is often called the worst in history.",
-            "ja": "ウクライナにあるチョルノービリ原子力発電所で、史上最悪といわれる事故が発生してから、今年で40年になります。"
-          },
-          {
-            "en": "On the 26th, local municipalities near the Ukrainian plant held an exchange with Futaba Town in Fukushima Prefecture.",
-            "ja": "26日、この原発周辺のウクライナの自治体が、福島県双葉町との交流を行いました。"
-          },
-          {
-            "en": "Futaba Town, like the Ukrainian municipalities, experienced a severe nuclear accident following the Great East Japan Earthquake in 2011.",
-            "ja": "双葉町もまた、ウクライナの自治体と同様に、2011年の東日本大震災に伴う深刻な原発事故を経験しています。"
-          },
-          {
-            "en": "During the meeting, representatives from both sides discussed the challenges of restoring their communities and supporting residents.",
-            "ja": "この会合の中で、双方の代表者は地域社会の復興や住民への支援における課題について話し合いました。"
-          },
-          {
-            "en": "Despite the geographic distance and different timeframes, both regions share a unique bond through their recovery efforts.",
-            "ja": "地理的な距離や時期の違いはあるものの、両地域は復興への取り組みを通じて特別な絆を共有しています。"
-          },
-          {
-            "en": "They hope to continue learning from each other to build a safer and more resilient future.",
-            "ja": "彼らは、より安全で回復力のある未来を築くために、今後もお互いから学び続けることを望んでいます。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260625/k10015159891000.html",
-        "title": "ザ・ビートルズ来日から60年で特設店舗がオープン 東京 原宿",
-        "title_ja": "ビートルズ来日60周年を記念した特設店舗が原宿にオープン",
-        "date": "Thu, 25 Jun 2026 17:49:23 +0900",
-        "summary": "A special pop-up store has opened in Harajuku, Tokyo, to celebrate the 60th anniversary of The Beatles' historic visit to Japan, featuring rare performance footage shown for the first time in six decades.",
-        "sentences": [
-          {
-            "en": "This month marks the 60th anniversary of the legendary British rock band The Beatles' historic visit to Japan.",
-            "ja": "イギリスの伝説的なロックバンド、ザ・ビートルズの歴史的な来日から今月で60年になります。"
-          },
-          {
-            "en": "To commemorate this milestone, a special pop-up store has opened in Harajuku, Tokyo.",
-            "ja": "この節目を記念して、東京の原宿に特設の店舗がオープンしました。"
-          },
-          {
-            "en": "At the store, visitors can watch rare footage of the band's live performances from that time, which is being released for the first time in 60 years.",
-            "ja": "店舗では、60年ぶりに公開された当時の貴重な公演映像を楽しむことができます。"
-          },
-          {
-            "en": "The Beatles enjoyed immense global popularity, and their influence remains strong in Japan today.",
-            "ja": "世界的な人気を誇ったザ・ビートルズの影響力は、今日の日本でも依然として強く残っています。"
-          },
-          {
-            "en": "This unique event offers a nostalgic trip for long-time fans and an exciting introduction for the younger generation.",
-            "ja": "この特別なイベントは、長年のファンには懐かしい旅を、若い世代にはエキサイティングな出会いを提供しています。"
-          }
-        ]
-      }
-    ],
-    "政治": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260627/k10015161771000.html",
-        "title": "定数削減法案 与党職権で審議入り 野党応じない方針で対立",
-        "title_ja": "衆院定数削減法案をめぐる与野党の対立",
-        "date": "Sat, 27 Jun 2026 05:13:40 +0900",
-        "summary": "A ruling party committee chairman has unilaterally pushed for deliberations on a bill to reduce Lower House seats, leading to a boycott by opposition parties and an ongoing political standoff.",
-        "sentences": [
-          {
-            "en": "In the Japanese Diet, a committee chairman from the ruling party has used his authority to force the start of deliberations on a bill to reduce the number of seats in the House of Representatives.",
-            "ja": "日本の国会で、与党の委員長が職権により、衆議院の議員定数を削減する法案などの審議入りを決めました。"
-          },
-          {
-            "en": "The ruling coalition aims to steadily advance the discussions to pass the bill during the current parliamentary session.",
-            "ja": "与党側は、会期内にこの法案を成立させるため、着実に審議を進めたい考えです。"
-          },
-          {
-            "en": "In contrast, the opposition parties are strongly against this move and plan to boycott the deliberations.",
-            "ja": "これに対し、野党側はこの動きに強く反発しており、審議に応じない方針をとっています。"
-          },
-          {
-            "en": "This clash over the bill is expected to keep tensions high between the ruling and opposition camps into next week and beyond.",
-            "ja": "この法案をめぐる対立により、週明け以降も与野党の緊張状態が続くとみられます。"
-          },
-          {
-            "en": "Finding common ground will likely be difficult as both sides remain firm in their positions.",
-            "ja": "双方がそれぞれの立場を崩さない中、妥協点を見いだすのは難しい見通しです。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260627/k10015162161000.html",
-        "title": "政府の「骨太の方針」原案 基礎的財政収支の一時的悪化許容も",
-        "title_ja": "政府、骨太方針の原案で新たな財政目標を提示",
-        "date": "Sat, 27 Jun 2026 05:00:51 +0900",
-        "summary": "The Japanese government's draft of this year's basic economic policy shifts its fiscal focus to stably reducing the debt-to-GDP ratio, while allowing temporary deficits in the primary balance during economic fluctuations.",
-        "sentences": [
-          {
-            "en": "The Japanese government has drafted its annual basic economic and fiscal policy, known as the 'Honebuto' policy.",
-            "ja": "政府は、通称「骨太の方針」と呼ばれる毎年の経済財政運営の基本方針の原案をまとめました。"
-          },
-          {
-            "en": "In this draft, the government has set a new core target for fiscal management: stably reducing the country's debt-to-GDP ratio.",
-            "ja": "この原案の中で政府は、国の債務残高の対GDP比を安定的に低下させることを、財政運営の新たな中核目標に据えました。"
-          },
-          {
-            "en": "Regarding the primary balance, which measures whether policy expenses are covered by tax revenues, a more flexible approach is being introduced.",
-            "ja": "政策経費が税収等で賄えているかを示すプライマリーバランス（基礎的財政収支）については、より柔軟なアプローチが導入されています。"
-          },
-          {
-            "en": "Under the new policy, temporary worsening of the primary balance will be permitted depending on economic fluctuations.",
-            "ja": "新方針のもとでは、景気の変動などに応じて、基礎的財政収支の一時的な悪化も許容されることになります。"
-          },
-          {
-            "en": "This shift reflects a move toward prioritizing overall economic stability and long-term debt sustainability over short-term balanced budgets.",
-            "ja": "この転換は、短期的な財政均衡よりも、経済全体の安定と長期的な債務の持続可能性を優先する姿勢を反映しています。"
-          }
-        ]
-      }
-    ],
-    "経済": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260627/k10015162581000.html",
-        "title": "アンソロピック AI「ミュトス5」米の一部企業などに提供再開へ",
-        "title_ja": "アンソロピック、一部米国企業へ最新AI「クロード・ミュトス5」の提供を再開",
-        "date": "Sat, 27 Jun 2026 14:16:57 +0900",
-        "summary": "US AI startup Anthropic has announced that it will resume providing its latest AI model, \"Claude Mythos 5,\" to select US companies. The release had been suspended for all customers following a government order.",
-        "sentences": [
-          {
-            "en": "The American AI startup Anthropic announced on the 26th that it will resume providing its latest AI model to some U.S. companies.",
-            "ja": "アメリカのAI新興企業であるアンソロピックは26日、一部の米国企業に対して最新AIモデルの提供を再開すると発表しました。"
-          },
-          {
-            "en": "The model, called \"Claude Mythos 5,\" had previously been suspended for all customers.",
-            "ja": "「クロード・ミュトス5」と呼ばれるこのモデルは、以前はすべての顧客への提供が一時的に停止されていました。"
-          },
-          {
-            "en": "This suspension was put in place following an order from the government.",
-            "ja": "この停止措置は、政府からの命令を受けて実施されたものでした。"
-          },
-          {
-            "en": "While the exact reasons for the government's order remain unclear, this partial resumption is a significant step for the company.",
-            "ja": "政府の命令の詳しい理由は明らかになっていませんが、今回の部分的な再開は同社にとって重要な一歩となります。"
-          },
-          {
-            "en": "Anthropic aims to carefully balance government regulations with the growing demand for advanced AI technology.",
-            "ja": "アンソロピックは、政府の規制と、高まる高度なAI技術への需要との間で、慎重にバランスを取ることを目指しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260626/k10015160891000.html",
-        "title": "フジとSBIがメディア事業で業務提携協議 コンテンツ展開強化へ",
-        "title_ja": "フジ・メディアHDとSBIが業務提携の協議を開始",
-        "date": "Fri, 26 Jun 2026 19:49:36 +0900",
-        "summary": "Fuji Media Holdings and SBI Holdings have begun talks on a strategic alliance in the media business, aiming to collaborate on content production like anime and dramas.",
-        "sentences": [
-          {
-            "en": "Fuji Media Holdings, the parent company of Fuji Television, and the comprehensive financial group SBI Holdings have announced that they have begun discussions regarding a strategic business alliance.",
-            "ja": "フジテレビの親会社であるフジ・メディア・ホールディングスと、総合金融グループのSBIホールディングスは、戦略的な業務提携に向けた協議を開始したことを明らかにしました。"
-          },
-          {
-            "en": "The two companies aim to collaborate closely in the media business, with a particular focus on the production of content such as anime and dramas.",
-            "ja": "両社は、アニメやドラマなどのコンテンツ制作に焦点を当て、メディア事業において緊密に協力することを目指しています。"
-          },
-          {
-            "en": "This partnership is expected to combine Fuji Media's content creation capabilities with SBI's financial and digital technology strengths.",
-            "ja": "この提携により、フジ・メディアのコンテンツ制作力と、SBIの金融やデジタル技術の強みが融合することが期待されています。"
-          },
-          {
-            "en": "Through this alliance, they plan to expand their digital content business and seek new ways to deliver entertainment to global audiences.",
-            "ja": "この提携を通じて、両社はデジタルコンテンツ事業を拡大し、世界中の視聴者にエンターテインメントを届ける新たな方法を模索する計画です。"
-          },
-          {
-            "en": "Detailed plans and specific projects resulting from these discussions will be announced as they are finalized.",
-            "ja": "これらの協議から生まれる詳細な計画や具体的なプロジェクトは、決定次第発表される予定です。"
-          }
-        ]
-      }
-    ],
-    "国際": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162771000.html",
-        "title": "豪 16歳未満のSNS禁止法 規制を強化へ 罰金 最大110億円余に",
-        "title_ja": "豪政府、16歳未満のSNS利用禁止で規制強化、罰金を最大110億円超に引き上げへ",
-        "date": "Sun, 28 Jun 2026 07:01:04 +0900",
-        "summary": "The Australian government is strengthening regulations and doubling the maximum fine for social media companies to over 11 billion yen, after declaring their youth safety measures insufficient.",
-        "sentences": [
-          {
-            "en": "The Australian government is stepping up its efforts to protect children online by strengthening regulations on social media companies.",
-            "ja": "オーストラリア政府は、ソーシャルメディア企業への規制を強化することで、オンライン上の子どもたちを保護する取り組みを強めています。"
-          },
-          {
-            "en": "This follows a recent landmark decision to ban children under the age of 16 from using social media platforms.",
-            "ja": "これは、16歳未満の子どものソーシャルメディア利用を禁止するという、最近の画期的な決定に続くものです。"
-          },
-          {
-            "en": "However, the government believes that these tech companies are not doing enough to enforce the ban and keep young users safe.",
-            "ja": "しかし政府は、これらのテック企業が禁止措置を徹底し、若い利用者の安全を守るための対策を十分に講じていないと考えています。"
-          },
-          {
-            "en": "To address this, Australia plans to double the maximum fine for companies that fail to implement sufficient safety measures.",
-            "ja": "これに対処するため、オーストラリアは十分な安全対策を怠った企業に対する最大罰金を現在の2倍に引き上げる計画です。"
-          },
-          {
-            "en": "The proposed penalty could reach over 11 billion Japanese yen, which is more than 70 million US dollars.",
-            "ja": "提示された罰金は、日本円で110億円余り（米ドルで7,000万ドル以上）に達する可能性があります。"
-          },
-          {
-            "en": "Authorities hope these heavy financial penalties will force tech giants to take youth safety more seriously.",
-            "ja": "当局は、こうした高額な罰金によって、巨大IT企業が若者の安全対策により真剣に取り組むようになることを期待しています。"
-          }
-        ]
-      }
-    ],
+    "文化・エンタメ": [],
+    "科学・医療": [],
+    "政治": [],
+    "経済": [],
+    "国際": [],
     "スポーツ": []
   }
 }
