@@ -1,159 +1,151 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163371000.html",
-      "title": "“アメリカ・イランが攻撃停止で合意 30日に協議”米報道",
-      "title_ja": "米イ、ホルムズ海峡めぐる攻撃停止とカタールでの協議合意と報道",
-      "date": "Mon, 29 Jun 2026 06:26:55 +0900",
-      "summary": "According to U.S. media, the United States and Iran have agreed to halt mutual attacks over the Strait of Hormuz and are scheduled to hold mediated talks in Qatar.",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
+      "title": "W杯 日本がブラジルに逆転負け 決勝T 1回戦で敗退【詳しく】",
+      "title_ja": "サッカーW杯、日本はブラジルに惜敗しベスト16で敗退",
+      "date": "Tue, 30 Jun 2026 06:50:19 +0900",
+      "summary": "Japan was eliminated from the World Cup in North America after a dramatic 1-2 loss to favorites Brazil in the round of 16.",
       "sentences": [
         {
-          "en": "Amid ongoing retaliatory attacks between the United States and Iran over the Strait of Hormuz in the Middle East, a new diplomatic development has emerged.",
-          "ja": "中東のホルムズ海峡をめぐるアメリカとイランの攻撃の応酬が続くなか、新たな外交的進展が見られました。"
+          "en": "At the FIFA World Cup in North America, Japan faced tournament favorites Brazil in the round of 16.",
+          "ja": "北中米で開催されているサッカーワールドカップの決勝トーナメント1回戦で、日本は優勝候補のブラジルと対戦しました。"
         },
         {
-          "en": "According to U.S. media reports on the 28th, both nations have agreed to halt their mutual military actions.",
-          "ja": "28日のアメリカメディアの報道によると、両国は互いへの攻撃を停止することに合意しました。"
+          "en": "Japan started strong and scored the opening goal of the match, taking an exciting lead.",
+          "ja": "日本は好調な滑り出しを見せ、先制ゴールを挙げて興奮に満ちたリードを奪いました。"
         },
         {
-          "en": "This agreement marks a significant step toward easing the growing tensions in the strategically vital waterway.",
-          "ja": "この合意は、戦略的に極めて重要なこの海路において高まる緊張を緩和するための、大きな一歩となります。"
+          "en": "However, Brazil showed their resilience and managed to score an equalizer to level the game.",
+          "ja": "しかし、ブラジルも粘り強さを見せ、同点ゴールを決めて試合を振り出しに戻しました。"
         },
         {
-          "en": "To solidify this truce, representatives from both sides are expected to hold talks on the 30th.",
-          "ja": "この一時的な停戦を確実なものにするため、双方の代表は30日に会談を行う見通しです。"
+          "en": "The intense battle continued until the very end, but tragedy struck for Japan during stoppage time in the second half.",
+          "ja": "激しい攻防は最後まで続きましたが、後半のアディショナルタイムに日本にとって痛恨の場面が訪れました。"
         },
         {
-          "en": "The discussions will take place in Qatar, which has been playing a key role as a mediator.",
-          "ja": "協議は、仲介役として重要な役割を果たしてきたカタールで行われる予定です。"
+          "en": "Brazil scored a dramatic winning goal in the final moments of the match to secure their victory.",
+          "ja": "ブラジルが試合終了間際に劇的な勝ち越しゴールを決め、勝利を引き寄せました。"
         },
         {
-          "en": "Observers are hopeful that these talks will lead to a more stable resolution in the region.",
-          "ja": "関係者は、この会談がこの地域におけるより安定した解決につながることを期待しています。"
+          "en": "Despite their heroic effort, Japan fell to Brazil with a final score of 1 to 2, ending their tournament run.",
+          "ja": "勇敢な戦いを見せた日本でしたが、最終スコア1対2でブラジルに敗れ、大会を去ることになりました。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163381000.html",
-      "title": "近鉄京都線 京都駅の構内で脱線事故 “けが人の情報なし”",
-      "title_ja": "近鉄京都線の京都駅構内で普通列車が脱線 けが人なし",
-      "date": "Mon, 29 Jun 2026 06:51:22 +0900",
-      "summary": "A four-car local train on the Kintetsu Kyoto Line derailed inside Kyoto Station early on the 29th, but no injuries have been reported.",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
+      "title": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
+      "title_ja": "ニューヨーク市場で円が急落、約39年半ぶりの円安水準に",
+      "date": "Tue, 30 Jun 2026 05:29:52 +0900",
+      "summary": "The Japanese yen plummeted to the 161.90 range against the U.S. dollar in New York, marking its lowest level since 1986.",
       "sentences": [
         {
-          "en": "Early in the morning on the 29th, a train derailment occurred at Kyoto Station.",
-          "ja": "29日の早朝、京都駅の構内で列車の脱線事故が発生しました。"
+          "en": "On the 29th, the Japanese yen fell to the 161.90 range against the U.S. dollar in the New York foreign exchange market.",
+          "ja": "29日のニューヨーク外国為替市場で、円相場は1ドル＝161円90銭台まで値下がりしました。"
         },
         {
-          "en": "At around 5:13 a.m., a four-car local train on the Kintetsu Kyoto Line derailed inside the station area.",
-          "ja": "午前5時13分ごろ、近鉄京都線の京都駅構内で、4両編成の普通列車が脱線しました。"
+          "en": "This marks the weakest level for the yen in about 39 and a half years, dating back to 1986.",
+          "ja": "これは1986年以来、およそ39年半ぶりとなる歴史的な円安ドル高水準です。"
         },
         {
-          "en": "Emergency services were quickly notified, and authorities rushed to the scene to assess the situation.",
-          "ja": "関係各所に速やかに連絡が入るなど、状況を把握するために当局が現場に急行しました。"
+          "en": "The downward trend was driven by investors actively selling the yen and buying the dollar.",
+          "ja": "この値下がりの動きは、投資家が積極的に円を売ってドルを買ったことによるものです。"
         },
         {
-          "en": "According to the local fire department and the railway operator, there are currently no reports of any injuries.",
-          "ja": "地元の消防や鉄道会社によると、現在のところけが人の情報は入っていないとのことです。"
+          "en": "Market attention remains heavily focused on the U.S. Federal Reserve's monetary policy and interest rate outlook.",
+          "ja": "市場の関心は、アメリカの連邦準備制度理事会（FRB）の金融政策や金利の見通しに強く集まっています。"
         },
         {
-          "en": "Investigations are now underway to determine the cause of the derailment and restore normal train operations.",
-          "ja": "脱線の原因を特定し、電車の通常運行を再開するための調査が現在進められています。"
+          "en": "Meanwhile, speculation is growing over whether Japanese authorities will intervene in the market to support the currency.",
+          "ja": "一方、日本の通貨当局が円を支えるために市場介入を行うかどうか、警戒感が高まっています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162811000.html",
-      "title": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
-      "title_ja": "岩手県沖で震度5弱の地震、気象庁が今後の余震に警戒呼びかけ",
-      "date": "Sun, 28 Jun 2026 12:43:24 +0900",
-      "summary": "An earthquake with a maximum intensity of lower 5 struck off the coast of Iwate Prefecture, prompting the Japan Meteorological Agency to warn of potential large aftershocks for the next week.",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
+      "title": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+      "title_ja": "FRBクック理事の解任通知、米最高裁が無効と判断",
+      "date": "Tue, 30 Jun 2026 05:31:55 +0900",
+      "summary": "The U.S. Supreme Court has ruled that former President Trump's attempt to dismiss an FRB board member last year is invalid because she was not given a chance to respond.",
       "sentences": [
         {
-          "en": "Early in the morning on the 28th, an earthquake struck off the coast of Iwate Prefecture.",
-          "ja": "28日朝早く、岩手県沖を震源とする地震がありました。"
+          "en": "On the 29th, the U.S. Supreme Court ruled that former President Trump's notification to dismiss Federal Reserve Board Governor Cook last year was invalid.",
+          "ja": "連邦最高裁判所は29日、トランプ前大統領が昨年、FRB（連邦準備制度理事会）のクック理事を解任すると通知したことについて、無効とする判断を示しました。"
         },
         {
-          "en": "Strong shaking with a seismic intensity of lower 5 was observed in Aomori and Iwate prefectures.",
-          "ja": "青森県と岩手県で、震度5弱の強い揺れが観測されました。"
+          "en": "The court pointed out a major issue with how the dismissal was handled.",
+          "ja": "最高裁は、この解任の手続きの進め方に大きな問題があったと指摘しました。"
         },
         {
-          "en": "According to the Japan Meteorological Agency, this earthquake occurred in the active zone of the magnitude 7.2 earthquake that hit on the 25th of this month.",
-          "ja": "気象庁によると、この地震は今月25日に発生したマグニチュード7.2の地震の活動域で起きています。"
+          "en": "Specifically, it was deemed highly problematic that Governor Cook was not given any opportunity to argue against the decision.",
+          "ja": "具体的には、クック氏に反論の機会が全く与えられなかったことが問題視されました。"
         },
         {
-          "en": "The agency is warning residents to stay alert for about a week.",
-          "ja": "気象庁は、1週間程度は注意を怠らないよう呼びかけています。"
+          "en": "This ruling is expected to have a significant impact on the independence of the central bank's board members.",
+          "ja": "この判決は、中央銀行の理事たちの独立性に大きな影響を与えると考えられています。"
         },
         {
-          "en": "They cautioned that another earthquake with a maximum intensity of up to upper 6 could still occur in the area.",
-          "ja": "同地域では、最大震度6強程度の地震が再び発生する可能性があると警告しています。"
+          "en": "It emphasizes that federal officials cannot be easily removed without following proper and fair procedures.",
+          "ja": "また、適正かつ公平な手続きを経ることなく、連邦政府の高官を簡単に解任することはできないという点を強調しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163301000.html",
-      "title": "ベネズエラ地震から4日 各国救助チームの活動本格化",
-      "title_ja": "ベネズエラ大地震、死者1450人に 救助活動が本格化",
-      "date": "Mon, 29 Jun 2026 05:49:40 +0900",
-      "summary": "Four days after a devastating earthquake in Venezuela, the death toll has reached 1,450, while international rescue teams step up their efforts in heavily damaged areas like La Guaira State.",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164131000.html",
+      "title": "広島 三原 強盗殺人事件 請け負った工事の現場選んで事件か",
+      "title_ja": "三原市の遺体遺棄事件、逮捕の容疑者が現場で土地均し工事を請け負いか",
+      "date": "Tue, 30 Jun 2026 05:23:15 +0900",
+      "summary": "In a murder and body abandonment case in Hiroshima Prefecture, investigators revealed that the suspect had personally contracted land-leveling work at the site where the victim was buried.",
       "sentences": [
         {
-          "en": "Four days after a devastating earthquake struck Venezuela, the death toll has risen to 1,450 as of the 28th.",
-          "ja": "ベネズエラで大地震が発生してから4日が経過した28日までに、死者数は1450人に達しました。"
+          "en": "In April of this year, the body of a local business owner was discovered in Mihara City, Hiroshima Prefecture.",
+          "ja": "今年4月、広島県三原市で地元の自営業者の遺体が見つかりました。"
         },
         {
-          "en": "Rescue operations by international teams are now fully underway in the most affected areas.",
-          "ja": "最も被害が大きい地域では、各国の救助チームによる捜索救助活動が本格化しています。"
+          "en": "A suspect was later arrested on suspicion of murder and burying the victim's body in the ground.",
+          "ja": "その後、遺体を地中に埋めて殺害したなどとして、容疑者が逮捕されました。"
         },
         {
-          "en": "La Guaira State is one of the hardest-hit regions, where building damage is heavily concentrated.",
-          "ja": "建物の被害が集中しているラ・グアイラ州は、最も深刻な被害を受けた地域の一つです。"
+          "en": "According to sources close to the investigation, new details have emerged about the suspect's activities at the time.",
+          "ja": "捜査関係者への取材で、事件当時における容疑者の行動について新たな事実が明らかになりました。"
         },
         {
-          "en": "Emergency workers from various countries are searching through the rubble in hopes of finding survivors.",
-          "ja": "各国の救急隊員たちは、生存者を見つけ出すことを願いながらがれきの中の捜索を続けています。"
+          "en": "It was revealed that the suspect had personally contracted land-leveling work at the very site where the body was found.",
+          "ja": "容疑者は当時、遺体が見つかったまさにその現場で、土地を平らにならす工事を個人で請け負っていたことが分かりました。"
         },
         {
-          "en": "Local authorities are working around the clock to coordinate relief efforts and distribute essential supplies.",
-          "ja": "地元当局は、救護活動の調整や必需品の配給を行うため、24時間体制で活動しています。"
-        },
-        {
-          "en": "As the full scale of the disaster becomes clear, the international community is offering further support to the country.",
-          "ja": "災害の全容が明らかになるにつれ、国際社会は同国へのさらなる支援を表明しています。"
+          "en": "Police are investigating whether the suspect used this construction work as a way to conceal the crime.",
+          "ja": "警察は、容疑者が犯行を隠蔽するためにこの工事を利用した可能性があるとみて調べています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163361000.html",
-      "title": "サッカーW杯 日本代表がブラジル戦に向け最終調整",
-      "title_ja": "W杯決勝Tブラジル戦を控え、日本代表が最終調整",
-      "date": "Mon, 29 Jun 2026 06:24:29 +0900",
-      "summary": "Japan's national soccer team has completed their final training in Houston, USA, ahead of their crucial World Cup Round of 16 match against Brazil. Having advanced from the group stage with one win and two draws, the team is highly motivated to face the football powerhouse.",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164141000.html",
+      "title": "近鉄京都線 脱線事故の復旧作業で始発から運転見合わせ",
+      "title_ja": "近鉄京都駅での脱線事故による運転見合わせ",
+      "date": "Tue, 30 Jun 2026 05:17:07 +0900",
+      "summary": "Early on the morning of the 29th, a local train derailed at Kyoto Station, causing Kintetsu to suspend all services on the Kyoto Line while recovery work continues.",
       "sentences": [
         {
-          "en": "The Japanese national soccer team has completed their final training in Houston, USA, ahead of their World Cup Round of 16 match against Brazil.",
-          "ja": "サッカーワールドカップ北中米大会の日本代表は、翌日に控えた決勝トーナメント1回戦のブラジル戦に向けて、アメリカのヒューストンで最終調整を行いました。"
+          "en": "Early on the morning of the 29th, a derailment accident occurred at Kyoto Station on the Kintetsu Kyoto Line.",
+          "ja": "29日の早朝、近鉄京都線の京都駅で脱線事故が発生しました。"
         },
         {
-          "en": "Japan, currently ranked 18th in the world, advanced to the knockout stage after finishing the group stage with one win and two draws.",
-          "ja": "世界ランキング18位の日本は、1次リーグを1勝2引き分けで終え、見事に決勝トーナメント進出を果たしました。"
+          "en": "The accident involved the first local train of the day, which was scheduled to depart from Kyoto Station.",
+          "ja": "事故が発生したのは、京都駅を出発する予定だったその日の始発の普通列車でした。"
         },
         {
-          "en": "Facing football giants Brazil will be a massive challenge, but the team is preparing with high spirits.",
-          "ja": "サッカー大国であるブラジルとの対戦は大きな試練となりますが、チームは高い士気を持って準備を進めています。"
+          "en": "According to Kintetsu Railway, the incident happened shortly after 5:00 AM.",
+          "ja": "近畿日本鉄道によると、この事故は午前5時すぎに発生しました。"
         },
         {
-          "en": "During the training session, the players focused on tactical strategies and practiced penalty shootouts.",
-          "ja": "練習セッションでは、選手たちは戦術的な戦略に集中し、ペナルティーキックの練習も行いました。"
+          "en": "Due to the derailment, Kintetsu suspended all train services on the Kyoto Line from the first departure.",
+          "ja": "この脱線事故の影響で、近鉄は京都線の全線で始発から運転を見合わせました。"
         },
         {
-          "en": "The head coach emphasized the importance of solid defense and quick counterattacks against the skilled Brazilian players.",
-          "ja": "監督は、技術の高いブラジル選手に対抗するため、堅実な守備と素早いカウンター攻撃の重要性を強調しました。"
-        },
-        {
-          "en": "Soccer fans in Japan and around the world are eagerly waiting to see if Japan can pull off an upset victory.",
-          "ja": "日本をはじめ世界中のサッカーファンが、日本が番狂わせの勝利を収めることができるか注目しています。"
+          "en": "Recovery work is currently underway at the scene to restore operations as soon as possible.",
+          "ja": "現在、現場では一刻も早い運転再開に向けて復旧作業が進められています。"
         }
       ]
     }
@@ -161,44 +153,376 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163331000.html",
-        "title": "大分 別府ひき逃げ事件から4年 新映像公開し情報提供呼びかけ",
-        "title_ja": "別府ひき逃げ事件：発生から4年、新たな映像を公開",
-        "date": "Mon, 29 Jun 2026 06:52:32 +0900",
-        "summary": "It has been four years since a fatal hit-and-run in Beppu, Oita Prefecture, where a university student was killed. Police have released new security camera footage of suspect Yoichi Hatta in hopes of receiving public leads.",
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164061000.html",
+        "title": "相続人から引き取った土地 民間売却へ最大9割引きの新制度",
+        "title_ja": "相続土地の国庫帰属、最大9割引きで民間売却へ",
+        "date": "Tue, 30 Jun 2026 06:47:12 +0900",
+        "summary": "The Ministry of Finance will introduce a new system allowing the government to sell state-acquired inherited land to the private sector at a discount of up to 90% to reduce management burdens.",
         "sentences": [
           {
-            "en": "June 29th marks four years since a fatal hit-and-run incident in Beppu City, Oita Prefecture, which resulted in the death of a university student.",
-            "ja": "大分県別府市で大学生がひき逃げされて死亡した事件は、29日で発生から4年を迎えます。"
+            "en": "The Japanese government is seeing an increase in the number of people using a system to hand over inherited land to the state.",
+            "ja": "家族などから相続した土地を国に引き取ってもらう制度の利用者が増加しています。"
           },
           {
-            "en": "The suspect, Yoichi Hatta, is currently on the police's special wanted list under suspicion of murder and other charges.",
-            "ja": "殺人などの疑いで、八田與一容疑者が重要指名手配されています。"
+            "en": "This system was designed to help citizens who struggle to manage unwanted properties inherited from their families.",
+            "ja": "この制度は、家族から相続した不要な土地の管理に困っている人々を支援するために作られました。"
           },
           {
-            "en": "In an effort to gather more information, the police have newly released security camera footage filmed near the scene just before the incident.",
-            "ja": "警察はさらなる情報を集めるため、事件の直前に現場近くで撮影された防犯カメラの映像を新たに公開しました。"
+            "en": "However, as the amount of handed-over land grows, managing these properties has become a major burden for the government.",
+            "ja": "しかし、引き取られる土地が増えるにつれて、それらの土地を管理することが国にとって大きな負担となっています。"
           },
           {
-            "en": "The footage shows the suspect's behavior and the surroundings right before the collision occurred.",
-            "ja": "映像には、衝突が起きる直前の容疑者の動きや周囲の状況が映っています。"
+            "en": "To address this issue, the Ministry of Finance has decided to introduce a new system to sell the acquired land to the private sector.",
+            "ja": "この課題に対処するため、財務省は引き取った土地を民間に売却する新たな仕組みを導入することを決定しました。"
           },
           {
-            "en": "Authorities are urging the public to provide any information that could lead to the suspect's arrest.",
-            "ja": "捜査当局は、容疑者の逮捕につながるいかなる情報でも提供するよう、広く呼びかけています。"
+            "en": "Under this new scheme, the government will be allowed to offer discounts of up to 90 percent on the sale price of the land.",
+            "ja": "この新しい仕組みのもとでは、国は土地の売却価格を最大で9割割り引くことができるようになります。"
           },
           {
-            "en": "Even small details could be crucial in solving this tragic case and bringing closure to the victim's family.",
-            "ja": "些細な情報であっても、この悲惨な事件を解決し、遺族に平穏をもたらすための重大な鍵となる可能性があります。"
+            "en": "The government hopes this measure will encourage private buyers to utilize the land and successfully reduce national management costs.",
+            "ja": "政府は、この措置によって民間への売却が進み、国の管理コストが効果的に削減されることを期待しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164001000.html",
+        "title": "【動画】Pickup NEWS(6月30日）",
+        "title_ja": "1分間のニュースまとめ動画",
+        "date": "Tue, 30 Jun 2026 06:34:29 +0900",
+        "summary": "This lesson introduces a quick, one-minute news summary video designed for busy viewers, along with a note on device compatibility.",
+        "sentences": [
+          {
+            "en": "Welcome to our daily update, where we bring you the latest news from around the world.",
+            "ja": "世界中からの最新ニュースをお届けする、デイリーアップデートへようこそ。"
+          },
+          {
+            "en": "To keep you informed quickly, we have summarized the top stories into a single, one-minute video.",
+            "ja": "素早く情報を得られるよう、主要なニュースを1分間の動画にまとめました。"
+          },
+          {
+            "en": "This format allows you to easily catch up on important events even during a busy day.",
+            "ja": "この形式により、忙しい一日の中でも重要な出来事を簡単に把握することができます。"
+          },
+          {
+            "en": "Please note that this video playback feature may not be available on certain data broadcasting systems.",
+            "ja": "なお、一部のデータ放送システムでは、この動画再生機能をご利用いただけませんのでご注意ください。"
+          },
+          {
+            "en": "Let's take a quick look at the major headlines shaping our world today.",
+            "ja": "それでは、今日の私たちの世界を形作る主なヘッドラインを素早く見ていきましょう。"
           }
         ]
       }
     ],
-    "文化・エンタメ": [],
-    "科学・医療": [],
-    "政治": [],
-    "経済": [],
-    "国際": [],
+    "文化・エンタメ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163761000.html",
+        "title": "血管炎の薬「タブネオス」EUでの製造販売承認の取り消しを勧告",
+        "title_ja": "EU委員会、血管炎治療薬「タブネオス」の承認取り消しを勧告",
+        "date": "Mon, 29 Jun 2026 17:03:31 +0900",
+        "summary": "An EU regulatory committee has recommended withdrawing marketing approval for the vasculitis drug Tavneos, citing unproven benefits over risks, following patient death reports in Japan.",
+        "sentences": [
+          {
+            "en": "An EU regulatory committee has recommended withdrawing the marketing authorization for the drug Tavneos, which is used to treat a rare inflammatory disease.",
+            "ja": "EUの規制当局の委員会は、稀な炎症性疾患の治療に用いられる薬「タブネオス」の製造販売承認を取り消すよう勧告しました。"
+          },
+          {
+            "en": "Tavneos is designed to treat vasculitis, a serious condition characterized by the inflammation of blood vessels.",
+            "ja": "タブネオスは、血管に炎症が生じる深刻な病気である血管炎を治療するために開発された薬です。"
+          },
+          {
+            "en": "The committee stated that the benefits of the medication have not been proven to outweigh its potential risks.",
+            "ja": "同委員会は、この薬剤のメリットが潜在的なリスクを上回ることが証明されていないと説明しています。"
+          },
+          {
+            "en": "This decision follows reports of patient deaths in Japan after they were administered the drug.",
+            "ja": "この決定は、日本国内で同薬を投与された患者の死亡が報告されたことを受けて下されました。"
+          },
+          {
+            "en": "Medical authorities are now closely reviewing the safety guidelines and efficacy of this treatment.",
+            "ja": "医療当局は現在、この治療法の安全性ガイドラインと有効性を慎重に再評価しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162871000.html",
+        "title": "北辰一刀流 千葉周作の生誕地“気仙沼”史料発見 論争終止符か",
+        "title_ja": "千葉周作の生誕地を示す新史料が見つかる",
+        "date": "Sun, 28 Jun 2026 16:30:07 +0900",
+        "summary": "New historical documents suggest that the famous Edo-period swordsman Chiba Shusaku was born in Kesennuma, Miyagi Prefecture, likely ending a long-standing dispute over his birthplace.",
+        "sentences": [
+          {
+            "en": "Chiba Shusaku was a legendary master swordsman of the late Edo period and the founder of the famous Hokushin Itto-ryu style of swordsmanship.",
+            "ja": "千葉周作は幕末の伝説的な剣豪であり、有名な剣術流派である北辰一刀流の創始者です。"
+          },
+          {
+            "en": "Recently, new historical documents have been discovered, indicating that his birthplace was Kesennuma City in Miyagi Prefecture.",
+            "ja": "最近、彼の生誕地が現在の宮城県気仙沼市であったことを示す新たな史料が見つかりました。"
+          },
+          {
+            "en": "For many years, there has been an ongoing debate regarding where exactly Shusaku was born.",
+            "ja": "周作が実際にどこで生まれたのかについては、長年にわたり論争が続いていました。"
+          },
+          {
+            "en": "Rikuzentakata City in neighboring Iwate Prefecture was among the locations claiming to be his birthplace.",
+            "ja": "隣接する岩手県陸前高田市なども、彼の生誕地であると主張していた場所の一つでした。"
+          },
+          {
+            "en": "Experts believe that these newly found documents will finally put an end to this long-running dispute.",
+            "ja": "専門家は、この新たな史料の発見によって、この長年の論争にようやく終止符が打たれると考えています。"
+          }
+        ]
+      }
+    ],
+    "科学・医療": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html",
+        "title": "AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定",
+        "title_ja": "フィジカルAIロボットの公道実験推進へ",
+        "date": "Mon, 29 Jun 2026 17:15:32 +0900",
+        "summary": "The Japanese government's Regulatory Reform Promotion Council has decided on recommendations to clarify the legal status of walking robots that use \"Physical AI\" in order to promote testing on public roads.",
+        "sentences": [
+          {
+            "en": "The Japanese government's Regulatory Reform Promotion Council has adopted a new set of recommendations to promote the use of advanced technology.",
+            "ja": "政府の規制改革推進会議は、先端技術の活用を推進するための新たな答申を決定しました。"
+          },
+          {
+            "en": "A key focus of these recommendations is clarifying the legal status of walking robots that utilize \"Physical AI.\"",
+            "ja": "今回の答申の主な焦点は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にすることです。"
+          },
+          {
+            "en": "Physical AI refers to technology that allows artificial intelligence to interact directly with the physical world, such as through robots.",
+            "ja": "フィジカルAIとは、ロボットなどを通じて、人工知能が現実の物理世界と直接相互作用できるようにする技術を指します。"
+          },
+          {
+            "en": "By clarifying the rules, the government aims to encourage companies to conduct demonstration tests of these robots on public roads.",
+            "ja": "ルールを明確にすることで、政府は企業がこれらのロボットの公道での実証実験を行うことを後押ししたい考えです。"
+          },
+          {
+            "en": "Currently, vague regulations have been a major barrier for companies wanting to test autonomous delivery and patrol robots.",
+            "ja": "現在、あいまいな規制が、自動配送や巡回を行うロボットのテストを望む企業にとって大きな障壁となっています。"
+          },
+          {
+            "en": "The council hopes these reforms will accelerate the practical application of AI and robotics in daily life.",
+            "ja": "同会議は、これらの改革によって日常生活におけるAIやロボット技術の実用化が加速することを期待しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163271000.html",
+        "title": "ブタの腎臓ヒトに“異種移植”の治験 北大などで実施へ",
+        "title_ja": "ブタの腎臓をヒトに移植する「異種移植」の治験、再来年にも開始へ",
+        "date": "Mon, 29 Jun 2026 06:38:58 +0900",
+        "summary": "A venture company from Meiji University has announced plans to start clinical trials as early as the year after next, aimed at transplanting pig kidneys into patients with severe kidney failure.",
+        "sentences": [
+          {
+            "en": "A venture company from Meiji University has announced plans to conduct clinical trials for xenotransplantation.",
+            "ja": "明治大学発のベンチャー企業が、異種移植の治験を開始する計画を発表しました。"
+          },
+          {
+            "en": "This medical procedure involves transplanting pig kidneys into human patients suffering from severe kidney failure.",
+            "ja": "この医療技術は、重い腎不全の患者にブタの腎臓を移植するものです。"
+          },
+          {
+            "en": "The venture aims to make this highly anticipated treatment a practical reality.",
+            "ja": "このベンチャー企業は、この大いに期待される治療法の実用化を目指しています。"
+          },
+          {
+            "en": "The clinical trials are expected to begin as early as the year after next at Hokkaido University Hospital and other institutions.",
+            "ja": "この治験は、早ければ再来年にも北海道大学病院などで開始される見込みです。"
+          },
+          {
+            "en": "If successful, this technology is expected to address the critical shortage of organ donors.",
+            "ja": "もし成功すれば、この技術は臓器ドナーの深刻な不足を解消することが期待されています。"
+          }
+        ]
+      }
+    ],
+    "政治": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164091000.html",
+        "title": "高市首相 1日からインド訪問 経済安保やAIで成果文書調整",
+        "title_ja": "高市首相がインド訪問へ、モディ首相と会談し経済安保やAIで協力合意へ",
+        "date": "Tue, 30 Jun 2026 05:25:30 +0900",
+        "summary": "Prime Minister Takaichi is visiting India to meet with Prime Minister Modi, aiming to boost economic security and AI cooperation to build a stronger economy.",
+        "sentences": [
+          {
+            "en": "Prime Minister Takaichi is scheduled to visit India starting on the first of the month for a summit meeting with Prime Minister Modi.",
+            "ja": "高市総理大臣は1日からインドを訪問し、モディ首相との首脳会談に臨む予定です。"
+          },
+          {
+            "en": "During the meeting, the two leaders are expected to discuss strengthening bilateral ties in various sectors.",
+            "ja": "会談の中で、両首脳は様々な分野における二国間関係の強化について話し合う見込みです。"
+          },
+          {
+            "en": "In particular, they are currently coordinating to release joint outcome documents in the fields of economic security and artificial intelligence.",
+            "ja": "特に、経済安全保障と人工知能（AI）の分野において、それぞれ共同の成果文書を発表する方向で調整が進められています。"
+          },
+          {
+            "en": "Through these initiatives, both nations aim to build a highly strategic cooperative relationship.",
+            "ja": "これらの取り組みを通じて、両国は極めて戦略的な協力関係を構築することを目指しています。"
+          },
+          {
+            "en": "Ultimately, Prime Minister Takaichi hopes this partnership will lead to the realization of a stronger economy.",
+            "ja": "最終的に高市総理は、このパートナーシップが「強い経済の実現」へとつながることを期待しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164081000.html",
+        "title": "部活動の高校生ら死傷のバス事故受け安全対策まとめる 政府",
+        "title_ja": "高校生バス事故を受けた政府の新安全対策",
+        "date": "Tue, 30 Jun 2026 05:19:30 +0900",
+        "summary": "Following a fatal bus accident involving high school students in Fukushima, the Japanese government has released new safety guidelines for student long-distance travel, especially when using rental or private cars.",
+        "sentences": [
+          {
+            "en": "The Japanese government has compiled a set of safety measures following a tragic bus accident in Fukushima Prefecture.",
+            "ja": "福島県で起きた悲惨なバス事故を受けて、政府は新たな安全確保対策を取りまとめました。"
+          },
+          {
+            "en": "The accident occurred on the Ban-etsu Expressway, killing and injuring high school students who were traveling for school club activities.",
+            "ja": "この事故は磐越自動車道で発生し、部活動の遠征中だった高校生らが死傷しました。"
+          },
+          {
+            "en": "In response, the government's new guidelines focus on ensuring safety when students travel long distances for extracurricular activities.",
+            "ja": "これを受けて、政府の新しいガイドラインは、生徒が課外活動で長距離を移動する際の安全確保に焦点を当てています。"
+          },
+          {
+            "en": "Specifically, the rules address the use of rental cars and private vehicles when schools arrange long-distance travel.",
+            "ja": "具体的には、学校が長距離移動を手配する際に、レンタカーや自家用車を使用する場合のルールを定めています。"
+          },
+          {
+            "en": "Under these measures, schools are urged to verify driver health and avoid setting schedules that cause driver fatigue.",
+            "ja": "この対策のもと、学校は運転手の健康状態を確認し、疲労を招くような過密な日程を避けることが求められます。"
+          },
+          {
+            "en": "The government aims to implement these safety standards thoroughly to prevent similar tragedies in the future.",
+            "ja": "政府は、将来このような悲劇が繰り返されないよう、これらの安全基準を徹底することを目指しています。"
+          }
+        ]
+      }
+    ],
+    "経済": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164301000.html",
+        "title": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+        "title_ja": "NYダウ、初の5万2000ドル台を突破",
+        "date": "Tue, 30 Jun 2026 06:35:17 +0900",
+        "summary": "The Dow Jones Industrial Average closed above the 52,000-dollar mark for the first time on the 29th, driven by a rebound in major tech stocks.",
+        "sentences": [
+          {
+            "en": "On the New York Stock Exchange on the 29th, stock prices saw a significant rebound.",
+            "ja": "29日のニューヨーク株式市場では、株価が大幅に反発しました。"
+          },
+          {
+            "en": "Investors actively bought back shares of major tech companies, which had been experiencing a recent sell-off.",
+            "ja": "最近売り込まれていた大手IT企業などの銘柄を中心に、買い戻しの動きが広がりました。"
+          },
+          {
+            "en": "As a result, the Dow Jones Industrial Average surged by more than 300 dollars compared to the end of last week.",
+            "ja": "その結果、ダウ平均株価は先週末と比べて300ドルあまり値上がりしました。"
+          },
+          {
+            "en": "This rally pushed the index to close above the 52,000-dollar mark for the very first time in history.",
+            "ja": "この値上がりにより、ダウ平均は終値として史上初めて5万2000ドル台に乗せました。"
+          },
+          {
+            "en": "Market participants are closely watching to see if this positive momentum will continue through the end of the year.",
+            "ja": "市場関係者は、この好調な勢いが年末まで続くかどうかに注目しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
+        "title": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+        "title_ja": "米最高裁、トランプ氏によるFRB理事解任を無効と判断",
+        "date": "Tue, 30 Jun 2026 05:31:55 +0900",
+        "summary": "The US Supreme Court has ruled that Donald Trump's attempt to dismiss FRB Governor Cook last year was invalid because she was not given an opportunity to defend herself.",
+        "sentences": [
+          {
+            "en": "On the 29th, the US Supreme Court ruled that Donald Trump's notification to dismiss Federal Reserve Board Governor Cook last year was invalid.",
+            "ja": "連邦最高裁判所は29日、トランプ氏が昨年、連邦準備制度理事会（FRB）のクック理事を解任すると通知したことについて、無効とする判断を示しました。"
+          },
+          {
+            "en": "The court pointed out that the dismissal process was highly problematic because Governor Cook was not given a chance to argue her case.",
+            "ja": "クック氏に反論の機会を与えないまま解任しようとしたプロセスには、重大な問題があると裁判所は指摘しました。"
+          },
+          {
+            "en": "This decision highlights the legal protections designed to keep the central bank free from direct political interference.",
+            "ja": "この判決は、中央銀行を直接的な政治介入から守るために設計された法的保護を浮き彫りにしています。"
+          },
+          {
+            "en": "Generally, leaders of independent government agencies cannot be removed without a justifiable reason and proper procedures.",
+            "ja": "一般的に、独立政府機関の幹部は、正当な理由と適切な手続きなしに解任されることはありません。"
+          },
+          {
+            "en": "This ruling acts as an important reminder of the constitutional limits on presidential power over key financial institutions.",
+            "ja": "今回の判決は、主要な金融機関に対する大統領権限の憲法上の制限を改めて示す重要なものとなりました。"
+          }
+        ]
+      }
+    ],
+    "国際": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164291000.html",
+        "title": "ブラジル サンパウロは逆転勝ちに歓喜",
+        "title_ja": "W杯日本対ブラジル、逆転勝利にサンパウロのファンが大歓喜",
+        "date": "Tue, 30 Jun 2026 06:38:26 +0900",
+        "summary": "During the World Cup match between Japan and Brazil, fans in Sao Paulo gathered at public viewings and celebrated enthusiastically as Brazil made a dramatic comeback to win.",
+        "sentences": [
+          {
+            "en": "At the North American World Cup, an exciting football match took place between Japan and Brazil.",
+            "ja": "北中米ワールドカップで、日本とブラジルの白熱したサッカーの試合が行われました。"
+          },
+          {
+            "en": "In Brazil's largest city, Sao Paulo, fans gathered in large numbers to support their team.",
+            "ja": "ブラジル最大の都市サンパウロでは、大勢のファンがチームを応援するために集まりました。"
+          },
+          {
+            "en": "Public viewing venues across the city were packed with people sending passionate cheers.",
+            "ja": "市内のパブリック・ビューイング会場は、熱い声援を送る人々で埋め尽くされました。"
+          },
+          {
+            "en": "The excitement reached its peak when Brazil made a dramatic comeback to win the match.",
+            "ja": "ブラジルが劇的な逆転勝利を収めると、興奮は最高潮に達しました。"
+          },
+          {
+            "en": "Upon their victory, the entire venue erupted in joy, with fans celebrating together.",
+            "ja": "勝利の瞬間、会場全体が歓喜に包まれ、ファンたちは一緒に喜び合いました。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164301000.html",
+        "title": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
+        "title_ja": "NYダウ、初の5万2000ドル台乗せ",
+        "date": "Tue, 30 Jun 2026 06:35:17 +0900",
+        "summary": "On the 29th, the Dow Jones Industrial Average rose by over 300 dollars to close above 52,000 dollars for the first time, boosted by bargain-hunting in major tech stocks.",
+        "sentences": [
+          {
+            "en": "On the 29th, the New York stock market experienced a strong upward trend.",
+            "ja": "29日のニューヨーク株式市場は、力強い上昇傾向となりました。"
+          },
+          {
+            "en": "This rise was mainly driven by a wave of buybacks targeting major technology stocks that had recently been sold off.",
+            "ja": "この上昇は、主に最近売り込まれていた大手IT銘柄などを中心に、買い戻しの動きが広がったことによるものです。"
+          },
+          {
+            "en": "Thanks to this positive momentum, the Dow Jones Industrial Average surged by more than 300 dollars compared to the end of last week.",
+            "ja": "この好調な勢いのおかげで、ダウ平均株価は先週末から300ドルあまり値上がりしました。"
+          },
+          {
+            "en": "With this gain, the benchmark index closed above the 52,000-dollar mark for the very first time in history.",
+            "ja": "この値上がりにより、終値として史上初めて5万2000ドル台に乗せました。"
+          },
+          {
+            "en": "Market participants welcomed this rebound, showing renewed confidence in tech shares.",
+            "ja": "市場関係者はこの反発を歓迎し、IT株への信頼を再び示しました。"
+          }
+        ]
+      }
+    ],
     "スポーツ": []
   }
 }
