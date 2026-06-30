@@ -1,151 +1,163 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163871000.html",
-      "title": "W杯 日本がブラジルに逆転負け 決勝T 1回戦で敗退【詳しく】",
-      "title_ja": "サッカーW杯、日本はブラジルに惜敗しベスト16で敗退",
-      "date": "Tue, 30 Jun 2026 06:50:19 +0900",
-      "summary": "Japan was eliminated from the World Cup in North America after a dramatic 1-2 loss to favorites Brazil in the round of 16.",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165151000.html",
+      "title": "皇室典範改正案 養子の男の子に皇位継承資格 審議で論点に",
+      "title_ja": "皇室典範改正案をめぐる議論",
+      "date": "Wed, 01 Jul 2026 05:12:45 +0900",
+      "summary": "The Japanese government aims to amend the Imperial House Law to secure the number of imperial members, but opposition parties are objecting to a provision regarding the succession rights of adopted male descendants.",
       "sentences": [
         {
-          "en": "At the FIFA World Cup in North America, Japan faced tournament favorites Brazil in the round of 16.",
-          "ja": "北中米で開催されているサッカーワールドカップの決勝トーナメント1回戦で、日本は優勝候補のブラジルと対戦しました。"
+          "en": "The Japanese government and the ruling coalition are aiming to pass a bill to amend the Imperial House Law during the current Diet session.",
+          "ja": "政府と与党は、現在の国会で皇室典範を改正する法案の成立を目指しています。"
         },
         {
-          "en": "Japan started strong and scored the opening goal of the match, taking an exciting lead.",
-          "ja": "日本は好調な滑り出しを見せ、先制ゴールを挙げて興奮に満ちたリードを奪いました。"
+          "en": "The proposed amendment aims to secure a stable number of imperial family members, which has been declining.",
+          "ja": "この改正案は、減少傾向にある皇族の数を安定的に確保することを目的としています。"
         },
         {
-          "en": "However, Brazil showed their resilience and managed to score an equalizer to level the game.",
-          "ja": "しかし、ブラジルも粘り強さを見せ、同点ゴールを決めて試合を振り出しに戻しました。"
+          "en": "However, opposition parties have raised objections to some parts of the proposal.",
+          "ja": "しかし、野党側からは提案の一部に対して異論が出されています。"
         },
         {
-          "en": "The intense battle continued until the very end, but tragedy struck for Japan during stoppage time in the second half.",
-          "ja": "激しい攻防は最後まで続きましたが、後半のアディショナルタイムに日本にとって痛恨の場面が訪れました。"
+          "en": "In particular, they are questioning a provision regarding male descendants from former imperial branches who are adopted into the imperial family.",
+          "ja": "特に、皇室に養子として迎えられた旧皇族の男系男子に関する規定が疑問視されています。"
         },
         {
-          "en": "Brazil scored a dramatic winning goal in the final moments of the match to secure their victory.",
-          "ja": "ブラジルが試合終了間際に劇的な勝ち越しゴールを決め、勝利を引き寄せました。"
+          "en": "Under this provision, if such an adopted member has a son, that son would also hold the right to succeed to the throne.",
+          "ja": "この規定によると、そうした養子に男の子が生まれた場合、その子も皇位継承資格を持つことになります。"
         },
         {
-          "en": "Despite their heroic effort, Japan fell to Brazil with a final score of 1 to 2, ending their tournament run.",
-          "ja": "勇敢な戦いを見せた日本でしたが、最終スコア1対2でブラジルに敗れ、大会を去ることになりました。"
+          "en": "Debate is expected to continue as both sides discuss how to preserve the future of the imperial lineage.",
+          "ja": "皇位継承の未来をどのように守るかについて、双方の間で今後も議論が続く見込みです。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164231000.html",
-      "title": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
-      "title_ja": "ニューヨーク市場で円が急落、約39年半ぶりの円安水準に",
-      "date": "Tue, 30 Jun 2026 05:29:52 +0900",
-      "summary": "The Japanese yen plummeted to the 161.90 range against the U.S. dollar in New York, marking its lowest level since 1986.",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165311000.html",
+      "title": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
+      "title_ja": "ニューヨーク円相場、一時1ドル＝162円台後半に下落、約39年半ぶりの安値",
+      "date": "Wed, 01 Jul 2026 06:15:59 +0900",
+      "summary": "The Japanese yen has fallen to the upper 162 range against the US dollar in the New York market, marking its lowest level in nearly 40 years.",
       "sentences": [
         {
-          "en": "On the 29th, the Japanese yen fell to the 161.90 range against the U.S. dollar in the New York foreign exchange market.",
-          "ja": "29日のニューヨーク外国為替市場で、円相場は1ドル＝161円90銭台まで値下がりしました。"
+          "en": "On the New York foreign exchange market on June 30th, the trend of selling the yen and buying the dollar accelerated.",
+          "ja": "30日のニューヨーク外国為替市場では、円を売ってドルを買う動きが加速しました。"
         },
         {
-          "en": "This marks the weakest level for the yen in about 39 and a half years, dating back to 1986.",
-          "ja": "これは1986年以来、およそ39年半ぶりとなる歴史的な円安ドル高水準です。"
+          "en": "This movement temporarily pushed the yen's value down to the upper 162 yen range per dollar.",
+          "ja": "この動きにより、円相場は一時、1ドル＝162円台後半まで値下がりしました。"
         },
         {
-          "en": "The downward trend was driven by investors actively selling the yen and buying the dollar.",
-          "ja": "この値下がりの動きは、投資家が積極的に円を売ってドルを買ったことによるものです。"
+          "en": "This marks the weakest level for the Japanese currency against the US dollar in about 39 and a half years.",
+          "ja": "これは、ドルに対しておよそ39年半ぶりの円安ドル高水準となります。"
         },
         {
-          "en": "Market attention remains heavily focused on the U.S. Federal Reserve's monetary policy and interest rate outlook.",
-          "ja": "市場の関心は、アメリカの連邦準備制度理事会（FRB）の金融政策や金利の見通しに強く集まっています。"
+          "en": "Investors continue to focus on the interest rate gap between the United States and Japan.",
+          "ja": "投資家は依然として、日本とアメリカの金利差に注目しています。"
         },
         {
-          "en": "Meanwhile, speculation is growing over whether Japanese authorities will intervene in the market to support the currency.",
-          "ja": "一方、日本の通貨当局が円を支えるために市場介入を行うかどうか、警戒感が高まっています。"
+          "en": "Expectations remain strong that the U.S. Federal Reserve will keep interest rates elevated for a longer period.",
+          "ja": "米連邦準備制度理事会（FRB）が高金利を長期間維持するとの見方が根強く残っています。"
+        },
+        {
+          "en": "Market participants are closely watching whether Japanese financial authorities will intervene to support the currency.",
+          "ja": "市場関係者は、日本の金融当局が円を支えるために市場介入を行うかどうかに注目しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
-      "title": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
-      "title_ja": "FRBクック理事の解任通知、米最高裁が無効と判断",
-      "date": "Tue, 30 Jun 2026 05:31:55 +0900",
-      "summary": "The U.S. Supreme Court has ruled that former President Trump's attempt to dismiss an FRB board member last year is invalid because she was not given a chance to respond.",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165281000.html",
+      "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+      "title_ja": "米最高裁、出生地主義を見直す大統領令を認めず",
+      "date": "Wed, 01 Jul 2026 04:39:32 +0900",
+      "summary": "The US Supreme Court has rejected an executive order signed by President Trump that aimed to end birthright citizenship for children of undocumented immigrants and temporary visitors.",
       "sentences": [
         {
-          "en": "On the 29th, the U.S. Supreme Court ruled that former President Trump's notification to dismiss Federal Reserve Board Governor Cook last year was invalid.",
-          "ja": "連邦最高裁判所は29日、トランプ前大統領が昨年、FRB（連邦準備制度理事会）のクック理事を解任すると通知したことについて、無効とする判断を示しました。"
+          "en": "The US Supreme Court has rejected an executive order signed by President Trump that aimed to review birthright citizenship.",
+          "ja": "米国連邦最高裁判所は、出生地主義の見直しを目指してトランプ大統領が署名した大統領令を認めないとする判断を示しました。"
         },
         {
-          "en": "The court pointed out a major issue with how the dismissal was handled.",
-          "ja": "最高裁は、この解任の手続きの進め方に大きな問題があったと指摘しました。"
+          "en": "Birthright citizenship is a system that automatically grants nationality to children born within the United States.",
+          "ja": "出生地主義とは、アメリカ国内で生まれた子どもに自動的に国籍を与える制度のことです。"
         },
         {
-          "en": "Specifically, it was deemed highly problematic that Governor Cook was not given any opportunity to argue against the decision.",
-          "ja": "具体的には、クック氏に反論の機会が全く与えられなかったことが問題視されました。"
+          "en": "The executive order targeted children of parents who are staying in the country illegally or temporarily.",
+          "ja": "この大統領令は、アメリカに不法に、あるいは一時的に滞在している人の子どもを対象としていました。"
         },
         {
-          "en": "This ruling is expected to have a significant impact on the independence of the central bank's board members.",
-          "ja": "この判決は、中央銀行の理事たちの独立性に大きな影響を与えると考えられています。"
+          "en": "On the 30th, the Supreme Court ruled against the order, maintaining the current legal framework.",
+          "ja": "最高裁判所は30日、現行の法的枠組みを維持し、この大統領令を認めないとの判決を下しました。"
         },
         {
-          "en": "It emphasizes that federal officials cannot be easily removed without following proper and fair procedures.",
-          "ja": "また、適正かつ公平な手続きを経ることなく、連邦政府の高官を簡単に解任することはできないという点を強調しています。"
+          "en": "This decision is considered a significant setback for the administration's efforts to restrict immigration.",
+          "ja": "この決定は、移民を制限しようとする政権の試みにとって大きな後退であると見なされています。"
+        },
+        {
+          "en": "Supporters of the existing system welcomed the ruling, highlighting the constitutional protection of birthright citizenship.",
+          "ja": "現行制度の支持者らは判決を歓迎し、出生地主義が憲法で保障されていることを強調しました。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164131000.html",
-      "title": "広島 三原 強盗殺人事件 請け負った工事の現場選んで事件か",
-      "title_ja": "三原市の遺体遺棄事件、逮捕の容疑者が現場で土地均し工事を請け負いか",
-      "date": "Tue, 30 Jun 2026 05:23:15 +0900",
-      "summary": "In a murder and body abandonment case in Hiroshima Prefecture, investigators revealed that the suspect had personally contracted land-leveling work at the site where the victim was buried.",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165131000.html",
+      "title": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
+      "title_ja": "能登半島地震から2年半、仮設住宅での孤立死が課題に",
+      "date": "Wed, 01 Jul 2026 06:29:26 +0900",
+      "summary": "It has been two and a half years since the Noto Peninsula earthquake, and over 15,000 people in Ishikawa Prefecture still live in temporary housing, raising concerns over isolated deaths.",
       "sentences": [
         {
-          "en": "In April of this year, the body of a local business owner was discovered in Mihara City, Hiroshima Prefecture.",
-          "ja": "今年4月、広島県三原市で地元の自営業者の遺体が見つかりました。"
+          "en": "July 1st marks two and a half years since the Noto Peninsula earthquake struck.",
+          "ja": "7月1日で、能登半島地震の発生から2年半となります。"
         },
         {
-          "en": "A suspect was later arrested on suspicion of murder and burying the victim's body in the ground.",
-          "ja": "その後、遺体を地中に埋めて殺害したなどとして、容疑者が逮捕されました。"
+          "en": "In Ishikawa Prefecture, which suffered the most severe housing damage, over 15,000 people are still living in temporary housing.",
+          "ja": "最も住宅被害が多かった石川県では、今も1万5000人余りが仮設住宅などで生活しています。"
         },
         {
-          "en": "According to sources close to the investigation, new details have emerged about the suspect's activities at the time.",
-          "ja": "捜査関係者への取材で、事件当時における容疑者の行動について新たな事実が明らかになりました。"
+          "en": "As the evacuation period becomes prolonged, a serious issue has emerged.",
+          "ja": "避難生活が長期化する中、深刻な問題が浮き彫りになっています。"
         },
         {
-          "en": "It was revealed that the suspect had personally contracted land-leveling work at the very site where the body was found.",
-          "ja": "容疑者は当時、遺体が見つかったまさにその現場で、土地を平らにならす工事を個人で請け負っていたことが分かりました。"
+          "en": "Some disaster victims have been found dead in temporary housing without anyone by their side.",
+          "ja": "仮設住宅で、誰にもみとられずに亡くなっているのが見つかった被災者もいます。"
         },
         {
-          "en": "Police are investigating whether the suspect used this construction work as a way to conceal the crime.",
-          "ja": "警察は、容疑者が犯行を隠蔽するためにこの工事を利用した可能性があるとみて調べています。"
+          "en": "These isolated deaths highlight the urgent need for mental health care and community support for the elderly.",
+          "ja": "こうした孤独死は、高齢者への心のケアやコミュニティによるサポートが急務であることを示しています。"
+        },
+        {
+          "en": "Local municipalities are working to strengthen watch-over services to prevent further tragedies.",
+          "ja": "自治体はさらなる悲劇を防ぐため、見守り活動の強化に取り組んでいます。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164141000.html",
-      "title": "近鉄京都線 脱線事故の復旧作業で始発から運転見合わせ",
-      "title_ja": "近鉄京都駅での脱線事故による運転見合わせ",
-      "date": "Tue, 30 Jun 2026 05:17:07 +0900",
-      "summary": "Early on the morning of the 29th, a local train derailed at Kyoto Station, causing Kintetsu to suspend all services on the Kyoto Line while recovery work continues.",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165141000.html",
+      "title": "国会 与野党対立 衆院議長と各党が協議し打開策模索か",
+      "title_ja": "衆院定数削減法案をめぐり与野党が対立、打開に向け協議へ",
+      "date": "Wed, 01 Jul 2026 05:21:05 +0900",
+      "summary": "Tensions are rising in the Japanese Diet as the ruling coalition pushes forward with a bill to reduce House seats without opposition consent, leading to scheduled talks to resolve the impasse.",
       "sentences": [
         {
-          "en": "Early on the morning of the 29th, a derailment accident occurred at Kyoto Station on the Kintetsu Kyoto Line.",
-          "ja": "29日の早朝、近鉄京都線の京都駅で脱線事故が発生しました。"
+          "en": "Tensions are rising in the Japanese Diet over a bill to reduce the number of seats in the House of Representatives.",
+          "ja": "衆議院の定数削減法案をめぐり、国会で緊張が高まっています。"
         },
         {
-          "en": "The accident involved the first local train of the day, which was scheduled to depart from Kyoto Station.",
-          "ja": "事故が発生したのは、京都駅を出発する予定だったその日の始発の普通列車でした。"
+          "en": "The ruling coalition has been pushing forward with deliberations on the bill, despite not having reached an agreement with the opposition parties.",
+          "ja": "与党側は野党側との合意が得られないまま、この法案の審議を進めています。"
         },
         {
-          "en": "According to Kintetsu Railway, the incident happened shortly after 5:00 AM.",
-          "ja": "近畿日本鉄道によると、この事故は午前5時すぎに発生しました。"
+          "en": "In response, opposition parties are intensifying their protests, criticizing the ruling party's unilateral approach.",
+          "ja": "これに対し野党側は、与党の一方的な進め方を批判し、反発を強めています。"
         },
         {
-          "en": "Due to the derailment, Kintetsu suspended all train services on the Kyoto Line from the first departure.",
-          "ja": "この脱線事故の影響で、近鉄は京都線の全線で始発から運転を見合わせました。"
+          "en": "To break the deadlock, House of Representatives Speaker Mori and the secretary-generals of both ruling and opposition parties are scheduled to hold talks on the first.",
+          "ja": "事態を打開するため、1日には森衆議院議長と与野党の幹事長らによる協議が行われる見通しです。"
         },
         {
-          "en": "Recovery work is currently underway at the scene to restore operations as soon as possible.",
-          "ja": "現在、現場では一刻も早い運転再開に向けて復旧作業が進められています。"
+          "en": "Observers are closely watching whether this meeting can lead to a breakthrough in the ongoing political standoff.",
+          "ja": "この会談が事態の打開につながり、現在政治的に膠着している状況を好転させられるか注目が集まっています。"
         }
       ]
     }
@@ -153,372 +165,359 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164061000.html",
-        "title": "相続人から引き取った土地 民間売却へ最大9割引きの新制度",
-        "title_ja": "相続土地の国庫帰属、最大9割引きで民間売却へ",
-        "date": "Tue, 30 Jun 2026 06:47:12 +0900",
-        "summary": "The Ministry of Finance will introduce a new system allowing the government to sell state-acquired inherited land to the private sector at a discount of up to 90% to reduce management burdens.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015164901000.html",
+        "title": "【動画】Pickup NEWS(7月1日）",
+        "title_ja": "1分でわかる最新ニュース動画",
+        "date": "Wed, 01 Jul 2026 07:02:58 +0900",
+        "summary": "This lesson introduces a service that delivers the latest news in a quick, one-minute video summary, noting some viewing limitations.",
         "sentences": [
           {
-            "en": "The Japanese government is seeing an increase in the number of people using a system to hand over inherited land to the state.",
-            "ja": "家族などから相続した土地を国に引き取ってもらう制度の利用者が増加しています。"
+            "en": "We will bring you a quick roundup of the latest news received so far.",
+            "ja": "これまでに入っている最新のニュースを、まとめてお伝えします。"
           },
           {
-            "en": "This system was designed to help citizens who struggle to manage unwanted properties inherited from their families.",
-            "ja": "この制度は、家族から相続した不要な土地の管理に困っている人々を支援するために作られました。"
+            "en": "The key updates have been compiled into a convenient one-minute video.",
+            "ja": "重要なニュースが、便利な1分間の動画にまとめられています。"
           },
           {
-            "en": "However, as the amount of handed-over land grows, managing these properties has become a major burden for the government.",
-            "ja": "しかし、引き取られる土地が増えるにつれて、それらの土地を管理することが国にとって大きな負担となっています。"
+            "en": "This is a great way to catch up on current events quickly during a busy day.",
+            "ja": "忙しい一日の中で、最近の出来事を素早く把握するのに最適な方法です。"
           },
           {
-            "en": "To address this issue, the Ministry of Finance has decided to introduce a new system to sell the acquired land to the private sector.",
-            "ja": "この課題に対処するため、財務省は引き取った土地を民間に売却する新たな仕組みを導入することを決定しました。"
+            "en": "Please note that this video content cannot be viewed through data broadcasting services.",
+            "ja": "なお、データ放送をご利用の場合は動画をご覧いただけません。"
           },
           {
-            "en": "Under this new scheme, the government will be allowed to offer discounts of up to 90 percent on the sale price of the land.",
-            "ja": "この新しい仕組みのもとでは、国は土地の売却価格を最大で9割割り引くことができるようになります。"
-          },
-          {
-            "en": "The government hopes this measure will encourage private buyers to utilize the land and successfully reduce national management costs.",
-            "ja": "政府は、この措置によって民間への売却が進み、国の管理コストが効果的に削減されることを期待しています。"
+            "en": "We hope this short summary helps you stay informed about today's main topics.",
+            "ja": "この短いまとめが、今日の主なトピックを把握するのにお役立ちできれば幸いです。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164001000.html",
-        "title": "【動画】Pickup NEWS(6月30日）",
-        "title_ja": "1分間のニュースまとめ動画",
-        "date": "Tue, 30 Jun 2026 06:34:29 +0900",
-        "summary": "This lesson introduces a quick, one-minute news summary video designed for busy viewers, along with a note on device compatibility.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165131000.html",
+        "title": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
+        "title_ja": "能登半島地震から半年、仮設住宅での生活と課題",
+        "date": "Wed, 01 Jul 2026 06:29:26 +0900",
+        "summary": "Six months after the Noto Peninsula earthquake, over 15,000 people in Ishikawa Prefecture still live in temporary housing, raising concerns over isolated deaths.",
         "sentences": [
           {
-            "en": "Welcome to our daily update, where we bring you the latest news from around the world.",
-            "ja": "世界中からの最新ニュースをお届けする、デイリーアップデートへようこそ。"
+            "en": "July 1st marks six months since the devastating Noto Peninsula earthquake struck central Japan.",
+            "ja": "7月1日で、大きな被害をもたらした能登半島地震の発生から半年となりました。"
           },
           {
-            "en": "To keep you informed quickly, we have summarized the top stories into a single, one-minute video.",
-            "ja": "素早く情報を得られるよう、主要なニュースを1分間の動画にまとめました。"
+            "en": "Ishikawa Prefecture, which suffered the most severe housing damage, still has over 15,000 residents living in temporary shelters.",
+            "ja": "最も深刻な住宅被害を受けた石川県では、今も1万5000人余りが仮設住宅などで避難生活を送っています。"
           },
           {
-            "en": "This format allows you to easily catch up on important events even during a busy day.",
-            "ja": "この形式により、忙しい一日の中でも重要な出来事を簡単に把握することができます。"
+            "en": "As the evacuation period drags on, supporting the mental and physical health of the victims has become a major challenge.",
+            "ja": "避難生活が長期化する中で、被災者の心身の健康維持をサポートすることが大きな課題となっています。"
           },
           {
-            "en": "Please note that this video playback feature may not be available on certain data broadcasting systems.",
-            "ja": "なお、一部のデータ放送システムでは、この動画再生機能をご利用いただけませんのでご注意ください。"
+            "en": "Tragically, there have been cases of residents being found dead alone in these temporary housing units.",
+            "ja": "非常に痛ましいことに、これらの仮設住宅で、誰にも看取られずに一人で亡くなっているのが見つかった被災者もいます。"
           },
           {
-            "en": "Let's take a quick look at the major headlines shaping our world today.",
-            "ja": "それでは、今日の私たちの世界を形作る主なヘッドラインを素早く見ていきましょう。"
+            "en": "Local governments are working to strengthen community watch programs to prevent such isolated deaths.",
+            "ja": "自治体は、このような孤立死を防ぐために、地域での見守り活動の強化に取り組んでいます。"
+          },
+          {
+            "en": "Rebuilding lives and restoring communities remains a long and difficult journey for the survivors.",
+            "ja": "被災者にとって、生活の再建と地域の再生は、依然として長く険しい道のりです。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163761000.html",
-        "title": "血管炎の薬「タブネオス」EUでの製造販売承認の取り消しを勧告",
-        "title_ja": "EU委員会、血管炎治療薬「タブネオス」の承認取り消しを勧告",
-        "date": "Mon, 29 Jun 2026 17:03:31 +0900",
-        "summary": "An EU regulatory committee has recommended withdrawing marketing approval for the vasculitis drug Tavneos, citing unproven benefits over risks, following patient death reports in Japan.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165131000.html",
+        "title": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
+        "title_ja": "能登半島地震から半年、仮設住宅における課題と孤立死の懸念",
+        "date": "Wed, 01 Jul 2026 06:29:26 +0900",
+        "summary": "July 1st marks six months since the Noto Peninsula earthquake, with over 15,000 people in Ishikawa still in temporary housing, raising concerns over isolated deaths.",
         "sentences": [
           {
-            "en": "An EU regulatory committee has recommended withdrawing the marketing authorization for the drug Tavneos, which is used to treat a rare inflammatory disease.",
-            "ja": "EUの規制当局の委員会は、稀な炎症性疾患の治療に用いられる薬「タブネオス」の製造販売承認を取り消すよう勧告しました。"
+            "en": "July 1st marks six months since the devastating Noto Peninsula earthquake struck central Japan.",
+            "ja": "7月1日で、日本中部を襲った能登半島地震の発生から半年が経ちました。"
           },
           {
-            "en": "Tavneos is designed to treat vasculitis, a serious condition characterized by the inflammation of blood vessels.",
-            "ja": "タブネオスは、血管に炎症が生じる深刻な病気である血管炎を治療するために開発された薬です。"
+            "en": "In Ishikawa Prefecture, which suffered the most severe housing damage, more than 15,000 people are still living in temporary shelters.",
+            "ja": "最も住宅被害が多かった石川県では、今も1万5000人余りが仮設住宅などで生活しています。"
           },
           {
-            "en": "The committee stated that the benefits of the medication have not been proven to outweigh its potential risks.",
-            "ja": "同委員会は、この薬剤のメリットが潜在的なリスクを上回ることが証明されていないと説明しています。"
+            "en": "As the evacuation period becomes prolonged, the physical and mental health of the displaced victims is becoming a serious concern.",
+            "ja": "避難生活が長期化するにつれ、被災者の心身の健康が深刻な懸念事項となっています。"
           },
           {
-            "en": "This decision follows reports of patient deaths in Japan after they were administered the drug.",
-            "ja": "この決定は、日本国内で同薬を投与された患者の死亡が報告されたことを受けて下されました。"
+            "en": "Tragically, there have been cases where disaster victims were found to have passed away alone in their temporary homes.",
+            "ja": "悲しいことに、仮設住宅の中で誰にも看取られずに亡くなっているのが見つかった被災者の事例も発生しています。"
           },
           {
-            "en": "Medical authorities are now closely reviewing the safety guidelines and efficacy of this treatment.",
-            "ja": "医療当局は現在、この治療法の安全性ガイドラインと有効性を慎重に再評価しています。"
+            "en": "Local municipalities are working to strengthen watch-over services to prevent such isolated deaths, especially among elderly residents.",
+            "ja": "自治体は、特に高齢の住民の間でこうした孤独死を防ぐため、見守り活動の強化に取り組んでいます。"
+          },
+          {
+            "en": "Providing continuous mental health support and rebuilding communities remain critical challenges for the recovery process.",
+            "ja": "継続的な心のケアを提供することや、コミュニティを再建することが、復興に向けた極めて重要な課題となっています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260628/k10015162871000.html",
-        "title": "北辰一刀流 千葉周作の生誕地“気仙沼”史料発見 論争終止符か",
-        "title_ja": "千葉周作の生誕地を示す新史料が見つかる",
-        "date": "Sun, 28 Jun 2026 16:30:07 +0900",
-        "summary": "New historical documents suggest that the famous Edo-period swordsman Chiba Shusaku was born in Kesennuma, Miyagi Prefecture, likely ending a long-standing dispute over his birthplace.",
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165091000.html",
+        "title": "USJ 発売後も入場券の価格が変動する制度導入へ 9月入場分から",
+        "title_ja": "USJ、需要に応じて発売後も価格が変動する新制度を導入へ",
+        "date": "Tue, 30 Jun 2026 20:29:03 +0900",
+        "summary": "Universal Studios Japan will introduce a dynamic pricing system starting in September, where ticket prices can change even after they go on sale, depending on demand.",
         "sentences": [
           {
-            "en": "Chiba Shusaku was a legendary master swordsman of the late Edo period and the founder of the famous Hokushin Itto-ryu style of swordsmanship.",
-            "ja": "千葉周作は幕末の伝説的な剣豪であり、有名な剣術流派である北辰一刀流の創始者です。"
+            "en": "Universal Studios Japan in Osaka has announced a new ticket pricing system starting this September.",
+            "ja": "大阪のテーマパーク「ユニバーサル・スタジオ・ジャパン」は、今年9月の入場分から新しいチケット価格制度を導入すると発表しました。"
           },
           {
-            "en": "Recently, new historical documents have been discovered, indicating that his birthplace was Kesennuma City in Miyagi Prefecture.",
-            "ja": "最近、彼の生誕地が現在の宮城県気仙沼市であったことを示す新たな史料が見つかりました。"
+            "en": "Under this system, ticket prices will fluctuate based on demand, even after they go on sale.",
+            "ja": "この制度では、チケットの発売後であっても、需要に応じて価格が変動します。"
           },
           {
-            "en": "For many years, there has been an ongoing debate regarding where exactly Shusaku was born.",
-            "ja": "周作が実際にどこで生まれたのかについては、長年にわたり論争が続いていました。"
+            "en": "This change will apply to tickets going on sale starting July 1st.",
+            "ja": "この変更は、7月1日から販売されるチケットに適用されます。"
           },
           {
-            "en": "Rikuzentakata City in neighboring Iwate Prefecture was among the locations claiming to be his birthplace.",
-            "ja": "隣接する岩手県陸前高田市なども、彼の生誕地であると主張していた場所の一つでした。"
+            "en": "Currently, ticket prices are set beforehand based on expected busy periods, but the new system allows prices to adjust in real-time.",
+            "ja": "現在は混雑予想に基づいて事前に価格が設定されていますが、新制度ではリアルタイムでの価格調整が可能になります。"
           },
           {
-            "en": "Experts believe that these newly found documents will finally put an end to this long-running dispute.",
-            "ja": "専門家は、この新たな史料の発見によって、この長年の論争にようやく終止符が打たれると考えています。"
+            "en": "The park aims to balance crowd numbers and provide a more comfortable environment for visitors.",
+            "ja": "同パークは、混雑状況を平均化し、来場者により快適な環境を提供することを目指しています。"
+          },
+          {
+            "en": "Visitors planning a trip to the park are encouraged to check prices and book early to secure the best deals.",
+            "ja": "同パークへの旅行を計画している方は、最安値で購入するために、事前に価格を確認して早めに予約することをお勧めします。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html",
-        "title": "AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定",
-        "title_ja": "フィジカルAIロボットの公道実験推進へ",
-        "date": "Mon, 29 Jun 2026 17:15:32 +0900",
-        "summary": "The Japanese government's Regulatory Reform Promotion Council has decided on recommendations to clarify the legal status of walking robots that use \"Physical AI\" in order to promote testing on public roads.",
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165111000.html",
+        "title": "「キャプテン翼」高橋陽一さん“4年後は翼くんの夢W杯優勝を”",
+        "title_ja": "「キャプテン翼」作者が語る、W杯ブラジル戦での日本代表の健闘",
+        "date": "Tue, 30 Jun 2026 21:16:09 +0900",
+        "summary": "After Japan's narrow defeat to Brazil in the World Cup, \"Captain Tsubasa\" creator Yoichi Takahashi praised the national team, stating the match proved Japan can now compete on equal terms with the world's best.",
         "sentences": [
           {
-            "en": "The Japanese government's Regulatory Reform Promotion Council has adopted a new set of recommendations to promote the use of advanced technology.",
-            "ja": "政府の規制改革推進会議は、先端技術の活用を推進するための新たな答申を決定しました。"
+            "en": "In the recent FIFA World Cup, the Japanese national soccer team suffered a narrow defeat against Brazil.",
+            "ja": "先日行われたサッカーワールドカップで、日本代表はブラジルを相手に惜しくも敗れました。"
           },
           {
-            "en": "A key focus of these recommendations is clarifying the legal status of walking robots that utilize \"Physical AI.\"",
-            "ja": "今回の答申の主な焦点は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にすることです。"
+            "en": "Yoichi Takahashi, the creator of the world-famous soccer manga \"Captain Tsubasa,\" shared his thoughts on this dramatic match.",
+            "ja": "世界的に人気の高いサッカー漫画「キャプテン翼」の作者である高橋陽一さんが、この劇的な試合について自身の思いを語りました。"
           },
           {
-            "en": "Physical AI refers to technology that allows artificial intelligence to interact directly with the physical world, such as through robots.",
-            "ja": "フィジカルAIとは、ロボットなどを通じて、人工知能が現実の物理世界と直接相互作用できるようにする技術を指します。"
+            "en": "He praised the team's performance, stating that the match proved Japan can compete on equal terms even with the powerhouse of world soccer.",
+            "ja": "高橋さんはチームの健闘を称え、今回の試合は日本がサッカー王国ブラジルとも互角に戦えることを示すものだったと述べました。"
           },
           {
-            "en": "By clarifying the rules, the government aims to encourage companies to conduct demonstration tests of these robots on public roads.",
-            "ja": "ルールを明確にすることで、政府は企業がこれらのロボットの公道での実証実験を行うことを後押ししたい考えです。"
+            "en": "Historically, Brazil has been a formidable opponent, making Japan's close battle even more significant.",
+            "ja": "歴史的にブラジルは非常に手強い相手であり、それだけに今回の日本の大接戦はより大きな意味を持っています。"
           },
           {
-            "en": "Currently, vague regulations have been a major barrier for companies wanting to test autonomous delivery and patrol robots.",
-            "ja": "現在、あいまいな規制が、自動配送や巡回を行うロボットのテストを望む企業にとって大きな障壁となっています。"
-          },
-          {
-            "en": "The council hopes these reforms will accelerate the practical application of AI and robotics in daily life.",
-            "ja": "同会議は、これらの改革によって日常生活におけるAIやロボット技術の実用化が加速することを期待しています。"
+            "en": "Despite the loss, Takahashi believes this performance will inspire many young players and mark a new chapter for Japanese soccer.",
+            "ja": "敗れはしたものの、高橋さんはこの試合が多くの若い選手たちに希望を与え、日本サッカーの新たな一歩になると確信しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163271000.html",
-        "title": "ブタの腎臓ヒトに“異種移植”の治験 北大などで実施へ",
-        "title_ja": "ブタの腎臓をヒトに移植する「異種移植」の治験、再来年にも開始へ",
-        "date": "Mon, 29 Jun 2026 06:38:58 +0900",
-        "summary": "A venture company from Meiji University has announced plans to start clinical trials as early as the year after next, aimed at transplanting pig kidneys into patients with severe kidney failure.",
+        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165211000.html",
+        "title": "落語協会 新会長に林家正蔵さん就任 “若手の育成などに対処”",
+        "title_ja": "林家正蔵さんが落語協会の新会長に就任",
+        "date": "Tue, 30 Jun 2026 20:58:48 +0900",
+        "summary": "Popular rakugo performer Hayashiya Shozo has become the new president of the Rakugo Association, expressing his commitment to nurturing young talent.",
         "sentences": [
           {
-            "en": "A venture company from Meiji University has announced plans to conduct clinical trials for xenotransplantation.",
-            "ja": "明治大学発のベンチャー企業が、異種移植の治験を開始する計画を発表しました。"
+            "en": "Popular rakugo storyteller Hayashiya Shozo has been appointed as the new president of the Rakugo Association.",
+            "ja": "人気落語家の林家正蔵さんが、落語協会の新しい会長に就任しました。"
           },
           {
-            "en": "This medical procedure involves transplanting pig kidneys into human patients suffering from severe kidney failure.",
-            "ja": "この医療技術は、重い腎不全の患者にブタの腎臓を移植するものです。"
+            "en": "The association is a major organization made up of professional rakugo performers based in Tokyo.",
+            "ja": "同協会は、東京を拠点とするプロの落語家らで構成される主要な団体です。"
           },
           {
-            "en": "The venture aims to make this highly anticipated treatment a practical reality.",
-            "ja": "このベンチャー企業は、この大いに期待される治療法の実用化を目指しています。"
+            "en": "Upon taking office, Shozo expressed his determination to tackle various challenges facing the industry.",
+            "ja": "就任にあたり正蔵さんは、業界が直面するさまざまな課題に取り組む決意を表明しました。"
           },
           {
-            "en": "The clinical trials are expected to begin as early as the year after next at Hokkaido University Hospital and other institutions.",
-            "ja": "この治験は、早ければ再来年にも北海道大学病院などで開始される見込みです。"
+            "en": "He specifically emphasized the importance of nurturing young talent for the future of this traditional art.",
+            "ja": "彼は特に、この伝統芸能の未来に向けて若手を育成することの重要性を強調しました。"
           },
           {
-            "en": "If successful, this technology is expected to address the critical shortage of organ donors.",
-            "ja": "もし成功すれば、この技術は臓器ドナーの深刻な不足を解消することが期待されています。"
+            "en": "\"I want to address each issue one by one,\" he said, showing his vision for the group's future.",
+            "ja": "「問題に一つ一つ対処していきたい」と彼は語り、組織の将来へのビジョンを示しました。"
+          },
+          {
+            "en": "Many hope his leadership will help keep the art of rakugo thriving and relevant in the modern era.",
+            "ja": "多くの人々が、現代において落語の芸を繁栄させ、人々に届け続けるために彼のリーダーシップが役立つことを期待しています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164091000.html",
-        "title": "高市首相 1日からインド訪問 経済安保やAIで成果文書調整",
-        "title_ja": "高市首相がインド訪問へ、モディ首相と会談し経済安保やAIで協力合意へ",
-        "date": "Tue, 30 Jun 2026 05:25:30 +0900",
-        "summary": "Prime Minister Takaichi is visiting India to meet with Prime Minister Modi, aiming to boost economic security and AI cooperation to build a stronger economy.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165161000.html",
+        "title": "日印首脳会談 バイオガス燃料の自動車普及へ 協力で合意見通し",
+        "title_ja": "日印首脳、バイオガス普及に向けた新たな協力枠組みに合意へ",
+        "date": "Wed, 01 Jul 2026 05:43:43 +0900",
+        "summary": "Japanese Prime Minister Takaichi and Indian Prime Minister Modi are expected to agree on a new framework to build 1,000 biogas plants in India, promoting eco-friendly vehicles.",
         "sentences": [
           {
-            "en": "Prime Minister Takaichi is scheduled to visit India starting on the first of the month for a summit meeting with Prime Minister Modi.",
-            "ja": "高市総理大臣は1日からインドを訪問し、モディ首相との首脳会談に臨む予定です。"
+            "en": "Japanese Prime Minister Takaichi is expected to meet with Indian Prime Minister Narendra Modi on the second of this month.",
+            "ja": "高市総理大臣は、今月2日にインドのモディ首相と会談する予定です。"
           },
           {
-            "en": "During the meeting, the two leaders are expected to discuss strengthening bilateral ties in various sectors.",
-            "ja": "会談の中で、両首脳は様々な分野における二国間関係の強化について話し合う見込みです。"
+            "en": "During the meeting, the two leaders are anticipated to agree on a new cooperation framework to promote biogas-fueled vehicles.",
+            "ja": "会談の中で両首脳は、バイオガスを燃料とする自動車の普及に向けた新たな協力の枠組みに合意する見通しです。"
           },
           {
-            "en": "In particular, they are currently coordinating to release joint outcome documents in the fields of economic security and artificial intelligence.",
-            "ja": "特に、経済安全保障と人工知能（AI）の分野において、それぞれ共同の成果文書を発表する方向で調整が進められています。"
+            "en": "As part of this initiative, Japan will support the construction of 1,000 biogas plants across India.",
+            "ja": "この取り組みの一環として、日本はインド国内の1,000か所にバイオガスプラントを整備することを支援します。"
           },
           {
-            "en": "Through these initiatives, both nations aim to build a highly strategic cooperative relationship.",
-            "ja": "これらの取り組みを通じて、両国は極めて戦略的な協力関係を構築することを目指しています。"
+            "en": "This project aims to convert organic waste into clean energy, which will help reduce carbon emissions in India.",
+            "ja": "このプロジェクトは、有機廃棄物をクリーンエネルギーに変換し、インドにおける炭素排出量の削減に貢献することを目指しています。"
           },
           {
-            "en": "Ultimately, Prime Minister Takaichi hopes this partnership will lead to the realization of a stronger economy.",
-            "ja": "最終的に高市総理は、このパートナーシップが「強い経済の実現」へとつながることを期待しています。"
+            "en": "The partnership reflects a shared commitment to sustainable development and green technology between the two nations.",
+            "ja": "この提携は、持続可能な開発と環境技術に対する両国の共通の取り組みを反映しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164081000.html",
-        "title": "部活動の高校生ら死傷のバス事故受け安全対策まとめる 政府",
-        "title_ja": "高校生バス事故を受けた政府の新安全対策",
-        "date": "Tue, 30 Jun 2026 05:19:30 +0900",
-        "summary": "Following a fatal bus accident involving high school students in Fukushima, the Japanese government has released new safety guidelines for student long-distance travel, especially when using rental or private cars.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165141000.html",
+        "title": "国会 与野党対立 衆院議長と各党が協議し打開策模索か",
+        "title_ja": "衆院定数削減法案をめぐる国会の対立",
+        "date": "Wed, 01 Jul 2026 05:21:05 +0900",
+        "summary": "Tension rises in the Japanese Diet as the ruling coalition pushes a seat-reduction bill without opposition consent, leading to scheduled talks to resolve the deadlock.",
         "sentences": [
           {
-            "en": "The Japanese government has compiled a set of safety measures following a tragic bus accident in Fukushima Prefecture.",
-            "ja": "福島県で起きた悲惨なバス事故を受けて、政府は新たな安全確保対策を取りまとめました。"
+            "en": "Tension is rising in Japan's parliament, the Diet, over a bill to reduce the number of seats in the House of Representatives.",
+            "ja": "衆議院の議員定数を削減する法案をめぐり、国会で緊張が高まっています。"
           },
           {
-            "en": "The accident occurred on the Ban-etsu Expressway, killing and injuring high school students who were traveling for school club activities.",
-            "ja": "この事故は磐越自動車道で発生し、部活動の遠征中だった高校生らが死傷しました。"
+            "en": "The ruling coalition has been pushing forward with deliberations on the bill without reaching an agreement with the opposition parties.",
+            "ja": "与党側は野党側との合意が得られないまま、この法案の審議を進めています。"
           },
           {
-            "en": "In response, the government's new guidelines focus on ensuring safety when students travel long distances for extracurricular activities.",
-            "ja": "これを受けて、政府の新しいガイドラインは、生徒が課外活動で長距離を移動する際の安全確保に焦点を当てています。"
+            "en": "In response, opposition parties are intensifying their protests against this unilateral move.",
+            "ja": "これに対し、野党側はこの一方的な動きに対する反発を強めています。"
           },
           {
-            "en": "Specifically, the rules address the use of rental cars and private vehicles when schools arrange long-distance travel.",
-            "ja": "具体的には、学校が長距離移動を手配する際に、レンタカーや自家用車を使用する場合のルールを定めています。"
+            "en": "To resolve the political gridlock, a key meeting is scheduled for the first of the month.",
+            "ja": "この政治的な膠着状態を打開するため、1日に重要な協議が予定されています。"
           },
           {
-            "en": "Under these measures, schools are urged to verify driver health and avoid setting schedules that cause driver fatigue.",
-            "ja": "この対策のもと、学校は運転手の健康状態を確認し、疲労を招くような過密な日程を避けることが求められます。"
+            "en": "House of Representatives Speaker Mori and the secretary-generals of both ruling and opposition parties are expected to hold talks.",
+            "ja": "森衆議院議長と与野党の幹事長らが会談を行う見通しです。"
           },
           {
-            "en": "The government aims to implement these safety standards thoroughly to prevent similar tragedies in the future.",
-            "ja": "政府は、将来このような悲劇が繰り返されないよう、これらの安全基準を徹底することを目指しています。"
+            "en": "It remains to be seen whether this discussion will lead to a breakthrough and restore order in the Diet.",
+            "ja": "この協議が事態の打開につながり、国会の正常化をもたらすかどうかが注目されます。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164301000.html",
-        "title": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
-        "title_ja": "NYダウ、初の5万2000ドル台を突破",
-        "date": "Tue, 30 Jun 2026 06:35:17 +0900",
-        "summary": "The Dow Jones Industrial Average closed above the 52,000-dollar mark for the first time on the 29th, driven by a rebound in major tech stocks.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165101000.html",
+        "title": "“出国税” きょうから引き上げ 1人当たり1000円が3000円に",
+        "title_ja": "出国税が7月1日から3,000円に引き上げへ",
+        "date": "Wed, 01 Jul 2026 06:53:31 +0900",
+        "summary": "Japan is set to increase its International Tourist Tax, or departure tax, from 1,000 yen to 3,000 yen starting July 1st to fund measures against overtourism.",
         "sentences": [
           {
-            "en": "On the New York Stock Exchange on the 29th, stock prices saw a significant rebound.",
-            "ja": "29日のニューヨーク株式市場では、株価が大幅に反発しました。"
+            "en": "Japan's \"International Tourist Tax,\" commonly known as the departure tax, will be increased starting July 1st.",
+            "ja": "日本を出国する際に課される「国際観光旅客税」、いわゆる出国税が7月1日から引き上げられます。"
           },
           {
-            "en": "Investors actively bought back shares of major tech companies, which had been experiencing a recent sell-off.",
-            "ja": "最近売り込まれていた大手IT企業などの銘柄を中心に、買い戻しの動きが広がりました。"
+            "en": "The tax rate, which has been 1,000 yen per person, will rise to 3,000 yen.",
+            "ja": "これまでは1人当たり1,000円でしたが、これが3,000円に引き上げられます。"
           },
           {
-            "en": "As a result, the Dow Jones Industrial Average surged by more than 300 dollars compared to the end of last week.",
-            "ja": "その結果、ダウ平均株価は先週末と比べて300ドルあまり値上がりしました。"
+            "en": "This tax is applied to both foreign visitors and Japanese residents leaving the country.",
+            "ja": "この税金は、日本を出国する外国人観光客と日本人住民の両方に課されます。"
           },
           {
-            "en": "This rally pushed the index to close above the 52,000-dollar mark for the very first time in history.",
-            "ja": "この値上がりにより、ダウ平均は終値として史上初めて5万2000ドル台に乗せました。"
+            "en": "The government plans to use the increased revenue to tackle the issue of overtourism in various regions.",
+            "ja": "政府は、増収分を各地で課題となっているオーバーツーリズム対策に充てる計画です。"
           },
           {
-            "en": "Market participants are closely watching to see if this positive momentum will continue through the end of the year.",
-            "ja": "市場関係者は、この好調な勢いが年末まで続くかどうかに注目しています。"
+            "en": "Key initiatives will include improving public transport networks and strengthening environmental protection in popular destinations.",
+            "ja": "主な取り組みには、公共交通網の整備や、人気の観光地における環境保護の強化などが含まれます。"
+          },
+          {
+            "en": "Since the tax is usually added directly to airline tickets, travelers should be aware of the price adjustment when booking.",
+            "ja": "税金は通常、航空券の価格に直接上乗せされるため、旅行者は予約時の価格変更に注意する必要があります。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260629/k10015164241000.html",
-        "title": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
-        "title_ja": "米最高裁、トランプ氏によるFRB理事解任を無効と判断",
-        "date": "Tue, 30 Jun 2026 05:31:55 +0900",
-        "summary": "The US Supreme Court has ruled that Donald Trump's attempt to dismiss FRB Governor Cook last year was invalid because she was not given an opportunity to defend herself.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165311000.html",
+        "title": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
+        "title_ja": "円安が進み一時162円台後半に、約39年半ぶりの低水準",
+        "date": "Wed, 01 Jul 2026 06:15:59 +0900",
+        "summary": "The Japanese yen temporarily fell to the upper 162 yen range per dollar in New York, marking its lowest level in about 39 and a half years due to expectations surrounding the US Federal Reserve's monetary policy.",
         "sentences": [
           {
-            "en": "On the 29th, the US Supreme Court ruled that Donald Trump's notification to dismiss Federal Reserve Board Governor Cook last year was invalid.",
-            "ja": "連邦最高裁判所は29日、トランプ氏が昨年、連邦準備制度理事会（FRB）のクック理事を解任すると通知したことについて、無効とする判断を示しました。"
+            "en": "On the 30th, the selling of yen and buying of dollars intensified in the New York foreign exchange market, causing the Japanese currency to depreciate further.",
+            "ja": "30日のニューヨーク外国為替市場で、円を売ってドルを買う動きが強まり、円相場はさらに値下がりしました。"
           },
           {
-            "en": "The court pointed out that the dismissal process was highly problematic because Governor Cook was not given a chance to argue her case.",
-            "ja": "クック氏に反論の機会を与えないまま解任しようとしたプロセスには、重大な問題があると裁判所は指摘しました。"
+            "en": "During trading, the yen temporarily fell to the upper 162 yen level against the US dollar.",
+            "ja": "取引時間中、円相場は一時、1ドル＝162円台後半まで値下がりしました。"
           },
           {
-            "en": "This decision highlights the legal protections designed to keep the central bank free from direct political interference.",
-            "ja": "この判決は、中央銀行を直接的な政治介入から守るために設計された法的保護を浮き彫りにしています。"
+            "en": "This marks the weakest level for the Japanese currency in approximately 39 and a half years.",
+            "ja": "これは、日本円としておよそ39年半ぶりの円安ドル高水準となります。"
           },
           {
-            "en": "Generally, leaders of independent government agencies cannot be removed without a justifiable reason and proper procedures.",
-            "ja": "一般的に、独立政府機関の幹部は、正当な理由と適切な手続きなしに解任されることはありません。"
+            "en": "Market analysts attribute this sharp decline to the widening interest rate gap between Japan and the United States.",
+            "ja": "市場関係者は、この急激な下落の背景に、日本と米国の金利差が拡大していることがあると見ています。"
           },
           {
-            "en": "This ruling acts as an important reminder of the constitutional limits on presidential power over key financial institutions.",
-            "ja": "今回の判決は、主要な金融機関に対する大統領権限の憲法上の制限を改めて示す重要なものとなりました。"
+            "en": "Investors are closely watching the US Federal Reserve, as expectations of prolonged high interest rates in the US continue to support the dollar.",
+            "ja": "米国での高金利の長期化観測がドル買いを後押ししており、投資家は米連邦準備制度理事会（FRB）の動向を注視しています。"
+          },
+          {
+            "en": "This ongoing trend has raised concerns about its impact on Japan's economy through increased costs for imported goods.",
+            "ja": "こうした傾向が続くことで、輸入物価の上昇を通じて日本の景気に与える悪影響への懸念が高まっています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164291000.html",
-        "title": "ブラジル サンパウロは逆転勝ちに歓喜",
-        "title_ja": "W杯日本対ブラジル、逆転勝利にサンパウロのファンが大歓喜",
-        "date": "Tue, 30 Jun 2026 06:38:26 +0900",
-        "summary": "During the World Cup match between Japan and Brazil, fans in Sao Paulo gathered at public viewings and celebrated enthusiastically as Brazil made a dramatic comeback to win.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165101000.html",
+        "title": "“出国税” きょうから引き上げ 1人当たり1000円が3000円に",
+        "title_ja": "日本の出国税が3,000円に引き上げへ、オーバーツーリズム対策に充当",
+        "date": "Wed, 01 Jul 2026 06:53:31 +0900",
+        "summary": "Starting July 1st, Japan will raise its departure tax from 1,000 yen to 3,000 yen. The additional revenue will be used to address overtourism issues and improve tourism infrastructure across the country.",
         "sentences": [
           {
-            "en": "At the North American World Cup, an exciting football match took place between Japan and Brazil.",
-            "ja": "北中米ワールドカップで、日本とブラジルの白熱したサッカーの試合が行われました。"
+            "en": "Starting July 1st, Japan will raise its \"International Tourist Tax,\" commonly known as the departure tax, which is levied on people leaving the country.",
+            "ja": "7月1日から、日本を出国する際に課される「国際観光旅客税」、いわゆる出国税が引き上げられます。"
           },
           {
-            "en": "In Brazil's largest city, Sao Paulo, fans gathered in large numbers to support their team.",
-            "ja": "ブラジル最大の都市サンパウロでは、大勢のファンがチームを応援するために集まりました。"
+            "en": "The tax, which was previously 1,000 yen per person, will be increased to 3,000 yen.",
+            "ja": "これまでは1人当たり1,000円でしたが、3,000円に増額されます。"
           },
           {
-            "en": "Public viewing venues across the city were packed with people sending passionate cheers.",
-            "ja": "市内のパブリック・ビューイング会場は、熱い声援を送る人々で埋め尽くされました。"
+            "en": "This tax is automatically added to the price of airline and cruise tickets when departing from Japan.",
+            "ja": "この税金は、日本を出国する際の航空券や船のチケット代金に自動的に上乗せされます。"
           },
           {
-            "en": "The excitement reached its peak when Brazil made a dramatic comeback to win the match.",
-            "ja": "ブラジルが劇的な逆転勝利を収めると、興奮は最高潮に達しました。"
+            "en": "The revenue generated from this increase will be used to fund measures against overtourism, which has become a major challenge across the country.",
+            "ja": "この増税によって得られた財源は、全国各地で大きな課題となっているオーバーツーリズム（観光公害）対策などに充てられます。"
           },
           {
-            "en": "Upon their victory, the entire venue erupted in joy, with fans celebrating together.",
-            "ja": "勝利の瞬間、会場全体が歓喜に包まれ、ファンたちは一緒に喜び合いました。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015164301000.html",
-        "title": "NYダウ平均株価 終値で初の5万2000ドル台 大手IT中心に買い",
-        "title_ja": "NYダウ、初の5万2000ドル台乗せ",
-        "date": "Tue, 30 Jun 2026 06:35:17 +0900",
-        "summary": "On the 29th, the Dow Jones Industrial Average rose by over 300 dollars to close above 52,000 dollars for the first time, boosted by bargain-hunting in major tech stocks.",
-        "sentences": [
-          {
-            "en": "On the 29th, the New York stock market experienced a strong upward trend.",
-            "ja": "29日のニューヨーク株式市場は、力強い上昇傾向となりました。"
-          },
-          {
-            "en": "This rise was mainly driven by a wave of buybacks targeting major technology stocks that had recently been sold off.",
-            "ja": "この上昇は、主に最近売り込まれていた大手IT銘柄などを中心に、買い戻しの動きが広がったことによるものです。"
-          },
-          {
-            "en": "Thanks to this positive momentum, the Dow Jones Industrial Average surged by more than 300 dollars compared to the end of last week.",
-            "ja": "この好調な勢いのおかげで、ダウ平均株価は先週末から300ドルあまり値上がりしました。"
-          },
-          {
-            "en": "With this gain, the benchmark index closed above the 52,000-dollar mark for the very first time in history.",
-            "ja": "この値上がりにより、終値として史上初めて5万2000ドル台に乗せました。"
-          },
-          {
-            "en": "Market participants welcomed this rebound, showing renewed confidence in tech shares.",
-            "ja": "市場関係者はこの反発を歓迎し、IT株への信頼を再び示しました。"
+            "en": "These funds are expected to help improve tourist facilities, support local communities, and manage crowd control in popular sightseeing spots.",
+            "ja": "この資金は、人気の観光地における観光施設の整備や地域社会への支援、混雑緩和の管理に役立てられることが期待されています。"
           }
         ]
       }
