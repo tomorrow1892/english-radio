@@ -1,163 +1,151 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165151000.html",
-      "title": "皇室典範改正案 養子の男の子に皇位継承資格 審議で論点に",
-      "title_ja": "皇室典範改正案をめぐる議論",
-      "date": "Wed, 01 Jul 2026 05:12:45 +0900",
-      "summary": "The Japanese government aims to amend the Imperial House Law to secure the number of imperial members, but opposition parties are objecting to a provision regarding the succession rights of adopted male descendants.",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166571000.html",
+      "title": "九州北部で線状降水帯発生 土砂災害・浸水などに厳重警戒",
+      "title_ja": "九州北部で大雨、熊本で河川氾濫、大分に土砂災害警戒情報",
+      "date": "Thu, 02 Jul 2026 06:53:44 +0900",
+      "summary": "Heavy rain triggered by a seasonal front and low pressure has caused river flooding in Kumamoto and prompted Level 4 landslide warnings in Oita, Kyushu.",
       "sentences": [
         {
-          "en": "The Japanese government and the ruling coalition are aiming to pass a bill to amend the Imperial House Law during the current Diet session.",
-          "ja": "政府と与党は、現在の国会で皇室典範を改正する法案の成立を目指しています。"
+          "en": "Heavy rain has hit northern Kyushu due to the influence of a seasonal rain front and a low-pressure system.",
+          "ja": "梅雨前線や低気圧の影響により、九州北部で大雨となっています。"
         },
         {
-          "en": "The proposed amendment aims to secure a stable number of imperial family members, which has been declining.",
-          "ja": "この改正案は、減少傾向にある皇族の数を安定的に確保することを目的としています。"
+          "en": "Since the early hours of the 2nd, successive linear rainbands have developed in the region, bringing intense downpours.",
+          "ja": "2日の未明から、この地域では相次いで線状降水帯が発生し、激しい豪雨をもたらしています。"
         },
         {
-          "en": "However, opposition parties have raised objections to some parts of the proposal.",
-          "ja": "しかし、野党側からは提案の一部に対して異論が出されています。"
+          "en": "In Kumamoto Prefecture, some rivers have already overflowed their banks, leading to flooding in certain areas.",
+          "ja": "熊本県では、すでに一部の河川が堤防を越えて氾濫し、地域によって浸水が発生しています。"
         },
         {
-          "en": "In particular, they are questioning a provision regarding male descendants from former imperial branches who are adopted into the imperial family.",
-          "ja": "特に、皇室に養子として迎えられた旧皇族の男系男子に関する規定が疑問視されています。"
+          "en": "Meanwhile, a Level 4 landslide warning has been issued for Oita Prefecture, urging residents to take immediate precautions.",
+          "ja": "一方、大分県ではレベル4の土砂災害警戒情報が発表され、住民に厳重な警戒を呼びかけています。"
         },
         {
-          "en": "Under this provision, if such an adopted member has a son, that son would also hold the right to succeed to the throne.",
-          "ja": "この規定によると、そうした養子に男の子が生まれた場合、その子も皇位継承資格を持つことになります。"
-        },
-        {
-          "en": "Debate is expected to continue as both sides discuss how to preserve the future of the imperial lineage.",
-          "ja": "皇位継承の未来をどのように守るかについて、双方の間で今後も議論が続く見込みです。"
+          "en": "Local authorities are advising everyone in the affected areas to stay informed and prioritize their safety.",
+          "ja": "自治体は、影響を受けている地域の人々に対し、最新の情報を入手し、身の安全を最優先にするよう呼びかけています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165311000.html",
-      "title": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
-      "title_ja": "ニューヨーク円相場、一時1ドル＝162円台後半に下落、約39年半ぶりの安値",
-      "date": "Wed, 01 Jul 2026 06:15:59 +0900",
-      "summary": "The Japanese yen has fallen to the upper 162 range against the US dollar in the New York market, marking its lowest level in nearly 40 years.",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
+      "title": "きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整",
+      "title_ja": "高市総理、インドのモディ首相と首脳会談へ",
+      "date": "Thu, 02 Jul 2026 05:33:10 +0900",
+      "summary": "Prime Minister Takaichi is visiting India to hold a summit with Prime Minister Modi, focusing on boosting cooperation in economic security and AI.",
       "sentences": [
         {
-          "en": "On the New York foreign exchange market on June 30th, the trend of selling the yen and buying the dollar accelerated.",
-          "ja": "30日のニューヨーク外国為替市場では、円を売ってドルを買う動きが加速しました。"
+          "en": "Prime Minister Takaichi, who is currently visiting India, is scheduled to hold a summit meeting with Prime Minister Modi on the second.",
+          "ja": "インドを訪問中の高市総理大臣は、2日にモディ首相との首脳会談に臨むことにしています。"
         },
         {
-          "en": "This movement temporarily pushed the yen's value down to the upper 162 yen range per dollar.",
-          "ja": "この動きにより、円相場は一時、1ドル＝162円台後半まで値下がりしました。"
+          "en": "Through this meeting, she aims to make concrete progress in bilateral cooperation, with a particular focus on economic security.",
+          "ja": "今回の会談を通じて、高市総理は経済安全保障を中心に、二国間協力の具体的な進展を図りたい考えです。"
         },
         {
-          "en": "This marks the weakest level for the Japanese currency against the US dollar in about 39 and a half years.",
-          "ja": "これは、ドルに対しておよそ39年半ぶりの円安ドル高水準となります。"
+          "en": "In addition to a joint statement, the two sides are expected to discuss partnership initiatives in the fields of economic security and artificial intelligence.",
+          "ja": "共同声明に加え、両者は経済安全保障と人工知能（AI）の分野における協力体制について話し合う見通しです。"
         },
         {
-          "en": "Investors continue to focus on the interest rate gap between the United States and Japan.",
-          "ja": "投資家は依然として、日本とアメリカの金利差に注目しています。"
+          "en": "Japan and India have been steadily strengthening their strategic ties in recent years.",
+          "ja": "日本とインドは近年、戦略的な結びつきを着実に強化してきました。"
         },
         {
-          "en": "Expectations remain strong that the U.S. Federal Reserve will keep interest rates elevated for a longer period.",
-          "ja": "米連邦準備制度理事会（FRB）が高金利を長期間維持するとの見方が根強く残っています。"
-        },
-        {
-          "en": "Market participants are closely watching whether Japanese financial authorities will intervene to support the currency.",
-          "ja": "市場関係者は、日本の金融当局が円を支えるために市場介入を行うかどうかに注目しています。"
+          "en": "This summit is anticipated to further deepen their collaboration in technology and regional stability.",
+          "ja": "今回の首脳会談により、技術分野や地域の安定における両国の連携がさらに深まることが期待されています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165281000.html",
-      "title": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
-      "title_ja": "米最高裁、出生地主義を見直す大統領令を認めず",
-      "date": "Wed, 01 Jul 2026 04:39:32 +0900",
-      "summary": "The US Supreme Court has rejected an executive order signed by President Trump that aimed to end birthright citizenship for children of undocumented immigrants and temporary visitors.",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166521000.html",
+      "title": "皇室典範改正案 与野党が協議へ 与党は定数削減法案成立も図る",
+      "title_ja": "皇室典範改正案をめぐる国会の動き",
+      "date": "Thu, 02 Jul 2026 05:26:21 +0900",
+      "summary": "Speaker of the House of Representatives Mori has urged political parties to prioritize the amendment to the Imperial House Law, prompting discussions amidst ongoing ruling-opposition tensions.",
       "sentences": [
         {
-          "en": "The US Supreme Court has rejected an executive order signed by President Trump that aimed to review birthright citizenship.",
-          "ja": "米国連邦最高裁判所は、出生地主義の見直しを目指してトランプ大統領が署名した大統領令を認めないとする判断を示しました。"
+          "en": "Amid ongoing tensions between the ruling and opposition parties in the Japanese Diet, a new development has emerged regarding key legislation.",
+          "ja": "国会で与野党の対立が続く中、主要な法案をめぐって新たな動きがありました。"
         },
         {
-          "en": "Birthright citizenship is a system that automatically grants nationality to children born within the United States.",
-          "ja": "出生地主義とは、アメリカ国内で生まれた子どもに自動的に国籍を与える制度のことです。"
+          "en": "Speaker of the House of Representatives, Mori, has requested that passing the amendment to the Imperial House Law be treated as the highest priority.",
+          "ja": "森衆議院議長は、皇室典範改正案の成立を最優先とするよう要請しました。"
         },
         {
-          "en": "The executive order targeted children of parents who are staying in the country illegally or temporarily.",
-          "ja": "この大統領令は、アメリカに不法に、あるいは一時的に滞在している人の子どもを対象としていました。"
+          "en": "In response to this request, both ruling and opposition parties have agreed to hold discussions on how to proceed with the bill.",
+          "ja": "この要請を受けて、与野党は同法案の取り扱いについて協議することにしています。"
         },
         {
-          "en": "On the 30th, the Supreme Court ruled against the order, maintaining the current legal framework.",
-          "ja": "最高裁判所は30日、現行の法的枠組みを維持し、この大統領令を認めないとの判決を下しました。"
+          "en": "Meanwhile, the Liberal Democratic Party and the Japan Innovation Party are also addressing other major issues.",
+          "ja": "一方、自民・維新両党は、他の重大な課題にも取り組んでいます。"
         },
         {
-          "en": "This decision is considered a significant setback for the administration's efforts to restrict immigration.",
-          "ja": "この決定は、移民を制限しようとする政権の試みにとって大きな後退であると見なされています。"
+          "en": "These include discussions around proposed bills to reduce the number of seats in the House of Representatives.",
+          "ja": "これには、衆議院議員の定数を削減するための法案をめぐる議論などが含まれています。"
         },
         {
-          "en": "Supporters of the existing system welcomed the ruling, highlighting the constitutional protection of birthright citizenship.",
-          "ja": "現行制度の支持者らは判決を歓迎し、出生地主義が憲法で保障されていることを強調しました。"
+          "en": "The coming days will show whether the parties can find common ground amidst these political negotiations.",
+          "ja": "こうした政治的な交渉の中で、各党が合意点を見出せるかどうかが今後注目されます。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165131000.html",
-      "title": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
-      "title_ja": "能登半島地震から2年半、仮設住宅での孤立死が課題に",
-      "date": "Wed, 01 Jul 2026 06:29:26 +0900",
-      "summary": "It has been two and a half years since the Noto Peninsula earthquake, and over 15,000 people in Ishikawa Prefecture still live in temporary housing, raising concerns over isolated deaths.",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166461000.html",
+      "title": "アメリカとイラン双方の担当者 それぞれ仲介国カタールと協議",
+      "title_ja": "米イラン、カタールを介し協議か、見解に食い違い",
+      "date": "Thu, 02 Jul 2026 05:57:57 +0900",
+      "summary": "U.S. and Iranian officials have held separate talks with Qatar. While U.S. Vice President Vance described the discussions as progressing well, Iran denied having any direct contact with the U.S.",
       "sentences": [
         {
-          "en": "July 1st marks two and a half years since the Noto Peninsula earthquake struck.",
-          "ja": "7月1日で、能登半島地震の発生から2年半となります。"
+          "en": "U.S. and Iranian officials have held separate discussions with Qatar, which is acting as a mediator.",
+          "ja": "アメリカとイランの担当者は、仲介国であるカタールとそれぞれ個別に協議を行いました。"
         },
         {
-          "en": "In Ishikawa Prefecture, which suffered the most severe housing damage, over 15,000 people are still living in temporary housing.",
-          "ja": "最も住宅被害が多かった石川県では、今も1万5000人余りが仮設住宅などで生活しています。"
+          "en": "U.S. Vice President Vance expressed optimism, stating that the talks with Iran and other parties are progressing smoothly.",
+          "ja": "アメリカのバンス副大統領は、イランなどとの協議は順調に進んでいると述べ、楽観的な見方を示しました。"
         },
         {
-          "en": "As the evacuation period becomes prolonged, a serious issue has emerged.",
-          "ja": "避難生活が長期化する中、深刻な問題が浮き彫りになっています。"
+          "en": "However, the Iranian side maintained that no direct talks were conducted with the United States.",
+          "ja": "しかし、イラン側はアメリカとの直接協議は行われなかったと主張しています。"
         },
         {
-          "en": "Some disaster victims have been found dead in temporary housing without anyone by their side.",
-          "ja": "仮設住宅で、誰にもみとられずに亡くなっているのが見つかった被災者もいます。"
+          "en": "This situation highlights the complex diplomatic dynamic, where communication must rely heavily on third-party mediation.",
+          "ja": "この状況は、第三国の仲介に大きく依存せねばならない複雑な外交関係を浮き彫りにしています。"
         },
         {
-          "en": "These isolated deaths highlight the urgent need for mental health care and community support for the elderly.",
-          "ja": "こうした孤独死は、高齢者への心のケアやコミュニティによるサポートが急務であることを示しています。"
-        },
-        {
-          "en": "Local municipalities are working to strengthen watch-over services to prevent further tragedies.",
-          "ja": "自治体はさらなる悲劇を防ぐため、見守り活動の強化に取り組んでいます。"
+          "en": "Observers are closely watching how these indirect negotiations will impact future relations between the two countries.",
+          "ja": "両国間の今後の関係に、これらの間接的な交渉がどのような影響を与えるのか、専門家らは注視しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165141000.html",
-      "title": "国会 与野党対立 衆院議長と各党が協議し打開策模索か",
-      "title_ja": "衆院定数削減法案をめぐり与野党が対立、打開に向け協議へ",
-      "date": "Wed, 01 Jul 2026 05:21:05 +0900",
-      "summary": "Tensions are rising in the Japanese Diet as the ruling coalition pushes forward with a bill to reduce House seats without opposition consent, leading to scheduled talks to resolve the impasse.",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166511000.html",
+      "title": "長野 東御の住宅で親子3人死傷 逮捕の父親は自殺図ったか",
+      "title_ja": "長野県東御市の親子殺傷事件",
+      "date": "Thu, 02 Jul 2026 07:12:08 +0900",
+      "summary": "A father in Nagano Prefecture was arrested for attempted murder after allegedly attacking his family, resulting in the deaths of his wife and daughter, and injuring his son.",
       "sentences": [
         {
-          "en": "Tensions are rising in the Japanese Diet over a bill to reduce the number of seats in the House of Representatives.",
-          "ja": "衆議院の定数削減法案をめぐり、国会で緊張が高まっています。"
+          "en": "On November 1st, a tragic incident occurred at a home in Tomi City, Nagano Prefecture.",
+          "ja": "11月1日、長野県東御市の住宅で悲惨な事件が発生しました。"
         },
         {
-          "en": "The ruling coalition has been pushing forward with deliberations on the bill, despite not having reached an agreement with the opposition parties.",
-          "ja": "与党側は野党側との合意が得られないまま、この法案の審議を進めています。"
+          "en": "A mother and her 12-year-old daughter were found dead inside the residence.",
+          "ja": "その住宅で、母親と12歳の長女が死亡しているのが見つかりました。"
         },
         {
-          "en": "In response, opposition parties are intensifying their protests, criticizing the ruling party's unilateral approach.",
-          "ja": "これに対し野党側は、与党の一方的な進め方を批判し、反発を強めています。"
+          "en": "The eldest son was also attacked with a knife and sustained injuries.",
+          "ja": "長男も刃物で切りつけられてけがを負いました。"
         },
         {
-          "en": "To break the deadlock, House of Representatives Speaker Mori and the secretary-generals of both ruling and opposition parties are scheduled to hold talks on the first.",
-          "ja": "事態を打開するため、1日には森衆議院議長と与野党の幹事長らによる協議が行われる見通しです。"
+          "en": "Following the attack, the father was arrested on suspicion of attempted murder against his son.",
+          "ja": "この事件の後、父親が長男に対する殺人未遂の疑いで逮捕されました。"
         },
         {
-          "en": "Observers are closely watching whether this meeting can lead to a breakthrough in the ongoing political standoff.",
-          "ja": "この会談が事態の打開につながり、現在政治的に膠着している状況を好転させられるか注目が集まっています。"
+          "en": "Investigators suspect that the father fled the scene by car and may have attempted suicide before police caught him.",
+          "ja": "捜査関係者は、父親が事件後に車で現場から逃走し、警察に確保される前に自殺を図った可能性があるとみています。"
         }
       ]
     }
@@ -165,363 +153,455 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015164901000.html",
-        "title": "【動画】Pickup NEWS(7月1日）",
-        "title_ja": "1分でわかる最新ニュース動画",
-        "date": "Wed, 01 Jul 2026 07:02:58 +0900",
-        "summary": "This lesson introduces a service that delivers the latest news in a quick, one-minute video summary, noting some viewing limitations.",
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166511000.html",
+        "title": "長野 東御の住宅で親子3人死傷 逮捕の父親は自殺図ったか",
+        "title_ja": "長野・東御市で家族殺傷事件、父親を逮捕",
+        "date": "Thu, 02 Jul 2026 07:12:08 +0900",
+        "summary": "In Tomi City, Nagano Prefecture, a father was arrested for attempted murder after his wife and daughter were found dead, and his son was injured in their home.",
         "sentences": [
           {
-            "en": "We will bring you a quick roundup of the latest news received so far.",
-            "ja": "これまでに入っている最新のニュースを、まとめてお伝えします。"
+            "en": "On the first of the month, a tragic incident occurred at a residence in Tomi City, Nagano Prefecture.",
+            "ja": "1日、長野県東御市の住宅で悲劇的な事件が発生しました。"
           },
           {
-            "en": "The key updates have been compiled into a convenient one-minute video.",
-            "ja": "重要なニュースが、便利な1分間の動画にまとめられています。"
+            "en": "A mother and her 12-year-old daughter were found dead inside the home, while the eldest son suffered knife wounds.",
+            "ja": "住宅内では母親と12歳の長女が死亡しているのが見つかり、長男は刃物で切りつけられてけがをしました。"
           },
           {
-            "en": "This is a great way to catch up on current events quickly during a busy day.",
-            "ja": "忙しい一日の中で、最近の出来事を素早く把握するのに最適な方法です。"
+            "en": "Police have arrested the father on suspicion of attempted murder for attacking his eldest son.",
+            "ja": "警察は、長男を襲撃したとして、父親を殺人未遂の疑いで逮捕しました。"
           },
           {
-            "en": "Please note that this video content cannot be viewed through data broadcasting services.",
-            "ja": "なお、データ放送をご利用の場合は動画をご覧いただけません。"
+            "en": "According to investigators, the father fled the scene by car immediately after the incident.",
+            "ja": "捜査関係者によると、父親は事件の直後に現場から車で逃走したとのことです。"
           },
           {
-            "en": "We hope this short summary helps you stay informed about today's main topics.",
-            "ja": "この短いまとめが、今日の主なトピックを把握するのにお役立ちできれば幸いです。"
+            "en": "He was later apprehended and is believed to have attempted suicide during his flight.",
+            "ja": "父親はその後確保されましたが、逃走中に自殺を図った可能性があるとみられています。"
+          },
+          {
+            "en": "Authorities are currently investigating the details of the crime and the motive behind this family tragedy.",
+            "ja": "警察は現在、犯行の詳しい経緯や、この家族の悲劇の裏にある動機について調べています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165131000.html",
-        "title": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
-        "title_ja": "能登半島地震から半年、仮設住宅での生活と課題",
-        "date": "Wed, 01 Jul 2026 06:29:26 +0900",
-        "summary": "Six months after the Noto Peninsula earthquake, over 15,000 people in Ishikawa Prefecture still live in temporary housing, raising concerns over isolated deaths.",
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166291000.html",
+        "title": "【動画】Pickup NEWS(7月2日）",
+        "title_ja": "1分間でわかる最新ニュースの利便性",
+        "date": "Thu, 02 Jul 2026 06:59:14 +0900",
+        "summary": "This lesson introduces the concept of a quick, one-minute news roundup designed for busy people, explaining its content and platform limitations.",
         "sentences": [
           {
-            "en": "July 1st marks six months since the devastating Noto Peninsula earthquake struck central Japan.",
-            "ja": "7月1日で、大きな被害をもたらした能登半島地震の発生から半年となりました。"
+            "en": "Welcome to our daily news update, where we bring you the latest headlines in a quick, one-minute format.",
+            "ja": "毎日のニュースアップデートへようこそ。最新のヘッドラインを1分間の短いフォーマットでまとめてお伝えします。"
           },
           {
-            "en": "Ishikawa Prefecture, which suffered the most severe housing damage, still has over 15,000 residents living in temporary shelters.",
-            "ja": "最も深刻な住宅被害を受けた石川県では、今も1万5000人余りが仮設住宅などで避難生活を送っています。"
+            "en": "This condensed summary is designed for busy people who want to stay informed on the go.",
+            "ja": "この凝縮された要約は、移動中にも最新情報を得たい忙しい人々のために設計されています。"
           },
           {
-            "en": "As the evacuation period drags on, supporting the mental and physical health of the victims has become a major challenge.",
-            "ja": "避難生活が長期化する中で、被災者の心身の健康維持をサポートすることが大きな課題となっています。"
+            "en": "Today's top stories include important updates on the global economy, local community events, and the latest technology trends.",
+            "ja": "本日の主なニュースには、世界経済に関する重要な最新情報、地域のイベント、そして最新のテクノロジートレンドが含まれます。"
           },
           {
-            "en": "Tragically, there have been cases of residents being found dead alone in these temporary housing units.",
-            "ja": "非常に痛ましいことに、これらの仮設住宅で、誰にも看取られずに一人で亡くなっているのが見つかった被災者もいます。"
+            "en": "While we usually provide these updates through short videos, please note that some digital broadcasting platforms may only support text format.",
+            "ja": "通常、これらの最新情報は短い動画でお届けしていますが、一部のデータ放送では動画をご覧いただけない場合がありますのでご注意ください。"
           },
           {
-            "en": "Local governments are working to strengthen community watch programs to prevent such isolated deaths.",
-            "ja": "自治体は、このような孤立死を防ぐために、地域での見守り活動の強化に取り組んでいます。"
+            "en": "We hope this quick daily digest helps you kickstart your day with the essential facts you need.",
+            "ja": "この簡単なデイリーダイジェストが、必要な重要事実を把握し、一日を元気にスタートさせる手助けになれば幸いです。"
           },
           {
-            "en": "Rebuilding lives and restoring communities remains a long and difficult journey for the survivors.",
-            "ja": "被災者にとって、生活の再建と地域の再生は、依然として長く険しい道のりです。"
+            "en": "Thank you for tuning in, and stay tuned for our next scheduled broadcast.",
+            "ja": "ご視聴ありがとうございました。次回の定期放送もぜひご覧ください。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165131000.html",
-        "title": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
-        "title_ja": "能登半島地震から半年、仮設住宅における課題と孤立死の懸念",
-        "date": "Wed, 01 Jul 2026 06:29:26 +0900",
-        "summary": "July 1st marks six months since the Noto Peninsula earthquake, with over 15,000 people in Ishikawa still in temporary housing, raising concerns over isolated deaths.",
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166561000.html",
+        "title": "世界で最も細い直径約4ミリの胃カメラ開発 大阪大発ベンチャー",
+        "title_ja": "世界最細、直径4ミリの胃カメラを阪大発ベンチャーが開発",
+        "date": "Thu, 02 Jul 2026 05:06:05 +0900",
+        "summary": "An Osaka University venture company has developed the world's thinnest endoscope for stomach cancer screenings. Measuring just four millimeters in diameter, the simplified device aims to significantly reduce discomfort for patients.",
         "sentences": [
           {
-            "en": "July 1st marks six months since the devastating Noto Peninsula earthquake struck central Japan.",
-            "ja": "7月1日で、日本中部を襲った能登半島地震の発生から半年が経ちました。"
+            "en": "A venture company originating from Osaka University has announced the development of a groundbreaking medical device.",
+            "ja": "大阪大学発のベンチャー企業が、画期的な医療機器の開発を発表しました。"
           },
           {
-            "en": "In Ishikawa Prefecture, which suffered the most severe housing damage, more than 15,000 people are still living in temporary shelters.",
-            "ja": "最も住宅被害が多かった石川県では、今も1万5000人余りが仮設住宅などで生活しています。"
+            "en": "They have created the world's thinnest endoscope for stomach cancer screenings, measuring only about four millimeters in diameter.",
+            "ja": "胃がん検診に用いられる胃カメラとして、世界で最も細い、直径わずか約4ミリのモデルを開発したとのことです。"
           },
           {
-            "en": "As the evacuation period becomes prolonged, the physical and mental health of the displaced victims is becoming a serious concern.",
-            "ja": "避難生活が長期化するにつれ、被災者の心身の健康が深刻な懸念事項となっています。"
+            "en": "The company achieved this ultra-thin design by simplifying the camera's internal structure.",
+            "ja": "同社は、カメラの内部構造をシンプルにすることで、この極細のデザインを実現しました。"
           },
           {
-            "en": "Tragically, there have been cases where disaster victims were found to have passed away alone in their temporary homes.",
-            "ja": "悲しいことに、仮設住宅の中で誰にも看取られずに亡くなっているのが見つかった被災者の事例も発生しています。"
+            "en": "Because it is so thin, the new endoscope is expected to significantly reduce discomfort and pain for patients during examinations.",
+            "ja": "非常に細いため、検査中に患者が感じる不快感や痛みを大幅に軽減することが期待されています。"
           },
           {
-            "en": "Local municipalities are working to strengthen watch-over services to prevent such isolated deaths, especially among elderly residents.",
-            "ja": "自治体は、特に高齢の住民の間でこうした孤独死を防ぐため、見守り活動の強化に取り組んでいます。"
-          },
-          {
-            "en": "Providing continuous mental health support and rebuilding communities remain critical challenges for the recovery process.",
-            "ja": "継続的な心のケアを提供することや、コミュニティを再建することが、復興に向けた極めて重要な課題となっています。"
+            "en": "The startup plans to apply for government regulatory approval in two years to bring this device to clinical settings.",
+            "ja": "このベンチャー企業は、この機器を臨床現場に導入するため、再来年にも国に承認申請を行う計画です。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165091000.html",
-        "title": "USJ 発売後も入場券の価格が変動する制度導入へ 9月入場分から",
-        "title_ja": "USJ、需要に応じて発売後も価格が変動する新制度を導入へ",
-        "date": "Tue, 30 Jun 2026 20:29:03 +0900",
-        "summary": "Universal Studios Japan will introduce a dynamic pricing system starting in September, where ticket prices can change even after they go on sale, depending on demand.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166261000.html",
+        "title": "厚労省 サプリメント扱う事業者 健康被害報告義務新方針案示す",
+        "title_ja": "サプリメントの規制強化へ：厚労省、健康被害の報告義務化を検討",
+        "date": "Wed, 01 Jul 2026 23:18:47 +0900",
+        "summary": "To ensure the safety of dietary supplements, the Japanese health ministry plans to mandate that all supplement businesses report any health hazards to local governments.",
         "sentences": [
           {
-            "en": "Universal Studios Japan in Osaka has announced a new ticket pricing system starting this September.",
-            "ja": "大阪のテーマパーク「ユニバーサル・スタジオ・ジャパン」は、今年9月の入場分から新しいチケット価格制度を導入すると発表しました。"
+            "en": "The Japanese Ministry of Health, Labour and Welfare is planning to tighten regulations on dietary supplements to ensure their safety.",
+            "ja": "厚生労働省は、サプリメントの安全性を確保するため、規制を強化することを計画しています。"
           },
           {
-            "en": "Under this system, ticket prices will fluctuate based on demand, even after they go on sale.",
-            "ja": "この制度では、チケットの発売後であっても、需要に応じて価格が変動します。"
+            "en": "In Japan, supplements are currently categorized as food products rather than pharmaceuticals.",
+            "ja": "日本において、サプリメントは現在、医薬品ではなく食品に分類されています。"
           },
           {
-            "en": "This change will apply to tickets going on sale starting July 1st.",
-            "ja": "この変更は、7月1日から販売されるチケットに適用されます。"
+            "en": "During an expert panel meeting held on the first of the month, the ministry proposed a new set of rules.",
+            "ja": "今月1日に開かれた専門家部会において、同省は新たな規則案を提示しました。"
           },
           {
-            "en": "Currently, ticket prices are set beforehand based on expected busy periods, but the new system allows prices to adjust in real-time.",
-            "ja": "現在は混雑予想に基づいて事前に価格が設定されていますが、新制度ではリアルタイムでの価格調整が可能になります。"
+            "en": "Under the proposed plan, all businesses that handle supplements will be required to report any health hazards to local governments.",
+            "ja": "この計画案のもとでは、サプリメントを取り扱うすべての事業者に対し、発生した健康被害を自治体へ報告することが義務づけられます。"
           },
           {
-            "en": "The park aims to balance crowd numbers and provide a more comfortable environment for visitors.",
-            "ja": "同パークは、混雑状況を平均化し、来場者により快適な環境を提供することを目指しています。"
-          },
-          {
-            "en": "Visitors planning a trip to the park are encouraged to check prices and book early to secure the best deals.",
-            "ja": "同パークへの旅行を計画している方は、最安値で購入するために、事前に価格を確認して早めに予約することをお勧めします。"
+            "en": "This move aims to prevent widespread health issues by establishing a quick and reliable reporting system.",
+            "ja": "この動きは、迅速で信頼性の高い報告体制を確立することにより、健康被害の拡大を防ぐことを目的としています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165111000.html",
-        "title": "「キャプテン翼」高橋陽一さん“4年後は翼くんの夢W杯優勝を”",
-        "title_ja": "「キャプテン翼」作者が語る、W杯ブラジル戦での日本代表の健闘",
-        "date": "Tue, 30 Jun 2026 21:16:09 +0900",
-        "summary": "After Japan's narrow defeat to Brazil in the World Cup, \"Captain Tsubasa\" creator Yoichi Takahashi praised the national team, stating the match proved Japan can now compete on equal terms with the world's best.",
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166561000.html",
+        "title": "世界で最も細い直径約4ミリの胃カメラ開発 大阪大発ベンチャー",
+        "title_ja": "世界最細の胃カメラ開発",
+        "date": "Thu, 02 Jul 2026 05:06:05 +0900",
+        "summary": "A venture company from Osaka University has developed the world's thinnest stomach camera, measuring just 4 millimeters in diameter, to make cancer screenings less painful.",
         "sentences": [
           {
-            "en": "In the recent FIFA World Cup, the Japanese national soccer team suffered a narrow defeat against Brazil.",
-            "ja": "先日行われたサッカーワールドカップで、日本代表はブラジルを相手に惜しくも敗れました。"
+            "en": "A venture company originating from Osaka University has developed the world's thinnest endoscope for stomach cancer screenings.",
+            "ja": "大阪大学発のベンチャー企業が、胃がん検診に用いる世界で最も細い内視鏡を開発しました。"
           },
           {
-            "en": "Yoichi Takahashi, the creator of the world-famous soccer manga \"Captain Tsubasa,\" shared his thoughts on this dramatic match.",
-            "ja": "世界的に人気の高いサッカー漫画「キャプテン翼」の作者である高橋陽一さんが、この劇的な試合について自身の思いを語りました。"
+            "en": "By simplifying the camera's internal structure, the team successfully reduced its diameter to only about four millimeters.",
+            "ja": "カメラの内部構造をシンプルにすることで、直径をわずか約4ミリに抑えることに成功しました。"
           },
           {
-            "en": "He praised the team's performance, stating that the match proved Japan can compete on equal terms even with the powerhouse of world soccer.",
-            "ja": "高橋さんはチームの健闘を称え、今回の試合は日本がサッカー王国ブラジルとも互角に戦えることを示すものだったと述べました。"
+            "en": "Conventional endoscopes can cause significant discomfort and throat pain for patients during the examination.",
+            "ja": "従来の内視鏡は、検査中に患者に強い不快感や喉の痛みを与えることがあります。"
           },
           {
-            "en": "Historically, Brazil has been a formidable opponent, making Japan's close battle even more significant.",
-            "ja": "歴史的にブラジルは非常に手強い相手であり、それだけに今回の日本の大接戦はより大きな意味を持っています。"
+            "en": "This ultra-thin model is expected to make stomach examinations much easier and less painful.",
+            "ja": "この極細モデルにより、胃の検査が大幅に楽になり、苦痛が軽減されると期待されています。"
           },
           {
-            "en": "Despite the loss, Takahashi believes this performance will inspire many young players and mark a new chapter for Japanese soccer.",
-            "ja": "敗れはしたものの、高橋さんはこの試合が多くの若い選手たちに希望を与え、日本サッカーの新たな一歩になると確信しています。"
+            "en": "The company plans to apply for government approval in Japan as early as the year after next.",
+            "ja": "同社は、早ければ再来年にも国に承認申請を行う計画です。"
+          },
+          {
+            "en": "If approved, this new technology could encourage more people to undergo regular screenings and help detect cancer early.",
+            "ja": "承認されれば、この新技術によってより多くの人が定期検診を受けるようになり、がんの早期発見につながる可能性があります。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165211000.html",
-        "title": "落語協会 新会長に林家正蔵さん就任 “若手の育成などに対処”",
-        "title_ja": "林家正蔵さんが落語協会の新会長に就任",
-        "date": "Tue, 30 Jun 2026 20:58:48 +0900",
-        "summary": "Popular rakugo performer Hayashiya Shozo has become the new president of the Rakugo Association, expressing his commitment to nurturing young talent.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166231000.html",
+        "title": "将棋「棋聖戦」 藤井聡太六冠 3連勝でタイトル防衛 7連覇",
+        "title_ja": "藤井六冠が棋聖戦でタイトル防衛、7連覇を達成",
+        "date": "Wed, 01 Jul 2026 21:45:52 +0900",
+        "summary": "Fujii Sota successfully defended his Kisei Shogi title on July 1st, defeating challenger Hattori Shinichiro and securing his seventh consecutive championship win.",
         "sentences": [
           {
-            "en": "Popular rakugo storyteller Hayashiya Shozo has been appointed as the new president of the Rakugo Association.",
-            "ja": "人気落語家の林家正蔵さんが、落語協会の新しい会長に就任しました。"
+            "en": "On July 1st, the third game of the Kisei Shogi Championship match was held in Numazu City, Shizuoka Prefecture.",
+            "ja": "7月1日、将棋のタイトル戦「棋聖戦」五番勝負の第3局が、静岡県沼津市で行われました。"
           },
           {
-            "en": "The association is a major organization made up of professional rakugo performers based in Tokyo.",
-            "ja": "同協会は、東京を拠点とするプロの落語家らで構成される主要な団体です。"
+            "en": "Fujii Sota, who holds six major titles, faced the challenger, Hattori Shinichiro, a seventh-dan player.",
+            "ja": "六冠を保持する藤井聡太棋聖が、挑戦者である服部慎一郎七段と対戦しました。"
           },
           {
-            "en": "Upon taking office, Shozo expressed his determination to tackle various challenges facing the industry.",
-            "ja": "就任にあたり正蔵さんは、業界が直面するさまざまな課題に取り組む決意を表明しました。"
+            "en": "After an intense battle, Fujii won the match, successfully defending his Kisei title.",
+            "ja": "激しい戦いの末、藤井六冠が勝利を収め、棋聖のタイトル防衛に成功しました。"
           },
           {
-            "en": "He specifically emphasized the importance of nurturing young talent for the future of this traditional art.",
-            "ja": "彼は特に、この伝統芸能の未来に向けて若手を育成することの重要性を強調しました。"
+            "en": "With this victory, he achieved his seventh consecutive Kisei title win.",
+            "ja": "この勝利により、彼は棋聖戦において見事7連覇を達成しました。"
           },
           {
-            "en": "\"I want to address each issue one by one,\" he said, showing his vision for the group's future.",
-            "ja": "「問題に一つ一つ対処していきたい」と彼は語り、組織の将来へのビジョンを示しました。"
+            "en": "The Kisei tournament is one of the eight major titles in the professional shogi world.",
+            "ja": "棋聖戦は、プロ将棋界における8大タイトルの1つです。"
           },
           {
-            "en": "Many hope his leadership will help keep the art of rakugo thriving and relevant in the modern era.",
-            "ja": "多くの人々が、現代において落語の芸を繁栄させ、人々に届け続けるために彼のリーダーシップが役立つことを期待しています。"
+            "en": "Shogi fans across the country closely followed the match to see if the young star would continue his historic run.",
+            "ja": "この若きスターが歴史的な快進撃を続けられるか注目し、全国の将棋ファンがこの対局を熱心に見守りました。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165161000.html",
-        "title": "日印首脳会談 バイオガス燃料の自動車普及へ 協力で合意見通し",
-        "title_ja": "日印首脳、バイオガス普及に向けた新たな協力枠組みに合意へ",
-        "date": "Wed, 01 Jul 2026 05:43:43 +0900",
-        "summary": "Japanese Prime Minister Takaichi and Indian Prime Minister Modi are expected to agree on a new framework to build 1,000 biogas plants in India, promoting eco-friendly vehicles.",
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166391000.html",
+        "title": "茂木外相 ウクライナ外相に支援と対ロシア制裁の推進を伝達",
+        "title_ja": "茂木外相、ウクライナ外相と会談し支援継続を表明",
+        "date": "Thu, 02 Jul 2026 06:25:57 +0900",
+        "summary": "Japanese Foreign Minister Motegi met with Ukrainian Foreign Minister Sybiha, reaffirming Japan's unwavering support for Ukraine and its commitment to achieving peace through continued aid and sanctions on Russia.",
         "sentences": [
           {
-            "en": "Japanese Prime Minister Takaichi is expected to meet with Indian Prime Minister Narendra Modi on the second of this month.",
-            "ja": "高市総理大臣は、今月2日にインドのモディ首相と会談する予定です。"
+            "en": "Japanese Foreign Minister Motegi held a meeting with Ukrainian Foreign Minister Sybiha during his visit to Japan.",
+            "ja": "茂木外務大臣は、日本を訪れているウクライナのシビハ外相と会談を行いました。"
           },
           {
-            "en": "During the meeting, the two leaders are anticipated to agree on a new cooperation framework to promote biogas-fueled vehicles.",
-            "ja": "会談の中で両首脳は、バイオガスを燃料とする自動車の普及に向けた新たな協力の枠組みに合意する見通しです。"
+            "en": "During the meeting, Motegi stated that there is no change in Japan's fundamental policy of standing with Ukraine.",
+            "ja": "会談の中で茂木氏は、「ウクライナと共にある」という日本の基本方針に揺らぎはないと述べました。"
           },
           {
-            "en": "As part of this initiative, Japan will support the construction of 1,000 biogas plants across India.",
-            "ja": "この取り組みの一環として、日本はインド国内の1,000か所にバイオガスプラントを整備することを支援します。"
+            "en": "He emphasized that Japan will continue to support Ukraine and maintain sanctions against Russia to help achieve a just and lasting peace.",
+            "ja": "また、公正かつ永続的な平和の実現に向けて、ウクライナへの支援とロシアへの制裁を推進していく考えを強調しました。"
           },
           {
-            "en": "This project aims to convert organic waste into clean energy, which will help reduce carbon emissions in India.",
-            "ja": "このプロジェクトは、有機廃棄物をクリーンエネルギーに変換し、インドにおける炭素排出量の削減に貢献することを目指しています。"
+            "en": "This meeting highlights Japan's ongoing commitment to international peace and its solidarity with the Ukrainian people.",
+            "ja": "この会談は、国際平和に対する日本の継続的な取り組みと、ウクライナ国民との連帯を浮き彫りにしています。"
           },
           {
-            "en": "The partnership reflects a shared commitment to sustainable development and green technology between the two nations.",
-            "ja": "この提携は、持続可能な開発と環境技術に対する両国の共通の取り組みを反映しています。"
+            "en": "Foreign Minister Sybiha expressed his deep gratitude for Japan's consistent and diverse support during this challenging time.",
+            "ja": "シビハ外相は、この困難な時期における日本の揺るぎない多様な支援に対して、深い謝意を表しました。"
+          },
+          {
+            "en": "The two leaders agreed to deepen cooperation in various fields, reinforcing the strong partnership between their nations.",
+            "ja": "両氏は様々な分野での協力を深めることで一致し、両国間の強いパートナーシップを再確認しました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165141000.html",
-        "title": "国会 与野党対立 衆院議長と各党が協議し打開策模索か",
-        "title_ja": "衆院定数削減法案をめぐる国会の対立",
-        "date": "Wed, 01 Jul 2026 05:21:05 +0900",
-        "summary": "Tension rises in the Japanese Diet as the ruling coalition pushes a seat-reduction bill without opposition consent, leading to scheduled talks to resolve the deadlock.",
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166401000.html",
+        "title": "きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整",
+        "title_ja": "高市首相、インドのモディ首相と首脳会談へ",
+        "date": "Thu, 02 Jul 2026 05:33:10 +0900",
+        "summary": "Japanese Prime Minister Takaichi is scheduled to meet with Indian Prime Minister Modi to discuss deepening bilateral ties, with a focus on economic security and artificial intelligence.",
         "sentences": [
           {
-            "en": "Tension is rising in Japan's parliament, the Diet, over a bill to reduce the number of seats in the House of Representatives.",
-            "ja": "衆議院の議員定数を削減する法案をめぐり、国会で緊張が高まっています。"
+            "en": "Prime Minister Takaichi, who is currently visiting India, is scheduled to hold a summit meeting with Prime Minister Modi on the second.",
+            "ja": "インドを訪問中の高市総理大臣は、2日にモディ首相との首脳会談に臨むことにしています。"
           },
           {
-            "en": "The ruling coalition has been pushing forward with deliberations on the bill without reaching an agreement with the opposition parties.",
-            "ja": "与党側は野党側との合意が得られないまま、この法案の審議を進めています。"
+            "en": "Through this meeting, she hopes to make concrete progress in cooperation with India, focusing especially on the area of economic security.",
+            "ja": "今回の会談を通じて、経済安全保障分野などを中心に、インドとの具体的な協力の進展を図りたい考えです。"
           },
           {
-            "en": "In response, opposition parties are intensifying their protests against this unilateral move.",
-            "ja": "これに対し、野党側はこの一方的な動きに対する反発を強めています。"
+            "en": "In addition to releasing a joint statement, the two leaders are expected to agree on cooperation in the fields of economic security and artificial intelligence.",
+            "ja": "共同声明の発表に加え、両首脳は経済安全保障や人工知能（AI）の分野での協力に合意する見通しです。"
           },
           {
-            "en": "To resolve the political gridlock, a key meeting is scheduled for the first of the month.",
-            "ja": "この政治的な膠着状態を打開するため、1日に重要な協議が予定されています。"
+            "en": "Japan views India as a vital partner in maintaining a free and open Indo-Pacific region.",
+            "ja": "日本はインドを、「自由で開かれたインド太平洋」を維持するための極めて重要なパートナーと位置づけています。"
           },
           {
-            "en": "House of Representatives Speaker Mori and the secretary-generals of both ruling and opposition parties are expected to hold talks.",
-            "ja": "森衆議院議長と与野党の幹事長らが会談を行う見通しです。"
-          },
-          {
-            "en": "It remains to be seen whether this discussion will lead to a breakthrough and restore order in the Diet.",
-            "ja": "この協議が事態の打開につながり、国会の正常化をもたらすかどうかが注目されます。"
+            "en": "This summit is seen as an important step to deepen the strategic partnership and secure supply chains between the two nations.",
+            "ja": "今回の首脳会談は、両国間の戦略的パートナーシップを深め、サプライチェーンを確保するための重要な一歩と見なされています。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165101000.html",
-        "title": "“出国税” きょうから引き上げ 1人当たり1000円が3000円に",
-        "title_ja": "出国税が7月1日から3,000円に引き上げへ",
-        "date": "Wed, 01 Jul 2026 06:53:31 +0900",
-        "summary": "Japan is set to increase its International Tourist Tax, or departure tax, from 1,000 yen to 3,000 yen starting July 1st to fund measures against overtourism.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166321000.html",
+        "title": "ユーロ圏 6月 消費者物価指数 去年同月比2.8％上昇 前月下回る",
+        "title_ja": "ユーロ圏のインフレ率、依然として目標の2%を上回る",
+        "date": "Wed, 01 Jul 2026 21:56:03 +0900",
+        "summary": "The Eurozone's inflation rate rose by 2.8% last month, staying above the European Central Bank's 2% target amid geopolitical tensions in the Middle East.",
         "sentences": [
           {
-            "en": "Japan's \"International Tourist Tax,\" commonly known as the departure tax, will be increased starting July 1st.",
-            "ja": "日本を出国する際に課される「国際観光旅客税」、いわゆる出国税が7月1日から引き上げられます。"
+            "en": "The Eurozone's consumer price index rose by 2.8% last month compared to the same period last year.",
+            "ja": "ユーロ圏の先月の消費者物価指数は、前年同月比で2.8％の上昇となりました。"
           },
           {
-            "en": "The tax rate, which has been 1,000 yen per person, will rise to 3,000 yen.",
-            "ja": "これまでは1人当たり1,000円でしたが、これが3,000円に引き上げられます。"
+            "en": "Although this figure is lower than the previous month's rate, inflation remains a key concern.",
+            "ja": "この数値は前月の水準を下回っているものの、インフレは依然として主要な懸念事項となっています。"
           },
           {
-            "en": "This tax is applied to both foreign visitors and Japanese residents leaving the country.",
-            "ja": "この税金は、日本を出国する外国人観光客と日本人住民の両方に課されます。"
+            "en": "It continues to stay above the 2% inflation target set by the European Central Bank.",
+            "ja": "欧州中央銀行（ECB）が掲げる2％の物価目標を上回る水準が続いています。"
           },
           {
-            "en": "The government plans to use the increased revenue to tackle the issue of overtourism in various regions.",
-            "ja": "政府は、増収分を各地で課題となっているオーバーツーリズム対策に充てる計画です。"
+            "en": "Recent geopolitical tensions, particularly involving the situation in Iran, have added to economic uncertainty.",
+            "ja": "イラン情勢をめぐる最近の地政学的緊張が、経済の先行き不透明感を強めています。"
           },
           {
-            "en": "Key initiatives will include improving public transport networks and strengthening environmental protection in popular destinations.",
-            "ja": "主な取り組みには、公共交通網の整備や、人気の観光地における環境保護の強化などが含まれます。"
+            "en": "Because of these factors, market players are closely watching how the central bank will adjust its monetary policy.",
+            "ja": "こうした要因から、市場関係者は中央銀行がどのように金融政策を調整していくかを注視しています。"
           },
           {
-            "en": "Since the tax is usually added directly to airline tickets, travelers should be aware of the price adjustment when booking.",
-            "ja": "税金は通常、航空券の価格に直接上乗せされるため、旅行者は予約時の価格変更に注意する必要があります。"
+            "en": "Managing inflation while supporting economic growth remains a delicate balancing act for European policymakers.",
+            "ja": "経済成長を支えながらインフレを抑制することは、ヨーロッパの政策立案者にとって依然として難しい舵取りとなっています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165311000.html",
-        "title": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
-        "title_ja": "円安が進み一時162円台後半に、約39年半ぶりの低水準",
-        "date": "Wed, 01 Jul 2026 06:15:59 +0900",
-        "summary": "The Japanese yen temporarily fell to the upper 162 yen range per dollar in New York, marking its lowest level in about 39 and a half years due to expectations surrounding the US Federal Reserve's monetary policy.",
+        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165501000.html",
+        "title": "モバイルSuica トラブルから夕方に復旧 サーバー不具合が原因",
+        "title_ja": "モバイルSuicaのチャージ不具合と復旧",
+        "date": "Wed, 01 Jul 2026 20:37:52 +0900",
+        "summary": "On the morning of the 1st, a system glitch prevented Mobile Suica users from charging their balances through the app, but JR East announced that the system was restored by that evening.",
         "sentences": [
           {
-            "en": "On the 30th, the selling of yen and buying of dollars intensified in the New York foreign exchange market, causing the Japanese currency to depreciate further.",
-            "ja": "30日のニューヨーク外国為替市場で、円を売ってドルを買う動きが強まり、円相場はさらに値下がりしました。"
+            "en": "On the morning of the 1st, users of Mobile Suica experienced a system glitch that prevented them from recharging their balances through the app.",
+            "ja": "1日の朝、モバイルSuicaの利用者がアプリで残高をチャージできなくなるシステム障害が発生しました。"
           },
           {
-            "en": "During trading, the yen temporarily fell to the upper 162 yen level against the US dollar.",
-            "ja": "取引時間中、円相場は一時、1ドル＝162円台後半まで値下がりしました。"
+            "en": "Mobile Suica is a widely used digital payment service in Japan for public transit and daily shopping.",
+            "ja": "モバイルSuicaは、日本の公共交通機関や日常の買い物で広く利用されている電子決済サービスです。"
           },
           {
-            "en": "This marks the weakest level for the Japanese currency in approximately 39 and a half years.",
-            "ja": "これは、日本円としておよそ39年半ぶりの円安ドル高水準となります。"
+            "en": "Many commuters and shoppers were affected by this sudden disruption during their morning travels.",
+            "ja": "朝の移動時間帯に発生したこの突然のトラブルにより、多くの通勤通学客や買い物客が影響を受けました。"
           },
           {
-            "en": "Market analysts attribute this sharp decline to the widening interest rate gap between Japan and the United States.",
-            "ja": "市場関係者は、この急激な下落の背景に、日本と米国の金利差が拡大していることがあると見ています。"
+            "en": "Later that evening, JR East announced that the system had been fully restored.",
+            "ja": "その後、同日夕方にJR東日本はシステムが完全に復旧したと発表しました。"
           },
           {
-            "en": "Investors are closely watching the US Federal Reserve, as expectations of prolonged high interest rates in the US continue to support the dollar.",
-            "ja": "米国での高金利の長期化観測がドル買いを後押ししており、投資家は米連邦準備制度理事会（FRB）の動向を注視しています。"
+            "en": "According to the company, the issue was caused by a problem in a server that connects to external systems.",
+            "ja": "同社によると、トラブルの原因は外部のシステムとつながるサーバーの不具合だったということです。"
           },
           {
-            "en": "This ongoing trend has raised concerns about its impact on Japan's economy through increased costs for imported goods.",
-            "ja": "こうした傾向が続くことで、輸入物価の上昇を通じて日本の景気に与える悪影響への懸念が高まっています。"
+            "en": "JR East apologized for the inconvenience caused to its users and promised to work on preventing similar issues in the future.",
+            "ja": "JR東日本は利用者に不便をかけたことを謝罪し、今後の再発防止に努めるとしています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165101000.html",
-        "title": "“出国税” きょうから引き上げ 1人当たり1000円が3000円に",
-        "title_ja": "日本の出国税が3,000円に引き上げへ、オーバーツーリズム対策に充当",
-        "date": "Wed, 01 Jul 2026 06:53:31 +0900",
-        "summary": "Starting July 1st, Japan will raise its departure tax from 1,000 yen to 3,000 yen. The additional revenue will be used to address overtourism issues and improve tourism infrastructure across the country.",
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166271000.html",
+        "title": "インドネシア 特殊詐欺対策 SIMカード開通に「顔認証」導入",
+        "title_ja": "インドネシア、SIMカード登録に顔認証を義務化",
+        "date": "Thu, 02 Jul 2026 06:34:34 +0900",
+        "summary": "To combat phone scams involving illegally obtained SIM cards, the Indonesian government has started requiring facial recognition for identity verification when activating mobile lines.",
         "sentences": [
           {
-            "en": "Starting July 1st, Japan will raise its \"International Tourist Tax,\" commonly known as the departure tax, which is levied on people leaving the country.",
-            "ja": "7月1日から、日本を出国する際に課される「国際観光旅客税」、いわゆる出国税が引き上げられます。"
+            "en": "The Indonesian government has introduced a new regulation to crack down on phone scams.",
+            "ja": "インドネシア政府は、電話詐欺を取り締まるための新たな規制を導入しました。"
           },
           {
-            "en": "The tax, which was previously 1,000 yen per person, will be increased to 3,000 yen.",
-            "ja": "これまでは1人当たり1,000円でしたが、3,000円に増額されます。"
+            "en": "Under this new rule, users must undergo facial recognition to verify their identity when activating a mobile SIM card.",
+            "ja": "この新たな規則の下では、携帯電話のSIMカードを開通する際、利用者は本人確認のために顔認証を行う必要があります。"
           },
           {
-            "en": "This tax is automatically added to the price of airline and cruise tickets when departing from Japan.",
-            "ja": "この税金は、日本を出国する際の航空券や船のチケット代金に自動的に上乗せされます。"
+            "en": "This decision comes in response to a surge in specialized fraud cases across the country.",
+            "ja": "この決定は、国内で相次ぐ特殊詐欺事件の急増に対応したものです。"
           },
           {
-            "en": "The revenue generated from this increase will be used to fund measures against overtourism, which has become a major challenge across the country.",
-            "ja": "この増税によって得られた財源は、全国各地で大きな課題となっているオーバーツーリズム（観光公害）対策などに充てられます。"
+            "en": "Many of these crimes are committed using illegally obtained SIM cards.",
+            "ja": "こうした犯罪の多くは、不正に入手されたSIMカードを使って行われています。"
           },
           {
-            "en": "These funds are expected to help improve tourist facilities, support local communities, and manage crowd control in popular sightseeing spots.",
-            "ja": "この資金は、人気の観光地における観光施設の整備や地域社会への支援、混雑緩和の管理に役立てられることが期待されています。"
+            "en": "Authorities hope that implementing facial recognition will prevent criminals from easily obtaining active phone lines.",
+            "ja": "当局は、顔認証を導入することで、犯罪者が開通した電話回線を容易に取得するのを防げることを期待しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166391000.html",
+        "title": "茂木外相 ウクライナ外相に支援と対ロシア制裁の推進を伝達",
+        "title_ja": "日ウクライナ外相会談、日本の支援方針に「揺らぎなし」",
+        "date": "Thu, 02 Jul 2026 06:25:57 +0900",
+        "summary": "Japanese Foreign Minister Motegi met with his Ukrainian counterpart, Andrii Sybiha, in Japan, reaffirming that Japan's stance of supporting Ukraine remains unwavering.",
+        "sentences": [
+          {
+            "en": "Japanese Foreign Minister Toshimitsu Motegi held a meeting with Ukrainian Foreign Minister Andrii Sybiha, who is currently visiting Japan.",
+            "ja": "茂木外務大臣は、日本を訪れているウクライナのシビハ外相と会談を行いました。"
+          },
+          {
+            "en": "During the talks, Motegi emphasized that Japan's policy of \"standing with Ukraine\" remains completely unwavering.",
+            "ja": "会談の中で茂木大臣は、「ウクライナと共にある」という日本の方針に揺らぎはないと強調しました。"
+          },
+          {
+            "en": "He expressed Japan's strong commitment to achieving a just and lasting peace in Ukraine.",
+            "ja": "同氏は、ウクライナにおける公正かつ永続的な平和の実現に向けた、日本の強いコミットメントを表明しました。"
+          },
+          {
+            "en": "To reach this goal, he stated that Japan will continue to actively support Ukraine.",
+            "ja": "この目標を達成するため、日本はウクライナへの支援を積極的に継続していくと述べました。"
+          },
+          {
+            "en": "Furthermore, the Foreign Minister confirmed that Japan will keep promoting strict sanctions against Russia.",
+            "ja": "さらに、外務大臣はロシアに対する厳しい制裁を今後も推進していくことを確認しました。"
           }
         ]
       }
     ],
-    "スポーツ": []
+    "スポーツ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166691000.html",
+        "title": "W杯 イングランドがコンゴ民主共和国に逆転勝ち 2回戦進出へ",
+        "title_ja": "W杯決勝T：イングランドがケインの2ゴールでコンゴ民主共和国に逆転勝ち",
+        "date": "Thu, 02 Jul 2026 06:07:58 +0900",
+        "summary": "England advanced to the next round of the World Cup after a 2-1 comeback victory against the Democratic Republic of the Congo, thanks to two goals from star striker Harry Kane.",
+        "sentences": [
+          {
+            "en": "In the Round of 16 at the World Cup, England faced off against the Democratic Republic of the Congo.",
+            "ja": "ワールドカップの決勝トーナメント1回戦で、イングランドはコンゴ民主共和国と対戦しました。"
+          },
+          {
+            "en": "It was a tense match, but England managed to secure a 2-1 comeback victory.",
+            "ja": "緊張感のある試合となりましたが、イングランドが2対1で逆転勝利を収めました。"
+          },
+          {
+            "en": "The star of the match was England's ace striker, Harry Kane, who scored both of his team's goals.",
+            "ja": "この試合の主役となったのは、チームの全2得点を叩き出したイングランドのエース、ハリー・ケイン選手でした。"
+          },
+          {
+            "en": "Thanks to his brilliant performance, England has successfully advanced to the second round of the knockout stage.",
+            "ja": "彼の見事な活躍により、イングランドは無事に決勝トーナメント2回戦への進出を決めました。"
+          },
+          {
+            "en": "Football fans around the world are eagerly watching to see how far England can go in this tournament.",
+            "ja": "世界中のサッカーファンが、今大会でイングランドがどこまで勝ち進めるのかを熱心に見守っています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166671000.html",
+        "title": "W杯 日本代表が帰国へ 森保監督 去就は「何も聞いていない」",
+        "title_ja": "森保監督の去就に注目、日本代表が米国から帰国",
+        "date": "Thu, 02 Jul 2026 05:28:24 +0900",
+        "summary": "The Japanese national football team has departed from Houston to return home. Amid high interest in his future, head coach Hajime Moriyasu stated that he has not yet received any concrete updates regarding his position.",
+        "sentences": [
+          {
+            "en": "On the 1st, the Japanese national football team departed from Houston in the United States to return home.",
+            "ja": "1日、サッカー日本代表は帰国するため、アメリカのヒューストンを出発しました。"
+          },
+          {
+            "en": "The team had been visiting the U.S. in connection with the North and Central American World Cup.",
+            "ja": "代表チームは、北中米ワールドカップに関連する活動のためにアメリカを訪れていました。"
+          },
+          {
+            "en": "Meanwhile, much attention is currently focused on whether head coach Hajime Moriyasu will remain in his position.",
+            "ja": "そうした中、去就が注目される森保一監督が続投するかどうかに大きな関心が集まっています。"
+          },
+          {
+            "en": "As he was leaving his accommodation, reporters asked him about his future with the team.",
+            "ja": "彼が宿泊施設を出発する際、報道陣から今後のチームとの関わりについて質問が飛びました。"
+          },
+          {
+            "en": "Coach Moriyasu responded by saying, \"I haven't heard anything at all,\" suggesting that no concrete decisions have been made yet.",
+            "ja": "森保監督は「全然、何も聞いていない」と答え、具体的な決定はまだ何もなされていないことを示唆しました。"
+          },
+          {
+            "en": "Football fans are eagerly waiting for an official announcement regarding the future leadership of the national team.",
+            "ja": "サッカーファンたちは、日本代表の今後の指揮官に関する公式発表を心待ちにしています。"
+          }
+        ]
+      }
+    ]
   }
 }
