@@ -1,155 +1,159 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
-      "title": "28人犠牲 熱海土石流から5年 復興遅れ避難生活続ける住民も",
-      "title_ja": "熱海の土石流から5年、遅れる復興と残された課題",
-      "date": "Fri, 03 Jul 2026 06:02:18 +0900",
-      "summary": "Five years after a deadly landslide in Atami, Shizuoka Prefecture, reconstruction projects are delayed by two years, leaving some residents still in evacuation.",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168551000.html",
+      "title": "アメリカ建国250年 トランプ大統領実績強調 政治利用批判も",
+      "title_ja": "政治的対立の中で迎えるアメリカ独立記念日",
+      "date": "Sat, 04 Jul 2026 05:18:01 +0900",
+      "summary": "As the United States celebrates Independence Day with nationwide events, controversy has arisen over President Trump's alleged political use of the celebrations, highlighting deep divisions in the country.",
       "sentences": [
         {
-          "en": "July 3rd marks five years since a devastating landslide in Atami, Shizuoka Prefecture, claimed the lives of 28 people.",
-          "ja": "7月3日で、静岡県熱海市で28人の命を奪った壊滅的な土石流から5年が経ちます。"
+          "en": "On July 4th, the United States celebrates Independence Day, a major national holiday.",
+          "ja": "7月4日、アメリカは主要な国民の祝日である独立記念日を迎えます。"
         },
         {
-          "en": "In the affected areas, reconstruction efforts, including the restoration of rivers and roads, have been significantly delayed.",
-          "ja": "被災地では、河川や道路の復旧を含む復興事業が大幅に遅れています。"
+          "en": "While festive events are being held across the nation to mark the occasion, this year's celebrations have sparked some controversy.",
+          "ja": "全米各地で祝賀行事が行われ、お祝いムードが広がる一方で、今年の祝典は議論も呼んでいます。"
         },
         {
-          "en": "These recovery projects are currently running two years behind the original schedule.",
-          "ja": "これらの復旧事業は、現在、当初の計画よりも2年遅れています。"
+          "en": "Critics have accused President Trump of using these national events for his own political gain.",
+          "ja": "トランプ大統領が一連の国家行事を自身の政治的利益のために利用しているとして、批判の声が相次いでいます。"
         },
         {
-          "en": "Because of these delays, some local residents are still forced to live in temporary evacuation housing.",
-          "ja": "こうした遅れにより、一部の地域住民は今もなお避難生活を余儀なくされています。"
+          "en": "In particular, plans for a military parade and a speech by the president in Washington, D.C., have drawn sharp criticism from opponents.",
+          "ja": "特に、ワシントンD.C.での軍事パレードや大統領による演説の計画は、反対派から強い批判を浴びています。"
         },
         {
-          "en": "Rebuilding the community and helping residents return to normal life remain major challenges for the area.",
-          "ja": "地域の再建と、住民が日常生活に戻れるよう支援することが、この地域における大きな課題となっています。"
+          "en": "Opponents argue that Independence Day should be a unifying event for all Americans, rather than a political rally.",
+          "ja": "反対派は、独立記念日は政治集会ではなく、すべてのアメリカ人が団結するための行事であるべきだと主張しています。"
+        },
+        {
+          "en": "This debate highlights the deep political divisions that continue to grow across the United States.",
+          "ja": "この論争は、アメリカ全土で広がり続ける深い政治的分断を浮き彫りにしています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167701000.html",
-      "title": "中国当局に拘束された香港の書店の元店長 台湾で死去",
-      "title_ja": "香港の反体制派書店元店長、林栄基さんが台湾で死去",
-      "date": "Fri, 03 Jul 2026 05:06:47 +0900",
-      "summary": "Lam Wing-kee, a former Hong Kong bookseller who was once detained by Beijing and later fled to Taiwan, has passed away, drawing tributes including from Taiwan's President.",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168431000.html",
+      "title": "イラン ハメネイ師の葬儀準備進む 各国の要人も次々に到着",
+      "title_ja": "イランでの葬儀を前にテヘランに各国要人が到着",
+      "date": "Sat, 04 Jul 2026 05:33:36 +0900",
+      "summary": "Ahead of the funeral for the assassinated leader in Iran, foreign dignitaries from approximately 100 countries, including Middle Eastern nations and China, are arriving in the capital city of Tehran.",
       "sentences": [
         {
-          "en": "Lam Wing-kee, a former manager of a Hong Kong bookstore known for selling books critical of the Chinese Communist Party, has passed away in Taiwan.",
-          "ja": "香港で中国共産党に批判的な本を販売する書店の元店長を務めた林栄基さんが、移住先の台湾で亡くなりました。"
+          "en": "Foreign dignitaries are arriving one after another in Iran's capital, Tehran, ahead of the funeral for the assassinated former leader.",
+          "ja": "殺害された指導者の葬儀が始まるのを前に、イランの首都テヘランには参列する外国の要人が次々と到着しています。"
         },
         {
-          "en": "He was previously detained by Chinese authorities for a long period due to his bookstore's activities.",
-          "ja": "彼は以前、書店の活動を理由に中国当局によって長期間にわたり拘束されていました。"
+          "en": "According to multiple Iranian media reports, dignitaries from about 100 countries are visiting the country to attend the service.",
+          "ja": "複数のイランメディアは、葬儀に参列するためにおよそ100か国から要人などが訪れていると報じています。"
         },
         {
-          "en": "After his release, he relocated to Taiwan to escape political pressure and continue his work.",
-          "ja": "解放された後、彼は政治的圧力を逃れて活動を続けるために台湾へ拠点を移しました。"
+          "en": "These international visitors include high-ranking officials from various Middle Eastern nations as well as China.",
+          "ja": "これらの外国からの訪問者には、中東の各国や中国などの高官が含まれています。"
         },
         {
-          "en": "In response to his death, Taiwanese President Lai Ching-te expressed his condolences on social media.",
-          "ja": "彼の死去を受け、台湾の頼清徳総統はSNSで哀悼の意を表しました。"
+          "en": "The gathering of so many world leaders reflects the complex political relationships and alliances in the region.",
+          "ja": "これほど多くの世界の指導者が集まることは、この地域における複雑な政治的関係や同盟関係を反映しています。"
         },
         {
-          "en": "President Lai posted that the courage Mr. Lam left behind will never disappear.",
-          "ja": "頼総統は、「林さんが残した勇気は決して消え去ることはない」と投稿しました。"
-        },
-        {
-          "en": "His life and struggle remain a powerful symbol of the fight for free speech in the region.",
-          "ja": "彼の生涯と闘争は、この地域における言論の自由のための闘いの強力な象徴であり続けています。"
+          "en": "Security has been heavily tightened throughout Tehran as the city prepares for the arrival of more international guests.",
+          "ja": "さらに多くの外国からの賓客を迎える準備が進む中、テヘラン全域で警備が大幅に強化されています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167441000.html",
-      "title": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す",
-      "title_ja": "東京・北区の小学校火災、音楽準備室の私物ストーブが原因か",
-      "date": "Thu, 02 Jul 2026 21:12:16 +0900",
-      "summary": "A fire at an elementary school in Tokyo's Kita Ward injured 11 people, and investigations revealed it likely started from a personal electric heater a teacher used to dry clothes.",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168601000.html",
+      "title": "九州北部と山口県 きょう夕方にかけ 線状降水帯発生のおそれ",
+      "title_ja": "西日本で大雨の恐れ 九州北部や山口県で線状降水帯に警戒",
+      "date": "Sat, 04 Jul 2026 06:07:22 +0900",
+      "summary": "An active seasonal rain front is bringing heavy rain to western Japan, with authorities warning of potential linear rainbands, landslides, and flooding in northern Kyushu and Yamaguchi Prefecture.",
       "sentences": [
         {
-          "en": "Eleven people, including students and staff, were injured in a fire at an elementary school in Kita Ward, Tokyo.",
-          "ja": "東京・北区の小学校で火災が発生し、児童や教職員ら合わせて11人が重軽傷を負いました。"
+          "en": "Heavy rain is expected to fall mainly in western Japan due to an active seasonal rain front.",
+          "ja": "活発な梅雨前線の影響により、西日本を中心に大雨が予想されています。"
         },
         {
-          "en": "On the night of March 2nd, the ward and the school held a joint press conference regarding the incident.",
-          "ja": "2日の夜、区と学校が合同で会見を開き、この火事について説明を行いました。"
+          "en": "In particular, northern Kyushu and Yamaguchi Prefecture are at high risk of experiencing linear rainbands through the evening of the 4th.",
+          "ja": "特に九州北部と山口県では、4日の夕方にかけて線状降水帯が発生するおそれが高まっています。"
         },
         {
-          "en": "Officials reported that the fire is believed to have originated in the music preparation room.",
-          "ja": "関係者によると、火元は音楽準備室とみられています。"
+          "en": "These localized, heavy rainbands can bring extreme amounts of rainfall in a very short period of time.",
+          "ja": "これらの局地的な大雨をもたらす雨雲の連なりは、極めて短時間に非常に激しい雨を降らせる可能性があります。"
         },
         {
-          "en": "Inside the room, a music teacher had kept a personal electric heater and other private belongings.",
-          "ja": "その部屋には、音楽教諭が私物の電気ストーブなどを置いていました。"
+          "en": "The Japan Meteorological Agency is urging residents to be on high alert for potential landslides.",
+          "ja": "気象庁は住民に対し、土砂災害に厳重に警戒するよう呼びかけています。"
         },
         {
-          "en": "It was also discovered that the teacher had been drying personal clothes near the heater.",
-          "ja": "さらに、この教諭がストーブの近くに私服を干していたことも明らかになりました。"
-        },
-        {
-          "en": "The school and local authorities apologized for the lack of safety management and pledged to prevent future occurrences.",
-          "ja": "学校と区は安全管理の甘さを謝罪し、今後の再発防止を誓いました。"
+          "en": "People living in low-lying areas should also prepare for flooding and stay informed about the latest weather updates.",
+          "ja": "低い土地に住む人々も浸水に備え、最新の気象情報に注意を払う必要があります。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167731000.html",
-      "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
-      "title_ja": "NYダウ最高値更新、FRBの早期利上げ観測後退で",
-      "date": "Fri, 03 Jul 2026 06:09:57 +0900",
-      "summary": "The Dow Jones Industrial Average surged nearly 600 points to hit a record high as speculation of an early interest rate hike by the Federal Reserve receded.",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168161000.html",
+      "title": "熊本豪雨から6年 安心して住み続けられる環境づくり課題",
+      "title_ja": "熊本豪雨から6年、被災地の人口減少と復興への課題",
+      "date": "Sat, 04 Jul 2026 04:51:01 +0900",
+      "summary": "Six years after the devastating Kumamoto torrential rains, the affected areas face the critical challenge of securing a safe living environment amid rapid population decline.",
       "sentences": [
         {
-          "en": "On the 2nd, the New York stock market experienced a major rally, bringing positive energy to Wall Street.",
-          "ja": "2日のニューヨーク株式市場は大幅に上昇し、ウォール街に活気をもたらしました。"
+          "en": "July 4th marks the sixth anniversary of the devastating torrential rains in Kumamoto Prefecture.",
+          "ja": "7月4日で、熊本県を襲った記録的な豪雨から6年が経ちました。"
         },
         {
-          "en": "The Dow Jones Industrial Average surged by nearly 600 points from the previous day, closing at a new record high.",
-          "ja": "ダウ平均株価は前日から600ドル近く値上がりし、最高値を更新して取引を終えました。"
+          "en": "The disaster claimed 67 lives, including those who died from health issues related to the aftermath, and two people still remain missing.",
+          "ja": "この災害では、災害関連死を含めて67人が犠牲となり、今もなお2人の行方が分かっていません。"
         },
         {
-          "en": "This surge was primarily driven by changing expectations surrounding the U.S. Federal Reserve's monetary policy.",
-          "ja": "この急上昇は主に、アメリカの連邦準備制度理事会（FRB）の金融政策をめぐる観測の変化によるものでした。"
+          "en": "In the affected areas, rebuilding infrastructure has progressed, but a new challenge is emerging.",
+          "ja": "被災地ではインフラの再建が進んだ一方で、新たな課題が浮き彫りになっています。"
         },
         {
-          "en": "Speculation that the central bank would implement an early interest rate hike has recently started to recede.",
-          "ja": "FRBが早期の利上げに踏み切るという観測が、ここにきて後退したのです。"
+          "en": "The rate of population decline in these communities has accelerated significantly since the disaster.",
+          "ja": "災害以降、これらの地域における人口減少のペースは一段と加速しています。"
         },
         {
-          "en": "As a result, relief spread among investors, sparking a wave of buying orders across the market.",
-          "ja": "その結果、投資家の間に安心感が広がり、市場全体で買い注文が優勢となりました。"
+          "en": "Local residents and officials are now struggling to create an environment where people can continue to live with peace of mind.",
+          "ja": "地域住民や自治体は現在、人々が安心して住み続けられる環境をいかに作るかという課題に直面しています。"
+        },
+        {
+          "en": "Ensuring access to daily necessities and medical care is essential to stopping the population outflow.",
+          "ja": "人口流出を防ぐためには、日用品の確保や医療へのアクセスを保証することが不可欠です。"
+        },
+        {
+          "en": "As time passes, the region continues to seek ways to balance recovery with long-term sustainability.",
+          "ja": "月日が流れる中、被災地域は復興と長期的な持続可能性の両立を目指して模索を続けています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167541000.html",
-      "title": "山梨 震度6弱1週間 専門家“富士山の火山活動に変化見られず”",
-      "title_ja": "山梨県での震度6弱の地震から1週間、富士山に変化なし",
-      "date": "Fri, 03 Jul 2026 05:46:50 +0900",
-      "summary": "It has been one week since a strong earthquake hit Yamanashi Prefecture. Experts report no changes in Mount Fuji's volcanic activity but urge people to remain prepared for future seismic events.",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168561000.html",
+      "title": "南米ペルー大統領選 フジモリ元大統領長女ケイコ氏勝利宣言",
+      "title_ja": "ペルー大統領選、ケイコ・フジモリ氏の当選を正式発表",
+      "date": "Sat, 04 Jul 2026 04:27:10 +0900",
+      "summary": "Electoral authorities in Peru have officially announced Keiko Fujimori as the winner of last month's presidential runoff, prompting her to declare victory.",
       "sentences": [
         {
-          "en": "December 3rd marks one week since a strong earthquake hit Yamanashi Prefecture on the 26th of last month.",
-          "ja": "先月26日に山梨県で強い地震が発生してから、12月3日で1週間が経ちました。"
+          "en": "Electoral authorities in Peru have officially declared Keiko Fujimori as the winner of the presidential runoff election held last month.",
+          "ja": "ペルーの選挙管理当局は、先月行われた大統領選挙の決選投票で、ケイコ・フジモリ氏が当選したと正式に発表しました。"
         },
         {
-          "en": "The earthquake registered a maximum seismic intensity of lower 6 on the Japanese scale.",
-          "ja": "この地震では、日本の震度階級で最大震度6弱の揺れを観測しました。"
+          "en": "Following the official announcement on the 3rd, Fujimori, the eldest daughter of the former president, declared her victory.",
+          "ja": "3日の正式発表を受け、元大統領の長女であるフジモリ氏は勝利を宣言しました。"
         },
         {
-          "en": "Following the tremor, experts have monitored Mount Fuji closely but report no changes in its volcanic activity.",
-          "ja": "地震の後、専門家は富士山の状態を注意深く監視していますが、火山活動に変化は見られないと発表しています。"
+          "en": "The highly contested runoff election took place on the 7th of last month.",
+          "ja": "激しい争いとなった決選投票は、先月7日に行われました。"
         },
         {
-          "en": "However, they emphasize that this region is naturally prone to frequent seismic activity.",
-          "ja": "しかし、この地域はもともと地震活動が活発な場所であることを専門家は強調しています。"
+          "en": "Supporters gathered in the capital to celebrate the announcement and express their hopes for the future.",
+          "ja": "支持者たちは首都に集まり、この発表を祝うとともに、将来への期待を表明しました。"
         },
         {
-          "en": "Therefore, residents and visitors are advised to remain prepared for earthquakes on a regular basis.",
-          "ja": "そのため、住民や観光客は日頃から地震への備えをしておくよう呼びかけられています。"
+          "en": "This landmark election is expected to bring significant changes to Peru's political landscape.",
+          "ja": "この歴史的な選挙は、ペルーの政治情勢に大きな変化をもたらすと予想されています。"
         }
       ]
     }
@@ -157,333 +161,422 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167721000.html",
-        "title": "南シナ海で台風10号発生 日本には接近しない見込み",
-        "title_ja": "南シナ海で台風10号が発生",
-        "date": "Fri, 03 Jul 2026 06:53:22 +0900",
-        "summary": "Typhoon No. 10 has formed in the South China Sea. Although it is not expected to approach Japan, authorities are warning vessels in the area to stay alert.",
+        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168601000.html",
+        "title": "九州北部と山口県 きょう夕方にかけ 線状降水帯発生のおそれ",
+        "title_ja": "西日本で大雨の見込み 九州北部と山口で線状降水帯のおそれ",
+        "date": "Sat, 04 Jul 2026 06:07:22 +0900",
+        "summary": "Heavy rain is expected in western Japan due to an active rain front, with a risk of linear rainbands in northern Kyushu and Yamaguchi. The meteorological agency urges residents to stay alert for landslides and flooding.",
         "sentences": [
           {
-            "en": "On the morning of September 3rd, Typhoon No. 10 formed in the South China Sea.",
-            "ja": "9月3日の午前、南シナ海で台風10号が発生しました。"
+            "en": "Heavy rain is expected mainly in western Japan due to an active seasonal rain front.",
+            "ja": "活発な梅雨前線の影響で、西日本を中心に大雨となる見込みです。"
           },
           {
-            "en": "According to the Japan Meteorological Agency, a tropical depression developed into the typhoon at around 3:00 a.m.",
-            "ja": "気象庁の観測によりますと、午前3時ごろに熱帯低気圧が台風へと発達しました。"
+            "en": "In particular, there is a risk of linear rainbands forming in northern Kyushu and Yamaguchi Prefecture through the evening of the 4th.",
+            "ja": "特に九州北部と山口県では、4日の夕方にかけて線状降水帯が発生するおそれがあります。"
           },
           {
-            "en": "Fortunately, this typhoon is not expected to approach Japan.",
-            "ja": "幸いなことに、この台風が日本に接近する見込みはありません。"
+            "en": "Linear rainbands are dangerous because they can bring extremely heavy, concentrated rainfall to the same area for hours.",
+            "ja": "線状降水帯は、同じ地域に数時間にわたって非常に激しい集中豪雨をもたらす可能性があるため危険です。"
           },
           {
-            "en": "However, the agency is advising vessels operating near the area to exercise caution.",
-            "ja": "しかし、気象庁は付近を航行する船舶に対して注意を払うよう呼びかけています。"
+            "en": "The Japan Meteorological Agency is urging residents to be on high alert for landslides and flooding in low-lying areas.",
+            "ja": "気象庁は、土砂災害や低い土地の浸水に対して厳重に警戒するよう呼びかけています。"
           },
           {
-            "en": "As the storm progresses, people in the surrounding regions are advised to stay updated with the latest weather information.",
-            "ja": "台風の進行に伴い、周辺地域の方々は最新の気象情報に留意することが推奨されます。"
+            "en": "People in these regions should monitor the latest weather reports and take steps to ensure their safety.",
+            "ja": "対象地域の住民は、最新の気象情報を確認し、安全を確保するための行動をとる必要があります。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167321000.html",
-        "title": "【動画】Pickup NEWS(7月3日）",
-        "title_ja": "1分動画で見る最新ニュースまとめ",
-        "date": "Fri, 03 Jul 2026 06:36:19 +0900",
-        "summary": "This lesson introduces a quick, one-minute video summary of the latest news, explaining how viewers can catch up on current events.",
+        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168391000.html",
+        "title": "再処理工場の完成 目標より遅れる可能性 国が青森県知事に報告",
+        "title_ja": "青森の再処理工場、今年度中の完成困難か",
+        "date": "Sat, 04 Jul 2026 04:59:28 +0900",
+        "summary": "Officials from the Agency for Natural Resources and Energy have informed the governor of Aomori Prefecture that the spent nuclear fuel reprocessing plant may not be completed within the current fiscal year as targeted.",
         "sentences": [
           {
-            "en": "Welcome to our quick daily news update.",
-            "ja": "毎日のクイックニュースアップデートへようこそ。"
+            "en": "On October 3rd, officials from the Agency for Natural Resources and Energy met with Governor Miyashita of Aomori Prefecture.",
+            "ja": "10月3日、資源エネルギー庁の担当者が青森県の宮下知事と面談しました。"
           },
           {
-            "en": "Today, we have compiled the key news stories received so far into a convenient format.",
-            "ja": "本日、これまでに入っている主要なニュースを便利なフォーマットにまとめました。"
+            "en": "The meeting focused on the spent nuclear fuel reprocessing plant currently under construction in the prefecture.",
+            "ja": "面談では、同県に建設中の使用済み核燃料の再処理工場について話し合われました。"
           },
           {
-            "en": "You can catch up on all the essential details in this one-minute video.",
-            "ja": "この1分間の動画で、すべての重要な詳細を把握することができます。"
+            "en": "The officials informed the governor that the plant might not be completed within the current fiscal year as planned.",
+            "ja": "担当者は知事に対し、計画されている今年度中に工場が完成しない可能性があることを伝えました。"
           },
           {
-            "en": "Please note that the video cannot be viewed through data broadcasting services.",
-            "ja": "なお、データ放送からは動画をご覧いただけませんのでご注意ください。"
+            "en": "This completion target was set by Japan Nuclear Fuel Limited, the operator of the facility.",
+            "ja": "この完成目標は、施設の運営元である日本原燃が設定したものです。"
           },
           {
-            "en": "We hope this brief summary helps you stay informed throughout your busy day.",
-            "ja": "この短いまとめが、忙しい1日の中で皆様が最新情報を得るのに役立つことを願っています。"
+            "en": "Local officials are closely monitoring the situation, as the project has already faced numerous delays over the years.",
+            "ja": "この事業はこれまで何度も延期されてきたため、地元自治体は状況を注視しています。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167251000.html",
-        "title": "大手企業 夏のボーナス 初の100万円超 経団連調査",
-        "title_ja": "大企業の夏のボーナス、初の100万円超え",
-        "date": "Thu, 02 Jul 2026 17:31:05 +0900",
-        "summary": "The average summer bonus for employees at major Japanese companies has exceeded one million yen for the first time since tracking began in 1981, marking a 1.88% increase from last year.",
+        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+        "title": "28人が犠牲 熱海土石流から5年で追悼式 遺族「まだ道半ば」",
+        "title_ja": "熱海土石流から5年、伊豆山地区で追悼式",
+        "date": "Fri, 03 Jul 2026 19:31:11 +0900",
+        "summary": "A memorial service was held in Atami, Shizuoka Prefecture, to honor the 28 victims of the devastating landslide that occurred five years ago.",
         "sentences": [
           {
-            "en": "Good news has arrived for employees at major companies in Japan this summer.",
-            "ja": "今年の夏、日本の大企業の従業員にとって嬉しいニュースが届きました。"
+            "en": "On July 3rd, a memorial service was held in the Izusan district of Atami City, Shizuoka Prefecture, marking five years since a devastating landslide hit the area.",
+            "ja": "静岡県熱海市の伊豆山地区で、壊滅的な土石流が発生してから5年となる3日、追悼式が開かれました。"
           },
           {
-            "en": "According to a recent survey, the average summer bonus has exceeded one million yen for the first time.",
-            "ja": "最近の調査によると、夏のボーナスの平均額が初めて100万円を超えたことが分かりました。"
+            "en": "The disaster, which occurred on July 3rd, 2021, claimed the lives of 28 people.",
+            "ja": "2021年7月3日に発生したこの災害では、28人が犠牲となりました。"
           },
           {
-            "en": "Specifically, the average payout per employee reached just over 1,008,000 yen.",
-            "ja": "具体的には、従業員1人当たりの平均支給額は100万8,000円余りに達しました。"
+            "en": "During the ceremony, bereaved family members and local residents gathered to offer silent prayers for the victims.",
+            "ja": "式典では、遺族や地域住民が集まり、犠牲者に向けて黙祷を捧げました。"
           },
           {
-            "en": "This represents a 1.88% increase compared to last summer's average.",
-            "ja": "これは去年の夏の平均と比べて、1.88％の増加となります。"
+            "en": "Even as time passes, the grief remains deep for those who lost their loved ones and homes.",
+            "ja": "時が経っても、愛する人や家を失った人々の深い悲しみは消えることはありません。"
           },
           {
-            "en": "It is the first time the figure has topped the one-million-yen mark since the current tracking method began in 1981.",
-            "ja": "現在の調査方法が始まった1981年以降、夏のボーナスが100万円の大台を超えたのは今回が初めてです。"
-          },
-          {
-            "en": "This increase is believed to reflect the recent strong business performance of many major corporations.",
-            "ja": "この増加は、多くの大企業の最近の好調な業績を反映していると考えられています。"
+            "en": "The community continues its efforts toward recovery while vowing never to let the memory of the tragedy fade.",
+            "ja": "地域社会は、この悲劇の記憶を風化させないことを誓いながら、復興に向けた歩みを続けています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166561000.html",
-        "title": "世界で最も細い直径約4ミリの胃カメラ開発 大阪大発ベンチャー",
-        "title_ja": "大阪大学発ベンチャー、世界最細4ミリの胃カメラを開発",
-        "date": "Thu, 02 Jul 2026 05:06:05 +0900",
-        "summary": "A venture company from Osaka University has developed the world's thinnest gastric camera to make stomach cancer screenings easier and plans to apply for government approval soon.",
+        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168221000.html",
+        "title": "日本郵便 ゆうパックの料金を10月から平均約10％値上げへ",
+        "title_ja": "日本郵便「ゆうパック」10月から平均10％値上げへ",
+        "date": "Fri, 03 Jul 2026 18:00:39 +0900",
+        "summary": "Japan Post has announced that it will increase its \"Yu-Pack\" parcel delivery rates by an average of approximately 10% starting this October due to rising costs.",
         "sentences": [
           {
-            "en": "A venture company originating from Osaka University has made a major breakthrough in medical technology.",
-            "ja": "大阪大学発のベンチャー企業が、医療技術において大きな進歩を遂げました。"
+            "en": "Japan Post has announced that it will raise the rates for its \"Yu-Pack\" parcel delivery service starting this October.",
+            "ja": "日本郵便は、今年10月から宅配便「ゆうパック」の料金を値上げすると発表しました。"
           },
           {
-            "en": "They have successfully developed the world's thinnest gastric camera for stomach cancer screenings.",
-            "ja": "胃がん検診に用いる、世界で最も細い胃カメラの開発に成功したのです。"
+            "en": "The average price increase is expected to be approximately 10 percent.",
+            "ja": "平均の値上げ幅は約10％になる見込みです。"
           },
           {
-            "en": "By simplifying the internal structure of the device, they reduced its diameter to just about four millimeters.",
-            "ja": "デバイスの内部構造をシンプルにすることで、直径をわずか約4ミリにまで縮小しました。"
+            "en": "This decision comes in response to rising logistics and labor costs in the transport industry.",
+            "ja": "この決定は、運輸業界における物流費や人件費の上昇を受けてのものです。"
           },
           {
-            "en": "This ultra-thin design is expected to significantly reduce discomfort for patients during examinations.",
-            "ja": "この極細の設計により、検査中に患者が感じる不快感が大幅に軽減されると期待されています。"
+            "en": "To maintain stable services amid these challenges, the company decided a price revision was necessary.",
+            "ja": "これらの課題の中で安定したサービスを維持するため、同社は料金改定が必要であると判断しました。"
           },
           {
-            "en": "The company plans to apply for government approval in Japan as early as the year after next.",
-            "ja": "同社は、早ければ再来年にも国に承認申請を行う予定です。"
-          },
-          {
-            "en": "If approved, this innovative technology could make regular cancer screenings much easier for people to undergo.",
-            "ja": "承認されれば、この革新的な技術によって、人々が定期的ながん検診をより受けやすくなる可能性があります。"
+            "en": "Customers are advised to check the new rates beforehand as the actual increase will vary depending on the size and destination of the parcel.",
+            "ja": "荷物のサイズや宛先によって実際の値上げ幅は異なるため、利用者は事前に新しい料金を確認することをお勧めします。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167631000.html",
-        "title": "村上春樹さん 3年ぶり新作長編小説発売 書店にファン集まる",
-        "title_ja": "村上春樹さん3年ぶりの新作長編が発売",
-        "date": "Fri, 03 Jul 2026 05:01:29 +0900",
-        "summary": "The first novel in three years by world-renowned author Haruki Murakami has been released, drawing passionate fans to a midnight sales event in Tokyo.",
+        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168051000.html",
+        "title": "国立映画アーカイブが存続の危機 なぜ？【Q＆Aで詳しく】",
+        "title_ja": "危機に立つ国立映画アーカイブ、資金調達へ",
+        "date": "Fri, 03 Jul 2026 16:47:12 +0900",
+        "summary": "The National Film Archive of Japan has launched a crowdfunding campaign to overcome a financial crisis caused by rising costs, highlighting the challenges of cultural preservation.",
         "sentences": [
           {
-            "en": "A new full-length novel by the globally acclaimed author Haruki Murakami has been released, marking his first such work in three years.",
-            "ja": "世界的に高く評価されている作家、村上春樹さんの3年ぶりとなる長編小説が発売されました。"
+            "en": "The National Film Archive of Japan, which preserves a vast collection of precious historical films, is currently facing a financial crisis.",
+            "ja": "数多くの貴重な歴史的映画を保管している国立映画アーカイブが、現在、財政的な危機に直面しています。"
           },
           {
-            "en": "To celebrate the release on the 3rd, a special midnight sales event was held at a bookstore in Tokyo.",
-            "ja": "3日の発売を記念して、都内の書店では午前0時から特別な販売イベントが開催されました。"
+            "en": "To keep its preservation projects running, the institution has recently launched a crowdfunding campaign.",
+            "ja": "保存事業を継続するため、同機関は最近、クラウドファンディングキャンペーンを開始しました。"
           },
           {
-            "en": "Many passionate fans gathered at the venue, eager to get their hands on the book as early as possible.",
-            "ja": "一刻も早く本を手に入れようと、多くの熱心なファンが会場に集まりました。"
+            "en": "This move has raised questions among the public about why such an important cultural facility is struggling.",
+            "ja": "この動きは、なぜこれほど重要な文化施設が苦境に立たされているのか、世間の疑問を呼び起こしています。"
           },
           {
-            "en": "Some dedicated readers even started reading their copies immediately right after purchasing them.",
-            "ja": "熱心な読者の中には、購入直後からすぐに読み始める人もいました。"
+            "en": "The archive plays a crucial role in restoring and storing classic films so that future generations can appreciate them.",
+            "ja": "同アーカイブは、将来の世代が鑑賞できるように古典映画を修復し保管するという、極めて重要な役割を担っています。"
           },
           {
-            "en": "Murakami's unique storytelling continues to captivate people around the world, making each new release a major cultural event.",
-            "ja": "村上さん独特の物語世界は世界中の人々を魅了し続けており、新作が発売されるたびに大きな文化的イベントとなっています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167451000.html",
-        "title": "福島第一原発 核燃料デブリ 3回目の試験的取り出しへ",
-        "title_ja": "福島第一原発2号機、ロボットアームによるデブリ取り出し準備開始へ",
-        "date": "Thu, 02 Jul 2026 21:26:44 +0900",
-        "summary": "TEPCO has announced plans to begin preparatory work as early as this month for the experimental removal of nuclear fuel debris using a robot arm at Fukushima Daiichi Unit 2, with the trials starting after three months of prep.",
-        "sentences": [
-          {
-            "en": "Tokyo Electric Power Company, or TEPCO, has announced plans to begin preparations for the experimental removal of nuclear fuel debris.",
-            "ja": "東京電力は、核燃料デブリの試験的な取り出しに向けた準備作業を開始する計画を発表しました。"
+            "en": "However, rising utility costs and a lack of government subsidies have made it difficult to maintain their specialized storage facilities.",
+            "ja": "しかし、光熱費の高騰や政府の補助金不足により、専門的な保管施設の維持が困難になっています。"
           },
           {
-            "en": "This operation will take place at the Unit 2 reactor of the Fukushima Daiichi nuclear power plant.",
-            "ja": "この作業は、福島第一原子力発電所の2号機で実施されます。"
-          },
-          {
-            "en": "Workers will use a specially designed robotic arm to retrieve the highly radioactive material.",
-            "ja": "作業員は、特別に設計されたロボットアームを使用して、放射線量の極めて高い物質を回収する予定です。"
-          },
-          {
-            "en": "Preparatory work for this highly challenging task is scheduled to start as early as this month.",
-            "ja": "この非常に困難な作業に向けた準備は、早ければ今月中にも開始される予定です。"
-          },
-          {
-            "en": "TEPCO estimates that these preparations will take about three months to complete.",
-            "ja": "東京電力は、これらの準備が完了するまでに約3か月かかると見込んでいます。"
-          },
-          {
-            "en": "Once the setup is ready, the team will proceed with the trial extraction of the fuel debris.",
-            "ja": "準備が整い次第、チームは燃料デブリの試験的な取り出しを進めることになります。"
-          },
-          {
-            "en": "This process is considered one of the most difficult phases in the decommissioning of the power plant.",
-            "ja": "このプロセスは、原発の廃炉作業において最も困難な段階の一つと考えられています。"
+            "en": "In this lesson, we will look closer at the challenges they face and what the archive means to Japan's cultural heritage.",
+            "ja": "今回のレッスンでは、彼らが直面している課題と、このアーカイブが日本の文化遺産にとって何を意味するのかを詳しく見ていきましょう。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167611000.html",
-        "title": "日印首脳会談で2兆円規模の投資発表 国内経済活性化の狙い",
-        "title_ja": "高市首相が訪印、2兆円規模の投資と130件の企業間協力を発表",
-        "date": "Fri, 03 Jul 2026 05:50:01 +0900",
-        "summary": "Prime Minister Takaichi met with Indian Prime Minister Modi to announce around 130 business agreements, including a 2-trillion-yen investment aimed at boosting the Japanese economy.",
+        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168411000.html",
+        "title": "国会 与党に会期延長論も 高市首相の意向踏まえ対応検討へ",
+        "title_ja": "法案成立に向けた国会の攻防と会期延長の可能性",
+        "date": "Sat, 04 Jul 2026 05:09:57 +0900",
+        "summary": "The ruling party is determined to pass key bills, including an amendment to the Imperial House Law, and may extend the Diet session, while opposition parties demand intensive budget debates.",
         "sentences": [
           {
-            "en": "Prime Minister Takaichi, who is currently visiting India, held a summit meeting with Prime Minister Modi on the 2nd.",
-            "ja": "インドを訪問している高市総理大臣は2日、モディ首相と首脳会談を行いました。"
+            "en": "In the Japanese Diet, tensions are rising as the ruling party pushes to pass several key bills.",
+            "ja": "国会では、与党が複数の重要法案の成立を目指す中、緊張が高まっています。"
           },
           {
-            "en": "During the meeting, the two leaders announced about 130 business cooperation agreements between Japanese and Indian companies.",
-            "ja": "会談の中で、両首脳は日本企業とインド企業の間での約130件のビジネス協力文書を発表しました。"
+            "en": "Specifically, the ruling coalition is maintaining a firm stance on passing an amendment to the Imperial House Law.",
+            "ja": "具体的には、与党は皇室典範の改正案の成立に向けて強硬な姿勢を崩していません。"
           },
           {
-            "en": "This landmark announcement includes massive investment plans by Japanese companies worth approximately two trillion yen.",
-            "ja": "この画期的な発表には、日本企業による約2兆円規模の巨額の投資計画が含まれています。"
+            "en": "In addition, they are aiming to pass a bill to reduce the number of seats in the House of Representatives.",
+            "ja": "さらに、衆議院議員の定数を削減する法案などの成立も目指しています。"
           },
           {
-            "en": "India is widely expected to grow into a massive consumer market, making it an attractive destination for foreign capital.",
-            "ja": "インドは巨大な市場へと成長することが広く期待されており、外資にとって魅力的な投資先となっています。"
+            "en": "With so much on the agenda, some members are suggesting that extending the current Diet session may be unavoidable.",
+            "ja": "多くの課題を抱える中、一部の議員からは現在の国会会期の延長もやむを得ないという声が出ています。"
           },
           {
-            "en": "By promoting active investment in this growing market, the Japanese government hopes to revitalize Japan's own economy.",
-            "ja": "この巨大市場への投資を促すことで、日本政府は日本経済の活性化を図りたい考えです。"
+            "en": "Meanwhile, opposition parties are repeatedly demanding intensive deliberations in the Budget Committee.",
+            "ja": "一方、野党側は予算委員会における集中審議の開催を重ねて求めています。"
           },
           {
-            "en": "This strengthened economic tie is anticipated to bring mutual benefits and long-term stability to both nations.",
-            "ja": "この経済関係の強化は、両国に相互の利益と長期的な安定をもたらすものと期待されています。"
+            "en": "The political standoff continues as both sides remain divided over these key legislative issues.",
+            "ja": "これらの重要法案を巡って双方の意見は対立しており、政治的な対峙が続いています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167621000.html",
-        "title": "与党 皇室典範改正案審議入りを 野党 定数削減法案断念を",
-        "title_ja": "国会会期末の攻防：皇室典範改正と野党の要求",
-        "date": "Fri, 03 Jul 2026 05:48:23 +0900",
-        "summary": "With only two weeks left in the Diet session, the ruling and opposition parties are clashing over the prioritization of a bill to amend the Imperial House Law.",
+        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168521000.html",
+        "title": "高市首相 インド訪問から帰国",
+        "title_ja": "高市総理大臣がインド訪問から帰国、モディ首相と首脳会談を実施",
+        "date": "Fri, 03 Jul 2026 23:07:41 +0900",
+        "summary": "Prime Minister Takaichi returned to Japan after a three-day visit to India, where she held a summit meeting with Prime Minister Modi to discuss bilateral cooperation.",
         "sentences": [
           {
-            "en": "With only two weeks remaining until the end of the current Diet session, political tensions are rising in Japan.",
-            "ja": "国会の会期末まで残り2週間となる中、日本国内で政治的な緊張が高まっています。"
+            "en": "Prime Minister Takaichi returned to Japan's Haneda Airport on the night of the 3rd, concluding a three-day visit to India.",
+            "ja": "インドを訪問していた高市総理大臣は、3日間の日程を終え、日本時間の3日夜に羽田空港に帰国しました。"
           },
           {
-            "en": "The ruling coalition is prioritizing a bill to amend the Imperial House Law in order to secure a sufficient number of imperial family members.",
-            "ja": "与党は、皇族の数を確保するための皇室典範改正案を優先して成立させたい考えです。"
+            "en": "The Prime Minister had arrived in New Delhi, the capital of India, on the 1st for an official visit.",
+            "ja": "総理は公式訪問のため、1日にインドの首都ニューデリーに到着していました。"
           },
           {
-            "en": "This amendment aims to address the shrinking size of the imperial family, which faces a shortage of eligible members.",
-            "ja": "この改正案は、メンバー不足に直面している皇室の規模縮小に対処することを目的としています。"
+            "en": "During the trip, a key highlight was the summit meeting held with Indian Prime Minister Narendra Modi on the 2nd.",
+            "ja": "滞在中の最大の焦点は、2日に行われたインドのモディ首相との首脳会談でした。"
           },
           {
-            "en": "On the other hand, opposition parties are strongly resisting this legislative priority.",
-            "ja": "これに対し、野党側はこの法案を優先する姿勢に強く反発しています。"
+            "en": "In the meeting, the two leaders discussed strengthening bilateral relations and expanding economic cooperation.",
+            "ja": "会談の中で両首脳は、二国間関係の強化や経済協力の拡大について議論しました。"
           },
           {
-            "en": "They are demanding that the ruling bloc abandon plans to pass a bill to reduce the number of seats in the House of Representatives.",
-            "ja": "野党は、衆議院議員の定数を削減する法案などの成立を断念するよう与党に求めています。"
+            "en": "They also exchanged views on regional security to promote a free and open Indo-Pacific.",
+            "ja": "また、「自由で開かれたインド太平洋」の推進に向け、地域の安全保障についても意見を交わしました。"
           },
           {
-            "en": "Additionally, the opposition is calling for intensive deliberations in the Budget Committee before the session ends.",
-            "ja": "さらに、野党は会期末までに予算委員会での集中審議を行うよう求めています。"
+            "en": "This visit is expected to further deepen the strategic partnership between the two nations.",
+            "ja": "今回の訪問により、両国間の戦略的パートナーシップがさらに深まることが期待されています。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167681000.html",
-        "title": "テスラ 欧州や中国で需要回復か ガソリン価格高騰も追い風に",
-        "title_ja": "テスラの世界新車販売、前年同期比24.9％増",
-        "date": "Fri, 03 Jul 2026 06:55:34 +0900",
-        "summary": "Tesla has announced a 24.9% increase in its global sales over the past three months, partly driven by rising gasoline prices caused by tensions in the Middle East.",
+        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
+        "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
+        "title_ja": "関西経済界の代表団、10月に訪中へ",
+        "date": "Fri, 03 Jul 2026 21:39:59 +0900",
+        "summary": "Amid strained relations between Japan and China, a business delegation from the Kansai region is planning a visit to China this October to hold talks with government officials.",
         "sentences": [
           {
-            "en": "The American electric vehicle manufacturer Tesla has announced its global sales figures for the three months ending last month.",
-            "ja": "アメリカの電気自動車メーカー、テスラは、先月までの3か月間の世界新車販売台数を発表しました。"
+            "en": "Amid worsening relations between Japan and China, a business delegation from the Kansai region is planning to visit China this October.",
+            "ja": "日中関係が悪化する中、関西の経済界の代表団が、今年10月に中国を訪問する方向で調整を進めていることが分かりました。"
           },
           {
-            "en": "According to the announcement, the company's sales increased by 24.9% compared to the same period last year.",
-            "ja": "発表によると、同社の販売台数は前年の同じ時期と比べて24.9％増加しました。"
+            "en": "Sources close to the matter revealed that arrangements are currently being made for this trip.",
+            "ja": "関係者への取材により、この訪問に向けて現在調整が進められていることが明らかになりました。"
           },
           {
-            "en": "Experts believe that rising gasoline prices, driven by tensions in the Middle East, have boosted the demand for EVs.",
-            "ja": "中東情勢の緊迫化によるガソリン価格の高騰が、EVの需要を押し上げたと分析されています。"
+            "en": "The delegation hopes to hold high-level talks with Chinese government officials during their visit.",
+            "ja": "代表団は、滞在中に中国政府の幹部らと会談を行いたい考えです。"
           },
           {
-            "en": "As fuel costs rise, more consumers are looking for cost-effective alternatives to gasoline-powered cars.",
-            "ja": "燃料費が上昇するにつれて、ガソリン車に代わる経済的な選択肢を求める消費者が増えています。"
+            "en": "While they aim to improve economic cooperation, there are concerns over whether concrete results can actually be achieved.",
+            "ja": "経済協力を進めることが目的ですが、具体的な成果が得られるかどうかについては懸念も残されています。"
           },
           {
-            "en": "This trend is encouraging many drivers to make the switch to electric vehicles.",
-            "ja": "この傾向が、多くのドライバーが電気自動車へ乗り換える後押しとなっています。"
+            "en": "Despite the political tensions, business leaders believe that maintaining direct communication is crucial for both nations.",
+            "ja": "政治的な緊張は続いているものの、両国にとって直接の対話を維持することが極めて重要だと経済界のリーダーたちは考えています。"
           },
           {
-            "en": "Tesla's strong performance highlights the growing shift toward eco-friendly transportation amidst global economic changes.",
-            "ja": "テスラの好調な業績は、世界的な経済変化の中で、環境に優しい移動手段への移行が加速していることを際立たせています。"
+            "en": "Observers are closely watching how this upcoming visit might influence future economic ties between the two countries.",
+            "ja": "今回の訪問が今後の日中両国の経済関係にどのような影響を与えるのか、専門家らは注視しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167731000.html",
-        "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
-        "title_ja": "NYダウ、FRB早期利上げ観測の後退で最高値更新",
-        "date": "Fri, 03 Jul 2026 06:09:57 +0900",
-        "summary": "The New York stock market surged, with the Dow Jones Industrial Average rising nearly 600 dollars to hit a record high, fueled by receding fears of an early interest rate hike by the Federal Reserve.",
+        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167801000.html",
+        "title": "長期金利 約29年ぶり一時2.81％に上昇 インフレ加速観測などで",
+        "title_ja": "長期金利が一時2.81％に上昇、約29年ぶりの高水準",
+        "date": "Fri, 03 Jul 2026 21:12:20 +0900",
+        "summary": "On the 3rd, Japan's long-term interest rates temporarily rose to 2.81%, the highest level in about 29 years, due to concerns over inflation and fiscal burdens.",
         "sentences": [
           {
-            "en": "On the New York stock market on the 2nd, stock prices surged significantly due to renewed optimism among investors.",
-            "ja": "2日のニューヨーク株式市場では、投資家の間で楽観論が再び広がったことで、株価が大幅に上昇しました。"
+            "en": "On the 3rd, the Japanese bond market experienced a significant shift as long-term interest rates surged.",
+            "ja": "3日の日本の債券市場では、長期金利が急上昇し、大きな動きを見せました。"
           },
           {
-            "en": "The main driver behind this market rally was the fading expectation of an early interest rate hike by the U.S. Federal Reserve.",
-            "ja": "この市場上昇の主な要因は、米連邦準備制度理事会（FRB）による早期の利上げ観測が後退したことです。"
+            "en": "Specifically, the yield on key government bonds temporarily reached 2.81 percent.",
+            "ja": "具体的には、指標となる国債の利回りが一時2.81％に達しました。"
           },
           {
-            "en": "As concerns about rising borrowing costs eased, buying orders spread rapidly across various sectors.",
-            "ja": "金利上昇への懸念が和らいだことで、幅広い分野で買い注文が急速に広がりました。"
+            "en": "This level represents the highest borrowing costs the market has seen in approximately 29 years.",
+            "ja": "この水準は、市場にとって約29年ぶりの高水準となります。"
           },
           {
-            "en": "Consequently, the Dow Jones Industrial Average rose by nearly 600 dollars from the previous day.",
-            "ja": "その結果、ダウ平均株価は前日比で600ドル近く値上がりしました。"
+            "en": "Market analysts point out that this sudden rise is linked to growing expectations of accelerating inflation.",
+            "ja": "市場関係者は、この急激な上昇が、今後のインフレ加速に対する懸念の高まりと結びついていると指摘しています。"
           },
           {
-            "en": "With this strong performance, the index successfully reached a new historic high.",
-            "ja": "この力強い値動きにより、同株価指数は史上最高値を更新しました。"
+            "en": "In addition, there is a spreading anxiety among investors regarding the country's growing fiscal burden.",
+            "ja": "さらに、国の財政負担が増大することへの不安も投資家の間で広がっています。"
+          },
+          {
+            "en": "These combined worries triggered a strong movement to sell government bonds, pushing interest rates even higher.",
+            "ja": "これらの懸念が重なったことで国債を売る動きが強まり、金利をさらに押し上げる結果となりました。"
           }
         ]
       }
     ],
-    "国際": [],
-    "スポーツ": []
+    "国際": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168461000.html",
+        "title": "ロシア 爆発でウクライナ将校起訴も 支援続けるドイツを批判",
+        "title_ja": "パイプライン爆発をめぐるドイツの対応にロシアが反発",
+        "date": "Sat, 04 Jul 2026 06:03:30 +0900",
+        "summary": "The Kremlin has criticized Germany for continuing to support Ukraine despite German investigators targeting a Ukrainian suspect over the Nord Stream pipeline blasts.",
+        "sentences": [
+          {
+            "en": "The Kremlin has criticized Germany for continuing its support for Ukraine.",
+            "ja": "ロシア大統領府は、ウクライナへの支援を継続しているとしてドイツを批判しました。"
+          },
+          {
+            "en": "This criticism comes after German authorities targeted a former Ukrainian military officer over the undersea gas pipeline explosions.",
+            "ja": "この批判は、ドイツ当局が海底天然ガスパイプラインの爆発をめぐり、ウクライナ軍の元将校を刑事追及したことを受けてのものです。"
+          },
+          {
+            "en": "The pipelines, which connect Russia and Germany, were severely damaged by blasts in late 2022.",
+            "ja": "ロシアとドイツを結ぶこのパイプラインは、2022年後半に発生した爆発により深刻な被害を受けました。"
+          },
+          {
+            "en": "Despite Germany prosecuting a Ukrainian suspect, Berlin has pledged to maintain its financial and military aid to Kyiv.",
+            "ja": "ドイツはウクライナ人の容疑者を起訴したにもかかわらず、ウクライナへの財政的・軍事的支援を維持することを表明しています。"
+          },
+          {
+            "en": "A Russian spokesperson argued that Germany's continued support for Ukraine under these circumstances is highly contradictory.",
+            "ja": "ロシアの報道官は、このような状況下でドイツがウクライナ支援を続けることは極めて矛盾していると主張しました。"
+          },
+          {
+            "en": "This dispute highlights the complex geopolitical tensions surrounding European energy infrastructure and the ongoing war.",
+            "ja": "この対立は、欧州のエネルギーインフラと現在も続く戦争をめぐる、複雑な地政学的緊張を浮き彫りにしています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168431000.html",
+        "title": "イラン ハメネイ師の葬儀準備進む 各国の要人も次々に到着",
+        "title_ja": "殺害されたイラン前最高指導者の葬儀、100か国から要人が参列へ",
+        "date": "Sat, 04 Jul 2026 05:33:36 +0900",
+        "summary": "Foreign dignitaries from around 100 countries, including Middle Eastern nations and China, are arriving in Tehran to attend the funeral of the assassinated former Iranian Supreme Leader, Ayatollah Khamenei.",
+        "sentences": [
+          {
+            "en": "Foreign dignitaries are arriving in the Iranian capital of Tehran ahead of a major funeral service.",
+            "ja": "大規模な葬儀の開始を前に、外国の要人たちがイランの首都テヘランに次々と到着しています。"
+          },
+          {
+            "en": "The service is being held for the assassinated former Supreme Leader of Iran, Ayatollah Khamenei.",
+            "ja": "この葬儀は、殺害されたイランの元最高指導者、ハメネイ師のために執り行われます。"
+          },
+          {
+            "en": "According to multiple Iranian media reports, representatives from about 100 countries are visiting the capital.",
+            "ja": "複数のイランメディアによると、およそ100か国からの代表者が首都を訪れています。"
+          },
+          {
+            "en": "These visitors include key political figures and dignitaries from various Middle Eastern nations and China.",
+            "ja": "これらの参列者には、中東の各国や中国からの重要な政治家や要人が含まれています。"
+          },
+          {
+            "en": "The massive gathering of international leaders is drawing significant attention from around the world.",
+            "ja": "国際的な指導者たちが一堂に会するこの大規模な集まりは、世界中から大きな注目を集めています。"
+          }
+        ]
+      }
+    ],
+    "スポーツ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168591000.html",
+        "title": "ブルージェイズ岡本和真 6月の月間最優秀新人 日本選手10人目",
+        "title_ja": "ブルージェイズ岡本和真選手、6月の月間最優秀新人に選出",
+        "date": "Sat, 04 Jul 2026 06:01:47 +0900",
+        "summary": "Kazuma Okamoto of the Blue Jays has been named the AL Rookie of the Month for June, following Munetaka Murakami's win in May, marking a historic year for Japanese players.",
+        "sentences": [
+          {
+            "en": "In Major League Baseball, Blue Jays infielder Kazuma Okamoto has been named the American League Rookie of the Month for June.",
+            "ja": "大リーグ、ブルージェイズの岡本和真選手が、6月のアメリカン・リーグの月間最優秀新人に選ばれました。"
+          },
+          {
+            "en": "Okamoto showed outstanding performance throughout the month, contributing significantly to his team.",
+            "ja": "岡本選手は1か月を通して素晴らしいパフォーマンスを見せ、チームに大きく貢献しました。"
+          },
+          {
+            "en": "He is the tenth Japanese player in MLB history to receive this prestigious award.",
+            "ja": "日本選手がこの栄誉ある賞を受賞するのは、大リーグ史上10人目の快挙です。"
+          },
+          {
+            "en": "His achievement follows Munetaka Murakami of the White Sox, who won the same award in May.",
+            "ja": "今回の受賞は、今年5月に同賞を受賞したホワイトソックスの村上宗隆選手に続くものです。"
+          },
+          {
+            "en": "This is the first time in history that two Japanese players have won the Rookie of the Month award in the same year.",
+            "ja": "同じ年に2人の日本選手が月間最優秀新人賞を受賞するのは、史上初めてのことです。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168571000.html",
+        "title": "ウィンブルドン選手権 望月慎太郎が自身初の4回戦進出",
+        "title_ja": "ウィンブルドン 望月慎太郎が初の4回戦進出",
+        "date": "Sat, 04 Jul 2026 05:26:26 +0900",
+        "summary": "Japanese tennis player Shintaro Mochizuki has reached the fourth round of the men's singles at Wimbledon for the first time after defeating his Spanish opponent.",
+        "sentences": [
+          {
+            "en": "At the Wimbledon Tennis Championships, one of the four Grand Slam tournaments, Shintaro Mochizuki has advanced to the fourth round of the men's singles for the first time in his career.",
+            "ja": "テニスの四大大会の1つであるウィンブルドン選手権で、望月慎太郎選手が男子シングルスで自身初となる4回戦進出を決めました。"
+          },
+          {
+            "en": "The 23-year-old Japanese player secured his historic victory by defeating his Spanish opponent three sets to one in the third round.",
+            "ja": "23歳の望月選手は、3回戦でスペインの選手にセットカウント3対1で勝利し、歴史的な白星を挙げました。"
+          },
+          {
+            "en": "This achievement marks a significant milestone for Mochizuki, who showed incredible resilience and skill throughout the match.",
+            "ja": "この快挙は、試合を通じて素晴らしい粘り強さと技術を示した望月選手にとって、大きな節目となります。"
+          },
+          {
+            "en": "Fans and commentators alike are praising his performance on the grass courts of London.",
+            "ja": "ロンドンの芝のコートで見せた彼のパフォーマンスに、ファンも解説者も同様に賛辞を送っています。"
+          },
+          {
+            "en": "With this win, he moves one step closer to the final stages of the prestigious tournament.",
+            "ja": "この勝利により、彼はこの権威ある大会の終盤ステージにまた一歩近づきました。"
+          },
+          {
+            "en": "Tennis enthusiasts in Japan are eagerly watching to see how far he can go in the upcoming matches.",
+            "ja": "日本のテニスファンは、彼が今後の試合でどこまで勝ち進むことができるか、熱い視線を送っています。"
+          }
+        ]
+      }
+    ]
   }
 }
