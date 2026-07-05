@@ -1,151 +1,159 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168961000.html",
-      "title": "九州北部で線状降水帯が発生するおそれ 土砂災害などに警戒を",
-      "title_ja": "九州北部で線状降水帯発生のおそれ、大雨に警戒",
-      "date": "Sun, 05 Jul 2026 06:11:31 +0900",
-      "summary": "Heavy rain is forecast for western Japan, especially in northern Kyushu, with weather officials warning of potential linear rainbands and landslides due to already loosened ground.",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169491000.html",
+      "title": "九州北部で非常に激しい雨が降るおそれ 土砂災害に厳重警戒を",
+      "title_ja": "九州北部で大雨、土砂災害に厳重警戒",
+      "date": "Mon, 06 Jul 2026 05:56:56 +0900",
+      "summary": "An active seasonal rain front has brought heavy rain to northern Kyushu, creating a high risk of landslides due to loosened ground.",
       "sentences": [
         {
-          "en": "Due to a stagnant seasonal rain front, heavy rain is expected to intensify across western Japan on July 5th.",
-          "ja": "停滞する梅雨前線の影響で、5日は西日本を中心に雨が強まる見込みです。"
+          "en": "Heavy rain has been hitting northern Kyushu due to an active seasonal rain front.",
+          "ja": "活発な梅雨前線の影響で、九州北部では大雨が続いています。"
         },
         {
-          "en": "Northern Kyushu, in particular, is likely to experience extremely heavy rainfall.",
-          "ja": "特に九州北部では、非常に激しい雨が降るおそれがあります。"
+          "en": "On July 5th, linear rainbands formed in the region, bringing extremely heavy downpours.",
+          "ja": "5日にはこの地域で線状降水帯が発生し、非常に激しい豪雨をもたらしました。"
         },
         {
-          "en": "Weather officials warn that linear rainbands, which cause prolonged torrential downpours, may develop in Fukuoka, Saga, Nagasaki, and Kumamoto prefectures.",
-          "ja": "福岡県、佐賀県、長崎県、熊本県では、大雨をもたらす「線状降水帯」が発生するおそれがあると警告されています。"
+          "en": "Weather officials warn that this severe weather is expected to continue into July 6th.",
+          "ja": "気象庁などは、この非常に激しい雨が6日にかけても続く恐れがあると警告しています。"
         },
         {
-          "en": "Because of the continuous heavy rain over the past few days, the ground in these areas has already become highly unstable.",
-          "ja": "これまでに降った大雨により、これらの地域ではすでに地盤が非常に緩んでいます。"
+          "en": "Because of the continuous rainfall, the ground in many areas has become extremely loose.",
+          "ja": "これまでに降った雨の影響で、多くの地域で地盤が非常に緩んでいます。"
         },
         {
-          "en": "Local residents are urged to stay alert for potential landslides and flooding, and to monitor the latest weather updates.",
-          "ja": "土砂災害や浸水に警戒し、最新の気象情報を確認するよう、住民に呼びかけられています。"
+          "en": "Therefore, residents are urged to remain highly vigilant against potential landslides.",
+          "ja": "そのため、住民に対して土砂災害への厳重な警戒が呼びかけられています。"
+        },
+        {
+          "en": "It is crucial to stay updated with the latest weather information and prioritize your safety.",
+          "ja": "最新の気象情報を常に確認し、身の安全を最優先に確保することが重要です。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
-      "title": "はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ",
-      "title_ja": "はやぶさ2、5日午後に新たな小惑星のフライバイへ挑戦",
-      "date": "Sun, 05 Jul 2026 05:01:08 +0900",
-      "summary": "Six years after returning asteroid samples, Japan's Hayabusa2 probe is set to perform a high-speed flyby of another asteroid on the afternoon of the 5th.",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169481000.html",
+      "title": "野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ",
+      "title_ja": "皇室典範改正案をめぐる与野党の攻防",
+      "date": "Mon, 06 Jul 2026 05:06:05 +0900",
+      "summary": "As the Diet session's end approaches next week, the ruling coalition hopes to quickly debate and pass an Imperial House Law amendment, while opposition parties demand more budget committee sessions.",
       "sentences": [
         {
-          "en": "Six years after successfully delivering asteroid samples to Earth, Japan's space probe Hayabusa2 is still on its journey.",
-          "ja": "小惑星のサンプルを地球に送り届けてから6年が経ち、日本の探査機「はやぶさ2」は今もなお旅を続けています。"
+          "en": "With the current Diet session scheduled to end next week, negotiations between the ruling and opposition parties are intensifying.",
+          "ja": "来週に国会の会期末が迫る中、与野党の攻防が激しさを増しています。"
         },
         {
-          "en": "The probe is currently traveling toward its next destination in deep space.",
-          "ja": "探査機は現在、深宇宙にある次の目的地に向かって飛行しています。"
+          "en": "The ruling coalition aims to pass an amendment to the Imperial House Law before the session closes.",
+          "ja": "与党は、会期内に皇室典範の改正案を成立させることを目指しています。"
         },
         {
-          "en": "On the afternoon of the 5th, it will perform a \"flyby\" of a different asteroid.",
-          "ja": "5日の午後、はやぶさ2は別の小惑星のすぐ近くを通過する「フライバイ」を行います。"
+          "en": "This amendment is designed to secure a stable number of imperial family members for the future.",
+          "ja": "この改正案は、将来にわたって皇族の数を確保することを目的としています。"
         },
         {
-          "en": "During this operation, the spacecraft will pass by the asteroid at an extremely high speed.",
-          "ja": "この運用中、探査機は極めて速いスピードで小惑星のそばを通り抜けることになります。"
+          "en": "To achieve this, the ruling parties want to begin formal deliberations on the bill as soon as possible.",
+          "ja": "これに向けて、与党は早期に法案の審議入りをさせたい考えです。"
         },
         {
-          "en": "This mission aims to capture close-up images and collect new scientific data.",
-          "ja": "このミッションは、近接写真を撮影し、新たな科学データを収集することを目的としています。"
+          "en": "On the other hand, opposition parties are pushing back, demanding more time to debate other key issues.",
+          "ja": "一方、野党側は反発しており、他の重要課題について議論する時間を求めています。"
         },
         {
-          "en": "Researchers are highly anticipating the success of this challenging cosmic encounter.",
-          "ja": "研究者たちは、この挑戦的な宇宙での遭遇の成功に大きな期待を寄せています。"
+          "en": "Specifically, they have repeatedly requested intensive deliberations in the Budget Committee.",
+          "ja": "具体的には、予算委員会での集中審議などの開催を重ねて求めています。"
+        },
+        {
+          "en": "With very little time remaining, it is unclear whether both sides can reach an agreement before the deadline.",
+          "ja": "残された時間が少ない中、期日までに双方が合意に達することができるかは不透明です。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168971000.html",
-      "title": "イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も",
-      "title_ja": "ハメネイ師の葬儀と米イラン協議の一時中断",
-      "date": "Sun, 05 Jul 2026 06:16:46 +0900",
-      "summary": "Iran is holding a funeral for former Supreme Leader Khamenei, who was killed in a US-Israel attack, leading to a one-week suspension of peace talks between the US and Iran.",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169581000.html",
+      "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出",
+      "title_ja": "大坂なおみ、世界1位を破りウィンブルドン準々決勝へ",
+      "date": "Mon, 06 Jul 2026 06:17:11 +0900",
+      "summary": "Naomi Osaka has advanced to the quarterfinals of Wimbledon after a spectacular straight-sets victory over world number one Aryna Sabalenka.",
       "sentences": [
         {
-          "en": "In Iran, a funeral is being held for the former Supreme Leader Khamenei, who was killed in an attack by the United States and Israel.",
-          "ja": "イランでは、アメリカとイスラエルの攻撃により殺害された前最高指導者、ハメネイ師の葬儀が執り行われています。"
+          "en": "At the Wimbledon tennis championships, Japanese star Naomi Osaka achieved a stunning victory in the women's singles fourth round.",
+          "ja": "テニスの四大大会、ウィンブルドン選手権の女子シングルス4回戦で、日本のスター大坂なおみ選手が見事な勝利を収めました。"
         },
         {
-          "en": "The death of this key figure has further escalated the already high tensions in the region.",
-          "ja": "この重要人物の死により、地域におけるすでに高い緊張状態がさらに高まっています。"
+          "en": "She faced world number one Aryna Sabalenka in a highly anticipated matchup.",
+          "ja": "彼女は、大変注目された一戦で世界ランキング1位のアリーナ・サバレンカ選手と対戦しました。"
         },
         {
-          "en": "Amid these developments, the United States and Iran have reportedly agreed to temporarily pause their diplomatic talks.",
-          "ja": "こうした動きの中で、アメリカとイランは外交交渉を一時的に中断することに合意したと報じられています。"
+          "en": "Osaka delivered an outstanding performance, defeating Sabalenka in straight sets, two to zero.",
+          "ja": "大坂選手は素晴らしいプレーを見せ、セットカウント2対0のストレートでサバレンカ選手を破りました。"
         },
         {
-          "en": "The discussions, which are aimed at ending the current hostilities, will be suspended for one week.",
-          "ja": "現在の戦闘を終結させることを目的としたこの協議は、1週間中断される予定です。"
+          "en": "With this impressive win, she has successfully advanced to the quarterfinals of the tournament.",
+          "ja": "この見事な勝利により、彼女は同大会の準々決勝への進出を果たしました。"
         },
         {
-          "en": "This suspension is set to remain in place until the series of funeral ceremonies is completed.",
-          "ja": "この中断は、一連の葬儀日程が終了するまで維持されることになっています。"
+          "en": "Fans around the world are eagerly watching to see if she can maintain this momentum and claim the championship title.",
+          "ja": "世界中のファンが、彼女がこの勢いを維持して優勝を果たすことができるか、熱い視線を送っています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169001000.html",
-      "title": "ゼレンスキー大統領 ロシアによる東部要衝の掌握主張を否定",
-      "title_ja": "ウクライナ、東部要衝の支配をめぐるロシアの主張を否定",
-      "date": "Sun, 05 Jul 2026 06:36:59 +0900",
-      "summary": "Russia claimed to have captured a key stronghold in Ukraine's eastern Donetsk region, but President Zelenskyy denied this and reiterated his country's resistance by launching attacks on Russian oil facilities.",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169571000.html",
+      "title": "ハメネイ師葬儀 5日は後継者モジタバ師姿見せず 兄弟は参列",
+      "title_ja": "イラン前最高指導者の葬儀と後継者の不在",
+      "date": "Mon, 06 Jul 2026 05:36:25 +0900",
+      "summary": "Following the death of Iran's former Supreme Leader in a US-Israeli attack, his successor's brothers attended the funeral, but the successor himself has not been seen in public.",
       "sentences": [
         {
-          "en": "Russia recently announced that its forces have seized control of a key stronghold in Ukraine's eastern Donetsk region.",
-          "ja": "ロシアは最近、自国軍がウクライナ東部ドネツク州の要衝を掌握したと発表しました。"
+          "en": "A funeral has been held for Iran's former Supreme Leader Khamenei, who was killed in an attack by the United States and Israel.",
+          "ja": "アメリカとイスラエルによる攻撃で殺害された、イランの前の最高指導者ハメネイ師の葬儀が執り行われました。"
         },
         {
-          "en": "However, Ukrainian President Volodymyr Zelenskyy quickly denied this claim, stating that it is not true.",
-          "ja": "しかし、ウクライナのゼレンスキー大統領はこの主張を即座に否定し、事実ではないと述べました。"
+          "en": "The late leader's son, Mojtaba Khamenei, has been named as his successor.",
+          "ja": "亡くなった指導者の息子であるモジタバ・ハメネイ師が、後継の最高指導者とされています。"
         },
         {
-          "en": "To show their ongoing resistance, Ukraine has launched new attacks targeting Russian oil and infrastructure facilities.",
-          "ja": "抵抗姿勢を示し続けるため、ウクライナはロシアの石油施設やインフラ施設を標的とした新たな攻撃を行いました。"
+          "en": "While three of Mojtaba's brothers attended the funeral, Mojtaba himself was notably absent.",
+          "ja": "葬儀にはモジタバ師の兄弟3人が参列した一方で、モジタバ師本人の姿はありませんでした。"
         },
         {
-          "en": "Zelenskyy emphasized that Ukrainian forces will continue to fight back and defend their territory.",
-          "ja": "ゼレンスキー大統領は、ウクライナ軍が今後も反撃を続け、領土を守り抜くと強調しました。"
+          "en": "So far, there has been no public appearance or confirmed sighting of the new leader.",
+          "ja": "これまでのところ、新たな最高指導者であるモジタバ師が公の場に姿を現したという確認は取れていません。"
         },
         {
-          "en": "The situation remains highly tense as both sides struggle for control of these strategically important areas.",
-          "ja": "これらの戦略的に重要な地域の支配をめぐり、両国が争う中で、緊迫した状況が続いています。"
+          "en": "This absence has raised questions and speculation regarding the current situation within Iran's leadership.",
+          "ja": "この不在は、現在のイラン指導部内の状況に関する疑問や憶測を呼んでいます。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168851000.html",
-      "title": "サッカーW杯 ベスト16出そろう メッシなどエースの活躍 際立つ",
-      "title_ja": "W杯北中米大会、ベスト16が出揃う",
-      "date": "Sat, 04 Jul 2026 20:53:34 +0900",
-      "summary": "All first-round knockout matches of the FIFA World Cup in North America have concluded, with 16 teams—including Argentina and France—advancing to the next round.",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169591000.html",
+      "title": "ロシア軍の東部要衝掌握は「誇張」米戦争研究所の分析",
+      "title_ja": "ロシア軍の「要衝掌握」発表に米シンクタンクが異論",
+      "date": "Mon, 06 Jul 2026 05:54:43 +0900",
+      "summary": "A U.S. think tank has cast doubt on Russia's claim of capturing a key stronghold in eastern Ukraine, stating that the Russian military is exaggerating its battlefield achievements.",
       "sentences": [
         {
-          "en": "All of the first-round matches in the knockout stage of the FIFA World Cup in North America have now concluded.",
-          "ja": "サッカーのワールドカップ北中米大会は、決勝トーナメント1回戦のすべての試合が終了しました。"
+          "en": "Recently, Russia announced that its forces have seized a key strategic stronghold in the Donetsk region of eastern Ukraine.",
+          "ja": "最近、ロシアはウクライナ東部ドネツク州の要衝を自国軍が掌握したと発表しました。"
         },
         {
-          "en": "Sixteen teams have successfully advanced to the second round of the tournament.",
-          "ja": "16のチームが、無事に2回戦への進出を決めました。"
+          "en": "However, a prominent U.S. think tank has released a new analysis disputing this claim.",
+          "ja": "しかし、アメリカの著名なシンクタンクは、この主張に異を唱える新たな分析を公表しました。"
         },
         {
-          "en": "Among the qualifying teams are the defending champions Argentina, and the previous runners-up, France.",
-          "ja": "勝ち進んだチームの中には、前回大会覇者のアルゼンチンや、準優勝のフランスなどが含まれています。"
+          "en": "The think tank stated that Russia's announcement does not match the actual situation on the battlefield.",
+          "ja": "同シンクタンクは、ロシアの発表は戦場の実態と一致していないと述べています。"
         },
         {
-          "en": "Argentina's superstar Lionel Messi has been drawing immense attention as one of the top performing players in the tournament so far.",
-          "ja": "ここまでのところ、アルゼンチンのスーパースター、リオネル・メッシ選手がトップクラスの活躍を見せる選手として大きな注目を集めています。"
+          "en": "They suggested that the Russian military is exaggerating its achievements to project strength.",
+          "ja": "ロシア軍が自らの強さを誇示するために、成果を誇張しているのではないかと指摘しています。"
         },
         {
-          "en": "As the competition heats up, fans around the world are eagerly watching to see who will lift the trophy.",
-          "ja": "大会が熱を帯びる中、世界中のファンが、どのチームがトロフィーを手にするのかを固唾をのんで見守っています。"
+          "en": "Experts continue to monitor the region closely as intense fighting persists in eastern Ukraine.",
+          "ja": "ウクライナ東部で激しい戦闘が続く中、専門家は引き続きこの地域を注視しています。"
         }
       ]
     }
@@ -153,256 +161,256 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168941000.html",
-        "title": "【動画】Pickup NEWS(7月5日）",
-        "title_ja": "1分でわかる最新ニュース動画",
-        "date": "Sun, 05 Jul 2026 06:20:07 +0900",
-        "summary": "This lesson introduces a quick daily news format that summarizes the latest events in a one-minute video, while noting some viewing limitations.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169491000.html",
+        "title": "九州北部で非常に激しい雨が降るおそれ 土砂災害に厳重警戒を",
+        "title_ja": "九州北部で大雨、線状降水帯が発生",
+        "date": "Mon, 06 Jul 2026 05:56:56 +0900",
+        "summary": "An active seasonal rain front has brought heavy rainfall and linear rainbands to northern Kyushu, prompting warning of potential landslides.",
         "sentences": [
           {
-            "en": "Welcome to our quick daily update, where we bring you a summary of the latest news.",
-            "ja": "最新のニュースをまとめてお伝えする、デイリーアップデートへようこそ。"
+            "en": "An active seasonal rain front has brought heavy rainfall to northern Kyushu.",
+            "ja": "活発な梅雨前線の影響で、九州北部では大雨となっています。"
           },
           {
-            "en": "Today, we are presenting the key events of the day in a convenient one-minute video.",
-            "ja": "本日は、今日の主な出来事を便利な1分間の動画にまとめてお伝えします。"
+            "en": "On the 5th, a linear rainband developed in the region, triggering intense downpours.",
+            "ja": "5日には同地域で線状降水帯が発生し、激しい豪雨をもたらしました。"
           },
           {
-            "en": "This format is designed for busy people who want to catch up on the news quickly.",
-            "ja": "この形式は、ニュースを素早く把握したい忙しい人々のために設計されています。"
+            "en": "Weather officials warn that extremely heavy rain is expected to continue on the 6th as well.",
+            "ja": "6日も引き続き、非常に激しい雨が降るおそれがあります。"
           },
           {
-            "en": "Please note that this video playback feature is not available through data broadcasting.",
-            "ja": "なお、データ放送では動画の再生機能をご利用いただけませんのでご注意ください。"
+            "en": "Because of the rainfall so far, the ground in many areas has become loose and unstable.",
+            "ja": "これまでの雨により、各地で地盤が緩んで不安定になっています。"
           },
           {
-            "en": "We hope this bite-sized report helps you stay informed throughout your busy day.",
-            "ja": "この手軽なレポートが、忙しい一日の中でも皆様が最新情報を得るのに役立つことを願っています。"
+            "en": "Residents are urged to remain on high alert for potential landslides.",
+            "ja": "土砂災害に対して、厳重な警戒が必要です。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169021000.html",
-        "title": "岐阜 山県 洞泉寺で木製の仏像11体がなくなる 盗難被害か",
-        "title_ja": "岐阜の寺から仏像11体が紛失、警察が窃盗事件として捜査中",
-        "date": "Sun, 05 Jul 2026 06:13:09 +0900",
-        "summary": "Police have launched a theft investigation after eleven Buddhist statues went missing from Tosen-ji Temple in Gifu Prefecture.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015168401000.html",
+        "title": "マダニ媒介の感染症 SFTS患者数 過去最多の去年上回るペース",
+        "title_ja": "マダニ媒介の感染症「SFTS」患者数が過去最多ペースで増加",
+        "date": "Mon, 06 Jul 2026 04:52:16 +0900",
+        "summary": "The number of patients infected with SFTS, a tick-borne disease, has reached 83 in Japan this year, rising faster than last year's record pace. Experts are urging the public to take thorough precautions during outdoor activities.",
         "sentences": [
           {
-            "en": "Police in Gifu Prefecture have launched an investigation after eleven Buddhist statues were reported missing from a local temple.",
-            "ja": "岐阜県の寺から11体の仏像がなくなっているのが見つかり、県警が捜査を開始しました。"
+            "en": "The number of people infected with Severe Fever with Thrombocytopenia Syndrome, or SFTS, is rising rapidly in Japan this year.",
+            "ja": "マダニが媒介する感染症「SFTS」の今年の国内の感染者数が、急速に増加しています。"
           },
           {
-            "en": "The incident occurred at Tosen-ji Temple, located in the city of Yamagata.",
-            "ja": "被害があったのは、山県市にある洞泉寺です。"
+            "en": "According to recent reports, a total of 83 cases have been confirmed nationwide so far.",
+            "ja": "最近の報告によると、これまでに全国で合わせて83人の感染者が確認されています。"
           },
           {
-            "en": "Shortly after 7 a.m. on November 4th, the temple's chief priest noticed that the statues had disappeared.",
-            "ja": "11月4日の午前7時すぎ、住職が寺から仏像が消えていることに気づきました。"
+            "en": "This increase is happening at a faster pace than last year, which saw the highest number of cases on record.",
+            "ja": "この増加ペースは、過去最多の感染者数を記録した昨年を上回っています。"
           },
           {
-            "en": "The stolen items include historically valuable statues that have been cherished by the community for many years.",
-            "ja": "盗まれた物の中には、長年にわたり地域で大切にされてきた歴史的価値のある仏像も含まれています。"
+            "en": "SFTS is a serious viral infection transmitted to humans primarily through the bites of infectious ticks.",
+            "ja": "SFTSは、主にウイルスを持つマダニに噛まれることで人に感染する重篤なウイルス性感染症です。"
           },
           {
-            "en": "Police are currently treating the case as a theft and are looking for any witnesses or suspicious activity in the area.",
-            "ja": "警察は現在、この件を窃盗事件として捜査しており、周辺での目撃情報や不審な動きがないか調べています。"
+            "en": "In light of this trend, health experts are urging people to take strict preventive measures when spending time outdoors.",
+            "ja": "この傾向を受けて、専門家は野外で過ごす際には徹底した予防対策をとるよう強く呼びかけています。"
+          },
+          {
+            "en": "Simple precautions, such as wearing long sleeves and using insect repellent, can significantly reduce the risk of tick bites.",
+            "ja": "長袖を着用する、虫除けスプレーを使用するなどの簡単な対策で、マダニに噛まれるリスクを大幅に減らすことができます。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169021000.html",
-        "title": "岐阜 山県 洞泉寺で木製の仏像11体がなくなる 盗難被害か",
-        "title_ja": "岐阜県山県市の寺で仏像11体が盗難、警察が捜査中",
-        "date": "Sun, 05 Jul 2026 06:13:09 +0900",
-        "summary": "Police are investigating the theft of 11 Buddhist statues from Dosenji Temple in Yamagata City, Gifu Prefecture, after they were discovered missing by the chief priest.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015168401000.html",
+        "title": "マダニ媒介の感染症 SFTS患者数 過去最多の去年上回るペース",
+        "title_ja": "マダニ媒介の感染症「SFTS」が過去最多ペースで増加",
+        "date": "Mon, 06 Jul 2026 04:52:16 +0900",
+        "summary": "The number of SFTS infections transmitted by ticks in Japan has reached 83 this year, rising faster than last year's record pace, prompting experts to urge outdoor precautions.",
         "sentences": [
           {
-            "en": "Police in Gifu Prefecture are investigating after 11 Buddhist statues were reported stolen from a temple.",
-            "ja": "岐阜県の寺から11体の仏像が盗まれる事件があり、警察が捜査を進めています。"
+            "en": "The number of people infected with SFTS, a tick-borne infectious disease, is rising at a record pace in Japan this year.",
+            "ja": "日本国内で今年、マダニが媒介する感染症「SFTS」の感染者数が過去最多のペースで増加しています。"
           },
           {
-            "en": "The theft took place at Dosenji Temple in Yamagata City.",
-            "ja": "被害に遭ったのは、山県市にある洞泉寺です。"
+            "en": "According to recent reports, a total of 83 cases have been confirmed nationwide so far.",
+            "ja": "最近の報告によると、これまでに全国で合わせて83人の患者が確認されています。"
           },
           {
-            "en": "Shortly after 7:00 a.m. on the 4th, the chief priest discovered that the statues were missing from the temple.",
-            "ja": "4日の午前7時すぎ、住職が寺から仏像がなくなっていることに気づきました。"
+            "en": "This figure is increasing even faster than last year, which previously saw the highest number of infections on record.",
+            "ja": "この数字は、これまでで最も感染者数が多かった昨年を上回るペースで増え続けています。"
           },
           {
-            "en": "The police immediately began investigating the temple grounds as a crime scene.",
-            "ja": "通報を受けた警察は、事件現場としてただちに境内の捜査を始めました。"
+            "en": "SFTS is a serious illness transmitted through the bites of certain kinds of ticks often found in forests and grasslands.",
+            "ja": "SFTSは、主に森林や草地に生息するマダニに噛まれることで感染する深刻な病気です。"
           },
           {
-            "en": "They are currently looking into whether any suspicious individuals or vehicles were seen near the temple around that time.",
-            "ja": "警察は、当時、寺の周辺で不審な人物や車が目撃されていなかったかなどを調べています。"
+            "en": "In light of this increase, health experts are urging people to take thorough precautions when participating in outdoor activities.",
+            "ja": "この増加を受けて、専門家は野外で活動する際には感染対策を徹底するよう強く呼びかけています。"
           },
           {
-            "en": "Local residents have expressed deep sadness and concern over the loss of these precious statues.",
-            "ja": "大切な仏像が失われたことに対し、地域住民からは深い悲しみと不安の声が上がっています。"
+            "en": "They recommend wearing long sleeves and pants, and using insect repellent to prevent tick bites.",
+            "ja": "マダニに刺されるのを防ぐため、長袖や長ズボンを着用し、虫除けスプレーを使用することが推奨されています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
-        "title": "28人が犠牲 熱海土石流から5年で追悼式 遺族「まだ道半ば」",
-        "title_ja": "熱海・伊豆山土石流から5年、追悼式で遺族らが祈り",
-        "date": "Fri, 03 Jul 2026 19:31:11 +0900",
-        "summary": "A memorial service was held in Atami City, Shizuoka Prefecture, to honor the 28 victims of a devastating landslide on its fifth anniversary.",
+        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168941000.html",
+        "title": "【動画】Pickup NEWS(7月5日）",
+        "title_ja": "1分動画で見る最新ニュースのまとめ",
+        "date": "Sun, 05 Jul 2026 20:10:57 +0900",
+        "summary": "This lesson introduces a convenient news service that delivers a quick summary of the latest updates in a one-minute video format.",
         "sentences": [
           {
-            "en": "On July 3rd, a memorial ceremony was held in the Izusan district of Atami City, Shizuoka Prefecture.",
-            "ja": "静岡県熱海市の伊豆山地区で、7月3日に追悼式が執り行われました。"
+            "en": "Today, we are bringing you a quick summary of the latest news in a convenient one-minute video.",
+            "ja": "本日は、これまでに届いている最新ニュースを、便利な1分間の動画にまとめてお伝えします。"
           },
           {
-            "en": "This event marked five years since a devastating landslide struck the area, claiming the lives of 28 people.",
-            "ja": "この式典は、28人の命を奪った大規模な土石流の発生から5年を迎えたことで開かれたものです。"
+            "en": "This format is perfect for busy people who want to catch up on the day's main events quickly.",
+            "ja": "この形式は、その日の主要な出来事を素早く把握したい忙しい方に最適です。"
           },
           {
-            "en": "Bereaved families and local residents gathered at the site to offer silent prayers and flowers for the victims.",
-            "ja": "遺族や地域住民らが現地に集まり、犠牲者に向けて黙祷を捧げ、花を手向けました。"
+            "en": "In just sixty seconds, you can get a clear overview of the most important topics.",
+            "ja": "わずか60秒で、最も重要なトピックの明確な概要を知ることができます。"
           },
           {
-            "en": "The disaster originally occurred on July 3rd, 2021, following days of torrential rain.",
-            "ja": "この災害は、連日の大雨の後、2021年7月3日に発生しました。"
+            "en": "However, please keep in mind that these videos cannot be viewed on data broadcasting.",
+            "ja": "ただし、データ放送では動画をご覧いただけませんのでご注意ください。"
           },
           {
-            "en": "While the community continues its long journey toward recovery, the emotional scars left by the tragedy remain deep.",
-            "ja": "地域社会は復興に向けた長い道のりを歩み続けていますが、悲劇が残した心の傷は今もなお深いままです。"
-          },
-          {
-            "en": "Participants pledged never to forget the disaster and to pass on its lessons to future generations.",
-            "ja": "参列者たちは災害を決して忘れず、その教訓を未来の世代へと引き継いでいくことを誓いました。"
+            "en": "We hope this daily summary helps you stay informed even on your busiest days.",
+            "ja": "この毎日のまとめが、最も忙しい日であっても皆様が最新情報を得る助けになることを願っています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
-        "title": "はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ",
-        "title_ja": "はやぶさ2、新たな小惑星へ高速フライバイを実施",
-        "date": "Sun, 05 Jul 2026 05:01:08 +0900",
-        "summary": "Japan's space probe Hayabusa2 is scheduled to perform a high-speed flyby of another asteroid as it continues its journey after delivering samples to Earth six years ago.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
+        "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
+        "title_ja": "モスクワ国際バレエコンクールで東京出身のグジェレフ瞭舞さんが1位獲得",
+        "date": "Mon, 06 Jul 2026 05:58:11 +0900",
+        "summary": "Ryouma Gujerev, a dancer from Tokyo, has won first place in the Male Senior Solo category at the prestigious 15th Moscow International Ballet Competition.",
         "sentences": [
           {
-            "en": "Six years ago, Japan's space probe, Hayabusa2, successfully delivered asteroid samples back to Earth.",
-            "ja": "6年前、日本の探査機「はやぶさ2」は、小惑星のサンプルを地球に送り届けることに成功しました。"
+            "en": "The winners of the Moscow International Ballet Competition, one of the world's most prestigious ballet contests, have been announced.",
+            "ja": "世界の主要なバレエコンクールの1つである、モスクワ国際バレエコンクールの受賞者が発表されました。"
           },
           {
-            "en": "Since then, the spacecraft has been continuing its long journey toward its next destination in space.",
-            "ja": "それ以来、この探査機は宇宙の次の目的地に向けて、長い旅を続けています。"
+            "en": "Ryouma Gujerev, a talented dancer from Tokyo, won first place in the Male Senior Solo category.",
+            "ja": "東京都出身の才能あるダンサー、グジェレフ瞭舞さんが、男性シニア部門ソロで1位に選ばれました。"
           },
           {
-            "en": "On the afternoon of the 5th, Hayabusa2 will perform a maneuver known as a 'flyby.'",
-            "ja": "5日の午後、はやぶさ2は「フライバイ」と呼ばれる航行を行います。"
+            "en": "This outstanding achievement took place at the 15th edition of this highly competitive event.",
+            "ja": "この素晴らしい快挙は、競争率の非常に高い同コンクールの第15回大会で達成されました。"
           },
           {
-            "en": "During this event, it will pass extremely close to a different asteroid at a very high speed.",
-            "ja": "この運用の間、探査機は別の小惑星のすぐそばを極めて速いスピードで通過します。"
+            "en": "The competition is widely recognized as a gateway to success for top-level dancers worldwide.",
+            "ja": "このコンクールは、世界中のトップレベルのダンサーにとっての登竜門として広く知られています。"
           },
           {
-            "en": "This challenging mission will test the probe's advanced navigation technologies once again.",
-            "ja": "この困難なミッションは、探査機の高度な航行技術を再び試すことになります。"
+            "en": "Gujerev's performance captivated the judges and audience alike, earning him high praise.",
+            "ja": "グジェレフさんのパフォーマンスは審査員と観客の双方を魅了し、高い評価を得ました。"
           },
           {
-            "en": "Space enthusiasts around the world are closely watching to see what new discoveries this journey will bring.",
-            "ja": "世界中の宇宙ファンが、この旅がどのような新たな発見をもたらすのかを注視しています。"
+            "en": "This victory is expected to greatly boost his future career on the international stage.",
+            "ja": "今回の優勝により、彼の今後の国際舞台でのキャリアが大きく飛躍することが期待されています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168491000.html",
-        "title": "「尾高賞」に我妻英さんの「管弦楽のための《祀》」が選ばれる",
-        "title_ja": "尾高賞に作曲家の我妻英氏が選出",
-        "date": "Sat, 04 Jul 2026 04:40:44 +0900",
-        "summary": "Composer Akira Wagatsuma has been awarded this year's Otaka Prize, a prestigious classical music award established by the NHK Symphony Orchestra.",
+        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
+        "title": "はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA",
+        "title_ja": "はやぶさ2、小惑星のフライバイに成功",
+        "date": "Sun, 05 Jul 2026 21:41:16 +0900",
+        "summary": "Japan's space probe Hayabusa2 has successfully performed a high-speed flyby of another asteroid as it continues its extended mission in deep space.",
         "sentences": [
           {
-            "en": "This year's Otaka Prize, which is awarded to outstanding Japanese orchestral works, has been won by composer Akira Wagatsuma.",
-            "ja": "国内の優れたオーケストラ作品に贈られる今年の「尾高賞」に、作曲家の我妻英さんの作品が選ばれました。"
+            "en": "Japan's space probe, Hayabusa2, has successfully performed a \"flyby,\" passing very close to another asteroid at an extremely high speed.",
+            "ja": "日本の宇宙探査機「はやぶさ2」が、別の小惑星のすぐそばを極めて速いスピードで通過する「フライバイ」に成功しました。"
           },
           {
-            "en": "The Otaka Prize is a highly prestigious award in the Japanese classical music world.",
-            "ja": "尾高賞は、日本のクラシック音楽界において非常に権威のある賞です。"
+            "en": "According to the Japan Aerospace Exploration Agency, also known as JAXA, this event occurred on the afternoon of the 5th.",
+            "ja": "宇宙航空研究開発機構（JAXA）によると、この通過は5日の午後に行われました。"
           },
           {
-            "en": "It was established by the NHK Symphony Orchestra to honor the achievements of Hisatada Otaka.",
-            "ja": "この賞は、尾高尚忠氏の功績をたたえて、NHK交響楽団によって創設されました。"
+            "en": "Six years ago, the probe made headlines by successfully delivering asteroid samples back to Earth.",
+            "ja": "6年前、この探査機は小惑星のサンプルを地球に送り届けて大きなニュースとなりました。"
           },
           {
-            "en": "Otaka was a prominent composer who once served as the orchestra's full-time conductor.",
-            "ja": "尾高氏は、かつて同楽団の専任指揮者も務めた著名な作曲家でした。"
+            "en": "Since completing that mission, Hayabusa2 has been continuing its long journey toward its next destination.",
+            "ja": "そのミッションを完了して以来、「はやぶさ2」は次の目的地に向けて宇宙の長い旅を続けています。"
           },
           {
-            "en": "Every year, the prize recognizes exceptional new orchestral pieces composed by Japanese artists.",
-            "ja": "毎年、日本人によって作曲された優れた新しいオーケストラ作品がこの賞に選ばれています。"
+            "en": "This recent high-speed flyby is a key milestone in its current extended mission.",
+            "ja": "今回の高速フライバイは、現在の延長ミッションにおける重要な節目となります。"
           },
           {
-            "en": "Winning this award is considered a major milestone and a great honor for any composer in Japan.",
-            "ja": "この賞を受賞することは、日本の作曲家にとって活動の大きな節目であり、大変な名誉とされています。"
+            "en": "JAXA plans to analyze the data collected during this close encounter to gain new insights into our solar system.",
+            "ja": "JAXAは、太陽系に関する新たな知見を得るために、この接近時に収集されたデータを分析する予定です。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168871000.html",
-        "title": "自民 萩生田氏“審議再開に向けて 野党との協議に謙虚に臨む”",
-        "title_ja": "与野党対立の中、自民・萩生田氏が皇室典範改正案の今国会成立を強調",
-        "date": "Sat, 04 Jul 2026 18:26:51 +0900",
-        "summary": "Koichi Hagiuda of the LDP has emphasized the need to pass the Imperial House Law amendment during the current Diet session, pledging a humble approach in upcoming talks with opposition parties.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169481000.html",
+        "title": "野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ",
+        "title_ja": "皇室典範改正を巡る国会の攻防",
+        "date": "Mon, 06 Jul 2026 05:06:05 +0900",
+        "summary": "As the Diet session approaches its end next week, the ruling party aims to pass an amendment to secure the number of Imperial Family members, while opposition parties demand intensive budget committee hearings.",
         "sentences": [
           {
-            "en": "Tensions continue to run high between the ruling and opposition parties in Japan's parliament, the Diet.",
-            "ja": "日本の国会では、与野党の間で緊張状態が続いています。"
+            "en": "As the current Diet session is set to end next week, the ruling coalition is aiming to pass an amendment to the Imperial House Law before the deadline.",
+            "ja": "国会の会期末が来週に迫る中、与党は会期内に皇室典範の改正案を成立させることを目指しています。"
           },
           {
-            "en": "Amid this ongoing confrontation, Koichi Hagiuda, the Acting Secretary-General of the Liberal Democratic Party, made a key statement.",
-            "ja": "この対立が続く中、自民党の萩生田幹事長代行が重要な発言をしました。"
+            "en": "The proposed amendment seeks to secure a stable number of Imperial Family members for the future.",
+            "ja": "この改正案は、将来にわたって安定的な皇族数を確保することを目的としています。"
           },
           {
-            "en": "He emphasized the urgent need to pass several bills, including a proposed amendment to the Imperial House Law, during the current Diet session.",
-            "ja": "同氏は、現在の国会で皇室典範の改正案などを含む複数の法案を成立させる必要性があると強調しました。"
+            "en": "To achieve this, the ruling parties want to begin deliberations on the bill as early as possible.",
+            "ja": "これを実現するため、与党側は早期に法案の審議入りをさせたい考えです。"
           },
           {
-            "en": "To achieve this, he expressed his willingness to approach talks with the opposition parties in a humble and cooperative manner.",
-            "ja": "これらを実現するため、同氏は野党との協議に謙虚かつ協調的な姿勢で臨む意向を示しました。"
+            "en": "On the other hand, opposition parties are demanding intensive deliberations in the Budget Committee first.",
+            "ja": "一方、野党側は、まずは予算委員会での集中審議を行うよう重ねて求めています。"
           },
           {
-            "en": "With deliberations set to resume next week, many are watching closely to see if the two sides can reach a compromise.",
-            "ja": "来週から審議が再開される予定であり、与野党が妥協点を見出せるかどうかに注目が集まっています。"
+            "en": "This clash of priorities has created tension between the government and opposition groups as the session's end approaches.",
+            "ja": "会期末が近づく中、この優先順位の対立が政府・与党と野党側の間の緊張を生み出しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168861000.html",
-        "title": "高市首相がジュエリー賞受賞 “日本製品のすばらしさ発信を”",
-        "title_ja": "高市首相、ジュエリーベストドレッサー賞を受賞し、日本製品をアピール",
-        "date": "Sat, 04 Jul 2026 17:37:31 +0900",
-        "summary": "Prime Minister Takaichi has received this year's Japan Jewelry Best Dresser Award, expressing her commitment to promoting the high quality and craftsmanship of Japanese jewelry to the world.",
+        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015167281000.html",
+        "title": "滋賀県知事選 現職の三日月大造氏が新人3人抑え4回目の当選",
+        "title_ja": "滋賀県知事選挙、現職の三日月氏が4選を果たす",
+        "date": "Mon, 06 Jul 2026 04:47:47 +0900",
+        "summary": "Incumbent Taizo Mikazuki won his fourth term as the governor of Shiga Prefecture, defeating three newcomers in the recent election.",
         "sentences": [
           {
-            "en": "Prime Minister Takaichi has received this year's \"Japan Jewelry Best Dresser Award.\"",
-            "ja": "高市総理大臣が、今年の「日本ジュエリーベストドレッサー賞」を受賞しました。"
+            "en": "On the 5th, the Shiga Prefecture gubernatorial election was held, and the votes have been counted.",
+            "ja": "5日に滋賀県知事選挙の投開票が行われました。"
           },
           {
-            "en": "During her speech, she expressed her strong desire to promote the excellence of Japanese products to the global market.",
-            "ja": "スピーチの中で、高市総理は日本製品の素晴らしさを世界市場に向けて発信していきたいという強い思いを語りました。"
+            "en": "The incumbent governor, 55-year-old Taizo Mikazuki, defeated three newcomers to secure his fourth term in office.",
+            "ja": "現職で55歳の三日月大造氏が3人の新人を抑え、4回目の当選を果たしました。"
           },
           {
-            "en": "In particular, she highlighted Japanese jewelry, which is highly regarded for its exquisite craftsmanship and advanced technology.",
-            "ja": "特に彼女は、優れた職人技と高度な技術が高く評価されている日本の宝飾品を強調しました。"
+            "en": "Running as an independent, Mikazuki won the election with a total of 297,036 votes.",
+            "ja": "無所属の三日月氏は、合計29万7,036票を獲得して当選を決めました。"
           },
           {
-            "en": "This prestigious award has a long history of honoring outstanding individuals who look best in fine jewelry.",
-            "ja": "この権威ある賞には長い歴史があり、美しいジュエリーが最も似合う優れた人々を称えてきました。"
+            "en": "His victory reflects the voters' support for his continued leadership in local administration.",
+            "ja": "彼の勝利は、地方行政における継続的な指導力に対する有権者の支持を反映しています。"
           },
           {
-            "en": "Through this recognition, the Prime Minister hopes to shine a spotlight on Japan's manufacturing capabilities.",
-            "ja": "この受賞を通じて、総理は日本のものづくりの実力に光を当てたいと考えています。"
+            "en": "Mikazuki will now lead the prefecture for another four-year term.",
+            "ja": "三日月氏はこれから、さらに4年間の任期にわたり県政を担うことになります。"
           }
         ]
       }
@@ -411,190 +419,186 @@
       {
         "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168891000.html",
         "title": "マイクロン 広島で工場拡張の起工式 生成AIなどの半導体量産へ",
-        "title_ja": "マイクロンテクノロジー、生成AI向け先端半導体量産へ広島工場を拡張",
+        "title_ja": "マイクロン、広島工場の拡張工事を開始 生成AI向け最先端半導体の量産へ",
         "date": "Sat, 04 Jul 2026 18:56:35 +0900",
-        "summary": "US chipmaker Micron Technology has started expanding its Hiroshima plant to mass-produce advanced semiconductors used in generative AI.",
+        "summary": "US semiconductor giant Micron Technology has started expanding its Hiroshima factory to mass-produce advanced chips for generative AI, holding a groundbreaking ceremony on the 4th.",
         "sentences": [
           {
-            "en": "Micron Technology, a major US semiconductor manufacturer, has begun expanding its factory in Hiroshima Prefecture.",
-            "ja": "アメリカの半導体大手、マイクロンテクノロジーは、広島県にある工場の拡張工事に着手しました。"
+            "en": "US chipmaker Micron Technology has started expanding its manufacturing plant in Hiroshima Prefecture.",
+            "ja": "アメリカの半導体大手マイクロンテクノロジーは、広島県にある工場の拡張工事に着手しました。"
           },
           {
-            "en": "A groundbreaking ceremony was held at the site on October 4th to mark the start of construction.",
-            "ja": "着工を記念して、10月4日に現地で起工式が行われました。"
+            "en": "This expansion project aims to mass-produce next-generation semiconductors used in generative AI.",
+            "ja": "この拡張工事は、生成AIなどに使用される次世代半導体の量産を目指したものです。"
           },
           {
-            "en": "The company aims to mass-produce advanced memory chips that are crucial for generative AI technologies.",
-            "ja": "同社は、生成AI技術に不可欠な最先端のメモリ半導体の量産を目指しています。"
+            "en": "A groundbreaking ceremony was held at the site on the 4th to officially mark the start of construction.",
+            "ja": "4日には現地で起工式が行われ、正式に工事が開始されました。"
           },
           {
-            "en": "This expansion is expected to play a key role in strengthening the global supply chain for high-tech components.",
-            "ja": "この拡張工事は、ハイテク部品のグローバルなサプライチェーンを強化する上で重要な役割を果たすと期待されています。"
+            "en": "With the rapid rise of AI technology, demand for high-performance memory chips has been growing worldwide.",
+            "ja": "AI技術の急速な台頭に伴い、高性能メモリチップの需要は世界中で高まっています。"
           },
           {
-            "en": "It also highlights the growing cooperation between Japan and the United States in the semiconductor industry.",
-            "ja": "また、これは半導体分野における日米の協力関係の深まりを浮き彫りにしています。"
+            "en": "Micron's latest investment in Japan is expected to secure a stable supply of these critical components.",
+            "ja": "今回のマイクロンによる日本への投資は、これらの重要な部品の安定供給を確保することにつながると期待されています。"
+          },
+          {
+            "en": "The project is also seen as a significant boost to the local economy and job creation in the region.",
+            "ja": "このプロジェクトは、地域経済の活性化や新たな雇用創出への大きな後押しとしても注目されています。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
         "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
-        "title_ja": "関西経済界の代表団、10月に訪中へ調整中",
+        "title_ja": "関西経済界の代表団、10月に中国訪問へ",
         "date": "Fri, 03 Jul 2026 21:39:59 +0900",
-        "summary": "Amid strained Japan-China relations, a business delegation from the Kansai region is planning a visit to China this October to seek dialogue with government officials.",
+        "summary": "A business delegation from Japan's Kansai region is planning to visit China in October to hold talks with government officials, aiming to strengthen economic ties despite strained political relations.",
         "sentences": [
           {
-            "en": "Amid tense relations between Japan and China, a business delegation from Japan's Kansai region is planning to visit China this October.",
-            "ja": "日中関係が緊迫する中、関西の経済界の代表団が、今年10月に中国を訪問する計画を進めています。"
+            "en": "Amid worsening relations between Japan and China, a business delegation from the Kansai region is planning to visit China this October.",
+            "ja": "日中関係が悪化する中、関西の経済界の代表団が今年10月に中国を訪問する方向で調整を進めていることが分かりました。"
           },
           {
-            "en": "According to sources, arrangements are currently being made for this upcoming visit.",
-            "ja": "関係者によると、今回の訪問に向けて現在調整が進められています。"
+            "en": "According to sources, the delegation is currently making final arrangements for the trip.",
+            "ja": "関係者への取材によると、代表団は現在、訪問に向けた調整を行っています。"
           },
           {
-            "en": "The delegation aims to hold high-level talks with Chinese government officials during their trip.",
-            "ja": "代表団は、滞在中に中国政府の高官らと会談を行うことを目指しています。"
+            "en": "They hope to meet with high-ranking Chinese government officials to discuss economic cooperation.",
+            "ja": "彼らは中国政府の幹部らと会談し、経済協力について話し合いたいと考えています。"
           },
           {
-            "en": "They hope to discuss ways to maintain economic cooperation despite the current diplomatic friction.",
-            "ja": "外交的な摩擦がある中でも、経済協力を維持する方法について話し合いたい考えです。"
+            "en": "Although political tensions remain high, business leaders emphasize the importance of maintaining active dialogue.",
+            "ja": "政治的な緊張は依然として高いものの、経済界のリーダーたちは活発な対話を維持することの重要性を強調しています。"
           },
           {
-            "en": "However, some experts wonder whether the visit will lead to any concrete or meaningful outcomes.",
-            "ja": "しかし、今回の訪問が何か具体的で有意義な成果につながるかどうかについては、疑問視する専門家もいます。"
-          },
-          {
-            "en": "Still, maintaining a dialogue between the business sectors of both nations is seen as a crucial step for regional stability.",
-            "ja": "それでもなお、両国の経済界の間で対話を維持することは、地域の安定に向けた重要な一歩とみなされています。"
+            "en": "The delegation aims to achieve concrete results that could help stabilize business relations between the two countries.",
+            "ja": "代表団は、両国間のビジネス関係を安定させるのに役立つ具体的な成果を得ることを目指しています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168981000.html",
-        "title": "アメリカ建国250年 各地で祝賀イベント 政権に抗議の声も",
-        "title_ja": "米国独立記念日：建国250年の節目と揺れる民主主義",
-        "date": "Sun, 05 Jul 2026 06:57:20 +0900",
-        "summary": "The United States marked its Independence Day with nationwide celebrations, but the milestone was also met with protests concerning the state of American democracy.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169511000.html",
+        "title": "【動画】Pickup NEWS(7月6日）",
+        "title_ja": "1分でわかる最新ニュースのまとめ動画",
+        "date": "Mon, 06 Jul 2026 06:39:37 +0900",
+        "summary": "This lesson introduces a quick one-minute video format designed to help busy viewers stay updated on the latest news.",
         "sentences": [
           {
-            "en": "On July 4th, the United States celebrated Independence Day, marking the milestone of the nation's 250th anniversary.",
-            "ja": "アメリカは7月4日、建国250年の節目となる独立記念日を迎えました。"
+            "en": "We present a quick summary of the latest news in a one-minute video.",
+            "ja": "これまでに入っている最新のニュースを、1分間の動画にまとめてお伝えします。"
           },
           {
-            "en": "While festive events were held in various locations, there were also voices of protest against the Trump administration.",
-            "ja": "各地で祝賀イベントが行われた一方で、トランプ政権への抗議の声も上がりました。"
+            "en": "This format allows you to easily catch up on today's key events even when you are busy.",
+            "ja": "この形式なら、忙しい時でも今日の主要な出来事を簡単に把握することができます。"
           },
           {
-            "en": "Demonstrators expressed concern that the democracy and freedom America has long stood for are now under threat.",
-            "ja": "抗議者たちは、アメリカがこれまで掲げてきた民主主義や自由が脅かされていると懸念を示しました。"
+            "en": "Please note that this video content may not be available on some platforms, such as data broadcasting.",
+            "ja": "なお、データ放送など一部の配信環境では、動画をご覧いただけない場合がありますのでご注意ください。"
           },
           {
-            "en": "These opposing viewpoints highlighted the deep political divisions currently facing the country.",
-            "ja": "これらの対立する視点は、現在アメリカが直面している深い政治的分断を浮き彫りにしました。"
+            "en": "You can access our regular text updates and audio reports at any time.",
+            "ja": "通常のテキスト記事や音声リポートには、いつでもアクセスしていただけます。"
           },
           {
-            "en": "As the nation celebrated its history, citizens reflected on both its achievements and its ongoing challenges.",
-            "ja": "国がその歴史を祝う中で、市民はこれまでの功績と現在も続く課題の双方に思いを馳せました。"
+            "en": "Stay informed with our quick daily updates to keep track of what is happening around the world.",
+            "ja": "世界で何が起きているのかを把握するために、日々の素早いニュース更新をぜひご活用ください。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169001000.html",
-        "title": "ゼレンスキー大統領 ロシアによる東部要衝の掌握主張を否定",
-        "title_ja": "ロシアの要衝掌握発表にウクライナ大統領が反論、石油施設を攻撃",
-        "date": "Sun, 05 Jul 2026 06:36:59 +0900",
-        "summary": "Russia announced it captured a strategic point in Donetsk, but Ukrainian President Zelenskyy denied the claim and reiterated his commitment to resist by targeting Russian oil facilities.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
+        "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
+        "title_ja": "モスクワ国際バレエコンクールでグジェレフ瞭舞さんが1位を獲得",
+        "date": "Mon, 06 Jul 2026 05:58:11 +0900",
+        "summary": "A Japanese dancer from Tokyo, Ryoma Gusheref, won first place in the male senior solo category at the prestigious 15th Moscow International Ballet Competition.",
         "sentences": [
           {
-            "en": "Russia recently announced that its forces have captured a key strategic stronghold in the Donetsk region of eastern Ukraine.",
-            "ja": "ロシアは最近、ウクライナ東部ドネツク州の重要な要衝を自国軍が掌握したと発表しました。"
+            "en": "The winners of the 15th Moscow International Ballet Competition, one of the most prestigious ballet contests in the world, have been announced.",
+            "ja": "世界で最も権威のあるバレエコンクールの1つ、第15回モスクワ国際バレエコンクールの受賞者が発表されました。"
           },
           {
-            "en": "However, Ukrainian President Volodymyr Zelenskyy strongly denied this claim, calling it \"not true.\"",
-            "ja": "しかし、ウクライナのゼレンスキー大統領はこの主張を強く否定し、「事実ではない」と述べました。"
+            "en": "In the male senior solo category, Ryoma Gusheref, a talented dancer from Tokyo, won the first-place prize.",
+            "ja": "男性シニア部門のソロでは、東京都出身の実力派ダンサー、グジェレフ瞭舞さんが1位に選ばれました。"
           },
           {
-            "en": "He emphasized that Ukrainian forces are continuing to defend their positions in the area.",
-            "ja": "同大統領は、ウクライナ軍がその地域で引き続き陣地を守り続けていることを強調しました。"
+            "en": "This international competition is highly regarded and serves as a major gateway to success for young dancers worldwide.",
+            "ja": "この国際コンクールは非常に高く評価されており、世界中の若いダンサーにとって成功への大きな登竜門となっています。"
           },
           {
-            "en": "In response to the ongoing conflict, Ukraine has launched new attacks targeting Russian infrastructure.",
-            "ja": "続く紛争への対抗措置として、ウクライナはロシアのインフラを標的とした新たな攻撃を開始しました。"
+            "en": "Gusheref's outstanding technique and expressive performance captivated both the judges and the audience.",
+            "ja": "グジェレフさんの優れた技術と表現力豊かなパフォーマンスは、審査員と観客の双方を魅了しました。"
           },
           {
-            "en": "Specifically, Ukrainian forces have recently struck several Russian oil and energy facilities.",
-            "ja": "具体的には、ウクライナ軍は最近、ロシアの複数の石油・エネルギー関連施設を攻撃しました。"
-          },
-          {
-            "en": "With these actions, President Zelenskyy reiterated Ukraine's firm commitment to resisting Russian forces.",
-            "ja": "これらの行動を通じて、ゼレンスキー大統領はロシア軍に対抗していくというウクライナの確固たる姿勢を重ねて示しました。"
+            "en": "His victory brings great pride to the Japanese ballet community and is expected to inspire many young artists.",
+            "ja": "彼の勝利は日本のバレエ界に大きな誇りをもたらし、多くの若いアーティストにインスピレーションを与えることが期待されています。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169031000.html",
-        "title": "サッカーW杯 モロッコがベスト8へ カナダに勝利 ウナヒが2得点",
-        "title_ja": "W杯：モロッコがカナダに3対0で完勝し、準々決勝に進出",
-        "date": "Sun, 05 Jul 2026 05:45:28 +0900",
-        "summary": "Morocco has secured a spot in the quarterfinals of the World Cup in North and Central America after defeating Canada 3-0 in the round of 16.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169601000.html",
+        "title": "ウィンブルドン 望月慎太郎は世界1位シナーに敗れる",
+        "title_ja": "ウィンブルドン：望月慎太郎、世界1位シナーにストレート負け",
+        "date": "Mon, 06 Jul 2026 06:33:07 +0900",
+        "summary": "Japanese tennis player Shintaro Mochizuki, ranked 151st in the world, lost in straight sets to world No. 1 Jannik Sinner in the fourth round at Wimbledon.",
         "sentences": [
           {
-            "en": "In the soccer World Cup hosted in North and Central America, the knockout stage has begun to determine the top eight teams.",
-            "ja": "北中米で開催されているサッカーワールドカップは、ベスト8進出をかけた決勝トーナメントが始まりました。"
+            "en": "In tennis, Shintaro Mochizuki faced a tough challenge in the men's singles fourth round at the Wimbledon Championships.",
+            "ja": "テニスのウィンブルドン選手権男子シングルス4回戦で、望月慎太郎選手が厳しい試練に挑みました。"
           },
           {
-            "en": "In the second round of the knockout stage, Canada faced off against Morocco.",
-            "ja": "決勝トーナメントの2回戦では、カナダとモロッコが対戦しました。"
+            "en": "Mochizuki, who is currently ranked 151st in the world, went up against the world number one, Jannik Sinner.",
+            "ja": "現在世界ランキング151位の望月選手は、世界トップのヤニック・シナー選手と対戦しました。"
           },
           {
-            "en": "Morocco played an outstanding match, securing a decisive three-to-zero victory over Canada.",
-            "ja": "モロッコは見事な試合を展開し、カナダに3対0で完勝しました。"
+            "en": "The highly anticipated match took place on the historic Centre Court.",
+            "ja": "大きな期待を集めたこの試合は、歴史あるセンターコートで行われました。"
           },
           {
-            "en": "With this impressive win, Morocco has successfully advanced to the quarterfinals.",
-            "ja": "この見事な勝利により、モロッコは見事に準々決勝へと駒を進めました。"
+            "en": "Despite Mochizuki's best efforts, Sinner showed dominant form throughout the game.",
+            "ja": "望月選手が全力を尽くしたものの、シナー選手は試合を通じて圧倒的な強さを見せました。"
           },
           {
-            "en": "Football fans are eagerly waiting to see if Morocco can keep up this momentum in their next match.",
-            "ja": "サッカーファンは、モロッコが次の試合でもこの勢いを維持できるかどうかに注目しています。"
+            "en": "In the end, Mochizuki was defeated in straight sets with a score of zero to three.",
+            "ja": "最終的に、望月選手はセットカウント0対3のストレートで敗れました。"
+          },
+          {
+            "en": "Although it was a tough loss, playing on Centre Court against the world's best will surely be a valuable experience for his career.",
+            "ja": "厳しい敗戦となりましたが、世界一の選手を相手にセンターコートでプレーしたことは、彼の今後のキャリアにとって間違いなく貴重な経験となるでしょう。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260628/k10015163051000.html",
-        "title": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 8強かけて",
-        "title_ja": "ワールドカップ北中米大会、決勝トーナメント2回戦がスタート",
-        "date": "Sun, 05 Jul 2026 01:48:41 +0900",
-        "summary": "The second round of the FIFA World Cup knockout stage begins on July 5th Japan time, and we will provide continuous updates with match schedules, results, and two-minute highlights.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169581000.html",
+        "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出",
+        "title_ja": "大坂なおみ、世界1位サバレンカを破りウィンブルドン準々決勝へ",
+        "date": "Mon, 06 Jul 2026 06:17:11 +0900",
+        "summary": "Naomi Osaka has advanced to the quarterfinals at Wimbledon after a stunning straight-sets victory over world number one Aryna Sabalenka.",
         "sentences": [
           {
-            "en": "The FIFA World Cup in North America is entering an exciting new phase.",
-            "ja": "サッカーの北中米ワールドカップは、エキサイティングな新しい局面を迎えています。"
+            "en": "In exciting tennis news, Naomi Osaka has secured a major victory at the Wimbledon Championships.",
+            "ja": "テニス界の素晴らしいニュースとして、大坂なおみ選手がウィンブルドン選手権で大きな勝利を収めました。"
           },
           {
-            "en": "Starting July 5th, Japan time, the second round of the knockout stage will begin to determine who advances to the quarter-finals.",
-            "ja": "日本時間の7月5日から、ベスト8進出をかけた決勝トーナメント2回戦が始まります。"
+            "en": "In the fourth round of the women's singles, she faced Aryna Sabalenka, the world's number-one ranked player.",
+            "ja": "女子シングルス4回戦で、彼女は世界ランキング1位のアリーナ・サバレンカ選手と対戦しました。"
           },
           {
-            "en": "Football fans around the world are eagerly watching to see which teams will make it to the top eight.",
-            "ja": "世界中のサッカーファンが、どのチームがベスト8に進出するのかを熱心に見守っています。"
+            "en": "Osaka delivered a dominant performance, defeating her opponent in straight sets with a score of two to zero.",
+            "ja": "大坂選手は圧倒的なプレーを見せ、セットカウント2対0のストレートで相手を下しました。"
           },
           {
-            "en": "To keep you informed, we will constantly update the tournament schedule and match results.",
-            "ja": "皆様に最新情報をお届けするため、大会日程と試合結果を随時更新してお伝えします。"
+            "en": "With this impressive win, the Japanese star has successfully advanced to the quarterfinals.",
+            "ja": "この見事な勝利により、この日本のスター選手は見事に準々決勝進出を果たしました。"
           },
           {
-            "en": "Along with the latest scores, we will also provide two-minute highlight videos for each game.",
-            "ja": "最新のスコアに加えて、各試合の2分間のハイライト映像もお届けします。"
-          },
-          {
-            "en": "Please check back often so you do not miss any of the dramatic moments.",
-            "ja": "ドラマチックな瞬間を見逃さないよう、ぜひ頻繁にチェックしてください。"
+            "en": "Fans and commentators are now watching closely to see if she can claim another Grand Slam title.",
+            "ja": "ファンや解説者たちは、彼女が再び四大大会のタイトルを獲得できるかどうかに注目しています。"
           }
         ]
       }
