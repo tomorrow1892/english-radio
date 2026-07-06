@@ -1,159 +1,155 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169491000.html",
-      "title": "九州北部で非常に激しい雨が降るおそれ 土砂災害に厳重警戒を",
-      "title_ja": "九州北部で大雨、土砂災害に厳重警戒",
-      "date": "Mon, 06 Jul 2026 05:56:56 +0900",
-      "summary": "An active seasonal rain front has brought heavy rain to northern Kyushu, creating a high risk of landslides due to loosened ground.",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170321000.html",
+      "title": "台風9号 非常に強い勢力で10日以降 沖縄に接近する可能性",
+      "title_ja": "台風9号接近と西日本の気温上昇",
+      "date": "Tue, 07 Jul 2026 06:14:58 +0900",
+      "summary": "Typhoon No. 9 is expected to approach Okinawa with very strong force late this week, while high temperatures are forecast mainly in western Japan today.",
       "sentences": [
         {
-          "en": "Heavy rain has been hitting northern Kyushu due to an active seasonal rain front.",
-          "ja": "活発な梅雨前線の影響で、九州北部では大雨が続いています。"
+          "en": "A large and extremely strong Typhoon No. 9 is currently heading toward the region.",
+          "ja": "大型で猛烈な台風9号が、現在この地域に向けて進んでいます。"
         },
         {
-          "en": "On July 5th, linear rainbands formed in the region, bringing extremely heavy downpours.",
-          "ja": "5日にはこの地域で線状降水帯が発生し、非常に激しい豪雨をもたらしました。"
+          "en": "It has the potential to approach Okinawa with very strong force from Friday, the 10th, to Saturday, the 11th of this week.",
+          "ja": "この台風は、今週の10日金曜日から11日土曜日にかけて、非常に強い勢力で沖縄県に接近する可能性があります。"
         },
         {
-          "en": "Weather officials warn that this severe weather is expected to continue into July 6th.",
-          "ja": "気象庁などは、この非常に激しい雨が6日にかけても続く恐れがあると警告しています。"
+          "en": "Residents in the area are advised to stay alert and check the latest weather updates frequently.",
+          "ja": "地域の住民は警戒を怠らず、最新の気象情報をこまめに確認することが呼びかけられています。"
         },
         {
-          "en": "Because of the continuous rainfall, the ground in many areas has become extremely loose.",
-          "ja": "これまでに降った雨の影響で、多くの地域で地盤が非常に緩んでいます。"
+          "en": "Meanwhile, temperatures are expected to rise today on the 7th, mainly in western Japan.",
+          "ja": "一方、本日7日は西日本を中心に気温が上がる見込みです。"
         },
         {
-          "en": "Therefore, residents are urged to remain highly vigilant against potential landslides.",
-          "ja": "そのため、住民に対して土砂災害への厳重な警戒が呼びかけられています。"
-        },
-        {
-          "en": "It is crucial to stay updated with the latest weather information and prioritize your safety.",
-          "ja": "最新の気象情報を常に確認し、身の安全を最優先に確保することが重要です。"
+          "en": "Please take precautions against both heatstroke and the approaching typhoon to stay safe.",
+          "ja": "安全を確保するため、熱中症への対策と近づく台風への備えの両方を行ってください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169481000.html",
-      "title": "野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ",
-      "title_ja": "皇室典範改正案をめぐる与野党の攻防",
-      "date": "Mon, 06 Jul 2026 05:06:05 +0900",
-      "summary": "As the Diet session's end approaches next week, the ruling coalition hopes to quickly debate and pass an Imperial House Law amendment, while opposition parties demand more budget committee sessions.",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170351000.html",
+      "title": "参議院 法案審議再開へ 衆議院では与野党対立続く",
+      "title_ja": "参議院での審議再開と衆議院での皇室典範をめぐる対立",
+      "date": "Tue, 07 Jul 2026 05:45:52 +0900",
+      "summary": "Deliberations on bills are set to resume in the House of Councillors on the 7th after the ruling party agreed to intensive budget committee meetings, while conflict continues in the House of Representatives over proposed amendments to the Imperial Household Law.",
       "sentences": [
         {
-          "en": "With the current Diet session scheduled to end next week, negotiations between the ruling and opposition parties are intensifying.",
-          "ja": "来週に国会の会期末が迫る中、与野党の攻防が激しさを増しています。"
+          "en": "In Japan's National Diet, deliberations on bills are set to resume in the House of Councillors on the 7th.",
+          "ja": "日本の国会では、参議院において7日から法案の審議が再開される予定です。"
         },
         {
-          "en": "The ruling coalition aims to pass an amendment to the Imperial House Law before the session closes.",
-          "ja": "与党は、会期内に皇室典範の改正案を成立させることを目指しています。"
+          "en": "This decision comes after the ruling coalition agreed to hold intensive deliberations in the Budget Committee.",
+          "ja": "この決定は、与党側が予算委員会での集中審議の開催に応じたことを受けたものです。"
         },
         {
-          "en": "This amendment is designed to secure a stable number of imperial family members for the future.",
-          "ja": "この改正案は、将来にわたって皇族の数を確保することを目的としています。"
+          "en": "On the other hand, political conflict remains unresolved in the House of Representatives.",
+          "ja": "その一方で、衆議院では依然として政治的な対立が解消されていません。"
         },
         {
-          "en": "To achieve this, the ruling parties want to begin formal deliberations on the bill as soon as possible.",
-          "ja": "これに向けて、与党は早期に法案の審議入りをさせたい考えです。"
+          "en": "The disagreement centers on when to begin debating a proposed amendment to the Imperial Household Law.",
+          "ja": "対立の焦点は、皇室典範の改正案の審議入りをいつにするかを巡る議論にあります。"
         },
         {
-          "en": "On the other hand, opposition parties are pushing back, demanding more time to debate other key issues.",
-          "ja": "一方、野党側は反発しており、他の重要課題について議論する時間を求めています。"
+          "en": "This bill is aimed at securing a stable number of imperial family members for the future.",
+          "ja": "この法案は、将来にわたって皇族の数を安定的に確保することを目的としています。"
         },
         {
-          "en": "Specifically, they have repeatedly requested intensive deliberations in the Budget Committee.",
-          "ja": "具体的には、予算委員会での集中審議などの開催を重ねて求めています。"
-        },
-        {
-          "en": "With very little time remaining, it is unclear whether both sides can reach an agreement before the deadline.",
-          "ja": "残された時間が少ない中、期日までに双方が合意に達することができるかは不透明です。"
+          "en": "With both chambers of the Diet facing different situations, public attention is focused on how these discussions will develop.",
+          "ja": "国会の両院が異なる状況に直面する中、これらの議論が今後どのように進展するかに注目が集まっています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169581000.html",
-      "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出",
-      "title_ja": "大坂なおみ、世界1位を破りウィンブルドン準々決勝へ",
-      "date": "Mon, 06 Jul 2026 06:17:11 +0900",
-      "summary": "Naomi Osaka has advanced to the quarterfinals of Wimbledon after a spectacular straight-sets victory over world number one Aryna Sabalenka.",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html",
+      "title": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
+      "title_ja": "トランプ大統領、FIFA会長に電話：米国選手の出場停止猶予をめぐり",
+      "date": "Tue, 07 Jul 2026 05:35:30 +0900",
+      "summary": "US President Donald Trump made a phone call to the FIFA president after a US national team player's red card suspension was deferred during the World Cup.",
       "sentences": [
         {
-          "en": "At the Wimbledon tennis championships, Japanese star Naomi Osaka achieved a stunning victory in the women's singles fourth round.",
-          "ja": "テニスの四大大会、ウィンブルドン選手権の女子シングルス4回戦で、日本のスター大坂なおみ選手が見事な勝利を収めました。"
+          "en": "US President Donald Trump has made a phone call to the president of FIFA, the international governing body of soccer.",
+          "ja": "トランプ米大統領は、国際サッカーの統括団体であるFIFA（国際サッカー連盟）の会長に電話をかけました。"
         },
         {
-          "en": "She faced world number one Aryna Sabalenka in a highly anticipated matchup.",
-          "ja": "彼女は、大変注目された一戦で世界ランキング1位のアリーナ・サバレンカ選手と対戦しました。"
+          "en": "This call came after a US national team player received a red card during the World Cup but had their suspension deferred for the next match.",
+          "ja": "この電話は、ワールドカップでアメリカ代表の選手がレッドカードを受けて退場処分となったものの、次の試合への出場停止処分が猶予されたことを巡って行われました。"
         },
         {
-          "en": "Osaka delivered an outstanding performance, defeating Sabalenka in straight sets, two to zero.",
-          "ja": "大坂選手は素晴らしいプレーを見せ、セットカウント2対0のストレートでサバレンカ選手を破りました。"
+          "en": "President Trump reportedly contacted FIFA President Gianni Infantino to discuss this unusual decision.",
+          "ja": "トランプ大統領は、この異例の決定について話し合うため、FIFAのジャンニ・インファンティーノ会長に連絡を取ったとのことです。"
         },
         {
-          "en": "With this impressive win, she has successfully advanced to the quarterfinals of the tournament.",
-          "ja": "この見事な勝利により、彼女は同大会の準々決勝への進出を果たしました。"
+          "en": "The United States, along with Canada and Mexico, is co-hosting this major soccer tournament.",
+          "ja": "アメリカはカナダやメキシコとともに、このサッカーの大規模な大会を共同開催しています。"
         },
         {
-          "en": "Fans around the world are eagerly watching to see if she can maintain this momentum and claim the championship title.",
-          "ja": "世界中のファンが、彼女がこの勢いを維持して優勝を果たすことができるか、熱い視線を送っています。"
+          "en": "This direct communication highlights the high level of political interest in the event's operations.",
+          "ja": "今回の直接のやり取りは、大会運営に対する政治的な関心の高さを浮き彫りにしています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169571000.html",
-      "title": "ハメネイ師葬儀 5日は後継者モジタバ師姿見せず 兄弟は参列",
-      "title_ja": "イラン前最高指導者の葬儀と後継者の不在",
-      "date": "Mon, 06 Jul 2026 05:36:25 +0900",
-      "summary": "Following the death of Iran's former Supreme Leader in a US-Israeli attack, his successor's brothers attended the funeral, but the successor himself has not been seen in public.",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170241000.html",
+      "title": "ハマス ガザ地区の行政当局解散と発表も和平計画進展は不透明",
+      "title_ja": "ハマスがガザの行政当局解散を発表、和平への影響は不透明",
+      "date": "Tue, 07 Jul 2026 04:58:23 +0900",
+      "summary": "The Palestinian group Hamas has announced the dissolution of its administrative committee in the Gaza Strip, but the move's impact on peace remains uncertain as disarmament was not mentioned.",
       "sentences": [
         {
-          "en": "A funeral has been held for Iran's former Supreme Leader Khamenei, who was killed in an attack by the United States and Israel.",
-          "ja": "アメリカとイスラエルによる攻撃で殺害された、イランの前の最高指導者ハメネイ師の葬儀が執り行われました。"
+          "en": "The Palestinian group Hamas, which controls the Gaza Strip, has announced that it has dissolved its administrative committee.",
+          "ja": "パレスチナのガザ地区を実効支配するイスラム組織ハマスは、同地区を運営する行政委員会を解散したと発表しました。"
         },
         {
-          "en": "The late leader's son, Mojtaba Khamenei, has been named as his successor.",
-          "ja": "亡くなった指導者の息子であるモジタバ・ハメネイ師が、後継の最高指導者とされています。"
+          "en": "This committee had been functioning as a governing authority in the region.",
+          "ja": "この委員会は、同地域における実質的な行政当局として機能していました。"
         },
         {
-          "en": "While three of Mojtaba's brothers attended the funeral, Mojtaba himself was notably absent.",
-          "ja": "葬儀にはモジタバ師の兄弟3人が参列した一方で、モジタバ師本人の姿はありませんでした。"
+          "en": "The decision is seen as an effort to pave the way for reconciliation with the rival Fatah faction.",
+          "ja": "この決定は、対立するファタハ派との和解に向けた道を開くための取り組みと見なされています。"
         },
         {
-          "en": "So far, there has been no public appearance or confirmed sighting of the new leader.",
-          "ja": "これまでのところ、新たな最高指導者であるモジタバ師が公の場に姿を現したという確認は取れていません。"
+          "en": "Under the proposed peace plan, the Palestinian Authority would take over control of Gaza.",
+          "ja": "提案されている和平計画のもとでは、パレスチナ自治政府がガザの管理を引き継ぐことになります。"
         },
         {
-          "en": "This absence has raised questions and speculation regarding the current situation within Iran's leadership.",
-          "ja": "この不在は、現在のイラン指導部内の状況に関する疑問や憶測を呼んでいます。"
+          "en": "However, Hamas made no mention of disarmament, which is a key element of the peace process.",
+          "ja": "しかし、ハマスは和平プロセスの主要な要素である武装解除については言及しませんでした。"
+        },
+        {
+          "en": "As a result, it remains uncertain whether this development will lead to any real progress toward peace.",
+          "ja": "その結果、この進展が和平に向けた実際の進展につながるかどうかは、依然として不透明なままです。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169591000.html",
-      "title": "ロシア軍の東部要衝掌握は「誇張」米戦争研究所の分析",
-      "title_ja": "ロシア軍の「要衝掌握」発表に米シンクタンクが異論",
-      "date": "Mon, 06 Jul 2026 05:54:43 +0900",
-      "summary": "A U.S. think tank has cast doubt on Russia's claim of capturing a key stronghold in eastern Ukraine, stating that the Russian military is exaggerating its battlefield achievements.",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
+      "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+      "title_ja": "ネアンデルタール人とホモ・サピエンスの交流を示す貝を発見",
+      "date": "Tue, 07 Jul 2026 04:56:23 +0900",
+      "summary": "An international research team has discovered ancient shells in Turkey, suggesting cultural exchange between Neanderthals and Homo sapiens.",
       "sentences": [
         {
-          "en": "Recently, Russia announced that its forces have seized a key strategic stronghold in the Donetsk region of eastern Ukraine.",
-          "ja": "最近、ロシアはウクライナ東部ドネツク州の要衝を自国軍が掌握したと発表しました。"
+          "en": "An international research group, including Kyoto University, has made an exciting discovery in a cave in southern Turkey.",
+          "ja": "京都大学などの国際研究グループが、トルコ南部の洞窟で興味深い発見をしました。"
         },
         {
-          "en": "However, a prominent U.S. think tank has released a new analysis disputing this claim.",
-          "ja": "しかし、アメリカの著名なシンクタンクは、この主張に異を唱える新たな分析を公表しました。"
+          "en": "They found ancient shells that suggest there was cultural exchange between Neanderthals and modern humans, Homo sapiens.",
+          "ja": "彼らは、ネアンデルタール人と現代の人類であるホモ・サピエンスの間に、文化的交流があったことを示唆する古代の貝殻を発見しました。"
         },
         {
-          "en": "The think tank stated that Russia's announcement does not match the actual situation on the battlefield.",
-          "ja": "同シンクタンクは、ロシアの発表は戦場の実態と一致していないと述べています。"
+          "en": "These shells are believed to have been used as personal ornaments, such as beads or pendants.",
+          "ja": "これらの貝殻は、ビーズやペンダントなどの身の回りの装飾品として使われていたと考えられています。"
         },
         {
-          "en": "They suggested that the Russian military is exaggerating its achievements to project strength.",
-          "ja": "ロシア軍が自らの強さを誇示するために、成果を誇張しているのではないかと指摘しています。"
+          "en": "The discovery provides physical evidence that these two different human species interacted with each other in the region.",
+          "ja": "この発見は、これら2つの異なる人類の種がこの地域で互いに交流していたという、物理的な証拠を提供するものです。"
         },
         {
-          "en": "Experts continue to monitor the region closely as intense fighting persists in eastern Ukraine.",
-          "ja": "ウクライナ東部で激しい戦闘が続く中、専門家は引き続きこの地域を注視しています。"
+          "en": "Researchers hope this finding will help us better understand how knowledge and culture were shared between early human populations.",
+          "ja": "研究者たちは、この発見が、初期の人類集団の間で知識や文化がどのように共有されていたかをより深く理解する手がかりになることを期待しています。"
         }
       ]
     }
@@ -161,444 +157,444 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169491000.html",
-        "title": "九州北部で非常に激しい雨が降るおそれ 土砂災害に厳重警戒を",
-        "title_ja": "九州北部で大雨、線状降水帯が発生",
-        "date": "Mon, 06 Jul 2026 05:56:56 +0900",
-        "summary": "An active seasonal rain front has brought heavy rainfall and linear rainbands to northern Kyushu, prompting warning of potential landslides.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170201000.html",
+        "title": "【動画】Pickup NEWS(7月7日）",
+        "title_ja": "1分でわかる最新ニュース",
+        "date": "Tue, 07 Jul 2026 06:52:04 +0900",
+        "summary": "This lesson explains the convenience of a quick one-minute news summary video designed for busy people, along with a note on viewing limitations.",
         "sentences": [
           {
-            "en": "An active seasonal rain front has brought heavy rainfall to northern Kyushu.",
-            "ja": "活発な梅雨前線の影響で、九州北部では大雨となっています。"
+            "en": "Welcome to our quick news round-up, bringing you the latest updates in just one minute.",
+            "ja": "最新のニュースをわずか1分でまとめてお伝えする、クイックニュースへようこそ。"
           },
           {
-            "en": "On the 5th, a linear rainband developed in the region, triggering intense downpours.",
-            "ja": "5日には同地域で線状降水帯が発生し、激しい豪雨をもたらしました。"
+            "en": "In today's fast-paced world, staying informed can be a challenge.",
+            "ja": "現代の忙しい社会において、常に最新情報を把握することは簡単ではありません。"
           },
           {
-            "en": "Weather officials warn that extremely heavy rain is expected to continue on the 6th as well.",
-            "ja": "6日も引き続き、非常に激しい雨が降るおそれがあります。"
+            "en": "Our short video format is designed to give you the most important headlines quickly and efficiently.",
+            "ja": "当社の短い動画フォーマットは、最も重要なヘッドラインを迅速かつ効率的にお届けするよう設計されています。"
           },
           {
-            "en": "Because of the rainfall so far, the ground in many areas has become loose and unstable.",
-            "ja": "これまでの雨により、各地で地盤が緩んで不安定になっています。"
+            "en": "We cover a wide range of topics, from major national events to global stories.",
+            "ja": "国内の重大な出来事から世界のニュースまで、幅広いトピックをカバーしています。"
           },
           {
-            "en": "Residents are urged to remain on high alert for potential landslides.",
-            "ja": "土砂災害に対して、厳重な警戒が必要です。"
+            "en": "Please note that this video summary may not be available on some data broadcasting platforms.",
+            "ja": "なお、一部のデータ放送では、この動画まとめをご覧いただけない場合がありますのでご注意ください。"
+          },
+          {
+            "en": "We hope this quick update helps you start your day well-informed.",
+            "ja": "この手軽なニュース更新が、皆様の一日のスタートに役立つことを願っています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015168401000.html",
-        "title": "マダニ媒介の感染症 SFTS患者数 過去最多の去年上回るペース",
-        "title_ja": "マダニ媒介の感染症「SFTS」患者数が過去最多ペースで増加",
-        "date": "Mon, 06 Jul 2026 04:52:16 +0900",
-        "summary": "The number of patients infected with SFTS, a tick-borne disease, has reached 83 in Japan this year, rising faster than last year's record pace. Experts are urging the public to take thorough precautions during outdoor activities.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170421000.html",
+        "title": "農業従事者が初めて100万人下回る 高齢化で離農続く",
+        "title_ja": "基幹的農業従事者、初の100万人割れ",
+        "date": "Tue, 07 Jul 2026 06:24:31 +0900",
+        "summary": "A survey by Japan's agricultural ministry reveals that the number of core agricultural workers has fallen below one million for the first time due to an aging population.",
         "sentences": [
           {
-            "en": "The number of people infected with Severe Fever with Thrombocytopenia Syndrome, or SFTS, is rising rapidly in Japan this year.",
-            "ja": "マダニが媒介する感染症「SFTS」の今年の国内の感染者数が、急速に増加しています。"
+            "en": "According to a survey by the Ministry of Agriculture, Forestry and Fisheries, the number of core agricultural workers in Japan has fallen below one million for the first time.",
+            "ja": "農林水産省の調査によると、日本における「基幹的農業従事者」の数が初めて100万人を下回りました。"
           },
           {
-            "en": "According to recent reports, a total of 83 cases have been confirmed nationwide so far.",
-            "ja": "最近の報告によると、これまでに全国で合わせて83人の感染者が確認されています。"
+            "en": "These core workers are defined as individuals whose primary occupation is farming.",
+            "ja": "これらの基幹的従事者は、農業を主な仕事とする人々と定義されています。"
           },
           {
-            "en": "This increase is happening at a faster pace than last year, which saw the highest number of cases on record.",
-            "ja": "この増加ペースは、過去最多の感染者数を記録した昨年を上回っています。"
+            "en": "The decline is largely driven by a rapidly aging population and a lack of successors to take over the farms.",
+            "ja": "この減少は、主に急速に進む高齢化と、農家を引き継ぐ後継者不足が原因となっています。"
           },
           {
-            "en": "SFTS is a serious viral infection transmitted to humans primarily through the bites of infectious ticks.",
-            "ja": "SFTSは、主にウイルスを持つマダニに噛まれることで人に感染する重篤なウイルス性感染症です。"
+            "en": "This ongoing downward trend has raised concerns about the future of Japan's domestic food production.",
+            "ja": "この継続的な減少傾向は、日本の国内食料生産の将来に対する懸念を引き起こしています。"
           },
           {
-            "en": "In light of this trend, health experts are urging people to take strict preventive measures when spending time outdoors.",
-            "ja": "この傾向を受けて、専門家は野外で過ごす際には徹底した予防対策をとるよう強く呼びかけています。"
-          },
-          {
-            "en": "Simple precautions, such as wearing long sleeves and using insect repellent, can significantly reduce the risk of tick bites.",
-            "ja": "長袖を着用する、虫除けスプレーを使用するなどの簡単な対策で、マダニに噛まれるリスクを大幅に減らすことができます。"
+            "en": "In response, the government is seeking ways to attract younger people to the industry and promote the use of smart farming technology.",
+            "ja": "これを受けて政府は、若い世代をこの産業に呼び込み、スマート農業技術の活用を推進する方法を模索しています。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015168401000.html",
-        "title": "マダニ媒介の感染症 SFTS患者数 過去最多の去年上回るペース",
-        "title_ja": "マダニ媒介の感染症「SFTS」が過去最多ペースで増加",
-        "date": "Mon, 06 Jul 2026 04:52:16 +0900",
-        "summary": "The number of SFTS infections transmitted by ticks in Japan has reached 83 this year, rising faster than last year's record pace, prompting experts to urge outdoor precautions.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170251000.html",
+        "title": "がんゲノム医療拠点 来年度から各都道府県に原則1か所指定へ",
+        "title_ja": "がんゲノム医療の体制拡充、2027年度から各都道府県に拠点病院整備へ",
+        "date": "Mon, 06 Jul 2026 21:22:48 +0900",
+        "summary": "The Japanese health ministry plans to designate one hub hospital per prefecture starting in fiscal 2027 to expand access to cancer genomic medicine.",
         "sentences": [
           {
-            "en": "The number of people infected with SFTS, a tick-borne infectious disease, is rising at a record pace in Japan this year.",
-            "ja": "日本国内で今年、マダニが媒介する感染症「SFTS」の感染者数が過去最多のペースで増加しています。"
+            "en": "Cancer genomic medicine is an advanced approach that analyzes a patient's genes to find the most effective treatment.",
+            "ja": "がんゲノム医療とは、患者の遺伝子を調べることで、最も効果的な治療法を見つける先進的な医療アプローチです。"
           },
           {
-            "en": "According to recent reports, a total of 83 cases have been confirmed nationwide so far.",
-            "ja": "最近の報告によると、これまでに全国で合わせて83人の患者が確認されています。"
+            "en": "To promote this medical care, Japan's Ministry of Health, Labour and Welfare plans to expand its support system starting in fiscal year 2027.",
+            "ja": "この医療を推進するため、厚生労働省は2027年度から支援体制を拡充する計画です。"
           },
           {
-            "en": "This figure is increasing even faster than last year, which previously saw the highest number of infections on record.",
-            "ja": "この数字は、これまでで最も感染者数が多かった昨年を上回るペースで増え続けています。"
+            "en": "Under the new plan, the ministry will designate in principle one hub hospital in each prefecture to provide high-quality care.",
+            "ja": "新たな計画のもと、同省は質の高い医療を提供するため、原則として各都道府県に1か所の拠点病院を指定します。"
           },
           {
-            "en": "SFTS is a serious illness transmitted through the bites of certain kinds of ticks often found in forests and grasslands.",
-            "ja": "SFTSは、主に森林や草地に生息するマダニに噛まれることで感染する深刻な病気です。"
+            "en": "This initiative aims to ensure that patients can receive specialized genomic medicine locally, regardless of where they live.",
+            "ja": "この取り組みは、患者がどこに住んでいても、地域で専門的なゲノム医療を受けられるようにすることを目指しています。"
           },
           {
-            "en": "In light of this increase, health experts are urging people to take thorough precautions when participating in outdoor activities.",
-            "ja": "この増加を受けて、専門家は野外で活動する際には感染対策を徹底するよう強く呼びかけています。"
-          },
-          {
-            "en": "They recommend wearing long sleeves and pants, and using insect repellent to prevent tick bites.",
-            "ja": "マダニに刺されるのを防ぐため、長袖や長ズボンを着用し、虫除けスプレーを使用することが推奨されています。"
+            "en": "By strengthening the regional hospital network, the government hopes to make personalized cancer care more accessible nationwide.",
+            "ja": "地域病院のネットワークを強化することで、政府は一人ひとりに適した個別化がん治療を全国的に普及させたいと考えています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168941000.html",
-        "title": "【動画】Pickup NEWS(7月5日）",
-        "title_ja": "1分動画で見る最新ニュースのまとめ",
-        "date": "Sun, 05 Jul 2026 20:10:57 +0900",
-        "summary": "This lesson introduces a convenient news service that delivers a quick summary of the latest updates in a one-minute video format.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169891000.html",
+        "title": "大阪 「万博の顔」ミャクミャクが道頓堀にお目見え",
+        "title_ja": "道頓堀に万博キャラ「ミャクミャク」のモニュメントが登場",
+        "date": "Mon, 06 Jul 2026 14:35:13 +0900",
+        "summary": "A new monument of the Osaka-Kansai Expo official character, Myaku-Myaku, has been installed in Osaka's Dotonbori, attracting many visitors and boosting excitement for the 2025 event.",
         "sentences": [
           {
-            "en": "Today, we are bringing you a quick summary of the latest news in a convenient one-minute video.",
-            "ja": "本日は、これまでに届いている最新ニュースを、便利な1分間の動画にまとめてお伝えします。"
+            "en": "A new monument of \"Myaku-Myaku,\" the official character of the upcoming Osaka-Kansai Expo, has been unveiled in Osaka's famous Dotonbori district.",
+            "ja": "大阪の有名な観光地である道頓堀に、間もなく開催される大阪・関西万博の公式キャラクター「ミャクミャク」の新しいモニュメントが登場しました。"
           },
           {
-            "en": "This format is perfect for busy people who want to catch up on the day's main events quickly.",
-            "ja": "この形式は、その日の主要な出来事を素早く把握したい忙しい方に最適です。"
+            "en": "The monument is located in the heart of Dotonbori, a bustling area known for its lively atmosphere and iconic neon signs.",
+            "ja": "このモニュメントは、賑やかな雰囲気と象徴的なネオン看板で知られる道頓堀の中心部に設置されています。"
           },
           {
-            "en": "In just sixty seconds, you can get a clear overview of the most important topics.",
-            "ja": "わずか60秒で、最も重要なトピックの明確な概要を知ることができます。"
+            "en": "Many tourists and locals are stopping by to take commemorative photos with the colorful character.",
+            "ja": "多くの観光客や地元の人々が立ち止まり、このカラフルなキャラクターと一緒に記念撮影を楽しんでいます。"
           },
           {
-            "en": "However, please keep in mind that these videos cannot be viewed on data broadcasting.",
-            "ja": "ただし、データ放送では動画をご覧いただけませんのでご注意ください。"
+            "en": "This display aims to build excitement for the international exposition, which will open in April 2025.",
+            "ja": "この展示は、2025年4月に開幕する万国博覧会に向けて機運を高めることを目的としています。"
           },
           {
-            "en": "We hope this daily summary helps you stay informed even on your busiest days.",
-            "ja": "この毎日のまとめが、最も忙しい日であっても皆様が最新情報を得る助けになることを願っています。"
+            "en": "Organizers hope the cute yet unique character will attract more attention and welcome visitors to the city.",
+            "ja": "主催者は、この愛らしくもユニークなキャラクターがより多くの注目を集め、街を訪れる人々を歓迎することを期待しています。"
+          },
+          {
+            "en": "If you visit Osaka, be sure to check out Dotonbori to see this fun landmark for yourself.",
+            "ja": "もし大阪を訪れる機会があれば、ぜひ道頓堀に足を運んで、この楽しいランドマークを直接見てみてください。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
-        "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
-        "title_ja": "モスクワ国際バレエコンクールで東京出身のグジェレフ瞭舞さんが1位獲得",
-        "date": "Mon, 06 Jul 2026 05:58:11 +0900",
-        "summary": "Ryouma Gujerev, a dancer from Tokyo, has won first place in the Male Senior Solo category at the prestigious 15th Moscow International Ballet Competition.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
+        "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+        "title_ja": "トルコの洞窟で発見された貝殻、ネアンデルタール人とホモ・サピエンスの交流を示唆",
+        "date": "Tue, 07 Jul 2026 04:56:23 +0900",
+        "summary": "An international research team has discovered shells in a Turkish cave, suggesting that Neanderthals and modern humans may have shared cultural practices.",
         "sentences": [
           {
-            "en": "The winners of the Moscow International Ballet Competition, one of the world's most prestigious ballet contests, have been announced.",
-            "ja": "世界の主要なバレエコンクールの1つである、モスクワ国際バレエコンクールの受賞者が発表されました。"
+            "en": "An international research group, including Kyoto University, has made an exciting discovery in southern Turkey.",
+            "ja": "京都大学などの国際研究グループが、トルコ南部で興味深い発見をしました。"
           },
           {
-            "en": "Ryouma Gujerev, a talented dancer from Tokyo, won first place in the Male Senior Solo category.",
-            "ja": "東京都出身の才能あるダンサー、グジェレフ瞭舞さんが、男性シニア部門ソロで1位に選ばれました。"
+            "en": "They found ancient shells in a cave that suggest cultural exchanges between Neanderthals and modern humans, Homo sapiens.",
+            "ja": "彼らはある洞窟で、ネアンデルタール人と現代の人類であるホモ・サピエンスの間に、文化的な交流があった可能性を示す古代の貝殻を発見しました。"
           },
           {
-            "en": "This outstanding achievement took place at the 15th edition of this highly competitive event.",
-            "ja": "この素晴らしい快挙は、競争率の非常に高い同コンクールの第15回大会で達成されました。"
+            "en": "The cave is known to have been inhabited by both species at different times during the Paleolithic era.",
+            "ja": "この洞窟は、旧石器時代の異なる時期に、両方の種が暮らしていた場所として知られています。"
           },
           {
-            "en": "The competition is widely recognized as a gateway to success for top-level dancers worldwide.",
-            "ja": "このコンクールは、世界中のトップレベルのダンサーにとっての登竜門として広く知られています。"
+            "en": "The discovered shells were modified in a way that suggests they were used as ornaments or tools.",
+            "ja": "発見された貝殻には加工された痕跡があり、装飾品や道具として使われていた可能性を示唆しています。"
           },
           {
-            "en": "Gujerev's performance captivated the judges and audience alike, earning him high praise.",
-            "ja": "グジェレフさんのパフォーマンスは審査員と観客の双方を魅了し、高い評価を得ました。"
-          },
-          {
-            "en": "This victory is expected to greatly boost his future career on the international stage.",
-            "ja": "今回の優勝により、彼の今後の国際舞台でのキャリアが大きく飛躍することが期待されています。"
+            "en": "This discovery provides valuable evidence that these two human species did not just coexist, but may have actively shared their cultures.",
+            "ja": "この発見は、これら2つの人類が単に共存していただけでなく、お互いの文化を積極的に共有していた可能性があるという、貴重な証拠となります。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
-        "title": "はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA",
-        "title_ja": "はやぶさ2、小惑星のフライバイに成功",
-        "date": "Sun, 05 Jul 2026 21:41:16 +0900",
-        "summary": "Japan's space probe Hayabusa2 has successfully performed a high-speed flyby of another asteroid as it continues its extended mission in deep space.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170191000.html",
+        "title": "KDDI提供のメールシステム アドレスなど1223万人分流出を確認",
+        "title_ja": "KDDIの法人向けメールシステムで1200万人の情報漏えい",
+        "date": "Mon, 06 Jul 2026 20:19:11 +0900",
+        "summary": "KDDI announced that unauthorized access to its corporate email system led to the leak of 12 million email addresses, with 7.6 million passwords also compromised.",
         "sentences": [
           {
-            "en": "Japan's space probe, Hayabusa2, has successfully performed a \"flyby,\" passing very close to another asteroid at an extremely high speed.",
-            "ja": "日本の宇宙探査機「はやぶさ2」が、別の小惑星のすぐそばを極めて速いスピードで通過する「フライバイ」に成功しました。"
+            "en": "KDDI has released the results of an investigation into unauthorized access to its corporate email system.",
+            "ja": "KDDIは、企業向けに提供しているメールシステムで発生した不正アクセスに関する調査結果を公表しました。"
           },
           {
-            "en": "According to the Japan Aerospace Exploration Agency, also known as JAXA, this event occurred on the afternoon of the 5th.",
-            "ja": "宇宙航空研究開発機構（JAXA）によると、この通過は5日の午後に行われました。"
+            "en": "The Japanese telecommunications giant revealed that approximately 12 million email addresses were leaked.",
+            "ja": "この日本の通信大手は、およそ1200万人分のアドレスが漏えいしたことを明らかにしました。"
           },
           {
-            "en": "Six years ago, the probe made headlines by successfully delivering asteroid samples back to Earth.",
-            "ja": "6年前、この探査機は小惑星のサンプルを地球に送り届けて大きなニュースとなりました。"
+            "en": "Furthermore, it was confirmed that passwords for about 7.6 million of those accounts were also compromised.",
+            "ja": "さらに、このうちおよそ760万人分については、パスワードの漏えいも確認されたとのことです。"
           },
           {
-            "en": "Since completing that mission, Hayabusa2 has been continuing its long journey toward its next destination.",
-            "ja": "そのミッションを完了して以来、「はやぶさ2」は次の目的地に向けて宇宙の長い旅を続けています。"
+            "en": "KDDI has apologized for the incident and is currently taking steps to strengthen its security measures.",
+            "ja": "KDDIはこの事態について謝罪し、現在はセキュリティ対策の強化に向けた措置を講じています。"
           },
           {
-            "en": "This recent high-speed flyby is a key milestone in its current extended mission.",
-            "ja": "今回の高速フライバイは、現在の延長ミッションにおける重要な節目となります。"
-          },
-          {
-            "en": "JAXA plans to analyze the data collected during this close encounter to gain new insights into our solar system.",
-            "ja": "JAXAは、太陽系に関する新たな知見を得るために、この接近時に収集されたデータを分析する予定です。"
+            "en": "The company is urging affected corporate users to change their passwords immediately to prevent further damage.",
+            "ja": "同社は、さらなる被害を防ぐため、影響を受けた企業の利用者に対して速やかにパスワードを変更するよう呼びかけています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169481000.html",
-        "title": "野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ",
-        "title_ja": "皇室典範改正を巡る国会の攻防",
-        "date": "Mon, 06 Jul 2026 05:06:05 +0900",
-        "summary": "As the Diet session approaches its end next week, the ruling party aims to pass an amendment to secure the number of Imperial Family members, while opposition parties demand intensive budget committee hearings.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170351000.html",
+        "title": "参議院 法案審議再開へ 衆議院では与野党対立続く",
+        "title_ja": "国会での法案審議再開と衆議院の対立",
+        "date": "Tue, 07 Jul 2026 05:45:52 +0900",
+        "summary": "Deliberations on bills will resume in the Upper House after the ruling party agreed to intensive budget committee discussions, while the Lower House remains divided over Imperial Household Law amendments.",
         "sentences": [
           {
-            "en": "As the current Diet session is set to end next week, the ruling coalition is aiming to pass an amendment to the Imperial House Law before the deadline.",
-            "ja": "国会の会期末が来週に迫る中、与党は会期内に皇室典範の改正案を成立させることを目指しています。"
+            "en": "Deliberations on bills are set to resume in Japan's parliament, the Diet, starting on the 7th.",
+            "ja": "日本の国会では、7日から法案の審議が再開される見通しです。"
           },
           {
-            "en": "The proposed amendment seeks to secure a stable number of Imperial Family members for the future.",
-            "ja": "この改正案は、将来にわたって安定的な皇族数を確保することを目的としています。"
+            "en": "This comes after the ruling coalition in the House of Councillors agreed to hold intensive discussions in the Budget Committee.",
+            "ja": "これは、参議院の与党側が予算委員会での集中審議の開催に同意したことを受けたものです。"
           },
           {
-            "en": "To achieve this, the ruling parties want to begin deliberations on the bill as early as possible.",
-            "ja": "これを実現するため、与党側は早期に法案の審議入りをさせたい考えです。"
+            "en": "On the other hand, a political standoff continues in the House of Representatives.",
+            "ja": "一方、衆議院では政治的な対立が続いています。"
           },
           {
-            "en": "On the other hand, opposition parties are demanding intensive deliberations in the Budget Committee first.",
-            "ja": "一方、野党側は、まずは予算委員会での集中審議を行うよう重ねて求めています。"
+            "en": "The conflict centers on when to begin debating a proposed amendment to the Imperial Household Law.",
+            "ja": "この対立は、皇室典範の改正案の審議入りをいつにするかをめぐって起きています。"
           },
           {
-            "en": "This clash of priorities has created tension between the government and opposition groups as the session's end approaches.",
-            "ja": "会期末が近づく中、この優先順位の対立が政府・与党と野党側の間の緊張を生み出しています。"
+            "en": "This amendment aims to address the shrinking number of imperial family members and secure their future numbers.",
+            "ja": "この改正案は、減少する皇族の数を確保することを目指しています。"
+          },
+          {
+            "en": "Observers are closely watching how both houses will navigate these challenges to move the legislative process forward.",
+            "ja": "法案審議を進めるために、両院がどのようにこれらの課題を乗り越えていくのかが注目されています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260705/k10015167281000.html",
-        "title": "滋賀県知事選 現職の三日月大造氏が新人3人抑え4回目の当選",
-        "title_ja": "滋賀県知事選挙、現職の三日月氏が4選を果たす",
-        "date": "Mon, 06 Jul 2026 04:47:47 +0900",
-        "summary": "Incumbent Taizo Mikazuki won his fourth term as the governor of Shiga Prefecture, defeating three newcomers in the recent election.",
+        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170171000.html",
+        "title": "高市首相 “皇室典範改正案など国会運営に万全を” 自民役員会",
+        "title_ja": "会期末を控え、高市首相が法案成立へ連携を指示",
+        "date": "Mon, 06 Jul 2026 21:46:26 +0900",
+        "summary": "As the Diet session deadline on July 17th approaches, Prime Minister Takaichi has urged LDP executives to cooperate closely to pass key remaining bills.",
         "sentences": [
           {
-            "en": "On the 5th, the Shiga Prefecture gubernatorial election was held, and the votes have been counted.",
-            "ja": "5日に滋賀県知事選挙の投開票が行われました。"
+            "en": "With the current Diet session set to end on July 17th, Prime Minister Takaichi has called for close cooperation within the ruling party.",
+            "ja": "国会の会期末が7月17日に迫る中、高市総理大臣は与党内での緊密な連携を呼びかけました。"
           },
           {
-            "en": "The incumbent governor, 55-year-old Taizo Mikazuki, defeated three newcomers to secure his fourth term in office.",
-            "ja": "現職で55歳の三日月大造氏が3人の新人を抑え、4回目の当選を果たしました。"
+            "en": "During a meeting of Liberal Democratic Party executives, she instructed members to make every effort to ensure smooth parliamentary operations.",
+            "ja": "自民党の役員会において、首相は国会運営に万全を尽くすようメンバーに指示しました。"
           },
           {
-            "en": "Running as an independent, Mikazuki won the election with a total of 297,036 votes.",
-            "ja": "無所属の三日月氏は、合計29万7,036票を獲得して当選を決めました。"
+            "en": "Several key bills are still pending, including a proposed amendment to the Imperial House Law.",
+            "ja": "皇室典範の改正案など、いくつかの重要な法案がまだ残されています。"
           },
           {
-            "en": "His victory reflects the voters' support for his continued leadership in local administration.",
-            "ja": "彼の勝利は、地方行政における継続的な指導力に対する有権者の支持を反映しています。"
+            "en": "This particular amendment aims to secure a stable number of imperial family members for the future.",
+            "ja": "この改正案は、将来に向けて皇族数を安定的に確保することを目的としています。"
           },
           {
-            "en": "Mikazuki will now lead the prefecture for another four-year term.",
-            "ja": "三日月氏はこれから、さらに4年間の任期にわたり県政を担うことになります。"
+            "en": "Another major piece of legislation on the table is a bill to reduce the number of seats in the House of Representatives.",
+            "ja": "もう一つの主要な法案は、衆議院議員の定数を削減するためのものです。"
+          },
+          {
+            "en": "As the deadline quickly approaches, the administration is focusing its energy on passing these crucial bills.",
+            "ja": "会期末が急速に迫る中、政権はこれらの重要法案を成立させることに注力しています。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168891000.html",
-        "title": "マイクロン 広島で工場拡張の起工式 生成AIなどの半導体量産へ",
-        "title_ja": "マイクロン、広島工場の拡張工事を開始 生成AI向け最先端半導体の量産へ",
-        "date": "Sat, 04 Jul 2026 18:56:35 +0900",
-        "summary": "US semiconductor giant Micron Technology has started expanding its Hiroshima factory to mass-produce advanced chips for generative AI, holding a groundbreaking ceremony on the 4th.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170471000.html",
+        "title": "英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ",
+        "title_ja": "スカイが英大手の放送・配信事業を3500億円で買収へ",
+        "date": "Tue, 07 Jul 2026 06:41:57 +0900",
+        "summary": "British TV giant Sky has announced its plan to acquire the broadcasting and streaming business of a major domestic commercial broadcaster for up to 350 billion yen.",
         "sentences": [
           {
-            "en": "US chipmaker Micron Technology has started expanding its manufacturing plant in Hiroshima Prefecture.",
-            "ja": "アメリカの半導体大手マイクロンテクノロジーは、広島県にある工場の拡張工事に着手しました。"
+            "en": "Sky, a major British television broadcaster, has announced its plan to acquire the broadcasting and video streaming business of a leading domestic commercial broadcaster.",
+            "ja": "イギリスの大手テレビ局スカイは、国内の主要な民放局の放送・動画配信事業を買収する計画を発表しました。"
           },
           {
-            "en": "This expansion project aims to mass-produce next-generation semiconductors used in generative AI.",
-            "ja": "この拡張工事は、生成AIなどに使用される次世代半導体の量産を目指したものです。"
+            "en": "The deal is estimated to be worth up to approximately 350 billion Japanese yen.",
+            "ja": "この取引の規模は、日本円にして最大でおよそ3500億円に上るとみられています。"
           },
           {
-            "en": "A groundbreaking ceremony was held at the site on the 4th to officially mark the start of construction.",
-            "ja": "4日には現地で起工式が行われ、正式に工事が開始されました。"
+            "en": "This major acquisition is expected to significantly reshape the media landscape in the United Kingdom.",
+            "ja": "この大型買収により、イギリスにおけるメディア業界の構図が大きく塗り替えられると予想されています。"
           },
           {
-            "en": "With the rapid rise of AI technology, demand for high-performance memory chips has been growing worldwide.",
-            "ja": "AI技術の急速な台頭に伴い、高性能メモリチップの需要は世界中で高まっています。"
+            "en": "Local media outlets have described the move as one of the largest acquisition deals in the history of British media.",
+            "ja": "地元メディアは、この動きをイギリスメディア史上最大級の買収案件の1つとして報じています。"
           },
           {
-            "en": "Micron's latest investment in Japan is expected to secure a stable supply of these critical components.",
-            "ja": "今回のマイクロンによる日本への投資は、これらの重要な部品の安定供給を確保することにつながると期待されています。"
+            "en": "As streaming services continue to grow globally, traditional broadcasters are actively seeking ways to strengthen their digital presence.",
+            "ja": "世界的に配信サービスが成長を続ける中、従来の放送局はデジタル分野での存在感を強化する方法を積極的に模索しています。"
           },
           {
-            "en": "The project is also seen as a significant boost to the local economy and job creation in the region.",
-            "ja": "このプロジェクトは、地域経済の活性化や新たな雇用創出への大きな後押しとしても注目されています。"
+            "en": "This acquisition highlights the intense competition and strategic shifts currently taking place in the industry.",
+            "ja": "今回の買収は、現在この業界で起きている激しい競争と戦略的な変化を浮き彫りにしています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260703/k10015168381000.html",
-        "title": "関西財界代表団 10月に中国訪問で調整 日中関係悪化する中",
-        "title_ja": "関西経済界の代表団、10月に中国訪問へ",
-        "date": "Fri, 03 Jul 2026 21:39:59 +0900",
-        "summary": "A business delegation from Japan's Kansai region is planning to visit China in October to hold talks with government officials, aiming to strengthen economic ties despite strained political relations.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
+        "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
+        "title_ja": "NYダウ初の5万3000ドル台、2日連続で最高値更新",
+        "date": "Tue, 07 Jul 2026 06:40:55 +0900",
+        "summary": "Following the holiday weekend, the New York stock market rose as investors bought back AI-related shares, pushing the Dow Jones Industrial Average above 53,000 dollars for the first time.",
         "sentences": [
           {
-            "en": "Amid worsening relations between Japan and China, a business delegation from the Kansai region is planning to visit China this October.",
-            "ja": "日中関係が悪化する中、関西の経済界の代表団が今年10月に中国を訪問する方向で調整を進めていることが分かりました。"
+            "en": "On May 6th, following the holiday weekend, the New York stock market gained momentum as investors bought back AI-related shares.",
+            "ja": "連休明け6日のニューヨーク株式市場では、投資家がAI関連の銘柄を買い戻す動きを見せ、市場は勢いづきました。"
           },
           {
-            "en": "According to sources, the delegation is currently making final arrangements for the trip.",
-            "ja": "関係者への取材によると、代表団は現在、訪問に向けた調整を行っています。"
+            "en": "The Dow Jones Industrial Average rose by more than 150 dollars compared to the previous trading day.",
+            "ja": "ダウ平均株価は前の営業日と比べて150ドル余り値上がりしました。"
           },
           {
-            "en": "They hope to meet with high-ranking Chinese government officials to discuss economic cooperation.",
-            "ja": "彼らは中国政府の幹部らと会談し、経済協力について話し合いたいと考えています。"
+            "en": "With this gain, the closing price finished above the 53,000-dollar mark for the first time in history.",
+            "ja": "この値上がりにより、終値は史上初めて5万3000ドル台に乗せました。"
           },
           {
-            "en": "Although political tensions remain high, business leaders emphasize the importance of maintaining active dialogue.",
-            "ja": "政治的な緊張は依然として高いものの、経済界のリーダーたちは活発な対話を維持することの重要性を強調しています。"
+            "en": "This achievement marked the second consecutive trading day that the market closed at an all-time high.",
+            "ja": "この記録達成により、2営業日連続で取引時間中の最高値を更新することとなりました。"
           },
           {
-            "en": "The delegation aims to achieve concrete results that could help stabilize business relations between the two countries.",
-            "ja": "代表団は、両国間のビジネス関係を安定させるのに役立つ具体的な成果を得ることを目指しています。"
+            "en": "The strong performance highlights the continued investor confidence in artificial intelligence technology.",
+            "ja": "この好調なパフォーマンスは、人工知能技術に対する投資家の継続的な信頼を浮き彫りにしています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169511000.html",
-        "title": "【動画】Pickup NEWS(7月6日）",
-        "title_ja": "1分でわかる最新ニュースのまとめ動画",
-        "date": "Mon, 06 Jul 2026 06:39:37 +0900",
-        "summary": "This lesson introduces a quick one-minute video format designed to help busy viewers stay updated on the latest news.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html",
+        "title": "Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任",
+        "title_ja": "韓国サッカー協会会長が辞任、W杯敗退と監督選考への批判受け",
+        "date": "Tue, 07 Jul 2026 06:42:45 +0900",
+        "summary": "Following South Korea's early elimination from the World Cup, the president of the Korea Football Association has resigned amid growing criticism over the lack of transparency in selecting the national team manager.",
         "sentences": [
           {
-            "en": "We present a quick summary of the latest news in a one-minute video.",
-            "ja": "これまでに入っている最新のニュースを、1分間の動画にまとめてお伝えします。"
+            "en": "Following South Korea's elimination in the group stage of the North and Central American World Cup, the head of the Korea Football Association has stepped down.",
+            "ja": "北中米ワールドカップの1次リーグで韓国が敗退したことを受け、韓国サッカー協会の会長が辞任しました。"
           },
           {
-            "en": "This format allows you to easily catch up on today's key events even when you are busy.",
-            "ja": "この形式なら、忙しい時でも今日の主要な出来事を簡単に把握することができます。"
+            "en": "The president resigned on the 6th to take responsibility for the national team's disappointing results.",
+            "ja": "会長は、代表チームの期待外れな結果に対する責任を取るため、6日に辞任しました。"
           },
           {
-            "en": "Please note that this video content may not be available on some platforms, such as data broadcasting.",
-            "ja": "なお、データ放送など一部の配信環境では、動画をご覧いただけない場合がありますのでご注意ください。"
+            "en": "For some time, there has been a wave of criticism in South Korea regarding the national team's management.",
+            "ja": "韓国国内では以前から、代表チームの運営に関して批判の嵐が巻き起こっていました。"
           },
           {
-            "en": "You can access our regular text updates and audio reports at any time.",
-            "ja": "通常のテキスト記事や音声リポートには、いつでもアクセスしていただけます。"
+            "en": "In particular, many have pointed out that the selection process for the national team manager lacks transparency.",
+            "ja": "特に、代表監督の選考過程が不透明であるという指摘が相次いでいました。"
           },
           {
-            "en": "Stay informed with our quick daily updates to keep track of what is happening around the world.",
-            "ja": "世界で何が起きているのかを把握するために、日々の素早いニュース更新をぜひご活用ください。"
+            "en": "This issue has sparked a major controversy that continues to divide soccer fans and experts across the country.",
+            "ja": "この問題は大きな論争を巻き起こし、今もなお国内のサッカーファンや専門家の間で意見が分かれています。"
+          },
+          {
+            "en": "The association now faces the urgent task of restoring public trust and reforming its leadership.",
+            "ja": "同協会は今後、国民の信頼を取り戻し、指導部を改革するという急務に直面しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169561000.html",
-        "title": "モスクワ国際バレエコンクール グジェレフ瞭舞さんが金賞",
-        "title_ja": "モスクワ国際バレエコンクールでグジェレフ瞭舞さんが1位を獲得",
-        "date": "Mon, 06 Jul 2026 05:58:11 +0900",
-        "summary": "A Japanese dancer from Tokyo, Ryoma Gusheref, won first place in the male senior solo category at the prestigious 15th Moscow International Ballet Competition.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170471000.html",
+        "title": "英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ",
+        "title_ja": "英スカイ、国内民放の放送・配信事業を最大3500億円で買収へ",
+        "date": "Tue, 07 Jul 2026 06:41:57 +0900",
+        "summary": "Major British broadcaster Sky has announced its acquisition of a domestic commercial broadcaster's streaming and TV business for up to 350 billion yen, marking one of the largest media deals in UK history.",
         "sentences": [
           {
-            "en": "The winners of the 15th Moscow International Ballet Competition, one of the most prestigious ballet contests in the world, have been announced.",
-            "ja": "世界で最も権威のあるバレエコンクールの1つ、第15回モスクワ国際バレエコンクールの受賞者が発表されました。"
+            "en": "The major British television broadcaster Sky has announced a massive acquisition deal.",
+            "ja": "イギリスの大手テレビ局スカイが、大規模な買収合意を発表しました。"
           },
           {
-            "en": "In the male senior solo category, Ryoma Gusheref, a talented dancer from Tokyo, won the first-place prize.",
-            "ja": "男性シニア部門のソロでは、東京都出身の実力派ダンサー、グジェレフ瞭舞さんが1位に選ばれました。"
+            "en": "Sky is set to acquire the broadcasting and video streaming business of a major domestic commercial broadcaster.",
+            "ja": "スカイは、国内の民放大手の放送および動画配信事業を買収する予定です。"
           },
           {
-            "en": "This international competition is highly regarded and serves as a major gateway to success for young dancers worldwide.",
-            "ja": "この国際コンクールは非常に高く評価されており、世界中の若いダンサーにとって成功への大きな登竜門となっています。"
+            "en": "The deal is valued at up to approximately 350 billion yen.",
+            "ja": "この取引の規模は、日本円にして最大でおよそ3500億円に達します。"
           },
           {
-            "en": "Gusheref's outstanding technique and expressive performance captivated both the judges and the audience.",
-            "ja": "グジェレフさんの優れた技術と表現力豊かなパフォーマンスは、審査員と観客の双方を魅了しました。"
+            "en": "Local media outlets are calling this transaction one of the largest acquisitions in the history of British media.",
+            "ja": "地元メディアは、この取引をイギリスのメディア史上最大級の買収案件の1つと報じています。"
           },
           {
-            "en": "His victory brings great pride to the Japanese ballet community and is expected to inspire many young artists.",
-            "ja": "彼の勝利は日本のバレエ界に大きな誇りをもたらし、多くの若いアーティストにインスピレーションを与えることが期待されています。"
+            "en": "This move is expected to significantly reshape the competitive landscape of the UK television and streaming market.",
+            "ja": "この動きは、イギリスのテレビおよび配信市場における競争環境を大きく塗り替えるものと予想されています。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169601000.html",
-        "title": "ウィンブルドン 望月慎太郎は世界1位シナーに敗れる",
-        "title_ja": "ウィンブルドン：望月慎太郎、世界1位シナーにストレート負け",
-        "date": "Mon, 06 Jul 2026 06:33:07 +0900",
-        "summary": "Japanese tennis player Shintaro Mochizuki, ranked 151st in the world, lost in straight sets to world No. 1 Jannik Sinner in the fourth round at Wimbledon.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html",
+        "title": "Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任",
+        "title_ja": "W杯1次リーグ敗退の韓国、サッカー協会会長が辞任表明",
+        "date": "Tue, 07 Jul 2026 06:42:45 +0900",
+        "summary": "Following South Korea's early elimination from the World Cup, the president of the Korea Football Association has resigned to take responsibility amidst ongoing controversy over the team's management.",
         "sentences": [
           {
-            "en": "In tennis, Shintaro Mochizuki faced a tough challenge in the men's singles fourth round at the Wimbledon Championships.",
-            "ja": "テニスのウィンブルドン選手権男子シングルス4回戦で、望月慎太郎選手が厳しい試練に挑みました。"
+            "en": "Following South Korea's elimination in the group stage of the World Cup, the head of the country's soccer association has stepped down.",
+            "ja": "ワールドカップで1次リーグ敗退に終わった韓国で、同国サッカー協会の会長が辞任しました。"
           },
           {
-            "en": "Mochizuki, who is currently ranked 151st in the world, went up against the world number one, Jannik Sinner.",
-            "ja": "現在世界ランキング151位の望月選手は、世界トップのヤニック・シナー選手と対戦しました。"
+            "en": "On the 6th, the president of the Korea Football Association officially resigned to take responsibility for the team's poor performance.",
+            "ja": "6日、韓国サッカー協会の会長は、代表チームの不振に対する責任を取るため、正式に辞任しました。"
           },
           {
-            "en": "The highly anticipated match took place on the historic Centre Court.",
-            "ja": "大きな期待を集めたこの試合は、歴史あるセンターコートで行われました。"
+            "en": "Even before the tournament, the association had faced heavy criticism regarding its decision-making processes.",
+            "ja": "大会前から同協会は、その意思決定のプロセスをめぐって激しい批判を浴びていました。"
           },
           {
-            "en": "Despite Mochizuki's best efforts, Sinner showed dominant form throughout the game.",
-            "ja": "望月選手が全力を尽くしたものの、シナー選手は試合を通じて圧倒的な強さを見せました。"
+            "en": "In particular, many football fans and experts criticized the selection process for the national team manager, calling it non-transparent.",
+            "ja": "特に多くのサッカーファンや専門家は、代表監督の選考過程が不透明であると非難していました。"
           },
           {
-            "en": "In the end, Mochizuki was defeated in straight sets with a score of zero to three.",
-            "ja": "最終的に、望月選手はセットカウント0対3のストレートで敗れました。"
-          },
-          {
-            "en": "Although it was a tough loss, playing on Centre Court against the world's best will surely be a valuable experience for his career.",
-            "ja": "厳しい敗戦となりましたが、世界一の選手を相手にセンターコートでプレーしたことは、彼の今後のキャリアにとって間違いなく貴重な経験となるでしょう。"
+            "en": "While the president's resignation marks a major turning point, intense debate over the future of South Korean football is expected to continue.",
+            "ja": "会長の辞任は大きな節目となりますが、韓国サッカーの未来をめぐる激しい論争は今後も続くとみられます。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169581000.html",
-        "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出",
-        "title_ja": "大坂なおみ、世界1位サバレンカを破りウィンブルドン準々決勝へ",
-        "date": "Mon, 06 Jul 2026 06:17:11 +0900",
-        "summary": "Naomi Osaka has advanced to the quarterfinals at Wimbledon after a stunning straight-sets victory over world number one Aryna Sabalenka.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170491000.html",
+        "title": "NBA八村 クリッパーズと“２年契約に合意”米複数メディア",
+        "title_ja": "八村塁選手、クリッパーズと2年契約に合意",
+        "date": "Tue, 07 Jul 2026 06:37:53 +0900",
+        "summary": "Japanese NBA player Rui Hachimura, who was a free agent from the Lakers, has reportedly agreed to a two-year contract with the Los Angeles Clippers.",
         "sentences": [
           {
-            "en": "In exciting tennis news, Naomi Osaka has secured a major victory at the Wimbledon Championships.",
-            "ja": "テニス界の素晴らしいニュースとして、大坂なおみ選手がウィンブルドン選手権で大きな勝利を収めました。"
+            "en": "Multiple US media outlets have reported that Japanese basketball star Rui Hachimura has agreed to a two-year contract with the Los Angeles Clippers.",
+            "ja": "米国の複数のメディアは、日本のバスケットボールスター、八村塁選手がロサンゼルス・クリッパーズとの2年契約に合意したと報じました。"
           },
           {
-            "en": "In the fourth round of the women's singles, she faced Aryna Sabalenka, the world's number-one ranked player.",
-            "ja": "女子シングルス4回戦で、彼女は世界ランキング1位のアリーナ・サバレンカ選手と対戦しました。"
+            "en": "Hachimura, who previously played for the Los Angeles Lakers, had become a free agent this offseason.",
+            "ja": "これまでロサンゼルス・レイカーズでプレーしていた八村選手は、このオフシーズンにフリーエージェントとなっていました。"
           },
           {
-            "en": "Osaka delivered a dominant performance, defeating her opponent in straight sets with a score of two to zero.",
-            "ja": "大坂選手は圧倒的なプレーを見せ、セットカウント2対0のストレートで相手を下しました。"
+            "en": "This move to the Clippers keeps him in Los Angeles, but he will now be playing for their city rivals.",
+            "ja": "クリッパーズへの移籍により、彼は引き続きロサンゼルスに留まることになりますが、今度は同市のライバルチームでプレーすることになります。"
           },
           {
-            "en": "With this impressive win, the Japanese star has successfully advanced to the quarterfinals.",
-            "ja": "この見事な勝利により、この日本のスター選手は見事に準々決勝進出を果たしました。"
+            "en": "Fans are highly anticipating how his versatile skills will contribute to his new team's success.",
+            "ja": "彼の多才なスキルが新チームの成功にどのように貢献するのか、ファンは大きな期待を寄せています。"
           },
           {
-            "en": "Fans and commentators are now watching closely to see if she can claim another Grand Slam title.",
-            "ja": "ファンや解説者たちは、彼女が再び四大大会のタイトルを獲得できるかどうかに注目しています。"
+            "en": "As he prepares for the upcoming NBA season, all eyes will be on his performance in this new chapter of his career.",
+            "ja": "次のNBAシーズンに向けて準備を進める中、彼のキャリアの新たな章におけるパフォーマンスに注目が集まっています。"
           }
         ]
       }
