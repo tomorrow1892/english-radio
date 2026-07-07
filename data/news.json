@@ -1,155 +1,97 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170321000.html",
-      "title": "台風9号 非常に強い勢力で10日以降 沖縄に接近する可能性",
-      "title_ja": "台風9号接近と西日本の気温上昇",
-      "date": "Tue, 07 Jul 2026 06:14:58 +0900",
-      "summary": "Typhoon No. 9 is expected to approach Okinawa with very strong force late this week, while high temperatures are forecast mainly in western Japan today.",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171421000.html",
+      "title": "台風9号 10日以降に沖縄 先島諸島接近へ 非常に強い勢力を維持",
+      "title_ja": "台風9号、非常に強い勢力で沖縄・先島諸島に接近へ",
+      "date": "Wed, 08 Jul 2026 06:23:15 +0900",
+      "summary": "Typhoon Number 9 is approaching Okinawa's Sakishima Islands with extreme strength, bringing potentially destructive winds from Friday to Saturday.",
       "sentences": [
         {
-          "en": "A large and extremely strong Typhoon No. 9 is currently heading toward the region.",
-          "ja": "大型で猛烈な台風9号が、現在この地域に向けて進んでいます。"
+          "en": "A large and very strong typhoon, Typhoon Number 9, is currently heading towards Japan.",
+          "ja": "大型で非常に強い台風9号が、現在日本に向かっています。"
         },
         {
-          "en": "It has the potential to approach Okinawa with very strong force from Friday, the 10th, to Saturday, the 11th of this week.",
-          "ja": "この台風は、今週の10日金曜日から11日土曜日にかけて、非常に強い勢力で沖縄県に接近する可能性があります。"
+          "en": "It is expected to approach the Sakishima Islands in Okinawa Prefecture from Friday the 10th to Saturday the 11th.",
+          "ja": "台風は10日金曜日から11日土曜日にかけて、沖縄県の先島諸島に接近する見込みです。"
         },
         {
-          "en": "Residents in the area are advised to stay alert and check the latest weather updates frequently.",
-          "ja": "地域の住民は警戒を怠らず、最新の気象情報をこまめに確認することが呼びかけられています。"
+          "en": "Weather officials warn that the storm will maintain its extremely strong intensity as it draws near.",
+          "ja": "気象庁は、台風が非常に強い勢力を維持したまま近づくと警告しています。"
         },
         {
-          "en": "Meanwhile, temperatures are expected to rise today on the 7th, mainly in western Japan.",
-          "ja": "一方、本日7日は西日本を中心に気温が上がる見込みです。"
+          "en": "The Japan Meteorological Agency has issued warnings for fierce winds powerful enough to collapse some homes.",
+          "ja": "気象庁は、一部の住宅が倒壊するほどの猛烈な風が吹くおそれがあるとして警戒を呼びかけています。"
         },
         {
-          "en": "Please take precautions against both heatstroke and the approaching typhoon to stay safe.",
-          "ja": "安全を確保するため、熱中症への対策と近づく台風への備えの両方を行ってください。"
+          "en": "Residents in the affected areas are strongly advised to secure their homes and stay updated on the latest weather information.",
+          "ja": "影響を受ける地域の住民の皆さんは、自宅の安全を確保し、最新の気象情報に注意することが強く推奨されます。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170351000.html",
-      "title": "参議院 法案審議再開へ 衆議院では与野党対立続く",
-      "title_ja": "参議院での審議再開と衆議院での皇室典範をめぐる対立",
-      "date": "Tue, 07 Jul 2026 05:45:52 +0900",
-      "summary": "Deliberations on bills are set to resume in the House of Councillors on the 7th after the ruling party agreed to intensive budget committee meetings, while conflict continues in the House of Representatives over proposed amendments to the Imperial Household Law.",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
+      "title": "ホルムズ海峡で船舶に攻撃相次ぐ 支配力の低下にイラン焦りか",
+      "title_ja": "ホルムズ海峡周辺での船舶攻撃とイラン強硬派の焦り",
+      "date": "Wed, 08 Jul 2026 07:07:58 +0900",
+      "summary": "Following recent attacks on ships near the Strait of Hormuz, US media reports suggest that Iranian hardliners are becoming increasingly anxious as they lose their strategic leverage over the United States.",
       "sentences": [
         {
-          "en": "In Japan's National Diet, deliberations on bills are set to resume in the House of Councillors on the 7th.",
-          "ja": "日本の国会では、参議院において7日から法案の審議が再開される予定です。"
+          "en": "On July 7th, several ships passing near the Strait of Hormuz in the Middle East were attacked one after another.",
+          "ja": "7日、中東のホルムズ海峡の近くを通航していた複数の船舶が、相次いで攻撃を受けました。"
         },
         {
-          "en": "This decision comes after the ruling coalition agreed to hold intensive deliberations in the Budget Committee.",
-          "ja": "この決定は、与党側が予算委員会での集中審議の開催に応じたことを受けたものです。"
+          "en": "The Strait of Hormuz is a vital shipping lane for global oil supplies, making security in this area extremely sensitive.",
+          "ja": "ホルムズ海峡は世界の石油供給にとって極めて重要な海上航路であり、この海域の安全確保は非常に重要視されています。"
         },
         {
-          "en": "On the other hand, political conflict remains unresolved in the House of Representatives.",
-          "ja": "その一方で、衆議院では依然として政治的な対立が解消されていません。"
+          "en": "According to US media reports, Iranian hardliners may be behind these recent incidents.",
+          "ja": "アメリカメディアの報道によると、これらの最近の事案の背景にはイランの強硬派がいる可能性があるとのことです。"
         },
         {
-          "en": "The disagreement centers on when to begin debating a proposed amendment to the Imperial Household Law.",
-          "ja": "対立の焦点は、皇室典範の改正案の審議入りをいつにするかを巡る議論にあります。"
+          "en": "These hardliners have historically used their influence over the strait as key leverage in negotiations with the United States.",
+          "ja": "これらの強硬派は歴史的に、アメリカとの交渉における重要な頼みの綱として、同海峡での影響力を利用してきました。"
         },
         {
-          "en": "This bill is aimed at securing a stable number of imperial family members for the future.",
-          "ja": "この法案は、将来にわたって皇族の数を安定的に確保することを目的としています。"
+          "en": "However, they now feel their influence is declining, which is causing them to become increasingly anxious.",
+          "ja": "しかし、彼らは現在、自らの影響力が低下していると感じており、これが焦りを募らせる原因となっています。"
         },
         {
-          "en": "With both chambers of the Diet facing different situations, public attention is focused on how these discussions will develop.",
-          "ja": "国会の両院が異なる状況に直面する中、これらの議論が今後どのように進展するかに注目が集まっています。"
+          "en": "This growing impatience could lead to further instability in one of the world's most critical trade routes.",
+          "ja": "この高まる焦りは、世界で最も重要な貿易ルートの一つにおける、さらなる不安定化を招く恐れがあります。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html",
-      "title": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
-      "title_ja": "トランプ大統領、FIFA会長に電話：米国選手の出場停止猶予をめぐり",
-      "date": "Tue, 07 Jul 2026 05:35:30 +0900",
-      "summary": "US President Donald Trump made a phone call to the FIFA president after a US national team player's red card suspension was deferred during the World Cup.",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171231000.html",
+      "title": "リニア中央新幹線 JR東海が静岡で着工へ 開業へなお課題も",
+      "title_ja": "リニア静岡工区の着工容認とJR東海の今後の計画",
+      "date": "Wed, 08 Jul 2026 05:54:23 +0900",
+      "summary": "Following Shizuoka Governor Suzuki's approval for the Maglev construction, JR Central plans to sign an environmental agreement and start work, possibly by the end of the year.",
       "sentences": [
         {
-          "en": "US President Donald Trump has made a phone call to the president of FIFA, the international governing body of soccer.",
-          "ja": "トランプ米大統領は、国際サッカーの統括団体であるFIFA（国際サッカー連盟）の会長に電話をかけました。"
+          "en": "JR Central is preparing to begin construction on the Maglev high-speed rail line in Shizuoka Prefecture.",
+          "ja": "JR東海は、静岡県内でのリニア中央新幹線の工事着手に向けた準備を進めています。"
         },
         {
-          "en": "This call came after a US national team player received a red card during the World Cup but had their suspension deferred for the next match.",
-          "ja": "この電話は、ワールドカップでアメリカ代表の選手がレッドカードを受けて退場処分となったものの、次の試合への出場停止処分が猶予されたことを巡って行われました。"
+          "en": "This decision comes after Shizuoka Governor Suzuki expressed his approval for the project to proceed within the prefecture.",
+          "ja": "この決定は、静岡県の鈴木知事が県内での着工を容認する考えを示したことを受けたものです。"
         },
         {
-          "en": "President Trump reportedly contacted FIFA President Gianni Infantino to discuss this unusual decision.",
-          "ja": "トランプ大統領は、この異例の決定について話し合うため、FIFAのジャンニ・インファンティーノ会長に連絡を取ったとのことです。"
+          "en": "Before starting the work, JR Central plans to sign a natural environment conservation agreement on November 18th.",
+          "ja": "工事に着手する前に、JR東海は今月18日に自然環境保全協定を締結する方針です。"
         },
         {
-          "en": "The United States, along with Canada and Mexico, is co-hosting this major soccer tournament.",
-          "ja": "アメリカはカナダやメキシコとともに、このサッカーの大規模な大会を共同開催しています。"
+          "en": "Once the agreement is signed, the company will officially begin preparatory construction works.",
+          "ja": "協定が締結された後、同社は正式に準備工事に着手します。"
         },
         {
-          "en": "This direct communication highlights the high level of political interest in the event's operations.",
-          "ja": "今回の直接のやり取りは、大会運営に対する政治的な関心の高さを浮き彫りにしています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170241000.html",
-      "title": "ハマス ガザ地区の行政当局解散と発表も和平計画進展は不透明",
-      "title_ja": "ハマスがガザの行政当局解散を発表、和平への影響は不透明",
-      "date": "Tue, 07 Jul 2026 04:58:23 +0900",
-      "summary": "The Palestinian group Hamas has announced the dissolution of its administrative committee in the Gaza Strip, but the move's impact on peace remains uncertain as disarmament was not mentioned.",
-      "sentences": [
-        {
-          "en": "The Palestinian group Hamas, which controls the Gaza Strip, has announced that it has dissolved its administrative committee.",
-          "ja": "パレスチナのガザ地区を実効支配するイスラム組織ハマスは、同地区を運営する行政委員会を解散したと発表しました。"
+          "en": "There is a strong possibility that actual construction could start before the end of this year.",
+          "ja": "年内に実際の工事が開始される可能性も十分にあります。"
         },
         {
-          "en": "This committee had been functioning as a governing authority in the region.",
-          "ja": "この委員会は、同地域における実質的な行政当局として機能していました。"
-        },
-        {
-          "en": "The decision is seen as an effort to pave the way for reconciliation with the rival Fatah faction.",
-          "ja": "この決定は、対立するファタハ派との和解に向けた道を開くための取り組みと見なされています。"
-        },
-        {
-          "en": "Under the proposed peace plan, the Palestinian Authority would take over control of Gaza.",
-          "ja": "提案されている和平計画のもとでは、パレスチナ自治政府がガザの管理を引き継ぐことになります。"
-        },
-        {
-          "en": "However, Hamas made no mention of disarmament, which is a key element of the peace process.",
-          "ja": "しかし、ハマスは和平プロセスの主要な要素である武装解除については言及しませんでした。"
-        },
-        {
-          "en": "As a result, it remains uncertain whether this development will lead to any real progress toward peace.",
-          "ja": "その結果、この進展が和平に向けた実際の進展につながるかどうかは、依然として不透明なままです。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
-      "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
-      "title_ja": "ネアンデルタール人とホモ・サピエンスの交流を示す貝を発見",
-      "date": "Tue, 07 Jul 2026 04:56:23 +0900",
-      "summary": "An international research team has discovered ancient shells in Turkey, suggesting cultural exchange between Neanderthals and Homo sapiens.",
-      "sentences": [
-        {
-          "en": "An international research group, including Kyoto University, has made an exciting discovery in a cave in southern Turkey.",
-          "ja": "京都大学などの国際研究グループが、トルコ南部の洞窟で興味深い発見をしました。"
-        },
-        {
-          "en": "They found ancient shells that suggest there was cultural exchange between Neanderthals and modern humans, Homo sapiens.",
-          "ja": "彼らは、ネアンデルタール人と現代の人類であるホモ・サピエンスの間に、文化的交流があったことを示唆する古代の貝殻を発見しました。"
-        },
-        {
-          "en": "These shells are believed to have been used as personal ornaments, such as beads or pendants.",
-          "ja": "これらの貝殻は、ビーズやペンダントなどの身の回りの装飾品として使われていたと考えられています。"
-        },
-        {
-          "en": "The discovery provides physical evidence that these two different human species interacted with each other in the region.",
-          "ja": "この発見は、これら2つの異なる人類の種がこの地域で互いに交流していたという、物理的な証拠を提供するものです。"
-        },
-        {
-          "en": "Researchers hope this finding will help us better understand how knowledge and culture were shared between early human populations.",
-          "ja": "研究者たちは、この発見が、初期の人類集団の間で知識や文化がどのように共有されていたかをより深く理解する手がかりになることを期待しています。"
+          "en": "Many are closely watching how the project progresses while ensuring environmental protection.",
+          "ja": "環境保全を確保しつつ、プロジェクトがどのように進められるかに多くの注目が集まっています。"
         }
       ]
     }
@@ -157,128 +99,62 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170201000.html",
-        "title": "【動画】Pickup NEWS(7月7日）",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171151000.html",
+        "title": "【動画】Pickup NEWS(7月8日）",
         "title_ja": "1分でわかる最新ニュース",
-        "date": "Tue, 07 Jul 2026 06:52:04 +0900",
-        "summary": "This lesson explains the convenience of a quick one-minute news summary video designed for busy people, along with a note on viewing limitations.",
+        "date": "Wed, 08 Jul 2026 06:44:48 +0900",
+        "summary": "This lesson introduces a quick, one-minute video news digest designed to keep busy viewers updated on the latest headlines.",
         "sentences": [
           {
-            "en": "Welcome to our quick news round-up, bringing you the latest updates in just one minute.",
-            "ja": "最新のニュースをわずか1分でまとめてお伝えする、クイックニュースへようこそ。"
+            "en": "Welcome to our quick news update, where we bring you the latest headlines.",
+            "ja": "最新のヘッドラインをお届けする、クイックニュースアップデートへようこそ。"
           },
           {
-            "en": "In today's fast-paced world, staying informed can be a challenge.",
-            "ja": "現代の忙しい社会において、常に最新情報を把握することは簡単ではありません。"
+            "en": "We have summarized the most important news of the day into a short, one-minute video.",
+            "ja": "本日の最も重要なニュースを、1分間の短い動画にまとめました。"
           },
           {
-            "en": "Our short video format is designed to give you the most important headlines quickly and efficiently.",
-            "ja": "当社の短い動画フォーマットは、最も重要なヘッドラインを迅速かつ効率的にお届けするよう設計されています。"
+            "en": "This is a convenient way to stay informed even when you are busy.",
+            "ja": "これは、忙しい時でも最新の情報を得るのに便利な方法です。"
           },
           {
-            "en": "We cover a wide range of topics, from major national events to global stories.",
-            "ja": "国内の重大な出来事から世界のニュースまで、幅広いトピックをカバーしています。"
+            "en": "Please note that this video content is not available through data broadcasting services.",
+            "ja": "なお、この動画コンテンツはデータ放送からはご覧いただけませんのでご注意ください。"
           },
           {
-            "en": "Please note that this video summary may not be available on some data broadcasting platforms.",
-            "ja": "なお、一部のデータ放送では、この動画まとめをご覧いただけない場合がありますのでご注意ください。"
-          },
-          {
-            "en": "We hope this quick update helps you start your day well-informed.",
-            "ja": "この手軽なニュース更新が、皆様の一日のスタートに役立つことを願っています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170421000.html",
-        "title": "農業従事者が初めて100万人下回る 高齢化で離農続く",
-        "title_ja": "基幹的農業従事者、初の100万人割れ",
-        "date": "Tue, 07 Jul 2026 06:24:31 +0900",
-        "summary": "A survey by Japan's agricultural ministry reveals that the number of core agricultural workers has fallen below one million for the first time due to an aging population.",
-        "sentences": [
-          {
-            "en": "According to a survey by the Ministry of Agriculture, Forestry and Fisheries, the number of core agricultural workers in Japan has fallen below one million for the first time.",
-            "ja": "農林水産省の調査によると、日本における「基幹的農業従事者」の数が初めて100万人を下回りました。"
-          },
-          {
-            "en": "These core workers are defined as individuals whose primary occupation is farming.",
-            "ja": "これらの基幹的従事者は、農業を主な仕事とする人々と定義されています。"
-          },
-          {
-            "en": "The decline is largely driven by a rapidly aging population and a lack of successors to take over the farms.",
-            "ja": "この減少は、主に急速に進む高齢化と、農家を引き継ぐ後継者不足が原因となっています。"
-          },
-          {
-            "en": "This ongoing downward trend has raised concerns about the future of Japan's domestic food production.",
-            "ja": "この継続的な減少傾向は、日本の国内食料生産の将来に対する懸念を引き起こしています。"
-          },
-          {
-            "en": "In response, the government is seeking ways to attract younger people to the industry and promote the use of smart farming technology.",
-            "ja": "これを受けて政府は、若い世代をこの産業に呼び込み、スマート農業技術の活用を推進する方法を模索しています。"
+            "en": "We hope this quick summary helps you stay up to date with today's events.",
+            "ja": "この簡単なまとめが、今日の出来事を把握するのにお役に立てば幸いです。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170251000.html",
-        "title": "がんゲノム医療拠点 来年度から各都道府県に原則1か所指定へ",
-        "title_ja": "がんゲノム医療の体制拡充、2027年度から各都道府県に拠点病院整備へ",
-        "date": "Mon, 06 Jul 2026 21:22:48 +0900",
-        "summary": "The Japanese health ministry plans to designate one hub hospital per prefecture starting in fiscal 2027 to expand access to cancer genomic medicine.",
+        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171111000.html",
+        "title": "岩手 雫石町 クマが住宅に入り漬物やキャットフードなど食べる",
+        "title_ja": "岩手県雫石町の住宅にクマが繰り返し侵入、漬物やペットフードを食べる被害",
+        "date": "Tue, 07 Jul 2026 20:32:30 +0900",
+        "summary": "A bear repeatedly entered a home in Shizukuishi Town, Iwate Prefecture, eating pickles and cat food. Local police are urging residents to stay cautious and secure their food.",
         "sentences": [
           {
-            "en": "Cancer genomic medicine is an advanced approach that analyzes a patient's genes to find the most effective treatment.",
-            "ja": "がんゲノム医療とは、患者の遺伝子を調べることで、最も効果的な治療法を見つける先進的な医療アプローチです。"
+            "en": "On November 5th, a bear repeatedly broke into a residential home in Shizukuishi Town, Iwate Prefecture.",
+            "ja": "11月5日、岩手県雫石町の住宅にクマが繰り返し侵入する事案がありました。"
           },
           {
-            "en": "To promote this medical care, Japan's Ministry of Health, Labour and Welfare plans to expand its support system starting in fiscal year 2027.",
-            "ja": "この医療を推進するため、厚生労働省は2027年度から支援体制を拡充する計画です。"
+            "en": "According to the police, the bear targeted and ate food stored in the house, including pickles and cat food.",
+            "ja": "警察によりますと、クマは住宅内に保管されていた漬物やキャットフードなどを狙って食べました。"
           },
           {
-            "en": "Under the new plan, the ministry will designate in principle one hub hospital in each prefecture to provide high-quality care.",
-            "ja": "新たな計画のもと、同省は質の高い医療を提供するため、原則として各都道府県に1か所の拠点病院を指定します。"
+            "en": "Around 4:00 AM on that day, a resident spotted the animal eating cat food inside the house.",
+            "ja": "当日の午前4時ごろ、住人が家の中でキャットフードを食べているクマを目撃しました。"
           },
           {
-            "en": "This initiative aims to ensure that patients can receive specialized genomic medicine locally, regardless of where they live.",
-            "ja": "この取り組みは、患者がどこに住んでいても、地域で専門的なゲノム医療を受けられるようにすることを目指しています。"
+            "en": "Fortunately, no one was injured during these incidents.",
+            "ja": "幸いなことに、これらの一連の出来事による怪我人は出ていません。"
           },
           {
-            "en": "By strengthening the regional hospital network, the government hopes to make personalized cancer care more accessible nationwide.",
-            "ja": "地域病院のネットワークを強化することで、政府は一人ひとりに適した個別化がん治療を全国的に普及させたいと考えています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169891000.html",
-        "title": "大阪 「万博の顔」ミャクミャクが道頓堀にお目見え",
-        "title_ja": "道頓堀に万博キャラ「ミャクミャク」のモニュメントが登場",
-        "date": "Mon, 06 Jul 2026 14:35:13 +0900",
-        "summary": "A new monument of the Osaka-Kansai Expo official character, Myaku-Myaku, has been installed in Osaka's Dotonbori, attracting many visitors and boosting excitement for the 2025 event.",
-        "sentences": [
-          {
-            "en": "A new monument of \"Myaku-Myaku,\" the official character of the upcoming Osaka-Kansai Expo, has been unveiled in Osaka's famous Dotonbori district.",
-            "ja": "大阪の有名な観光地である道頓堀に、間もなく開催される大阪・関西万博の公式キャラクター「ミャクミャク」の新しいモニュメントが登場しました。"
-          },
-          {
-            "en": "The monument is located in the heart of Dotonbori, a bustling area known for its lively atmosphere and iconic neon signs.",
-            "ja": "このモニュメントは、賑やかな雰囲気と象徴的なネオン看板で知られる道頓堀の中心部に設置されています。"
-          },
-          {
-            "en": "Many tourists and locals are stopping by to take commemorative photos with the colorful character.",
-            "ja": "多くの観光客や地元の人々が立ち止まり、このカラフルなキャラクターと一緒に記念撮影を楽しんでいます。"
-          },
-          {
-            "en": "This display aims to build excitement for the international exposition, which will open in April 2025.",
-            "ja": "この展示は、2025年4月に開幕する万国博覧会に向けて機運を高めることを目的としています。"
-          },
-          {
-            "en": "Organizers hope the cute yet unique character will attract more attention and welcome visitors to the city.",
-            "ja": "主催者は、この愛らしくもユニークなキャラクターがより多くの注目を集め、街を訪れる人々を歓迎することを期待しています。"
-          },
-          {
-            "en": "If you visit Osaka, be sure to check out Dotonbori to see this fun landmark for yourself.",
-            "ja": "もし大阪を訪れる機会があれば、ぜひ道頓堀に足を運んで、この楽しいランドマークを直接見てみてください。"
+            "en": "Local authorities are urging residents to keep their doors locked and avoid leaving food outside to prevent further encounters.",
+            "ja": "地元当局は、さらなる遭遇を防ぐため、戸締まりを徹底し、屋外に食べ物を放置しないよう住民に呼びかけています。"
           }
         ]
       }
@@ -287,314 +163,285 @@
       {
         "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
         "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
-        "title_ja": "トルコの洞窟で発見された貝殻、ネアンデルタール人とホモ・サピエンスの交流を示唆",
+        "title_ja": "トルコの洞窟でネアンデルタール人とホモ・サピエンスの交流を示す貝を発見",
         "date": "Tue, 07 Jul 2026 04:56:23 +0900",
-        "summary": "An international research team has discovered shells in a Turkish cave, suggesting that Neanderthals and modern humans may have shared cultural practices.",
+        "summary": "An international research team has discovered ancient shells in a cave in southern Turkey, suggesting a cultural exchange between Neanderthals and Homo sapiens.",
         "sentences": [
           {
-            "en": "An international research group, including Kyoto University, has made an exciting discovery in southern Turkey.",
+            "en": "An international research team, including Kyoto University, has made an exciting discovery in southern Turkey.",
             "ja": "京都大学などの国際研究グループが、トルコ南部で興味深い発見をしました。"
           },
           {
-            "en": "They found ancient shells in a cave that suggest cultural exchanges between Neanderthals and modern humans, Homo sapiens.",
+            "en": "They found ancient shells in a cave that suggest a cultural exchange between Neanderthals and modern humans, Homo sapiens.",
             "ja": "彼らはある洞窟で、ネアンデルタール人と現代の人類であるホモ・サピエンスの間に、文化的な交流があった可能性を示す古代の貝殻を発見しました。"
           },
           {
-            "en": "The cave is known to have been inhabited by both species at different times during the Paleolithic era.",
-            "ja": "この洞窟は、旧石器時代の異なる時期に、両方の種が暮らしていた場所として知られています。"
+            "en": "These shells are believed to have been used as ornaments or tools, indicating shared behaviors.",
+            "ja": "これらの貝殻は装飾品や道具として使われていたと考えられており、共通の行動があったことを示しています。"
           },
           {
-            "en": "The discovered shells were modified in a way that suggests they were used as ornaments or tools.",
-            "ja": "発見された貝殻には加工された痕跡があり、装飾品や道具として使われていた可能性を示唆しています。"
+            "en": "Previously, it was unclear how closely these two human species interacted in this region.",
+            "ja": "これまで、この地域でこれら2つの人類種がどれほど密接に関わっていたかは明らかではありませんでした。"
           },
           {
-            "en": "This discovery provides valuable evidence that these two human species did not just coexist, but may have actively shared their cultures.",
-            "ja": "この発見は、これら2つの人類が単に共存していただけでなく、お互いの文化を積極的に共有していた可能性があるという、貴重な証拠となります。"
+            "en": "This finding provides new evidence that they may have learned from each other and shared cultural practices.",
+            "ja": "今回の発見は、彼らがお互いに学び合い、文化的な慣習を共有していたかもしれないという新たな証拠をもたらします。"
+          },
+          {
+            "en": "Researchers hope to study the site further to uncover more details about our ancestors' lives.",
+            "ja": "研究者たちは、私たちの祖先の生活についてさらに詳細を明らかにするため、この遺跡の調査をさらに進めたいと考えています。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170191000.html",
         "title": "KDDI提供のメールシステム アドレスなど1223万人分流出を確認",
-        "title_ja": "KDDIの法人向けメールシステムで1200万人の情報漏えい",
+        "title_ja": "KDDIの法人メールシステムに不正アクセス、1200万人のアドレス漏えい",
         "date": "Mon, 06 Jul 2026 20:19:11 +0900",
-        "summary": "KDDI announced that unauthorized access to its corporate email system led to the leak of 12 million email addresses, with 7.6 million passwords also compromised.",
+        "summary": "KDDI announced that an investigation into unauthorized access to its corporate email system revealed a leak of approximately 12 million email addresses, with 7.6 million of those also losing their passwords.",
         "sentences": [
           {
-            "en": "KDDI has released the results of an investigation into unauthorized access to its corporate email system.",
+            "en": "KDDI has released the findings of an investigation regarding unauthorized access to its corporate email system.",
             "ja": "KDDIは、企業向けに提供しているメールシステムで発生した不正アクセスに関する調査結果を公表しました。"
           },
           {
-            "en": "The Japanese telecommunications giant revealed that approximately 12 million email addresses were leaked.",
-            "ja": "この日本の通信大手は、およそ1200万人分のアドレスが漏えいしたことを明らかにしました。"
+            "en": "The telecommunications giant revealed that a massive amount of user data was compromised.",
+            "ja": "この大手電気通信会社は、膨大な量のユーザーデータが流出したことを明らかにしました。"
           },
           {
-            "en": "Furthermore, it was confirmed that passwords for about 7.6 million of those accounts were also compromised.",
-            "ja": "さらに、このうちおよそ760万人分については、パスワードの漏えいも確認されたとのことです。"
+            "en": "According to the report, approximately 12 million email addresses were leaked.",
+            "ja": "報告によると、およそ1200万人分のメールアドレスが漏えいしたとのことです。"
           },
           {
-            "en": "KDDI has apologized for the incident and is currently taking steps to strengthen its security measures.",
-            "ja": "KDDIはこの事態について謝罪し、現在はセキュリティ対策の強化に向けた措置を講じています。"
+            "en": "Furthermore, it was confirmed that the passwords for about 7.6 million of those accounts were also leaked.",
+            "ja": "さらに、そのうちおよそ760万人分については、パスワードの漏えいも確認されました。"
           },
           {
-            "en": "The company is urging affected corporate users to change their passwords immediately to prevent further damage.",
-            "ja": "同社は、さらなる被害を防ぐため、影響を受けた企業の利用者に対して速やかにパスワードを変更するよう呼びかけています。"
+            "en": "KDDI is continuing its investigation to understand the full extent of the security breach.",
+            "ja": "KDDIは、このセキュリティ侵害の全容を把握するため、引き続き調査を進めています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170351000.html",
-        "title": "参議院 法案審議再開へ 衆議院では与野党対立続く",
-        "title_ja": "国会での法案審議再開と衆議院の対立",
-        "date": "Tue, 07 Jul 2026 05:45:52 +0900",
-        "summary": "Deliberations on bills will resume in the Upper House after the ruling party agreed to intensive budget committee discussions, while the Lower House remains divided over Imperial Household Law amendments.",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171331000.html",
+        "title": "福岡県議会 全議員に聞き取り実施で調整 金銭やりとり調査へ",
+        "title_ja": "福岡県議会の議長選考をめぐる金銭疑惑と全議員調査",
+        "date": "Wed, 08 Jul 2026 06:11:38 +0900",
+        "summary": "The Fukuoka Prefectural Assembly is launching an external investigation targeting all members after a former speaker claimed he paid over 18 million yen to secure his post.",
         "sentences": [
           {
-            "en": "Deliberations on bills are set to resume in Japan's parliament, the Diet, starting on the 7th.",
-            "ja": "日本の国会では、7日から法案の審議が再開される見通しです。"
+            "en": "The Fukuoka Prefectural Assembly is launching an investigation into allegations of monetary exchange over its speaker position.",
+            "ja": "福岡県議会は、議長ポストをめぐる金銭のやり取りの疑惑について調査を開始しています。"
           },
           {
-            "en": "This comes after the ruling coalition in the House of Councillors agreed to hold intensive discussions in the Budget Committee.",
-            "ja": "これは、参議院の与党側が予算委員会での集中審議の開催に同意したことを受けたものです。"
+            "en": "This decision comes after a former speaker revealed that he had paid a large sum of money before taking office.",
+            "ja": "この決定は、元議長が就任前に多額の金を支払っていたことを明らかにしたことを受けて下されました。"
           },
           {
-            "en": "On the other hand, a political standoff continues in the House of Representatives.",
-            "ja": "一方、衆議院では政治的な対立が続いています。"
+            "en": "He claimed that he paid over 18 million yen in response to a demand from the Liberal Democratic Party assembly group.",
+            "ja": "元議長は、自民党県議団からの要求に応じて1,800万円以上を支払ったと主張しています。"
           },
           {
-            "en": "The conflict centers on when to begin debating a proposed amendment to the Imperial Household Law.",
-            "ja": "この対立は、皇室典範の改正案の審議入りをいつにするかをめぐって起きています。"
+            "en": "To determine the truth, the assembly plans to conduct an investigation targeting all of its members using an external body.",
+            "ja": "真相を究明するため、県議会は外部機関を起用し、全議員を対象とした調査を実施する計画です。"
           },
           {
-            "en": "This amendment aims to address the shrinking number of imperial family members and secure their future numbers.",
-            "ja": "この改正案は、減少する皇族の数を確保することを目指しています。"
-          },
-          {
-            "en": "Observers are closely watching how both houses will navigate these challenges to move the legislative process forward.",
-            "ja": "法案審議を進めるために、両院がどのようにこれらの課題を乗り越えていくのかが注目されています。"
+            "en": "This scandal has raised serious concerns about transparency and political ethics within the local government.",
+            "ja": "このスキャンダルは、地方自治体における透明性と政治倫理に関する深刻な懸念を引き起こしています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170171000.html",
-        "title": "高市首相 “皇室典範改正案など国会運営に万全を” 自民役員会",
-        "title_ja": "会期末を控え、高市首相が法案成立へ連携を指示",
-        "date": "Mon, 06 Jul 2026 21:46:26 +0900",
-        "summary": "As the Diet session deadline on July 17th approaches, Prime Minister Takaichi has urged LDP executives to cooperate closely to pass key remaining bills.",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171221000.html",
+        "title": "自維党首会談 定数削減法案見送る方針確認 野党側と協議へ",
+        "title_ja": "自民・維新、衆院定数削減案の審議見送りで合意",
+        "date": "Wed, 08 Jul 2026 05:47:19 +0900",
+        "summary": "Amid ongoing tensions in the House of Representatives, the LDP and Nippon Ishin no Kai have agreed to postpone deliberations on a controversial bill to reduce lower house seats during the current Diet session.",
         "sentences": [
           {
-            "en": "With the current Diet session set to end on July 17th, Prime Minister Takaichi has called for close cooperation within the ruling party.",
-            "ja": "国会の会期末が7月17日に迫る中、高市総理大臣は与党内での緊密な連携を呼びかけました。"
+            "en": "In the Japanese House of Representatives, tensions remain high between the ruling and opposition parties.",
+            "ja": "衆議院では、与党と野党の間で対立が続いています。"
           },
           {
-            "en": "During a meeting of Liberal Democratic Party executives, she instructed members to make every effort to ensure smooth parliamentary operations.",
-            "ja": "自民党の役員会において、首相は国会運営に万全を尽くすようメンバーに指示しました。"
+            "en": "Amid this political standoff, the leaders of the Liberal Democratic Party and Nippon Ishin no Kai held a meeting.",
+            "ja": "このような政治的対立が続く中、自民党と日本維新の会の党首が会談を行いました。"
           },
           {
-            "en": "Several key bills are still pending, including a proposed amendment to the Imperial House Law.",
-            "ja": "皇室典範の改正案など、いくつかの重要な法案がまだ残されています。"
+            "en": "During the talks, they agreed to postpone deliberations during the current Diet session on a bill to reduce the number of lower house seats.",
+            "ja": "会談の中で、両党首は衆議院の議員定数を削減する法案について、今国会での審議を見送る方針で一致しました。"
           },
           {
-            "en": "This particular amendment aims to secure a stable number of imperial family members for the future.",
-            "ja": "この改正案は、将来に向けて皇族数を安定的に確保することを目的としています。"
+            "en": "This particular bill has faced strong opposition from other political parties.",
+            "ja": "この法案は、他の野党から強い反発を受けていました。"
           },
           {
-            "en": "Another major piece of legislation on the table is a bill to reduce the number of seats in the House of Representatives.",
-            "ja": "もう一つの主要な法案は、衆議院議員の定数を削減するためのものです。"
-          },
-          {
-            "en": "As the deadline quickly approaches, the administration is focusing its energy on passing these crucial bills.",
-            "ja": "会期末が急速に迫る中、政権はこれらの重要法案を成立させることに注力しています。"
+            "en": "The two parties plan to inform the opposition of this decision as early as the 8th to seek their understanding.",
+            "ja": "両党は、早ければ8日にもこの方針を野党側に伝えて理解を得たい考えです。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170471000.html",
-        "title": "英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ",
-        "title_ja": "スカイが英大手の放送・配信事業を3500億円で買収へ",
-        "date": "Tue, 07 Jul 2026 06:41:57 +0900",
-        "summary": "British TV giant Sky has announced its plan to acquire the broadcasting and streaming business of a major domestic commercial broadcaster for up to 350 billion yen.",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171301000.html",
+        "title": "バイオディーゼル燃料 トラックで活用の動き進む",
+        "title_ja": "トラックでのバイオディーゼル燃料の活用",
+        "date": "Wed, 08 Jul 2026 06:51:42 +0900",
+        "summary": "Efforts to use plant-derived biodiesel in trucks are expanding, with Isuzu Motors leading new initiatives to reduce carbon emissions.",
         "sentences": [
           {
-            "en": "Sky, a major British television broadcaster, has announced its plan to acquire the broadcasting and video streaming business of a leading domestic commercial broadcaster.",
-            "ja": "イギリスの大手テレビ局スカイは、国内の主要な民放局の放送・動画配信事業を買収する計画を発表しました。"
+            "en": "To achieve decarbonization, there is a growing movement to use biodiesel fuel made from plant-derived cooking oil in trucks.",
+            "ja": "脱炭素の実現に向けて、植物由来の食用油などから作られた「バイオディーゼル燃料」をトラックで活用する動きが広がっています。"
           },
           {
-            "en": "The deal is estimated to be worth up to approximately 350 billion Japanese yen.",
-            "ja": "この取引の規模は、日本円にして最大でおよそ3500億円に上るとみられています。"
+            "en": "Major truck manufacturer Isuzu Motors is one of the key companies actively promoting this eco-friendly fuel.",
+            "ja": "大手トラックメーカーのいすゞ自動車は、この環境に優しい燃料を積極的に推進している主要な企業の1つです。"
           },
           {
-            "en": "This major acquisition is expected to significantly reshape the media landscape in the United Kingdom.",
-            "ja": "この大型買収により、イギリスにおけるメディア業界の構図が大きく塗り替えられると予想されています。"
+            "en": "They are also exploring new initiatives by partnering with developers of autonomous driving systems.",
+            "ja": "同社はまた、自動運転システムを手がける開発企業と提携し、新たな取り組みを模索しています。"
           },
           {
-            "en": "Local media outlets have described the move as one of the largest acquisition deals in the history of British media.",
-            "ja": "地元メディアは、この動きをイギリスメディア史上最大級の買収案件の1つとして報じています。"
+            "en": "Biodiesel is highly practical because it can be used in existing diesel engines without making major modifications.",
+            "ja": "バイオディーゼル燃料は、既存のディーゼルエンジンを大幅に改造することなく使用できるため、非常に実用的です。"
           },
           {
-            "en": "As streaming services continue to grow globally, traditional broadcasters are actively seeking ways to strengthen their digital presence.",
-            "ja": "世界的に配信サービスが成長を続ける中、従来の放送局はデジタル分野での存在感を強化する方法を積極的に模索しています。"
-          },
-          {
-            "en": "This acquisition highlights the intense competition and strategic shifts currently taking place in the industry.",
-            "ja": "今回の買収は、現在この業界で起きている激しい競争と戦略的な変化を浮き彫りにしています。"
+            "en": "This shift is expected to play a crucial role in reducing carbon emissions in the logistics and transportation sector.",
+            "ja": "このバイオ燃料への移行は、物流・運輸部門における二酸化炭素排出量の削減に重要な役割を果たすと期待されています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170501000.html",
-        "title": "ダウ平均株価が再び最高値 AI期待で半導体などに買い戻し",
-        "title_ja": "NYダウ初の5万3000ドル台、2日連続で最高値更新",
-        "date": "Tue, 07 Jul 2026 06:40:55 +0900",
-        "summary": "Following the holiday weekend, the New York stock market rose as investors bought back AI-related shares, pushing the Dow Jones Industrial Average above 53,000 dollars for the first time.",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171291000.html",
+        "title": "株主総会 “物言う株主”の提案最多も賛成率は減少傾向",
+        "title_ja": "株主総会で「物言う株主」の提案が過去最多を記録",
+        "date": "Wed, 08 Jul 2026 06:04:34 +0900",
+        "summary": "In June, annual shareholder meetings at over 2,000 Japanese listed companies saw a record-high of 139 proposals submitted by activist shareholders.",
         "sentences": [
           {
-            "en": "On May 6th, following the holiday weekend, the New York stock market gained momentum as investors bought back AI-related shares.",
-            "ja": "連休明け6日のニューヨーク株式市場では、投資家がAI関連の銘柄を買い戻す動きを見せ、市場は勢いづきました。"
+            "en": "In June, annual shareholder meetings were held at more than 2,000 listed companies in Japan.",
+            "ja": "6月、日本国内の2000社を超える上場企業で定時株主総会が開催されました。"
           },
           {
-            "en": "The Dow Jones Industrial Average rose by more than 150 dollars compared to the previous trading day.",
-            "ja": "ダウ平均株価は前の営業日と比べて150ドル余り値上がりしました。"
+            "en": "These meetings peaked in late June, drawing significant attention from investors.",
+            "ja": "これらの総会は6月下旬にピークを迎え、投資家から大きな注目を集めました。"
           },
           {
-            "en": "With this gain, the closing price finished above the 53,000-dollar mark for the first time in history.",
-            "ja": "この値上がりにより、終値は史上初めて5万3000ドル台に乗せました。"
+            "en": "Notably, the number of proposals submitted by activist shareholders reached a record high of 139.",
+            "ja": "特に、いわゆる「物言う株主」と呼ばれるアクティビストから提出された提案は139件にのぼり、過去最多を記録しました。"
           },
           {
-            "en": "This achievement marked the second consecutive trading day that the market closed at an all-time high.",
-            "ja": "この記録達成により、2営業日連続で取引時間中の最高値を更新することとなりました。"
+            "en": "Activist shareholders are investors who acquire shares in companies to pressure management for changes.",
+            "ja": "アクティビストとは、企業の株式を取得し、経営陣に改革を促す投資家のことです。"
           },
           {
-            "en": "The strong performance highlights the continued investor confidence in artificial intelligence technology.",
-            "ja": "この好調なパフォーマンスは、人工知能技術に対する投資家の継続的な信頼を浮き彫りにしています。"
+            "en": "Their proposals this year focused heavily on increasing shareholder returns, such as higher dividends and stock buybacks.",
+            "ja": "今年提出された提案は、配当の増額や自社株買いといった株主還元の強化に強く焦点を当てていました。"
+          },
+          {
+            "en": "This trend shows that Japanese corporations are facing stronger demands for better governance and capital efficiency.",
+            "ja": "この傾向は、日本の企業がより優れたガバナンスや資本効率を求める強い要望に直面していることを示しています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html",
-        "title": "Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任",
-        "title_ja": "韓国サッカー協会会長が辞任、W杯敗退と監督選考への批判受け",
-        "date": "Tue, 07 Jul 2026 06:42:45 +0900",
-        "summary": "Following South Korea's early elimination from the World Cup, the president of the Korea Football Association has resigned amid growing criticism over the lack of transparency in selecting the national team manager.",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
+        "title": "ホルムズ海峡で船舶に攻撃相次ぐ 支配力の低下にイラン焦りか",
+        "title_ja": "ホルムズ海峡周辺での船舶攻撃とイラン強硬派の焦り",
+        "date": "Wed, 08 Jul 2026 07:07:58 +0900",
+        "summary": "On the 7th, multiple ships were attacked near the Strait of Hormuz. U.S. media reports that Iranian hardliners are becoming increasingly anxious as their influence over this key waterway declines.",
         "sentences": [
           {
-            "en": "Following South Korea's elimination in the group stage of the North and Central American World Cup, the head of the Korea Football Association has stepped down.",
-            "ja": "北中米ワールドカップの1次リーグで韓国が敗退したことを受け、韓国サッカー協会の会長が辞任しました。"
+            "en": "On the 7th, multiple vessels passing near the Strait of Hormuz in the Middle East were targeted in consecutive attacks.",
+            "ja": "中東のホルムズ海峡の近くを航行していた複数の船舶が7日、相次いで攻撃を受けました。"
           },
           {
-            "en": "The president resigned on the 6th to take responsibility for the national team's disappointing results.",
-            "ja": "会長は、代表チームの期待外れな結果に対する責任を取るため、6日に辞任しました。"
+            "en": "The Strait of Hormuz is a crucial shipping route for global oil supplies, making any security incident there highly sensitive.",
+            "ja": "ホルムズ海峡は世界の石油供給における極めて重要な航路であり、そこでの安全保障上のいかなる事態も非常に深刻な問題となります。"
           },
           {
-            "en": "For some time, there has been a wave of criticism in South Korea regarding the national team's management.",
-            "ja": "韓国国内では以前から、代表チームの運営に関して批判の嵐が巻き起こっていました。"
+            "en": "U.S. media reported that these events reflect growing anxiety among Iranian hardliners.",
+            "ja": "アメリカのメディアは、これらの出来事について、イランの強硬派が焦りを募らせていることを反映していると報じています。"
           },
           {
-            "en": "In particular, many have pointed out that the selection process for the national team manager lacks transparency.",
-            "ja": "特に、代表監督の選考過程が不透明であるという指摘が相次いでいました。"
+            "en": "These hardliners reportedly feel that their influence over the strategic waterway is declining.",
+            "ja": "報道によると、強硬派は、この戦略的要衝である海峡における自らの影響力が低下していると感じているとのことです。"
           },
           {
-            "en": "This issue has sparked a major controversy that continues to divide soccer fans and experts across the country.",
-            "ja": "この問題は大きな論争を巻き起こし、今もなお国内のサッカーファンや専門家の間で意見が分かれています。"
+            "en": "Historically, Iran has relied on its control of the strait as key leverage in negotiations with the United States.",
+            "ja": "歴史的にイランは、米国との交渉における主要な頼みの綱として、この海峡の支配力に依存してきました。"
           },
           {
-            "en": "The association now faces the urgent task of restoring public trust and reforming its leadership.",
-            "ja": "同協会は今後、国民の信頼を取り戻し、指導部を改革するという急務に直面しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170471000.html",
-        "title": "英テレビ局スカイ 国内民放ITVの放送・動画配信事業買収へ",
-        "title_ja": "英スカイ、国内民放の放送・配信事業を最大3500億円で買収へ",
-        "date": "Tue, 07 Jul 2026 06:41:57 +0900",
-        "summary": "Major British broadcaster Sky has announced its acquisition of a domestic commercial broadcaster's streaming and TV business for up to 350 billion yen, marking one of the largest media deals in UK history.",
-        "sentences": [
-          {
-            "en": "The major British television broadcaster Sky has announced a massive acquisition deal.",
-            "ja": "イギリスの大手テレビ局スカイが、大規模な買収合意を発表しました。"
-          },
-          {
-            "en": "Sky is set to acquire the broadcasting and video streaming business of a major domestic commercial broadcaster.",
-            "ja": "スカイは、国内の民放大手の放送および動画配信事業を買収する予定です。"
-          },
-          {
-            "en": "The deal is valued at up to approximately 350 billion yen.",
-            "ja": "この取引の規模は、日本円にして最大でおよそ3500億円に達します。"
-          },
-          {
-            "en": "Local media outlets are calling this transaction one of the largest acquisitions in the history of British media.",
-            "ja": "地元メディアは、この取引をイギリスのメディア史上最大級の買収案件の1つと報じています。"
-          },
-          {
-            "en": "This move is expected to significantly reshape the competitive landscape of the UK television and streaming market.",
-            "ja": "この動きは、イギリスのテレビおよび配信市場における競争環境を大きく塗り替えるものと予想されています。"
+            "en": "Observers believe that a perceived loss of this leverage is driving their recent aggressive actions.",
+            "ja": "専門家らは、この交渉力の喪失への危機感が、最近の強硬な行動を引き起こしているのではないかと見ています。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170441000.html",
-        "title": "Ｗ杯1次リーグ敗退の韓国 サッカー協会の会長が辞任",
-        "title_ja": "W杯1次リーグ敗退の韓国、サッカー協会会長が辞任表明",
-        "date": "Tue, 07 Jul 2026 06:42:45 +0900",
-        "summary": "Following South Korea's early elimination from the World Cup, the president of the Korea Football Association has resigned to take responsibility amidst ongoing controversy over the team's management.",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171391000.html",
+        "title": "サッカーW杯 アルゼンチンが大逆転でベスト8進出",
+        "title_ja": "W杯アルゼンチンが逆転勝利で8強進出",
+        "date": "Wed, 08 Jul 2026 06:08:05 +0900",
+        "summary": "Argentina came from behind to defeat Egypt 3-2 in the round of 16 at the North American World Cup, securing a spot in the quarterfinals.",
         "sentences": [
           {
-            "en": "Following South Korea's elimination in the group stage of the World Cup, the head of the country's soccer association has stepped down.",
-            "ja": "ワールドカップで1次リーグ敗退に終わった韓国で、同国サッカー協会の会長が辞任しました。"
+            "en": "In the round of 16 at the FIFA World Cup in North America, defending champions Argentina faced off against Egypt.",
+            "ja": "北中米で開催されているサッカーワールドカップの決勝トーナメント2回戦で、連覇を狙うアルゼンチンがエジプトと対戦しました。"
           },
           {
-            "en": "On the 6th, the president of the Korea Football Association officially resigned to take responsibility for the team's poor performance.",
-            "ja": "6日、韓国サッカー協会の会長は、代表チームの不振に対する責任を取るため、正式に辞任しました。"
+            "en": "Argentina, currently ranked number one in the world, was pushed to its limits by a strong Egyptian side.",
+            "ja": "世界ランキング1位のアルゼンチンは、強力なエジプト代表に限界まで追い詰められました。"
           },
           {
-            "en": "Even before the tournament, the association had faced heavy criticism regarding its decision-making processes.",
-            "ja": "大会前から同協会は、その意思決定のプロセスをめぐって激しい批判を浴びていました。"
+            "en": "Despite falling behind early in the match, Argentina showed great resilience.",
+            "ja": "試合序盤にリードを許したものの、アルゼンチンは素晴らしい粘り強さを見せました。"
           },
           {
-            "en": "In particular, many football fans and experts criticized the selection process for the national team manager, calling it non-transparent.",
-            "ja": "特に多くのサッカーファンや専門家は、代表監督の選考過程が不透明であると非難していました。"
+            "en": "They managed to stage a dramatic comeback, ultimately winning the match with a final score of 3 to 2.",
+            "ja": "彼らは劇的な逆転劇を演じ、最終的に3対2のスコアで勝利を収めました。"
           },
           {
-            "en": "While the president's resignation marks a major turning point, intense debate over the future of South Korean football is expected to continue.",
-            "ja": "会長の辞任は大きな節目となりますが、韓国サッカーの未来をめぐる激しい論争は今後も続くとみられます。"
+            "en": "With this hard-fought victory, Argentina has successfully booked their place in the quarterfinals as they continue their quest for consecutive titles.",
+            "ja": "この苦しい戦いを制したアルゼンチンは、大会連覇に向けて準々決勝進出を決めました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170491000.html",
-        "title": "NBA八村 クリッパーズと“２年契約に合意”米複数メディア",
-        "title_ja": "八村塁選手、クリッパーズと2年契約に合意",
-        "date": "Tue, 07 Jul 2026 06:37:53 +0900",
-        "summary": "Japanese NBA player Rui Hachimura, who was a free agent from the Lakers, has reportedly agreed to a two-year contract with the Los Angeles Clippers.",
+        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171361000.html",
+        "title": "IOC ロシア五輪委の資格停止処分を暫定的に解除",
+        "title_ja": "IOCがロシアオリンピック委員会の資格停止を暫定解除",
+        "date": "Wed, 08 Jul 2026 05:37:58 +0900",
+        "summary": "The International Olympic Committee has provisionally lifted the suspension of the Russian Olympic Committee, which was initially imposed over the integration of Ukrainian sports organizations.",
         "sentences": [
           {
-            "en": "Multiple US media outlets have reported that Japanese basketball star Rui Hachimura has agreed to a two-year contract with the Los Angeles Clippers.",
-            "ja": "米国の複数のメディアは、日本のバスケットボールスター、八村塁選手がロサンゼルス・クリッパーズとの2年契約に合意したと報じました。"
+            "en": "The International Olympic Committee, or IOC, has provisionally lifted the suspension of the Russian Olympic Committee.",
+            "ja": "国際オリンピック委員会（IOC）は、ロシアオリンピック委員会の資格停止処分を暫定的に解除しました。"
           },
           {
-            "en": "Hachimura, who previously played for the Los Angeles Lakers, had become a free agent this offseason.",
-            "ja": "これまでロサンゼルス・レイカーズでプレーしていた八村選手は、このオフシーズンにフリーエージェントとなっていました。"
+            "en": "The suspension was originally imposed because Russia integrated sports organizations from occupied regions of Ukraine.",
+            "ja": "この処分はもともと、ロシアが軍事侵攻しているウクライナの一部の地域のスポーツ組織を自国に組み込んだために科されたものでした。"
           },
           {
-            "en": "This move to the Clippers keeps him in Los Angeles, but he will now be playing for their city rivals.",
-            "ja": "クリッパーズへの移籍により、彼は引き続きロサンゼルスに留まることになりますが、今度は同市のライバルチームでプレーすることになります。"
+            "en": "The IOC had previously ruled that this integration violated the Olympic Charter by breaching Ukraine's territorial integrity.",
+            "ja": "IOCは以前、この統合がウクライナの領土保全を侵害し、オリンピック憲章に違反していると判断していました。"
           },
           {
-            "en": "Fans are highly anticipating how his versatile skills will contribute to his new team's success.",
-            "ja": "彼の多才なスキルが新チームの成功にどのように貢献するのか、ファンは大きな期待を寄せています。"
+            "en": "With the provisional lifting of the suspension, attention is now focused on how this will affect Russian athletes.",
+            "ja": "資格停止処分が暫定的に解除されたことで、これがロシアの選手たちにどのように影響するかに注目が集まっています。"
           },
           {
-            "en": "As he prepares for the upcoming NBA season, all eyes will be on his performance in this new chapter of his career.",
-            "ja": "次のNBAシーズンに向けて準備を進める中、彼のキャリアの新たな章におけるパフォーマンスに注目が集まっています。"
+            "en": "Even with this decision, athletes from Russia must still compete under strict neutral status without their national flag or anthem.",
+            "ja": "今回の決定があっても、ロシアの選手たちは国旗や国歌を使用せず、厳格な中立的な立場で出場しなければなりません。"
+          },
+          {
+            "en": "The global sports community continues to watch closely to see how the situation develops ahead of the upcoming Olympic Games.",
+            "ja": "次回のオリンピックに向けて状況がどのように進展するか、世界のスポーツ界が注視を続けています。"
           }
         ]
       }
