@@ -1,545 +1,104 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html",
-      "title": "米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に",
-      "title_ja": "米軍がイランへ追加攻撃、イラン側はホルムズ海峡封鎖を警告",
-      "date": "Thu, 09 Jul 2026 06:49:36 +0900",
-      "summary": "The US Central Command has launched additional military strikes against Iran, prompting Iranian media to warn of retaliatory measures including the potential blockade of the vital Strait of Hormuz.",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
+      "title": "台風9号 沖縄 先島諸島へ 暴風高波など厳重警戒 空の便欠航も",
+      "title_ja": "大型で非常に強い台風9号、沖縄の先島諸島に接近中",
+      "date": "Fri, 10 Jul 2026 06:53:37 +0900",
+      "summary": "A large and powerful Typhoon No. 9 is approaching Okinawa's Sakishima Islands, bringing potentially destructive winds and heavy rain through October 11th.",
       "sentences": [
         {
-          "en": "The United States Central Command announced that it has launched additional military strikes against Iran.",
-          "ja": "アメリカ中央軍は、イランに対する追加の軍事攻撃を開始したと発表しました。"
+          "en": "A large and very strong typhoon, Typhoon Number 9, is currently approaching the Sakishima Islands in Okinawa Prefecture.",
+          "ja": "大型で非常に強い台風9号が、沖縄県の先島諸島に接近しています。"
         },
         {
-          "en": "The operation began on August 8th, which corresponds to the morning of August 9th in Japan time.",
-          "ja": "この作戦は現地時間の8日に開始され、日本時間では9日の朝にあたります。"
+          "en": "Weather officials warn that severe winds are expected to hit the region starting from the evening of the 10th.",
+          "ja": "気象庁は、10日の夕方ごろから同地域で暴風となる恐れがあるとして警戒を呼びかけています。"
         },
         {
-          "en": "Tensions in the Middle East have been rising rapidly due to these ongoing military developments.",
-          "ja": "これらの継続的な軍事情勢の進展により、中東における緊張が急速に高まっています。"
+          "en": "Through the 11th, the winds could become so violent that some houses might even collapse.",
+          "ja": "11日にかけては、一部の住宅が倒壊するおそれがあるほどの猛烈な風が吹く可能性があります。"
         },
         {
-          "en": "Prior to these recent U.S. strikes, Iranian state media issued a strong warning.",
-          "ja": "今回のアメリカによる攻撃に先立ち、イランの国営メディアは強い警告を発していました。"
+          "en": "Residents are strongly urged to take safety precautions and secure their homes before the storm worsens.",
+          "ja": "嵐がひどくなる前に安全対策を講じ、住宅の補強などを行うよう強く呼びかけられています。"
         },
         {
-          "en": "They stated that if Iran faced further military action, they would block the Strait of Hormuz.",
-          "ja": "イラン側は、これ以上の軍事行動に直面した場合は、ホルムズ海峡を封鎖すると表明しました。"
+          "en": "In addition to the destructive winds, extremely heavy rain accompanied by lightning is expected through the 11th.",
+          "ja": "また、11日にかけては、猛烈な風に加えて雷を伴う非常に激しい雨も予想されています。"
         },
         {
-          "en": "Additionally, Iran threatened to launch immediate retaliatory strikes in response to any new attacks.",
-          "ja": "さらに、イランは新たな攻撃に対して直ちに報復攻撃を行うとも警告しています。"
-        },
-        {
-          "en": "Since the Strait of Hormuz is a crucial route for global oil shipments, this situation is being closely monitored worldwide.",
-          "ja": "ホルムズ海峡は世界の石油輸送にとって極めて重要な航路であるため、この情勢は世界中で注視されています。"
+          "en": "Please stay updated with the latest weather advisories and avoid going outside unless absolutely necessary.",
+          "ja": "最新の気象情報に注意し、不要不急の外出は控えるようにしてください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172301000.html",
-      "title": "台風9号 10～11日非常に強い勢力で沖縄・先島諸島に接近へ",
-      "title_ja": "台風9号、非常に強い勢力で沖縄・先島諸島に接近へ",
-      "date": "Thu, 09 Jul 2026 06:53:57 +0900",
-      "summary": "Typhoon Number 9 is approaching Okinawa's Sakishima Islands with severe intensity, prompting weather officials to urge early safety preparations.",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015167661000.html",
+      "title": "米イラン攻撃応酬 ハメネイ師葬儀後の協議再開予断許さず",
+      "title_ja": "緊迫化する米イラン対立とイラン外相の活発な外交活動",
+      "date": "Fri, 10 Jul 2026 06:38:59 +0900",
+      "summary": "Amid escalating retaliatory strikes between the United States and Iran, Iranian Foreign Minister Araghchi is stepping up diplomatic efforts by holding phone talks with neighboring nations.",
       "sentences": [
         {
-          "en": "A large and very strong typhoon is currently heading toward southwestern Japan.",
-          "ja": "大型で非常に強い台風が、現在、日本南西部に接近しています。"
+          "en": "Amid a renewed exchange of attacks between the United States and Iran, Iran's Foreign Minister Seyed Abbas Araghchi has stepped up his diplomatic efforts.",
+          "ja": "アメリカとイランの間で再び攻撃の応酬が繰り広げられる中、イランのアラグチ外相は外交活動を活発化させています。"
         },
         {
-          "en": "Typhoon Number 9 is expected to come very close to the Sakishima Islands in Okinawa Prefecture between August 10th and 11th.",
-          "ja": "台風9号は、8月10日から11日にかけて、沖縄県の先島諸島にかなり接近する見込みです。"
+          "en": "He has held a series of telephone conversations with foreign ministers from neighboring countries to discuss the escalating tension.",
+          "ja": "アラグチ外相は、高まる緊張について話し合うため、周辺国の外相らと相次いで電話会談を行いました。"
         },
         {
-          "en": "Weather officials warn that the storm will likely maintain its powerful strength as it approaches.",
-          "ja": "気象庁は、台風が強い勢力を維持したまま接近する可能性が高いと警告しています。"
+          "en": "These diplomatic moves come at a highly sensitive time as both nations exchange warnings and threats.",
+          "ja": "両国が警告や脅しを交わし合う中、これらの外交的な動きは非常に緊迫した時期に行われています。"
         },
         {
-          "en": "Extremely fierce winds, strong enough to collapse some houses, are expected to hit the region starting on the 10th.",
-          "ja": "10日以降は、一部の住宅が倒壊するほどの猛烈な風が吹くおそれがあります。"
+          "en": "Meanwhile, Iranian state media reported on the activities of the Supreme Leader, Ayatollah Ali Khamenei, on the 9th.",
+          "ja": "一方で、イランの国営メディアは9日、最高指導者ハメネイ師の動向について報じました。"
         },
         {
-          "en": "The Japan Meteorological Agency is urging residents in the affected areas to take safety precautions as early as possible.",
-          "ja": "気象庁は、影響を受ける地域の住民に対し、できるだけ早めの安全対策を呼びかけています。"
+          "en": "Through these rapid diplomatic actions, Iran is believed to be seeking regional stability and support.",
+          "ja": "こうした素早い外交活動を通じて、イランは地域の安定と支持獲得を模索しているものとみられます。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172421000.html",
-      "title": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
-      "title_ja": "元東京地検特捜部検事に不適切交際の疑い、処分検討へ",
-      "date": "Thu, 09 Jul 2026 02:26:22 +0900",
-      "summary": "A 48-year-old former Tokyo prosecutor is facing potential disciplinary action over allegations of having an inappropriate relationship with a woman he had interrogated during an investigation.",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173071000.html",
+      "title": "大阪地検特捜部の特別公務員暴行陵虐事件 10日初公判",
+      "title_ja": "取り調べで「検察なめんな」と罵倒、検事の初公判が大阪地裁で開始へ",
+      "date": "Fri, 10 Jul 2026 06:31:46 +0900",
+      "summary": "A trial begins at the Osaka District Court for a prosecutor accused of abuse of authority after allegedly shouting at a suspect during an interrogation.",
       "sentences": [
         {
-          "en": "A 48-year-old male prosecutor, who worked in the special investigation unit of the Tokyo District Public Prosecutors Office until last year, is suspected of having an inappropriate relationship with a woman.",
-          "ja": "昨年まで東京地検特捜部に在籍していた48歳の男性検事が、ある女性と不適切な関係を持った疑いがあることが分かりました。"
+          "en": "A high-profile trial is set to begin at the Osaka District Court on the 10th, involving a prosecutor accused of abusive behavior during an interrogation.",
+          "ja": "大阪地方裁判所で10日、取り調べ中に威圧的な態度を取ったとされる検事の初公判が始まります。"
         },
         {
-          "en": "According to sources, the relationship began after he interrogated her as part of an investigation into a case.",
-          "ja": "関係者によると、その関係は事件の捜査で彼が女性を取り調べたことをきっかけに始まったとされています。"
+          "en": "The prosecutor, who was with the Special Investigation Department of the Osaka District Public Prosecutors Office, faces charges of assault and cruelty by a special public officer.",
+          "ja": "大阪地検特捜部に所属していたこの検事は、特別公務員暴行陵虐の罪に問われています。"
         },
         {
-          "en": "The Supreme Public Prosecutors Office is currently considering disciplinary action against the prosecutor.",
-          "ja": "最高検察庁は現在、この男性検事に対する処分の検討を進めています。"
+          "en": "According to sources, he allegedly slammed his desk and repeatedly shouted at a suspect during questioning.",
+          "ja": "関係者によると、被告は取り調べ中に机をたたき、容疑者を執拗に罵倒したとされています。"
         },
         {
-          "en": "Prosecutors are expected to maintain extremely high ethical standards while performing their duties.",
-          "ja": "検察官は、職務を遂行するにあたって極めて高い倫理観を維持することが求められます。"
+          "en": "He is accused of using aggressive language, including shouting, \"Don't underestimate the prosecution.\"",
+          "ja": "その際、「検察なめんなよ」などと迫り、威圧的な言葉を浴びせたとされています。"
         },
         {
-          "en": "Such personal relationships with individuals involved in an investigation are considered serious violations of professional conduct.",
-          "ja": "捜査対象となった人物とのこのような個人的な関係は、職務上の行為として重大な違反とみなされます。"
-        },
-        {
-          "en": "The details of the case are still being examined as authorities decide on the appropriate punishment.",
-          "ja": "当局が適切な処分を決定するにあたり、この問題の詳しい経緯についてさらなる調査が進められています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172271000.html",
-      "title": "衆院で法案審議再開へ 皇室典範改正案 あす審議入りで論戦へ",
-      "title_ja": "衆議院で法案審議が再開、皇室典範改正案も審議入り",
-      "date": "Thu, 09 Jul 2026 05:17:49 +0900",
-      "summary": "Deliberations on bills have resumed in Japan's Lower House, including discussions on amending the Imperial House Law to address the shrinking number of imperial family members.",
-      "sentences": [
-        {
-          "en": "Deliberations on bills have resumed in Japan's House of Representatives.",
-          "ja": "日本の衆議院で、法案の審議が再開されました。"
-        },
-        {
-          "en": "This decision was made after the ruling party agreed to the opposition's demand to hold intensive deliberations in the Budget Committee.",
-          "ja": "この決定は、与党が野党の求めに応じ、予算委員会での集中審議を開催する考えを伝えたことを受けてなされたものです。"
-        },
-        {
-          "en": "Following this agreement, deliberations on an amendment to the Imperial House Law began on the 10th.",
-          "ja": "この合意を受けて、皇室典範改正案の審議が10日に始まりました。"
-        },
-        {
-          "en": "The main focus of the discussions is expected to be how to secure a stable number of imperial family members.",
-          "ja": "議論の主な焦点は、皇族の数をどのように安定的に確保するかになると見られています。"
-        },
-        {
-          "en": "Both sides hope to find a viable solution to the shrinking size of the imperial household.",
-          "ja": "与野党双方は、皇族数の減少に対する実行可能な解決策を見出したいと考えています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172291000.html",
-      "title": "臓器移植法違反事件 病院で手術を口外しないよう誓約か",
-      "title_ja": "カンボジア臓器移植あっせん事件、手術前日に口外禁止の誓約書",
-      "date": "Thu, 09 Jul 2026 05:12:17 +0900",
-      "summary": "Three people, including a former NPO director, have been arrested for brokering an illegal organ transplant in Cambodia, where the patient was reportedly forced to sign a pledge of secrecy before the surgery.",
-      "sentences": [
-        {
-          "en": "Three people, including a former director of a non-profit organization, have been arrested for illegally brokering an organ transplant.",
-          "ja": "NPO法人の元理事ら3人が、臓器移植を違法にあっせんした疑いで逮捕されました。"
-        },
-        {
-          "en": "The suspects allegedly arranged a kidney transplant operation in Cambodia for a man living in Tokyo and received payment for it.",
-          "ja": "容疑者らは都内に住む男性のためにカンボジアでの腎臓移植手術をあっせんし、その対価を受け取ったとされています。"
-        },
-        {
-          "en": "Recent investigations have revealed a striking detail about what happened just before the surgery in Cambodia.",
-          "ja": "最近の捜査により、カンボジアでの手術直前に起きた驚くべき詳細が明らかになりました。"
-        },
-        {
-          "en": "On the day before the transplant at a local hospital, the patient was forced to sign a written pledge.",
-          "ja": "現地の病院で移植を受ける前日、男性は誓約書への署名を強制されていました。"
-        },
-        {
-          "en": "This document strictly prohibited him from disclosing any details about the transplant surgery to anyone.",
-          "ja": "その文書は、移植手術に関する詳細を一切他人に口外しないよう、彼に強く求めるものでした。"
-        },
-        {
-          "en": "Authorities suspect that the brokers used this pledge to keep their illegal operations hidden from the public.",
-          "ja": "捜査当局は、仲介業者らが違法な活動を公に隠蔽するために、この誓約書を利用していたとみて調べています。"
+          "en": "This trial is drawing significant attention, as it is highly unusual for an active prosecutor to face criminal charges over their interrogation methods.",
+          "ja": "検事を取り巻く取り調べ方法を巡って刑事責任が問われるのは極めて異例であり、この裁判は大きな注目を集めています。"
         }
       ]
     }
   ],
   "category_news": {
-    "社会": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172301000.html",
-        "title": "台風9号 10～11日非常に強い勢力で沖縄・先島諸島に接近へ",
-        "title_ja": "台風9号、非常に強い勢力で沖縄・先島諸島に接近へ",
-        "date": "Thu, 09 Jul 2026 06:53:57 +0900",
-        "summary": "Large and powerful Typhoon No. 9 is forecast to approach Okinawa's Sakishima Islands with destructive winds, prompting weather officials to urge early safety preparations.",
-        "sentences": [
-          {
-            "en": "Large and very strong Typhoon No. 9 is expected to approach the Sakishima Islands in Okinawa Prefecture from August 10th to the 11th.",
-            "ja": "大型で非常に強い台風9号は、8月10日から11日にかけて沖縄県の先島諸島に接近する見込みです。"
-          },
-          {
-            "en": "Weather officials warn that the typhoon will likely maintain its powerful strength as it nears the islands.",
-            "ja": "気象当局は、台風が強い勢力を維持したまま島々に近づく可能性が高いと警告しています。"
-          },
-          {
-            "en": "Starting from the 10th, extremely violent winds are expected, which could be strong enough to collapse some houses.",
-            "ja": "10日以降は、一部の住宅が倒壊するおそれがあるほどの猛烈な風が吹くと予想されています。"
-          },
-          {
-            "en": "In response to this severe threat, the Japan Meteorological Agency is urging residents to take safety precautions as early as possible.",
-            "ja": "この重大な危険に対応するため、気象庁は住民に対して、できるだけ早く安全対策を講じるよう呼びかけています。"
-          },
-          {
-            "en": "It is highly recommended to secure loose outdoor objects and stay updated with the latest weather advisories.",
-            "ja": "屋外の飛ばされやすい物を固定し、最新の気象情報に注意することが強く推奨されます。"
-          }
-        ]
-      }
-    ],
-    "文化・エンタメ": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171881000.html",
-        "title": "ガソリン価格 全国平均169.9円 補助金で170円程度の水準続く",
-        "title_ja": "国内のガソリン平均価格、わずかに値上がりし169.9円に",
-        "date": "Wed, 08 Jul 2026 16:22:40 +0900",
-        "summary": "Japan's average regular gasoline price rose slightly to 169.9 yen per liter as of July 6, amid ongoing government efforts to mitigate sudden price spikes.",
-        "sentences": [
-          {
-            "en": "According to the Oil Information Center, the average retail price of regular gasoline in Japan has risen slightly.",
-            "ja": "石油情報センターによると、日本のレギュラーガソリンの平均小売価格はわずかに上昇しました。"
-          },
-          {
-            "en": "As of July 6, the national average price reached 169.9 yen per liter, which is up 0.1 yen from the previous week.",
-            "ja": "7月6日時点の全国平均価格は1リットル当たり169.9円に達し、前の週から0.1円の値上がりとなりました。"
-          },
-          {
-            "en": "The center conducts this weekly survey under commission from the Japanese government.",
-            "ja": "同センターは、日本政府からの委託を受けてこの毎週の調査を実施しています。"
-          },
-          {
-            "en": "While fuel prices remain high, the government's subsidy program has been working to mitigate sudden price spikes for consumers.",
-            "ja": "燃料価格は依然として高止まりしていますが、政府の激変緩和措置が消費者への急激な価格高騰を抑える役割を果たしています。"
-          },
-          {
-            "en": "Industry experts will continue to closely monitor global oil markets and government policy changes in the coming weeks.",
-            "ja": "業界の専門家は、今後の世界的な原油市場の動向や政府の方針変更を引き続き注視していく方針です。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171611000.html",
-        "title": "議論呼ぶ「需要に応じた生産」って？ コメ価格 今後どうなる",
-        "title_ja": "改正食糧法が成立：『需要に応じた生産』をめぐる議論",
-        "date": "Wed, 08 Jul 2026 14:53:18 +0900",
-        "summary": "The revised Food Law has been enacted in Japan, introducing a controversial provision that encourages rice producers to align production with market demand.",
-        "sentences": [
-          {
-            "en": "On the 8th, the revised Food Law was passed and enacted during the plenary session of the House of Councillors.",
-            "ja": "8日、改正食糧法が参議院本会議で可決・成立しました。"
-          },
-          {
-            "en": "Under the new law, a key provision explicitly states that rice producers must proactively make efforts to align their production with market demand.",
-            "ja": "新たな法律では、コメの生産者が需要に応じた生産を行うよう主体的に努力することが明記されています。"
-          },
-          {
-            "en": "This specific wording, 'production in accordance with demand,' has sparked a lot of debate among farmers and experts.",
-            "ja": "この「需要に応じた生産」という具体的な文言が、農家や専門家の間で大きな議論を呼んでいます。"
-          },
-          {
-            "en": "Some critics are concerned that this might pressure farmers into reducing their rice production to keep prices high.",
-            "ja": "一部の批判派は、価格を高く維持するために、この規定が農家にコメの減産を強いる圧力になるのではないかと懸念しています。"
-          },
-          {
-            "en": "On the other hand, supporters argue that it is a necessary step to stabilize the rice market amidst falling domestic consumption.",
-            "ja": "一方で支持派は、国内消費が減少する中で、コメ市場を安定させるためには必要な措置であると主張しています。"
-          },
-          {
-            "en": "It remains to be seen how this law will actually affect rice farming communities across Japan in the future.",
-            "ja": "この法律が将来、日本全国の稲作地域に実際にどのような影響を与えるのか、今後の動向が注目されます。"
-          }
-        ]
-      }
-    ],
-    "科学・医療": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171741000.html",
-        "title": "「はじめてのおつかい」 絵本作家の林明子さん死去 81歳",
-        "title_ja": "絵本作家の林明子さん死去、81歳",
-        "date": "Wed, 08 Jul 2026 14:00:57 +0900",
-        "summary": "Renowned Japanese picture book author Akiko Hayashi, creator of beloved classics like 'Miki's First Errand,' has passed away at the age of 81.",
-        "sentences": [
-          {
-            "en": "Akiko Hayashi, a beloved Japanese picture book author and illustrator, passed away on the first of this month at the age of 81.",
-            "ja": "長年にわたり愛されてきた絵本作家の林明子さんが、今月1日、肺炎のため81歳で亡くなりました。"
-          },
-          {
-            "en": "She was best known for creating timeless classics that have been read by generations of families, such as 'Miki's First Errand' and 'Good Evening, Dear Moon.'",
-            "ja": "林さんは、「はじめてのおつかい」や「おつきさまこんばんは」など、世代を超えて家族に読み継がれる数々の名作絵本を手がけたことで知られています。"
-          },
-          {
-            "en": "Born in Tokyo, Hayashi later studied fine arts at Yokohama National University before embarking on her career as an illustrator.",
-            "ja": "東京で生まれた林さんは、横浜国立大学で美術を学び、その後、イラストレーターとしての道を歩み始めました。"
-          },
-          {
-            "en": "Her warm and realistic art style beautifully captured the subtle, everyday emotions and expressions of young children.",
-            "ja": "彼女の温かみのあるリアルな絵のスタイルは、小さな子どもの繊細な日常の感情や表情を美しく捉えていました。"
-          },
-          {
-            "en": "Many of her works have been translated into multiple languages, bringing joy to children and parents around the world.",
-            "ja": "彼女の作品の多くは複数の言語に翻訳され、世界中の子どもたちや保護者に喜びを届けています。"
-          },
-          {
-            "en": "Although she has passed away, her gentle stories will undoubtedly continue to touch the hearts of readers for years to come.",
-            "ja": "彼女は亡くなりましたが、その優しい物語は、これからも間違いなく多くの読者の心に響き続けることでしょう。"
-          }
-        ]
-      }
-    ],
-    "政治": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172271000.html",
-        "title": "衆院で法案審議再開へ 皇室典範改正案 あす審議入りで論戦へ",
-        "title_ja": "国会で法案審議が再開、皇室典範改正案の議論へ",
-        "date": "Thu, 09 Jul 2026 05:17:49 +0900",
-        "summary": "Deliberations have resumed in Japan's House of Representatives, starting with discussions on a bill to amend the Imperial House Law to address the shrinking number of imperial family members.",
-        "sentences": [
-          {
-            "en": "Deliberations on bills have resumed in Japan's House of Representatives after a brief halt.",
-            "ja": "国会での法案審議は一時中断していましたが、衆議院で再開されることになりました。"
-          },
-          {
-            "en": "This development came after the ruling coalition agreed to the opposition's request to hold intensive debates in the Budget Committee.",
-            "ja": "これは、野党の求めに応じて与党側が予算委員会での集中審議を行う考えを伝えたことを受けたものです。"
-          },
-          {
-            "en": "Following this agreement, a key bill to amend the Imperial House Law entered deliberations on the 10th.",
-            "ja": "この合意を受けて、皇室典範の改正案は10日に審議入りしました。"
-          },
-          {
-            "en": "The primary focus of this bill is to address the urgent issue of the shrinking number of imperial family members.",
-            "ja": "この法案の主な焦点は、皇族数の減少という急務の課題に対応することです。"
-          },
-          {
-            "en": "Political parties are expected to discuss various measures to secure a stable imperial succession for the future.",
-            "ja": "各政党は、将来にわたる安定的な皇位継承を確保するための様々な対策について議論する見通しです。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172361000.html",
-        "title": "衆院憲法審査会 9日に「合区」などテーマに2回目の討議で合意",
-        "title_ja": "衆院憲法審査会、9日に「合区」テーマの討議実施で与野党が合意",
-        "date": "Thu, 09 Jul 2026 00:19:56 +0900",
-        "summary": "Ruling and opposition parties in Japan have agreed to hold a meeting of the House of Representatives Commission on the Constitution on May 9th. The discussion will focus on the merging of electoral districts in the House of Councillors.",
-        "sentences": [
-          {
-            "en": "Deliberations on bills in Japan's House of Representatives are expected to resume.",
-            "ja": "衆議院での法案審議が再開される見通しとなりました。"
-          },
-          {
-            "en": "Following this development, the executive committee of the Commission on the Constitution held a meeting.",
-            "ja": "これを受けて、衆議院憲法審査会の幹事懇談会が開催されました。"
-          },
-          {
-            "en": "During the meeting, ruling and opposition parties reached an agreement to hold a commission meeting on the 9th.",
-            "ja": "懇談会の中で、与野党は9日に審査会を開催することで合意しました。"
-          },
-          {
-            "en": "This upcoming session will mark the second round of discussions on constitutional topics.",
-            "ja": "今回の会合は、憲法に関するテーマについての2回目の討議となります。"
-          },
-          {
-            "en": "The main topic of discussion will be the \"merged electoral districts\" system currently used in the House of Councillors elections.",
-            "ja": "主な議論のテーマは、参議院選挙で現在導入されている「合区」制度についてです。"
-          },
-          {
-            "en": "Politicians from both sides are expected to debate how this system affects representation in regional areas.",
-            "ja": "与野党の議員らは、この制度が地方の代表権にどのように影響するかについて議論する見通しです。"
-          }
-        ]
-      }
-    ],
-    "経済": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
-        "title": "NY株式市場 ダウ 570ドル余り値下がり イラン情勢への懸念で",
-        "title_ja": "イラン情勢への懸念でNY株が一時800ドル超下落",
-        "date": "Thu, 09 Jul 2026 07:08:00 +0900",
-        "summary": "The New York stock market experienced a sharp decline on the 8th, with the Dow dropping over 800 points at one point due to rising tensions and uncertainty over Iran.",
-        "sentences": [
-          {
-            "en": "On the New York Stock Exchange on the 8th, stock prices plummeted due to growing uncertainty over the situation in Iran.",
-            "ja": "8日のニューヨーク株式市場では、イラン情勢の先行きに対する不透明感が高まったことから、株価が急落しました。"
-          },
-          {
-            "en": "Selling orders spread rapidly across the market as investors grew increasingly concerned about escalating tensions.",
-            "ja": "緊張の高まりに対する投資家の懸念が強まり、市場では売り注文が急速に広がりました。"
-          },
-          {
-            "en": "At one point, the Dow Jones Industrial Average fell by more than 800 dollars compared to the previous day's close.",
-            "ja": "ダウ平均株価は、前日の終値と比べて一時、800ドルを超える値下がりとなりました。"
-          },
-          {
-            "en": "This sharp decline reflects the market's sensitive reaction to geopolitical risks.",
-            "ja": "この急激な下落は、地政学的リスクに対する市場の敏感な反応を反映しています。"
-          },
-          {
-            "en": "Investors are now closely watching for any statements or actions from U.S. President Trump.",
-            "ja": "投資家たちは現在、アメリカのトランプ大統領による声明や動向を注視しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
-        "title": "中東情勢が日本経済に影響 NW9広内キャスターが現場取材",
-        "title_ja": "中東情勢の緊迫と国内倒産件数の増加",
-        "date": "Wed, 08 Jul 2026 22:19:13 +0900",
-        "summary": "The growing instability in the Middle East is impacting the Japanese economy, leading to over 5,000 corporate bankruptcies in the first half of the year for the second consecutive year.",
-        "sentences": [
-          {
-            "en": "The increasingly unstable situation in the Middle East is casting a shadow over the Japanese economy.",
-            "ja": "不透明さを増す中東情勢が、日本経済に影を落としています。"
-          },
-          {
-            "en": "Under these challenging conditions, corporate bankruptcies in Japan have been rising significantly.",
-            "ja": "こうした厳しい状況下で、日本国内の企業倒産件数が大幅に増加しています。"
-          },
-          {
-            "en": "During the first half of the year, the number of bankruptcies nationwide exceeded 5,000 for the second consecutive year.",
-            "ja": "今年の上半期、全国の倒産件数は2年連続で5,000件を超えました。"
-          },
-          {
-            "en": "Many businesses are struggling to cope with rising material costs and other economic pressures.",
-            "ja": "多くの企業が、原材料費の高騰やその他の経済的な圧力への対応に苦慮しています。"
-          },
-          {
-            "en": "To understand what is happening behind these numbers, News Watch 9 reporter Hirouchi went to investigate the situation on the ground.",
-            "ja": "数字の裏で何が起きているのかを探るため、ニュースウォッチ9の広内キャスターが現場を取材しました。"
-          }
-        ]
-      }
-    ],
-    "国際": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172411000.html",
-        "title": "NY株式市場 ダウ 570ドル余り値下がり イラン情勢への懸念で",
-        "title_ja": "イラン情勢への懸念でNYダウが570ドル超値下がり",
-        "date": "Thu, 09 Jul 2026 07:08:00 +0900",
-        "summary": "The Dow Jones Industrial Average dropped by over 570 dollars due to rising tensions in Iran and fears of re-accelerating U.S. inflation driven by higher oil prices.",
-        "sentences": [
-          {
-            "en": "On October 8th, the New York stock market saw a significant decline, with the Dow Jones Industrial Average dropping by more than 570 dollars.",
-            "ja": "10月8日のニューヨーク株式市場は大幅に値下がりし、ダウ平均株価は570ドル余り下落しました。"
-          },
-          {
-            "en": "This sudden drop was largely driven by growing concerns over the political situation in Iran.",
-            "ja": "この急激な下落は、主にイラン情勢の先行きに対する懸念の高まりが原因です。"
-          },
-          {
-            "en": "At the same time, crude oil futures prices increased, raising worries about energy costs.",
-            "ja": "同時に原油の先物価格が上昇し、エネルギーコストへの不安が生じました。"
-          },
-          {
-            "en": "As a result, investors are increasingly cautious that inflation in the United States could accelerate once again.",
-            "ja": "その結果、アメリカでインフレが再び加速することへの警戒感が強まっています。"
-          },
-          {
-            "en": "Market experts advise watching how these geopolitical tensions will continue to affect global financial markets.",
-            "ja": "市場の専門家は、こうした地政学的な緊張が今後の世界金融市場にどのように影響を及ぼすかを注視するよう勧めています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html",
-        "title": "米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に",
-        "title_ja": "米軍がイランへの追加攻撃を開始、イランはホルムズ海峡封鎖を警告",
-        "date": "Thu, 09 Jul 2026 06:49:36 +0900",
-        "summary": "The US Central Command has launched additional military strikes against Iran, while Iranian media warned of a potential blockade of the Strait of Hormuz and retaliatory attacks in response.",
-        "sentences": [
-          {
-            "en": "The US Central Command announced on February 8th that it has launched additional military strikes against Iran.",
-            "ja": "アメリカ中央軍は8日、イランに対する追加の軍事攻撃を開始したと発表しました。"
-          },
-          {
-            "en": "This announcement came on the morning of February 9th, Japan time, as tensions continue to rise in the region.",
-            "ja": "この発表は日本時間の9日朝に明らかになり、同地域での緊張が引き続き高まっています。"
-          },
-          {
-            "en": "Prior to these recent US attacks, Iranian media had already issued a strong warning.",
-            "ja": "今回のアメリカによる攻撃を前に、イランのメディアはすでに強い警告を発していました。"
-          },
-          {
-            "en": "They reported that if Iran faced any new military actions, they would immediately block the Strait of Hormuz.",
-            "ja": "報道によると、イランが新たに軍事攻撃を受けた場合、直ちにホルムズ海峡を封鎖するとのことです。"
-          },
-          {
-            "en": "Furthermore, the media warned that Iran would launch retaliatory strikes to defend its territory.",
-            "ja": "さらに、自国を防衛するために報復攻撃を行うとも警告しています。"
-          },
-          {
-            "en": "The situation remains highly tense as the international community closely monitors the region.",
-            "ja": "国際社会がこの地域を注視する中、情勢は非常に緊迫した状態が続いています。"
-          }
-        ]
-      }
-    ],
-    "スポーツ": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172401000.html",
-        "title": "バレーボール女子 ネーションズリーグ 日本はブラジルに敗れる",
-        "title_ja": "ネーションズリーグ女子、日本はブラジルに敗れ6勝3敗に",
-        "date": "Thu, 09 Jul 2026 00:25:05 +0900",
-        "summary": "The Japanese women's national volleyball team lost to Brazil with a set count of 1-3 in the Nations League, bringing their overall record to six wins and three losses.",
-        "sentences": [
-          {
-            "en": "In the international volleyball tournament known as the Nations League, the Japanese women's national team played a preliminary round match in Osaka.",
-            "ja": "バレーボールの国際大会「ネーションズリーグ」で、女子日本代表は大阪市で行われた予選ラウンドの試合に臨みました。"
-          },
-          {
-            "en": "Japan faced a tough opponent in Brazil and unfortunately lost the match with a set count of one to three.",
-            "ja": "日本は強豪ブラジルと対戦し、残念ながらセットカウント1対3で敗れました。"
-          },
-          {
-            "en": "With this defeat, Japan's overall record in the tournament now stands at six wins and three losses.",
-            "ja": "この敗戦により、日本の今大会の通算成績は6勝3敗となりました。"
-          },
-          {
-            "en": "The Nations League is a major annual tournament where the world's top men's and women's teams compete.",
-            "ja": "ネーションズリーグは、世界のトップクラスの男女のチームが競い合う、年に一度の主要な大会です。"
-          },
-          {
-            "en": "Fans are looking forward to seeing how the Japanese team bounces back in their upcoming matches.",
-            "ja": "ファンは、日本代表が次の試合でどのように巻き返すかを楽しみにしています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172331000.html",
-        "title": "【プロ野球結果】広島が2試合連続のサヨナラ勝ち",
-        "title_ja": "広島が2試合連続のサヨナラ勝ち、ヤクルトは6連敗",
-        "date": "Thu, 09 Jul 2026 00:13:51 +0900",
-        "summary": "In Japanese professional baseball, the Hiroshima Carp won their second consecutive game with a walk-off walk in the ninth inning, while the Yakult Swallows suffered their sixth straight loss.",
-        "sentences": [
-          {
-            "en": "Six games were played in Japanese professional baseball, featuring some exciting matchups.",
-            "ja": "プロ野球では6試合が行われ、白熱した試合が展開されました。"
-          },
-          {
-            "en": "Among them, the Hiroshima Toyo Carp secured a dramatic walk-off victory for the second consecutive game.",
-            "ja": "その中で広島東洋カープは、2試合連続となる劇的なサヨナラ勝ちを収めました。"
-          },
-          {
-            "en": "In the bottom of the ninth inning with the score tied, pinch-hitter Montero came to the plate.",
-            "ja": "同点で迎えた9回裏、代打のモンテロ選手が打席に立ちました。"
-          },
-          {
-            "en": "With the bases loaded, he calmly watched the pitches and drew a walk to bring home the winning run.",
-            "ja": "満塁の場面で、彼は冷静にボールを見極めて押し出しのフォアボールを選び、サヨナラのランナーを迎え入れました。"
-          },
-          {
-            "en": "On the other hand, this tough loss extended the Yakult Swallows' losing streak to six games.",
-            "ja": "一方、手痛い敗戦を喫したヤクルトスワローズは、連敗が6に伸びてしまいました。"
-          }
-        ]
-      }
-    ]
+    "社会": [],
+    "文化・エンタメ": [],
+    "科学・医療": [],
+    "政治": [],
+    "経済": [],
+    "国際": [],
+    "スポーツ": []
   }
 }
