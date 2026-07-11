@@ -1,155 +1,93 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174261000.html",
-      "title": "【台風9号最新情報】沖縄 先島諸島に最接近 厳重警戒を",
-      "title_ja": "台風9号が先島諸島に最接近、暴風と大雨に厳重警戒",
-      "date": "Sat, 11 Jul 2026 06:57:16 +0900",
-      "summary": "Large and powerful Typhoon No. 9 is approaching Okinawa's Sakishima Islands, bringing prolonged violent winds and a high risk of torrential rain from linear rainbands.",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174761000.html",
+      "title": "九州で危険な暑さ予想 熱中症対策を 北日本では発達した雨雲",
+      "title_ja": "西日本で39度の酷暑、北日本は土砂災害に厳重警戒",
+      "date": "Sun, 12 Jul 2026 06:31:06 +0900",
+      "summary": "Extreme heat of up to 39 degrees Celsius is expected in Western Japan, while Northern Japan faces heavy rain and a high risk of landslides.",
       "sentences": [
         {
-          "en": "Large and powerful Typhoon No. 9 is currently making its closest approach to the Sakishima Islands in Okinawa Prefecture.",
-          "ja": "大型で強い台風9号は、現在、沖縄県の先島諸島に最も接近しています。"
+          "en": "On the 12th, temperatures continue to rise, mainly in Western Japan, bringing dangerous heat to the region.",
+          "ja": "12日も西日本を中心に気温が上がり続け、この地域に危険な暑さをもたらしています。"
         },
         {
-          "en": "Extremely strong winds are already battering many parts of the region.",
-          "ja": "この地域では、すでに非常に強い風が吹き荒れています。"
+          "en": "In the Kyushu region, the maximum temperature is expected to reach a scorching 39 degrees Celsius.",
+          "ja": "九州地方では、最高気温が39度に達する危険な暑さが予想されています。"
         },
         {
-          "en": "According to weather officials, the Sakishima Islands will experience violent storms for a prolonged period through the night of the 11th.",
-          "ja": "気象庁によると、先島諸島では11日の夜にかけて、長時間にわたり暴風が続く見込みです。"
+          "en": "Please make sure to take thorough precautions against heatstroke to stay safe.",
+          "ja": "安全に過ごすために、熱中症対策を徹底してください。"
         },
         {
-          "en": "There is also a high risk of linear rainbands forming through this evening.",
-          "ja": "また、夕方にかけて線状降水帯が発生する危険性も高まっています。"
+          "en": "On the other hand, Northern Japan is facing a completely different weather situation due to active rain clouds.",
+          "ja": "一方、北日本では発達した雨雲の影響により、全く異なる天候に見舞われています。"
         },
         {
-          "en": "This could bring sudden, torrential rainfall, significantly increasing the danger of natural disasters.",
-          "ja": "これにより局地的な大雨がもたらされ、災害の危険度が急激に高まるおそれがあります。"
-        },
-        {
-          "en": "Residents in the affected areas are strongly advised to stay indoors and remain on high alert.",
-          "ja": "影響を受ける地域の住民は、不要不急の外出を控え、厳重に警戒するよう呼びかけられています。"
+          "en": "Because of the heavy rainfall, residents in these areas need to be on high alert for landslides.",
+          "ja": "大雨のため、これらの地域の住民は土砂災害に厳重な警戒が必要です。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015174141000.html",
-      "title": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
-      "title_ja": "沖縄・宮古島と八重山地方で線状降水帯発生のおそれ",
-      "date": "Fri, 10 Jul 2026 23:51:42 +0900",
-      "summary": "The Japan Meteorological Agency has warned that linear rainbands may form in Okinawa's Miyakojima and Yaeyama regions on the 11th, rapidly increasing the risk of natural disasters.",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015173931000.html",
+      "title": "新型コロナ後遺症 体内のヘルペスウイルス活性化が原因か",
+      "title_ja": "新型コロナ後遺症、体内の潜伏ウイルス活性化が原因か",
+      "date": "Sun, 12 Jul 2026 04:51:54 +0900",
+      "summary": "A Japanese research group has found that long-term COVID-19 symptoms, such as fatigue, may be caused by the reactivation of latent viruses inside the body. This discovery is expected to help develop new treatments for patients.",
       "sentences": [
         {
-          "en": "Weather officials are warning of extremely heavy rain in parts of Okinawa Prefecture.",
-          "ja": "気象庁は、沖縄県の一部地域で非常に激しい雨が降る恐れがあるとして警戒を呼びかけています。"
+          "en": "Many people suffer from long-term symptoms after recovering from COVID-19, such as severe fatigue.",
+          "ja": "多くの人が、新型コロナウイルスから回復した後も、強いけん怠感などの後遺症に苦しんでいます。"
         },
         {
-          "en": "In the Miyakojima and Yaeyama regions, linear rainbands may develop from dawn to evening on the 11th.",
-          "ja": "宮古島地方と八重山地方では、11日の明け方から夕方にかけて線状降水帯が発生する可能性があります。"
+          "en": "A Japanese research team, including scientists from the Jikei University School of Medicine, has made an important discovery regarding this issue.",
+          "ja": "東京慈恵会医科大学などの研究グループが、この問題に関する重要な発見をしました。"
         },
         {
-          "en": "These bands of heavy rain can cause the risk of natural disasters to rise rapidly in a short period of time.",
-          "ja": "こうした集中豪雨をもたらす雨雲の連なりにより、災害の危険度が短時間で急激に高まるおそれがあります。"
+          "en": "According to their study, these aftereffects may be caused by other viruses that were already dormant inside the patient's body.",
+          "ja": "彼らの研究によると、これらの後遺症は、患者の体内にすでに潜伏していた別のウイルスによって引き起こされている可能性があります。"
         },
         {
-          "en": "The Japan Meteorological Agency is urging residents in these areas to remain highly vigilant against landslides and flooding.",
-          "ja": "気象庁は、対象地域の住民に対し、土砂災害や浸水への厳重な警戒を強く呼びかけています。"
+          "en": "When a person is infected with COVID-19, it can reactivate these latent viruses, leading to prolonged symptoms.",
+          "ja": "新型コロナに感染すると、これらの潜伏していたウイルスが活性化し、長引く症状を引き起こすとのことです。"
         },
         {
-          "en": "People are advised to stay updated with the latest weather information and prioritize their safety.",
-          "ja": "最新の気象情報をこまめに確認し、身の安全を最優先に確保することが求められています。"
+          "en": "This finding is expected to help in the development of new treatment methods for patients struggling with long COVID.",
+          "ja": "この発見は、後遺症に悩む患者のための新しい治療法の開発に役立つと期待されています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174241000.html",
-      "title": "西・東日本できょうも気温上昇 九州は危険な暑さのおそれ",
-      "title_ja": "西日本と東日本で危険な暑さ 九州で38度の予想",
-      "date": "Sat, 11 Jul 2026 06:10:05 +0900",
-      "summary": "Temperatures are rising across Western and Eastern Japan, with Kyushu expected to reach a dangerous 38 degrees Celsius. People are urged to take precautions against heatstroke by using air conditioning and staying hydrated.",
+      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174711000.html",
+      "title": "台風9号 中国東部浙江省に上陸 警戒呼びかけ 各地で交通影響",
+      "title_ja": "台風9号が中国東部に上陸、交通機関に大きな影響",
+      "date": "Sun, 12 Jul 2026 04:37:07 +0900",
+      "summary": "Typhoon No. 9 has made landfall in eastern China's Zhejiang Province, causing significant disruptions to transportation. Weather officials are warning residents to remain highly vigilant.",
       "sentences": [
         {
-          "en": "Temperatures are expected to rise significantly across Western and Eastern Japan on the 11th.",
-          "ja": "11日も、西日本と東日本の広い範囲で気温が大幅に上昇する見込みです。"
+          "en": "Typhoon No. 9 made landfall in Zhejiang Province in eastern China early on the morning of August 12th, Japan time.",
+          "ja": "台風9号が、日本時間の8月12日未明、中国東部の浙江省に上陸しました。"
         },
         {
-          "en": "According to the Japan Meteorological Agency, Kyushu could see dangerous highs of up to 38 degrees Celsius.",
-          "ja": "気象庁によると、九州では最高気温が危険な暑さとなる38度に達するおそれがあります。"
+          "en": "According to China's National Meteorological Center, the typhoon hit the coast around 12:30 a.m. on Monday.",
+          "ja": "中国の中央気象台によると、台風は月曜日の午前0時半ごろに沿岸部に上陸したとのことです。"
         },
         {
-          "en": "With such extreme heat, the risk of heatstroke becomes incredibly high.",
-          "ja": "このような極端な暑さの中では、熱中症のリスクが非常に高くなります。"
+          "en": "The powerful storm has already caused severe disruptions to local transportation services in the region.",
+          "ja": "この強力な台風により、同地域の交通機関にはすでに深刻な影響が出ています。"
         },
         {
-          "en": "Officials are urging everyone to take strict precautions to stay safe.",
-          "ja": "関係当局は、安全を確保するために徹底した対策を取るよう強く呼びかけています。"
+          "en": "Many flights and train services have been cancelled, leaving passengers stranded.",
+          "ja": "多くの空の便や鉄道が運休となり、乗客が足止めされています。"
         },
         {
-          "en": "It is highly recommended to use air conditioning appropriately and avoid staying in hot indoor environments.",
-          "ja": "エアコンを適切に使用し、暑い室内に留まるのを避けることが強く推奨されています。"
+          "en": "Weather authorities are urging residents to stay alert for heavy rain, strong winds, and potential flooding.",
+          "ja": "気象当局は、大雨や強風、また洪水の恐れに対して警戒を怠らないよう住民に呼びかけています。"
         },
         {
-          "en": "In addition, please remember to drink water frequently, even if you do not feel thirsty.",
-          "ja": "さらに、のどが渇いていなくても、こまめに水分を補給することを心がけてください。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174131000.html",
-      "title": "【速報中】W杯 スペインがベスト4へ ベルギーとの接戦制す",
-      "title_ja": "スペインがベルギーを破りW杯準決勝進出",
-      "date": "Sat, 11 Jul 2026 06:47:49 +0900",
-      "summary": "Spain advanced to the World Cup semi-finals after a tense 2-1 victory over Belgium in the quarter-finals.",
-      "sentences": [
-        {
-          "en": "In the quarter-finals of the World Cup, Spain has secured a spot in the semi-finals after a close match against Belgium.",
-          "ja": "ワールドカップ準々決勝で、スペインはベルギーとの接戦を制し、準決勝進出を決めました。"
-        },
-        {
-          "en": "The highly anticipated game ended in a dramatic 2-1 victory for the Spanish side.",
-          "ja": "注目されたこの試合は、スペインが2対1で劇的な勝利を収める結果となりました。"
-        },
-        {
-          "en": "Spain took the lead in the first half, thanks to a fantastic goal by Luis.",
-          "ja": "前半、スペインはルイス選手の見事なゴールで先制に成功します。"
-        },
-        {
-          "en": "Belgium responded with strong pressure, and De Ketelaere scored to equalize the game.",
-          "ja": "対するベルギーも激しいプレッシャーで応戦し、デ・ケートラーレ選手のゴールで同点に追いつきました。"
-        },
-        {
-          "en": "However, Spain fought back to score the winning goal, securing their place in the final four.",
-          "ja": "しかし、スペインが勝ち越しゴールを奪い返し、ベスト4への切符を手にしました。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174171000.html",
-      "title": "皇室典範改正案 今国会で成立の見通し 参議院審議の日程調整へ",
-      "title_ja": "皇族数確保のための皇室典範改正案、衆議院を通過",
-      "date": "Sat, 11 Jul 2026 05:04:40 +0900",
-      "summary": "A bill to amend the Imperial House Law to secure the number of Imperial Family members has passed the House of Representatives and is expected to be enacted during the current Diet session.",
-      "sentences": [
-        {
-          "en": "A bill to amend the Imperial House Law, aimed at securing the number of Imperial Family members, passed the House of Representatives on the 10th.",
-          "ja": "皇族数を確保するための皇室典範改正案が、10日、衆議院を通過しました。"
-        },
-        {
-          "en": "With this step, the bill is now expected to be successfully enacted during the current Diet session.",
-          "ja": "これにより、法案は今の国会中に成立する見通しとなりました。"
-        },
-        {
-          "en": "However, with the end of the current legislative session approaching next week, time is running short.",
-          "ja": "しかし、国会の会期末が来週に迫る中、残された時間は限られています。"
-        },
-        {
-          "en": "To deal with this tight schedule, the government and the ruling coalition are rushing deliberations in the House of Councillors.",
-          "ja": "この緊迫した日程に対応するため、政府・与党は参議院での審議を急いでいます。"
-        },
-        {
-          "en": "They are determined to ensure the bill passes and is fully enacted before the session officially closes.",
-          "ja": "彼らは、会期末までに法案を確実に成立させたいと考えています。"
+          "en": "Disaster response teams are on high alert as the typhoon is expected to move further inland.",
+          "ja": "台風はさらに内陸へと進むと予想されており、災害対応チームが厳戒態勢を敷いています。"
         }
       ]
     }
@@ -157,254 +95,385 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174261000.html",
-        "title": "【台風9号最新情報】沖縄 先島諸島に最接近 厳重警戒を",
-        "title_ja": "大型で強い台風9号、先島諸島に最接近",
-        "date": "Sat, 11 Jul 2026 06:57:16 +0900",
-        "summary": "Large and powerful Typhoon No. 9 is making its closest approach to Okinawa's Sakishima Islands, bringing severe winds and heavy rain. Officials warn of an increased risk of disasters due to prolonged storms and potential linear rainbands.",
+        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174761000.html",
+        "title": "九州で危険な暑さ予想 熱中症対策を 北日本では発達した雨雲",
+        "title_ja": "西日本で危険な酷暑、北日本では大雨に厳重警戒",
+        "date": "Sun, 12 Jul 2026 06:31:06 +0900",
+        "summary": "While western Japan faces dangerous heat with temperatures reaching up to 39 degrees Celsius, northern Japan is on high alert for landslides due to heavy rain.",
         "sentences": [
           {
-            "en": "A large and powerful typhoon, Typhoon No. 9, is currently making its closest approach to the Sakishima Islands in Okinawa Prefecture.",
-            "ja": "大型で強い台風9号が、現在、沖縄県の先島諸島に最も接近しています。"
+            "en": "On the 12th, temperatures are expected to rise once again, mainly in western Japan.",
+            "ja": "12日も、西日本を中心に再び気温が上昇する見込みです。"
           },
           {
-            "en": "Extremely strong winds are already being recorded across various parts of Okinawa.",
-            "ja": "沖縄県の各地では、すでに非常に強い風が吹き荒れています。"
+            "en": "In the Kyushu region, the maximum temperature is projected to reach a dangerous 39 degrees Celsius.",
+            "ja": "九州地方では、最高気温が危険な暑さとなる39度に達すると予想されています。"
           },
           {
-            "en": "In the Sakishima Islands, these violent winds are expected to continue for a prolonged period through the night of the 11th.",
-            "ja": "先島諸島では、11日の夜にかけて長時間にわたり暴風が続く見込みです。"
+            "en": "Everyone in these areas is strongly urged to take thorough measures to prevent heatstroke.",
+            "ja": "該当する地域にいる人々は、熱中症を防ぐための対策を徹底するよう強く求められています。"
           },
           {
-            "en": "Additionally, there is a serious concern that linear rainbands may develop through the evening.",
-            "ja": "さらに、夕方にかけて線状降水帯が発生する強い懸念があります。"
+            "en": "Meanwhile, northern Japan is experiencing heavy rain due to highly developed rain clouds.",
+            "ja": "一方、北日本では発達した雨雲の影響により、激しい雨が降っています。"
           },
           {
-            "en": "This atmospheric condition significantly increases the risk of natural disasters in the region.",
-            "ja": "この気象状況により、地域における災害の危険度が急激に高まっています。"
-          },
-          {
-            "en": "Residents in the affected areas are strongly urged to take precautions and secure their safety.",
-            "ja": "対象地域にお住まいの方々は、警戒を怠らず安全を確保するよう強く求められています。"
+            "en": "Local residents in the north must remain on high alert for potential landslides.",
+            "ja": "北日本の住民は、土砂災害が発生する危険性に対して厳重な警戒を続ける必要があります。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174241000.html",
-        "title": "西・東日本できょうも気温上昇 九州は危険な暑さのおそれ",
-        "title_ja": "西日本と東日本で猛暑、九州では38度の予想",
-        "date": "Sat, 11 Jul 2026 06:10:05 +0900",
-        "summary": "Temperatures are soaring across western and eastern Japan, with Kyushu expected to reach a dangerous 38 degrees Celsius. Authorities are urging the public to take strict precautions against heatstroke.",
+        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174701000.html",
+        "title": "北海道福島町 ヒグマ被害から1年 高まる科学的分析の重要性",
+        "title_ja": "北海道で同一ヒグマが連続して人を襲ったことがDNA解析で判明",
+        "date": "Sun, 12 Jul 2026 04:57:21 +0900",
+        "summary": "DNA analysis has revealed that a brown bear that killed a man in Hokkaido last year was also responsible for killing a woman in the same town in the past.",
         "sentences": [
           {
-            "en": "Temperatures are expected to rise across western and eastern Japan on the 11th, bringing another day of intense heat.",
-            "ja": "11日も西日本と東日本で気温が上がり、再び厳しい暑さとなる見込みです。"
+            "en": "One year ago, a tragic incident occurred in Fukushima Town, Hokkaido, where a man was attacked and killed by a brown bear.",
+            "ja": "1年前、北海道福島町で男性がヒグマに襲われて死亡するという悲惨な事件が発生しました。"
           },
           {
-            "en": "According to the Japan Meteorological Agency, the maximum temperature in the Kyushu region could reach a dangerous 38 degrees Celsius.",
-            "ja": "気象庁によると、九州地方では最高気温が危険な38度に達するおそれがあります。"
+            "en": "Recent DNA analysis has revealed a shocking fact about this specific bear.",
+            "ja": "最近のDNA解析により、このヒグマに関する衝撃的な事実が明らかになりました。"
           },
           {
-            "en": "Officials are urging the public to take thorough precautions against heatstroke.",
-            "ja": "気象庁などは、熱中症対策を徹底するよう呼びかけています。"
+            "en": "According to a Hokkaido research institution, DNA evidence shows that this same bear had previously attacked and killed a woman in the same town.",
+            "ja": "北海道の研究機関によると、DNAの解析から、この同じヒグマが過去にも同町内で女性を襲って死亡させていたことがわかりました。"
           },
           {
-            "en": "It is highly recommended to use air conditioning appropriately and drink water frequently throughout the day.",
-            "ja": "エアコンを適切に使用し、一日を通してこまめに水分を補給することが強く推奨されています。"
+            "en": "This discovery highlights the danger of individual bears that repeatedly attack humans.",
+            "ja": "この発見は、人間を繰り返し襲う特定のヒグマの危険性を浮き彫りにしています。"
           },
           {
-            "en": "Please stay safe and try to avoid unnecessary outdoor activities during the hottest hours.",
-            "ja": "安全に配慮し、最も気温が上がる時間帯の不要不急の外出は控えるようにしてください。"
+            "en": "Experts are warning that similar bear attacks are becoming a major concern across the country.",
+            "ja": "専門家は、同様のクマによる被害が全国的な重大な懸念事項になっていると警告しています。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
-        "title": "台風9号 沖縄 先島諸島・本島地方が暴風域に 厳重警戒を",
-        "title_ja": "台風9号、沖縄・先島諸島に接近",
-        "date": "Sat, 11 Jul 2026 00:52:58 +0900",
-        "summary": "Large and strong Typhoon No. 9 is approaching Okinawa's Sakishima Islands, bringing severe winds that are expected to last through the night of the 11th.",
+        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015173931000.html",
+        "title": "新型コロナ後遺症 体内のヘルペスウイルス活性化が原因か",
+        "title_ja": "新型コロナ後遺症のメカニズムを解明",
+        "date": "Sun, 12 Jul 2026 04:51:54 +0900",
+        "summary": "A Japanese research group has found that long COVID symptoms like fatigue may be caused by other latent viruses in the body being reactivated by the coronavirus infection.",
         "sentences": [
           {
-            "en": "Large and strong Typhoon No. 9 is moving forward, engulfing the Sakishima Islands and the main island of Okinawa in its storm zone.",
-            "ja": "大型で強い台風9号は、沖縄県の先島諸島や本島地方を暴風域に巻き込みながら進んでいます。"
+            "en": "Many people suffer from lingering symptoms after recovering from COVID-19, often referred to as \"long COVID.\"",
+            "ja": "新型コロナウイルスから回復した後も、多くの人が「後遺症」と呼ばれる長引く症状に苦しんでいます。"
           },
           {
-            "en": "The typhoon is expected to come very close to the Sakishima Islands on the morning of the 11th.",
-            "ja": "台風は11日の午前中、先島諸島にかなり近づく見込みです。"
+            "en": "These symptoms, which include severe fatigue, have puzzled scientists for years.",
+            "ja": "強いけん怠感などの症状は、長年にわたり科学者たちを悩ませてきました。"
           },
           {
-            "en": "Winds in the Sakishima Islands will strengthen further as the storm approaches.",
-            "ja": "先島諸島では、台風の接近に伴い風がさらに強まるでしょう。"
+            "en": "Recently, a research group from institutions including the Jikei University School of Medicine made a major breakthrough.",
+            "ja": "最近、東京慈恵会医科大学などの研究グループが、重大な研究成果をまとめました。"
           },
           {
-            "en": "Severe, storm-force winds are projected to persist for a long period through the night of the 11th.",
-            "ja": "暴風は11日夜にかけて、長時間にわたって続く見込みです。"
+            "en": "They found that these aftereffects may be triggered by other latent viruses already hiding inside our bodies.",
+            "ja": "彼らは、これらの後遺症が、すでに体内に潜伏していた別のウイルスによって引き起こされている可能性があることを突き止めました。"
           },
           {
-            "en": "People in the affected areas are urged to stay indoors and remain highly vigilant against the strong winds.",
-            "ja": "影響を受ける地域の人々は外出を控え、強風に対して厳重に警戒することが求められています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173821000.html",
-        "title": "認知症で長期行方不明者の家族 実態を知って支援を 東京",
-        "title_ja": "認知症の行方不明者家族が都内で支援を訴える",
-        "date": "Fri, 10 Jul 2026 19:23:00 +0900",
-        "summary": "An organization of families of missing people with dementia held an event in Tokyo to highlight the long-term struggles they face. They called for greater public awareness and systemic support for families searching for their loved ones.",
-        "sentences": [
-          {
-            "en": "An organization formed by families of missing people with dementia recently held an event in Tokyo.",
-            "ja": "認知症やその疑いで行方不明になった人の家族で作る団体が、先日都内でイベントを開催しました。"
+            "en": "When a person contracts COVID-19, the infection can reactivate these sleeping viruses, leading to prolonged symptoms.",
+            "ja": "新型コロナに感染すると、その影響でこれらの休眠していたウイルスが活性化し、症状の長期化につながるという仕組みです。"
           },
           {
-            "en": "The event aimed to raise awareness about the severe difficulties families face when a loved one goes missing for a long period.",
-            "ja": "このイベントは、大切な人が長期間行方不明になったときに家族が直面する深刻な困難について、認識を高めることを目的としています。"
-          },
-          {
-            "en": "Speakers shared their emotional struggles and the constant anxiety of not knowing where their family members are.",
-            "ja": "登壇者たちは、家族がどこにいるか分からないという絶え間ない不安や、精神的な葛藤を語りました。"
-          },
-          {
-            "en": "They also emphasized the lack of public understanding and the need for more systematic support systems.",
-            "ja": "また、世間の理解不足や、より組織的な支援体制の必要性を強調しました。"
-          },
-          {
-            "en": "Many participants called for stronger community networks to help find missing individuals more quickly.",
-            "ja": "多くの参加者は、行方不明者をより早く発見するために、地域社会のネットワークを強化することを求めました。"
-          },
-          {
-            "en": "Through this event, the group hopes to create a society where families of missing people with dementia do not feel isolated.",
-            "ja": "このイベントを通じて、団体は認知症の行方不明者の家族が孤立を感じない社会をつくることを望んでいます。"
+            "en": "This discovery is expected to pave the way for the development of new treatment methods.",
+            "ja": "この発見は、新たな治療法の開発への道を拓くものと期待されています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174111000.html",
-        "title": "五輪コンサート 五輪・パラリンピックのメダリストが思い語る",
-        "title_ja": "都内でオリンピックコンサート開催、メダリストも登壇",
-        "date": "Sat, 11 Jul 2026 05:07:37 +0900",
-        "summary": "The 'Olympic Concert' was held in Tokyo, featuring highlight footage of the Winter Games on a giant screen accompanied by a live orchestra, with twelve medalists in attendance.",
+        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174461000.html",
+        "title": "JAXA 再使用型ロケット実験機の試験 正常に飛行し着陸",
+        "title_ja": "JAXA、秋田で再使用型ロケットの試験飛行に成功",
+        "date": "Sat, 11 Jul 2026 18:57:27 +0900",
+        "summary": "JAXA has successfully tested a reusable rocket prototype in Akita Prefecture, which flew normally, reached an altitude of 11 meters, and landed as planned.",
         "sentences": [
           {
-            "en": "The \"Olympic Concert\" was recently held in Tokyo to celebrate the memorable moments of this year's Winter Olympics and Paralympics.",
-            "ja": "今年の冬のオリンピックとパラリンピックの名場面を振り返る「オリンピックコンサート」が、先日、都内で開催されました。"
+            "en": "The Japan Aerospace Exploration Agency, known as JAXA, has conducted a successful test flight of its reusable rocket prototype.",
+            "ja": "宇宙航空研究開発機構（JAXA）は、開発を進めている再使用型ロケットの実験機の飛行試験に成功しました。"
           },
           {
-            "en": "The event combined highlights of the games on a giant screen with beautiful live orchestral music.",
-            "ja": "このイベントでは、大型スクリーンに映し出される大会のハイライト映像と、オーケストラによる美しい生演奏が融合しました。"
+            "en": "The test took place on the 11th in Noshiro City, Akita Prefecture, as part of JAXA's ongoing research and development.",
+            "ja": "この試験は11日に秋田県能代市で行われ、JAXAが現在進めている研究開発の一環として実施されました。"
           },
           {
-            "en": "Twelve medalists from the winter games attended the concert as special guests, including snowboarder Yuto Totsuka.",
-            "ja": "コンサートには、スノーボードの戸塚優斗選手など、冬の大会のメダリスト12人が特別ゲストとして出席しました。"
+            "en": "During the flight, the experimental vehicle operated normally and ascended to a height of about 11 meters.",
+            "ja": "飛行中、実験機は正常に作動し、約11メートルの高さまで上昇しました。"
           },
           {
-            "en": "The audience was deeply moved as they relived the athletes' intense struggles and glorious victories.",
-            "ja": "観客は、アスリートたちの激しい闘いや栄光の瞬間を思い起こし、深く感動していました。"
+            "en": "After reaching its peak altitude, the rocket descended and landed safely exactly as planned.",
+            "ja": "最高高度に達した後、ロケットは降下し、計画通りに無事着陸しました。"
           },
           {
-            "en": "This annual concert continues to inspire people by sharing the power and spirit of sports through music.",
-            "ja": "この恒例のコンサートは、音楽を通じてスポーツの力と精神を伝えることで、人々にインスピレーションを与え続けています。"
+            "en": "This successful test marks an important step forward in developing cost-effective, reusable space technology.",
+            "ja": "今回の試験成功は、低コストで再利用可能な宇宙技術の開発において、重要な一歩となります。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173691000.html",
-        "title": "米オープンAI 新型AI 一般への提供開始 「ミュトス」超えも",
-        "title_ja": "オープンAIが最新モデル「GPT-5.6」を一般公開",
-        "date": "Fri, 10 Jul 2026 16:09:22 +0900",
-        "summary": "OpenAI has announced the public release of its latest AI model, GPT-5.6, which is expected to offer faster and more accurate performance.",
+        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174111000.html",
+        "title": "五輪コンサート 五輪・パラリンピックのメダリストが思い語る",
+        "title_ja": "「オリンピックコンサート」都内で開催、メダリストも出席",
+        "date": "Sat, 11 Jul 2026 05:07:37 +0900",
+        "summary": "An Olympic Concert was held in Tokyo to look back on this year's Winter Games, featuring orchestra music, giant screen videos, and appearances by twelve medalists.",
         "sentences": [
           {
-            "en": "OpenAI, the US-based developer of the generative AI \"ChatGPT,\" announced on the 9th that it has begun releasing its latest model, \"GPT-5.6,\" to the general public.",
-            "ja": "生成AI「ChatGPT」を開発する米オープンAIは9日、最新モデル「GPT-5.6」の一般への提供を開始したと発表しました。"
+            "en": "An \"Olympic Concert\" was recently held in Tokyo to look back on the memorable moments of this year's Winter Olympic and Paralympic Games.",
+            "ja": "先日、都内で今年の冬のオリンピックとパラリンピックの名場面を振り返る「オリンピックコンサート」が開催されました。"
           },
           {
-            "en": "This new version is expected to offer significantly faster processing speeds and more accurate responses than previous models.",
-            "ja": "この新しいバージョンは、これまでのモデルよりも処理速度が大幅に向上し、より正確な回答を提供することが期待されています。"
+            "en": "The event featured dramatic footage shown on a giant screen, accompanied by powerful live performances from a full orchestra.",
+            "ja": "イベントでは、大型スクリーンのドラマチックな映像とともに、フルオーケストラによる迫力ある生演奏が披露されました。"
           },
           {
-            "en": "The release comes as competition in the generative AI industry continues to intensify globally.",
-            "ja": "この発表は、生成AI業界における競争が世界的に激化し続ける中で行われました。"
+            "en": "A total of twelve medalists, including snowboarder Yuto Totsuka, attended the concert as special guests.",
+            "ja": "コンサートには、スノーボードの戸塚優斗選手をはじめ、合計12人のメダリストが特別ゲストとして出席しました。"
           },
           {
-            "en": "Users around the world can now access this advanced technology to assist with various daily tasks.",
-            "ja": "世界中のユーザーが、日々のさまざまな作業をサポートするこの高度な技術を利用できるようになります。"
+            "en": "The athletes shared their personal memories of the games and expressed their gratitude to the fans who supported them.",
+            "ja": "選手たちは大会の思い出を語り、自分たちを応援してくれたファンへの感謝の気持ちを伝えました。"
           },
           {
-            "en": "Industry experts are closely watching how this update will impact the market and future AI development.",
-            "ja": "業界の専門家たちは、今回のアップデートが市場や今後のAI開発にどのような影響を与えるかを注視しています。"
+            "en": "The audience was deeply moved as the music and videos brought back the excitement and emotion of the historic competitions.",
+            "ja": "音楽と映像が歴史的な大会の興奮と感動を呼び起こし、観客は深く感動していました。"
+          },
+          {
+            "en": "This unique collaboration of sports and music successfully celebrated the hard work and achievements of the athletes.",
+            "ja": "スポーツと音楽のこのユニークなコラボレーションは、選手たちの努力と功績を称える素晴らしい機会となりました。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174171000.html",
-        "title": "皇室典範改正案 今国会で成立の見通し 参議院審議の日程調整へ",
-        "title_ja": "皇室典範改正案が衆議院を通過、今国会で成立の見通し",
-        "date": "Sat, 11 Jul 2026 05:04:40 +0900",
-        "summary": "A bill to amend the Imperial House Law has passed the House of Representatives, and the government is aiming to fully enact it before the current Diet session ends next week.",
+        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174561000.html",
+        "title": "高市首相“安倍元首相にならい新たな挑戦続けていく”姿勢示す",
+        "title_ja": "安倍元首相の銃撃から4年、高市首相が追悼集会で決意表明",
+        "date": "Sat, 11 Jul 2026 17:38:35 +0900",
+        "summary": "At a memorial gathering marking four years since the death of former Prime Minister Shinzo Abe, Prime Minister Takaichi praised his courage in tackling controversial issues and expressed her determination to continue taking on new challenges.",
         "sentences": [
           {
-            "en": "On the 10th, a bill to amend the Imperial House Law passed the House of Representatives.",
-            "ja": "10日、皇族数を確保するための皇室典範改正案が衆議院を通過しました。"
+            "en": "A memorial gathering was recently held to mark four years since the assassination of former Prime Minister Shinzo Abe.",
+            "ja": "安倍晋三元総理大臣が銃撃されて亡くなってから4年が経過したことに合わせ、追悼集会が開催されました。"
           },
           {
-            "en": "The main goal of this bill is to address the shrinking number of Imperial Family members.",
-            "ja": "この法案の主な目的は、減少する皇族数に対処することです。"
+            "en": "During the event, Prime Minister Sanae Takaichi paid tribute to Abe's political legacy.",
+            "ja": "その集会の中で、高市総理大臣は安倍氏の政治的遺産に敬意を表しました。"
           },
           {
-            "en": "With this development, the bill is now highly likely to be enacted during the current Diet session.",
-            "ja": "この進展により、法案は今の国会中に成立する見通しとなりました。"
+            "en": "She emphasized that Mr. Abe courageously tackled difficult issues, even those that deeply divided public opinion.",
+            "ja": "高市総理は、安倍氏が国論を二分するような難しい課題にも果敢に取り組んだことを強調しました。"
           },
           {
-            "en": "However, time is running out, as the end of the current Diet session is approaching next week.",
-            "ja": "しかし、国会の会期末が来週に迫っており、残された時間は少なくなっています。"
+            "en": "Inspired by his leadership, Prime Minister Takaichi expressed her strong determination to follow in his footsteps.",
+            "ja": "安倍氏の指導力に触発され、高市総理はその遺志を継ぐ強い決意を表明しました。"
           },
           {
-            "en": "To ensure its passage, the government and the ruling parties are rushing to speed up deliberations in the House of Councillors.",
-            "ja": "確実に成立させるため、政府と与党は参議院での審議を急いで進めようとしています。"
+            "en": "She stated that she intends to keep taking on new challenges to move the nation forward.",
+            "ja": "彼女は、国を前進させるために自身も新たな挑戦を続けていきたいという姿勢を示しました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173761000.html",
-        "title": "皇室典範改正案 NW9広内キャスターが解説",
-        "title_ja": "皇室典範改正案が衆院通過、約80年ぶりの改正へ",
-        "date": "Fri, 10 Jul 2026 21:46:55 +0900",
-        "summary": "A bill to amend the Imperial House Law has passed Japan's House of Representatives, aiming to secure the number of Imperial family members for the first time in nearly 80 years.",
+        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174541000.html",
+        "title": "自民 鈴木幹事長 「副首都」法案成立に向けて野党に協力求める",
+        "title_ja": "国会会期末を控え、自民・鈴木幹事長が「副首都」法案成立へ野党に譲歩迫る",
+        "date": "Sat, 11 Jul 2026 17:10:56 +0900",
+        "summary": "As the Diet session nears its end, LDP Secretary-General Suzuki urged the opposition to make concessions on the \"sub-capital\" bill, pointing out that the ruling party had already postponed a controversial seat-reduction bill.",
         "sentences": [
           {
-            "en": "On the 10th, a bill to amend the Imperial House Law passed the House of Representatives, making it highly likely to be enacted during the current Diet session.",
-            "ja": "10日、皇族数を確保するための皇室典範改正案が衆議院を通過し、今国会で成立する公算が大きくなりました。"
+            "en": "With the current Diet session set to end next week, political maneuvers are intensifying.",
+            "ja": "国会の会期末が来週に迫る中、政治的な駆け引きが活発化しています。"
           },
           {
-            "en": "If this bill passes, it will be the first amendment to the law in approximately 80 years.",
-            "ja": "この法案が成立すれば、皇室典範の改正はおよそ80年ぶりとなります。"
+            "en": "Liberal Democratic Party Secretary-General Suzuki recently addressed key legislative issues.",
+            "ja": "自民党の鈴木幹事長は、最近、重要な法案に関する課題について言及しました。"
           },
           {
-            "en": "The main purpose of the amendment is to address the shrinking size of the imperial family and secure a stable number of members for the future.",
-            "ja": "改正の主な目的は、減少する皇族数に対処し、将来にわたって安定した皇族数を確保することです。"
+            "en": "He noted that the ruling party postponed deliberations on a bill to reduce the number of seats in the House of Representatives, which the opposition had strongly opposed.",
+            "ja": "鈴木氏は、野党が強く反発していた衆議院議員の定数削減法案について、与党が審議を見送ったことに触れました。"
           },
           {
-            "en": "However, experts are divided on whether the current proposal truly reflects a broad national consensus.",
-            "ja": "しかし、現在の案が国民の「総意」を本当に反映しているかどうかについて、専門家の意見は分かれています。"
+            "en": "Based on this concession, Suzuki argued that the opposition should now show flexibility regarding the \"sub-capital\" concept bill.",
+            "ja": "この譲歩を踏まえ、鈴木氏は、野党側も「副首都」構想の関連法案については歩み寄るべきだと主張しました。"
           },
           {
-            "en": "As the bill moves to the next stage, discussions continue on how to best preserve the traditions of the imperial family.",
-            "ja": "法案が次の段階へ進む中、皇室の伝統をどのように維持していくべきかについて議論が続いています。"
+            "en": "He expressed a strong desire to pass the sub-capital bill before the end of the current session.",
+            "ja": "そして、この副首都関連法案を今国会の会期内に成立させたいという強い意向を示しました。"
           }
         ]
       }
     ],
-    "経済": [],
-    "国際": [],
-    "スポーツ": []
+    "経済": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174281000.html",
+        "title": "韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達",
+        "title_ja": "SKハイニックスがナスダック上場、AI需要へ投資",
+        "date": "Sat, 11 Jul 2026 08:48:40 +0900",
+        "summary": "South Korean chipmaker SK Hynix has listed on the Nasdaq market, raising around 4.3 trillion yen to fund new production facilities amidst rising AI demand.",
+        "sentences": [
+          {
+            "en": "South Korean semiconductor giant SK Hynix has officially listed on the U.S. Nasdaq stock market.",
+            "ja": "韓国の半導体大手であるSKハイニックスが、アメリカのナスダック市場に正式に上場しました。"
+          },
+          {
+            "en": "Through this listing, the company has successfully raised approximately 4.3 trillion Japanese yen.",
+            "ja": "この上場により、同社は日本円にしておよそ4兆3000億円の資金調達に成功しました。"
+          },
+          {
+            "en": "This massive capital is intended to help the company keep up with the rapidly growing demand for AI technology.",
+            "ja": "この巨額の資金は、急速に高まるAI（人工知能）技術の需要に同社が対応できるようにすることを目的としています。"
+          },
+          {
+            "en": "Specifically, SK Hynix plans to allocate these funds toward the construction of new production facilities.",
+            "ja": "具体的には、SKハイニックスはこの資金を新しい生産施設の建設などに充てる計画です。"
+          },
+          {
+            "en": "As global competition in the semiconductor industry intensifies, this move is seen as a strategic step to secure a market lead.",
+            "ja": "半導体業界における世界的な競争が激化する中、この動きは市場でのリードを確保するための戦略的な一歩と見なされています。"
+          },
+          {
+            "en": "Market analysts are now closely watching how this massive investment will shape the future of the global chip supply.",
+            "ja": "市場アナリストらは、この大規模な投資が今後の世界の半導体供給にどのような影響を与えるか注視しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174161000.html",
+        "title": "ソフトバンクやPayPayなど セブン＆アイHDに出資を検討",
+        "title_ja": "ソフトバンクとPayPay、セブン＆アイへの出資を検討",
+        "date": "Sat, 11 Jul 2026 00:14:29 +0900",
+        "summary": "SoftBank and PayPay are considering investing in Seven & i Holdings to link telecom, digital payments, and convenience stores. This alliance aims to rapidly expand their loyalty point ecosystem and attract more customers.",
+        "sentences": [
+          {
+            "en": "Major Japanese telecommunications company SoftBank and smartphone payment giant PayPay are considering investing in Seven & i Holdings.",
+            "ja": "日本の通信大手ソフトバンクとスマートフォン決済大手のPayPayが、セブン＆アイ・ホールディングスへの出資を検討していることがわかりました。"
+          },
+          {
+            "en": "This potential investment aims to create a powerful alliance by linking telecom services, mobile payments, and convenience stores.",
+            "ja": "この出資検討は、通信サービス、モバイル決済、そしてコンビニエンスストアを連携させ、強力な提携関係を築くことを目指しています。"
+          },
+          {
+            "en": "By combining their strengths, the companies hope to rapidly expand their shared loyalty point ecosystem.",
+            "ja": "各社の強みを組み合わせることで、共通のポイント経済圏を一気に拡大したい考えです。"
+          },
+          {
+            "en": "Customers would be able to earn and use points much more easily across thousands of 7-Eleven stores and digital platforms.",
+            "ja": "利用客は、全国のセブン-イレブン店舗やデジタルプラットフォームを通じて、より簡単にポイントを貯めたり使ったりできるようになります。"
+          },
+          {
+            "en": "This strategic move is expected to intensify the competition among Japan's major point services as they vie for more users.",
+            "ja": "この戦略的な動きは、より多くの利用客を獲得しようと競い合う、日本の主要なポイントサービス間の競争をさらに激化させるとみられています。"
+          }
+        ]
+      }
+    ],
+    "国際": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015140931000.html",
+        "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月12日の動き）",
+        "title_ja": "緊迫するウクライナ情勢と市民の避難",
+        "date": "Sun, 12 Jul 2026 05:56:06 +0900",
+        "summary": "The military conflict in Ukraine continues as Russian and Ukrainian forces clash, driving millions of citizens to flee abroad while international diplomatic efforts persist.",
+        "sentences": [
+          {
+            "en": "Russia's military invasion of Ukraine continues to cause widespread devastation.",
+            "ja": "ロシアによるウクライナへの軍事侵攻は、今も各地に深刻な破壊をもたらし続けています。"
+          },
+          {
+            "en": "Fierce fighting between Russian and Ukrainian forces is still being reported in various parts of the country.",
+            "ja": "ウクライナの各地では、現在もロシア軍とウクライナ軍による激しい戦闘が伝えられています。"
+          },
+          {
+            "en": "Due to the ongoing conflict, millions of citizens have been forced to flee their homes and seek safety abroad.",
+            "ja": "続く衝突により、数百万もの市民が自宅を追われ、安全を求めて国外への避難を余儀なくされています。"
+          },
+          {
+            "en": "Meanwhile, the international community is actively engaging in diplomatic efforts to address the crisis.",
+            "ja": "一方で、国際社会はこの危機に対応するため、外交的な取り組みを活発に行っています。"
+          },
+          {
+            "en": "We will continue to monitor the changing situation on the ground and the diplomatic responses from related nations.",
+            "ja": "私たちは今後も、現地の刻々と変わる情勢や、関係各国による外交的な動きを注視していきます。"
+          }
+        ]
+      }
+    ],
+    "スポーツ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015173741000.html",
+        "title": "【速報中】W杯 ノルウェーが先制 イングランドをリード",
+        "title_ja": "W杯準々決勝：ノルウェー対イングランド、エース同士の対決",
+        "date": "Sun, 12 Jul 2026 06:44:45 +0900",
+        "summary": "Norway and England face off in the World Cup quarterfinals, showcasing an exciting matchup between two world-class strikers competing for the top scorer title.",
+        "sentences": [
+          {
+            "en": "The World Cup in North and Central America has reached the exciting quarterfinal stage.",
+            "ja": "サッカーワールドカップ北中米大会は、白熱する準々決勝を迎えました。"
+          },
+          {
+            "en": "Norway, ranked 31st in the world, is facing off against 4th-ranked England for a spot in the semifinals.",
+            "ja": "ベスト4進出をかけて、世界ランキング31位のノルウェーと4位のイングランドが対戦しています。"
+          },
+          {
+            "en": "This highly anticipated match features a thrilling clash between the star players of both nations.",
+            "ja": "この大注目の試合では、両国のスター選手によるスリリングな激突が見どころとなっています。"
+          },
+          {
+            "en": "Norway relies heavily on their ace striker, Erling Haaland, who is currently competing for the top goalscorer award.",
+            "ja": "ノルウェーは、現在得点王を争っているエースストライカー、ハーランド選手に大きな期待を寄せています。"
+          },
+          {
+            "en": "Meanwhile, England's key attacker is also prepared to lead his team to victory.",
+            "ja": "一方、イングランドのエースもまた、チームを勝利へと導く準備ができています。"
+          },
+          {
+            "en": "Football fans around the globe are eager to see which team will advance to the final four.",
+            "ja": "世界中のサッカーファンが、どちらのチームがベスト4に勝ち進むのか熱い視線を注いでいます。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174611000.html",
+        "title": "大相撲名古屋場所 初日見どころ 復帰の大の里は義ノ富士と",
+        "title_ja": "大相撲名古屋場所が初日へ：復活をかける大の里",
+        "date": "Sun, 12 Jul 2026 05:03:22 +0900",
+        "summary": "The Nagoya Grand Sumo Tournament is set to begin, featuring the return of Yokozuna Onosato after a two-tournament absence as he faces a challenging rival on day one.",
+        "sentences": [
+          {
+            "en": "The Nagoya Grand Sumo Tournament is set to begin its first day on the 12th at the IG Arena in Nagoya City.",
+            "ja": "大相撲名古屋場所は12日、名古屋市のIGアリーナで初日を迎えます。"
+          },
+          {
+            "en": "Much attention is focused on Yokozuna Onosato, who is returning to the ring after missing the last two tournaments.",
+            "ja": "2場所連続の休場から復帰する横綱の大の里に大きな注目が集まっています。"
+          },
+          {
+            "en": "On the opening day, Onosato will face the newly promoted Komusubi, Yoshinofuji.",
+            "ja": "初日、大の里は新小結の義ノ富士と対戦します。"
+          },
+          {
+            "en": "Surprisingly, Onosato has never defeated this opponent in their previous matchups.",
+            "ja": "意外なことに、大の里はこれまでの対戦でこの相手に一度も勝ったことがありません。"
+          },
+          {
+            "en": "Onosato has been struggling with a left-side injury that he sustained during last year's Kyushu Tournament.",
+            "ja": "大の里は去年の九州場所で負った左側の怪我に苦しんできました。"
+          },
+          {
+            "en": "Sumo fans are eagerly watching to see if he can make a successful comeback and secure a victory.",
+            "ja": "相撲ファンは、彼が復活を遂げて白星を挙げられるかどうか、熱い視線を送っています。"
+          }
+        ]
+      }
+    ]
   }
 }
