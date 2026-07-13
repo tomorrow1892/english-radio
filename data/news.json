@@ -1,93 +1,155 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175321000.html",
-      "title": "西日本では連日の「危険な暑さ」予想 熱中症対策の徹底を",
-      "title_ja": "西日本を中心に危険な暑さ、熱中症に厳重警戒",
-      "date": "Mon, 13 Jul 2026 06:10:13 +0900",
-      "summary": "Extreme heat is forecast for western Japan on the 13th, with temperatures in Kyushu expected to reach a dangerous 38 degrees Celsius. People are urged to take strict precautions against heatstroke by using air conditioning and staying hydrated.",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176161000.html",
+      "title": "トランプ大統領「海上封鎖再開 20％対価も」 イラン反発",
+      "title_ja": "トランプ氏、ホルムズ海峡での対イラン海上封鎖と20%課税を主張",
+      "date": "Tue, 14 Jul 2026 05:34:27 +0900",
+      "summary": "Former US President Trump has proposed a naval blockade against Iran and a 20% fee on all cargo passing through the Strait of Hormuz, prompting a strong counter-claim from Iran.",
       "sentences": [
         {
-          "en": "On the 13th, temperatures are expected to rise significantly, mainly across western Japan.",
-          "ja": "13日も、西日本を中心に気温が大幅に上昇する見込みです。"
+          "en": "Former US President Trump has made a controversial statement regarding navigation in the Strait of Hormuz.",
+          "ja": "トランプ前米大統領は、ホルムズ海峡の航行をめぐり、波紋を呼ぶ発言をしました。"
         },
         {
-          "en": "In the Kyushu region, the maximum temperature is forecast to reach a dangerous 38 degrees Celsius.",
-          "ja": "特に九州地方では、最高気温が危険な暑さとなる38度に達すると予想されています。"
+          "en": "He asserted that the United States would resume a naval blockade against Iran in the area.",
+          "ja": "同氏は、米国が同海域でイランに対する海上封鎖を再開すると主張しました。"
         },
         {
-          "en": "With such extreme heat, the risk of heatstroke becomes exceptionally high for everyone.",
-          "ja": "このような極端な暑さの中では、誰にとっても熱中症のリスクが非常に高くなります。"
+          "en": "Furthermore, he proposed a new measure to impose a 20 percent fee on all cargo passing through the strait.",
+          "ja": "さらに、同氏は海峡を通過するすべての貨物に対して、新たに20％の対価を課すという方針を示しました。"
         },
         {
-          "en": "Please protect yourself by using air conditioning appropriately and keeping your indoor spaces cool.",
-          "ja": "エアコンを適切に使用し、室内を涼しく保つことで、身を守るようにしてください。"
+          "en": "In response, Iran has strongly counter-claimed that they are the ones who have control over the strategic waterway.",
+          "ja": "これに対しイラン側は、この戦略的に重要な海路を管理しているのは自国であると強く主張しています。"
         },
         {
-          "en": "It is also vital to hydrate frequently, even before you feel thirsty, and to avoid going outside during the hottest hours.",
-          "ja": "また、喉が渇く前であってもこまめに水分を補給し、最も暑い時間帯の外出は避けることが極めて重要です。"
+          "en": "This clash of assertions continues to raise tensions over one of the world's most critical oil shipping routes.",
+          "ja": "両者の主張の対立により、世界で最も重要な石油輸送ルートの一つをめぐる緊張が引き続き高まっています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175311000.html",
-      "title": "ドジャース 大谷翔平 22号ホームラン 日米通算350号に到達",
-      "title_ja": "大谷翔平選手、球宴前最後の試合で22号ソロホームラン",
-      "date": "Mon, 13 Jul 2026 05:34:53 +0900",
-      "summary": "Shohei Ohtani of the Dodgers hit his 22nd home run of the season on the first pitch of his first at-bat in the final game before the All-Star break.",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176071000.html",
+      "title": "西日本に続き きょう東日本でも猛暑日予想 熱中症対策の徹底を",
+      "title_ja": "東日本と西日本で猛暑、熱中症対策を呼びかけ",
+      "date": "Tue, 14 Jul 2026 06:19:51 +0900",
+      "summary": "Severe heat continues to plague Western Japan, and temperatures are expected to rise above 35 degrees Celsius in Eastern Japan, prompting urgent calls for heatstroke prevention.",
       "sentences": [
         {
-          "en": "On July 12th, Shohei Ohtani of the Los Angeles Dodgers played in his final game before the upcoming Major League Baseball All-Star break.",
-          "ja": "7月12日、ロサンゼルス・ドジャースの大谷翔平選手が、近く開催されるメジャーリーグのオールスターゲーム前最後の試合に出場しました。"
+          "en": "While intense heat continues to grip western Japan, eastern parts of the country are also bracing for extremely hot weather.",
+          "ja": "西日本では猛烈な暑さが続いていますが、東日本でも極めて暑い日への警戒が高まっています。"
         },
         {
-          "en": "He started as the leadoff designated hitter in a matchup against the Arizona Diamondbacks.",
-          "ja": "大谷選手はアリゾナ・ダイヤモンドバックス戦に「1番・指名打者」として先発出場しました。"
+          "en": "On the 14th, temperatures in eastern Japan are expected to reach or exceed 35 degrees Celsius, marking what meteorologists call an extremely hot day.",
+          "ja": "14日は、東日本でも気温が35度以上の猛暑日になることが予想されています。"
         },
         {
-          "en": "In his very first at-bat in the first inning, Ohtani wasted no time making an impact.",
-          "ja": "1回の第1打席、大谷選手はすぐに素晴らしい活躍を見せました。"
+          "en": "Weather officials are urging everyone to take strict precautions against heatstroke.",
+          "ja": "気象当局は、熱中症に対して徹底した対策をとるよう呼びかけています。"
         },
         {
-          "en": "He aggressively swung at the very first pitch and drove it into the stands for a solo home run.",
-          "ja": "初球を思い切り振り抜き、打球をスタンドに叩き込んでソロホームランにしました。"
+          "en": "It is highly recommended to use air conditioning appropriately and drink water frequently, even before you feel thirsty.",
+          "ja": "喉が渇く前であっても、エアコンを適切に使い、こまめに水分を補給することが強く推奨されています。"
         },
         {
-          "en": "This marked his 22nd home run of the season, coming just two games after his last one.",
-          "ja": "これは彼にとって今シーズン第22号のホームランであり、2試合ぶりの一発となりました。"
-        },
-        {
-          "en": "This exciting play gave his team early momentum and thrilled fans just before the midsummer classic.",
-          "ja": "このエキサイティングなプレーはチームに素早い勢いをもたらし、真夏の祭典を前にファンを大いに沸かせました。"
+          "en": "Please stay updated with the latest weather forecasts and heatwave warnings to ensure your safety.",
+          "ja": "安全を確保するため、最新の気象予報や熱中症情報に常に注意を払ってください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175251000.html",
-      "title": "仏猛暑 水の事故の犠牲者130人超 イベントなどにも影響",
-      "title_ja": "フランスで猛暑続く 水難事故や観光地への影響広がる",
-      "date": "Mon, 13 Jul 2026 06:07:41 +0900",
-      "summary": "A severe heatwave in France has led to over 130 water-related deaths and forced famous landmarks like the Eiffel Tower to reduce their hours.",
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176061000.html",
+      "title": "与党 会期末控え「副首都」法案など成立調整 小幅延長の声も",
+      "title_ja": "会期末の国会、残る重要法案の成立をめぐり与野党が攻防",
+      "date": "Tue, 14 Jul 2026 05:08:40 +0900",
+      "summary": "With only three days left in the current Diet session, the government and ruling parties are pushing to pass all remaining bills, while the opposition demands thorough deliberation.",
       "sentences": [
         {
-          "en": "France is currently experiencing a severe heatwave, which is causing various issues across the country.",
-          "ja": "フランスは現在、深刻な猛暑に見舞われており、国内全土で様々な問題が引き起こされています。"
+          "en": "With only three days left before the end of the current Diet session, the Japanese government and ruling parties are aiming to pass all remaining bills.",
+          "ja": "国会の会期末を3日後に控え、政府・与党は残るすべての法案の成立を図る方針です。"
         },
         {
-          "en": "Since the 19th of last month, more than 130 people have tragically lost their lives in water-related accidents as people try to cool off.",
-          "ja": "涼を求めようとする人々が増える中、先月19日以降、水の事故によって130人以上が亡くなっています。"
+          "en": "These include key legislation such as a bill to amend the Imperial Household Law and bills related to the \"sub-capital\" concept.",
+          "ja": "これらには、皇室典範改正案や「副首都」構想の関連法案などの重要法案が含まれています。"
         },
         {
-          "en": "The extreme heat has also impacted tourism, forcing famous landmarks like the Eiffel Tower to shorten their operating hours.",
-          "ja": "この極端な暑さは観光業にも影響を及ぼしており、エッフェル塔などの有名な観光名所が営業時間を短縮せざるを得なくなっています。"
+          "en": "On the other hand, opposition parties are demanding thorough and careful deliberations on these matters.",
+          "ja": "一方、野党側は、これらの件に関して丁寧な審議を行うよう求めています。"
         },
         {
-          "en": "On the 12th, high temperatures continued to scorch the southwestern part of the country.",
-          "ja": "12日も同国の南西部では厳しい高温が続いていました。"
+          "en": "Some members of the ruling coalition have expressed concerns about the extremely tight schedule.",
+          "ja": "与党内からは、日程が非常に窮屈になっていることへの懸念の声も上がっています。"
         },
         {
-          "en": "Authorities are urging both locals and tourists to take precautions against heatstroke and to be extremely careful near water.",
-          "ja": "当局は地元住民と観光客の両方に対し、熱中症への対策を講じるとともに、水辺では細心の注意を払うよう呼びかけています。"
+          "en": "They stress the need to find a realistic way to ensure the successful passage of these important bills.",
+          "ja": "彼らは、これらの重要法案を確実に成立させるための現実的な方法を見つける必要性を強調しています。"
+        },
+        {
+          "en": "Attention is now focused on how both sides will negotiate in these final days of the session.",
+          "ja": "会期末の数日間に、与野党双方がどのように交渉を進めるのかに注目が集まっています。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176211000.html",
+      "title": "アメリカ中央軍 “イランに3日連続 攻撃開始”",
+      "title_ja": "米中央軍がイランへ3日連続の攻撃、トランプ氏も言及",
+      "date": "Tue, 14 Jul 2026 06:49:02 +0900",
+      "summary": "The U.S. Central Command announced it has launched military strikes against Iran for the third consecutive day, as President Trump spoke about the situation on the radio.",
+      "sentences": [
+        {
+          "en": "The U.S. Central Command, which oversees military operations in the Middle East, has announced a new round of military action.",
+          "ja": "中東地域における軍事作戦を管轄するアメリカ中央軍は、新たな軍事行動を発表しました。"
+        },
+        {
+          "en": "According to the announcement, the U.S. launched strikes against Iran for the third consecutive day.",
+          "ja": "発表によると、アメリカはイランに対して3日連続となる攻撃を開始しました。"
+        },
+        {
+          "en": "The latest attacks began at 4:45 p.m. Eastern Standard Time on the 13th, which was early morning on the 14th in Japan.",
+          "ja": "今回の最新の攻撃は、米国東部時間の13日午後4時45分、日本時間の14日早朝に開始されました。"
+        },
+        {
+          "en": "On the same day, President Trump addressed the ongoing situation during a radio broadcast.",
+          "ja": "同日、トランプ大統領はラジオ番組の中で、この進行中の状況について言及しました。"
+        },
+        {
+          "en": "The situation remains highly tense as international observers closely monitor the developments in the region.",
+          "ja": "国際社会がこの地域の動向を注視しており、状況は引き続き非常に緊迫しています。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176181000.html",
+      "title": "ベネズエラ大地震 死者4500人超に 捜索は難航",
+      "title_ja": "ベネズエラ大地震、死者4500人超 行方不明者の捜索続く",
+      "date": "Tue, 14 Jul 2026 05:44:50 +0900",
+      "summary": "A powerful earthquake in Venezuela has claimed over 4,500 lives, and rescue efforts continue in the hardest-hit areas. Local residents and emergency teams are working together to search for the missing amid widespread destruction.",
+      "sentences": [
+        {
+          "en": "A powerful earthquake struck Venezuela late last month, leaving a trail of devastation across the country.",
+          "ja": "先月下旬、ベネズエラで大地震が発生し、国内全域に甚大な被害をもたらしました。"
+        },
+        {
+          "en": "Officials have confirmed that more than 4,500 people lost their lives in the disaster, which occurred on the 24th.",
+          "ja": "先月24日に起きたこの災害で、これまでに4,500人以上の死亡が確認されています。"
+        },
+        {
+          "en": "In the hardest-hit areas, local residents and rescue teams are working tirelessly to search for missing people.",
+          "ja": "被害が集中している地域では、地元の住民や救助隊が行方不明者の捜索活動を懸命に続けています。"
+        },
+        {
+          "en": "The search efforts are facing major challenges due to collapsed buildings and blocked roads.",
+          "ja": "倒壊した建物や寸断された道路の影響で、捜索活動は大きな困難に直面しています。"
+        },
+        {
+          "en": "Community members are supporting each other by sharing food, water, and temporary shelter.",
+          "ja": "地域住民たちは食料や水、一時的な避難所を分け合い、互いに支え合っています。"
+        },
+        {
+          "en": "As hope fades for finding more survivors, the focus is slowly shifting toward long-term recovery and rebuilding.",
+          "ja": "生存者発見への望みが薄れるなか、関心は徐々に長期的な復興と再建へと移りつつあります。"
         }
       ]
     }
@@ -95,320 +157,390 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175121000.html",
-        "title": "【動画】Pickup NEWS(7月13日）",
-        "title_ja": "1分間でわかる最新ニュース動画のお知らせ",
-        "date": "Mon, 13 Jul 2026 06:39:31 +0900",
-        "summary": "This lesson introduces a short, one-minute video summarizing the latest news, while noting that the video is not accessible via data broadcasting.",
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176071000.html",
+        "title": "西日本に続き きょう東日本でも猛暑日予想 熱中症対策の徹底を",
+        "title_ja": "東日本でも猛暑日予想、熱中症対策の徹底を呼びかけ",
+        "date": "Tue, 14 Jul 2026 06:19:51 +0900",
+        "summary": "With intense heat continuing in western Japan and temperatures expected to exceed 35 degrees Celsius in eastern Japan on the 14th, authorities are urging people to take strict precautions against heatstroke.",
         "sentences": [
           {
-            "en": "Welcome to our quick daily news update.",
-            "ja": "本日の簡易ニュースアップデートへようこそ。"
+            "en": "Intense heat continues to scorch western Japan, and now eastern Japan is also bracing for extremely high temperatures.",
+            "ja": "西日本では猛烈な暑さが続いていますが、東日本でも非常に厳しい暑さに備える必要があります。"
           },
           {
-            "en": "We have put together a summary of the latest news in a short, one-minute video.",
-            "ja": "これまでに入っている最新のニュースを、まとめて1分間の動画でお伝えします。"
+            "en": "On August 14th, temperatures are expected to reach 35 degrees Celsius or higher in many eastern areas, marking official \"extremely hot days.\"",
+            "ja": "14日は東日本の多くの地域でも気温が35度以上の「猛暑日」になると予想されています。"
           },
           {
-            "en": "This video is designed to help you catch up on today's key events quickly and easily.",
-            "ja": "この動画は、今日の重要な出来事を素早く簡単に把握できるように作られています。"
+            "en": "To stay safe in these dangerous conditions, people are being urged to take thorough precautions against heatstroke.",
+            "ja": "この危険な状況下で安全に過ごすため、熱中症対策を徹底することが呼びかけられています。"
           },
           {
-            "en": "Please note that this video content is not available through data broadcasting services.",
-            "ja": "なお、データ放送ではこちらの動画をご覧いただけませんのでご注意ください。"
+            "en": "Experts advise making proper use of air conditioning and staying hydrated by drinking water frequently throughout the day.",
+            "ja": "専門家は、エアコンを適切に使い、一日を通してこまめに水分補給をするようアドバイスしています。"
           },
           {
-            "en": "To watch the video, please access our official website or mobile application.",
-            "ja": "動画をご視聴の際は、公式ウェブサイトまたはモバイルアプリからアクセスしてください。"
+            "en": "It is also recommended to avoid going outside during the hottest hours of the day if possible.",
+            "ja": "また、できる限り日中の最も暑い時間帯の外出を避けることも推奨されています。"
           },
           {
-            "en": "We hope this quick update keeps you well-informed throughout your busy day.",
-            "ja": "忙しい一日のなかで、この素早いニュース更新が皆様のお役に立てば幸いです。"
+            "en": "Please pay close attention to the latest weather updates and take care of your health.",
+            "ja": "最新の気象情報に細心の注意を払い、体調管理に気をつけてください。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015171821000.html",
-        "title": "スマホオプション 気づかず10年以上支払いも 相談相次ぐ",
-        "title_ja": "スマホ購入時の「不要なオプション契約」トラブルが急増中",
-        "date": "Sun, 12 Jul 2026 18:01:12 +0900",
-        "summary": "Many consumers are facing financial issues after unknowingly paying for unnecessary smartphone options for years. Experts advise regularly checking monthly bills to detect and cancel unwanted services.",
+        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175581000.html",
+        "title": "急な気温上昇 体が対応できないおそれも 熱中症対策は",
+        "title_ja": "西日本で連日の猛暑、東日本も気温上昇へ 熱中症に要警戒",
+        "date": "Mon, 13 Jul 2026 20:07:28 +0900",
+        "summary": "With temperatures rising sharply across Japan after a cool spell, people are being urged to take strict precautions against heatstroke both indoors and outdoors.",
         "sentences": [
           {
-            "en": "When purchasing a smartphone, customers are often encouraged to sign up for various optional services.",
-            "ja": "スマートフォンを購入する際、多くの人が様々なオプションサービスへの加入を勧められます。"
+            "en": "Western Japan has been experiencing consecutive days of extreme heat, with temperatures regularly exceeding 35 degrees Celsius.",
+            "ja": "西日本では連日猛暑日が続いており、気温が35度を超える日が続いています。"
           },
           {
-            "en": "Many people agree to these add-ons, thinking they are necessary or are temporarily free of charge.",
-            "ja": "多くの人が、これらのオプションが必要であるか、または一時的に無料であると考えて契約してしまいます。"
+            "en": "Eastern Japan is also expected to see a sharp rise in temperatures starting from the 14th.",
+            "ja": "東日本でも、14日以降は気温が急激に上がる見込みです。"
           },
           {
-            "en": "However, consumer affairs centers are receiving a flood of consultations about unwanted options that people have been paying for over many years.",
-            "ja": "しかし、不要なオプションを契約し、長年にわたって支払いが続いていたという相談が消費生活センターに相次いでいます。"
+            "en": "This sudden heat comes after a relatively cool period, making it harder for people's bodies to adapt.",
+            "ja": "比較的涼しい日が続いたあとの急な気温上昇であるため、体が暑さに慣れるのが難しくなっています。"
           },
           {
-            "en": "In some cases, users do not even realize they are paying for these services until they carefully check their monthly statements.",
-            "ja": "中には、毎月の明細書を注意深く確認するまで、これらのサービスにお金を支払っていることにすら気づかないケースもあります。"
+            "en": "As a result, there has been a sudden increase in the number of people taken to hospitals due to heatstroke.",
+            "ja": "その結果、熱中症で病院に搬送される人が急増しています。"
           },
           {
-            "en": "Experts advise consumers to regularly review their phone bills and cancel any services they do not actually use.",
-            "ja": "専門家は消費者に対し、携帯電話の請求書を定期的に見直し、実際に使用していないサービスは解約するようアドバイスしています。"
+            "en": "It is highly recommended to take strict precautions against heatstroke, whether you are staying indoors or working outside.",
+            "ja": "自宅で過ごす際も、屋外の作業現場などでも、熱中症対策を徹底することが強く求められています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175441000.html",
+        "title": "サッカー日本代表 長友佑都が愛媛の母校をサプライズ訪問",
+        "title_ja": "長友佑都選手が母校を訪問 子どもたちに夢の大切さを伝える",
+        "date": "Mon, 13 Jul 2026 17:28:01 +0900",
+        "summary": "Japanese soccer star Yuto Nagatomo visited his alma mater in Ehime Prefecture. The 39-year-old athlete, who has played in a record five World Cup tournaments, encouraged children to keep chasing their dreams.",
+        "sentences": [
+          {
+            "en": "Professional soccer player Yuto Nagatomo recently visited his former school in his hometown in Ehime Prefecture.",
+            "ja": "プロサッカーの長友佑都選手が、ふるさとである愛媛県の母校を訪れました。"
+          },
+          {
+            "en": "Nagatomo made history as the Japanese player with the most World Cup appearances, having played in five tournaments.",
+            "ja": "長友選手はワールドカップで日本選手最多となる5回目の出場を果たした実績を持っています。"
+          },
+          {
+            "en": "The 39-year-old athlete spent time with the children to share an important message about the value of chasing dreams.",
+            "ja": "39歳の長友選手は子どもたちと交流し、夢を追い続けることの大切さについてメッセージを伝えました。"
+          },
+          {
+            "en": "He encouraged the students by speaking about his own journey and how he overcame various challenges throughout his career.",
+            "ja": "彼は自身のこれまでの歩みや、これまでのキャリアでどのように様々な困難を乗り越えてきたかを語り、子どもたちを励ましました。"
+          },
+          {
+            "en": "The children listened eagerly to his inspiring words, filled with excitement to meet their local hero.",
+            "ja": "子どもたちは地元のヒーローとの対面に興奮しながら、その刺激的な言葉に熱心に耳を傾けていました。"
+          },
+          {
+            "en": "With his eyes set on the upcoming North American World Cup, Nagatomo continues to inspire people both on and off the field.",
+            "ja": "次の北中米ワールドカップを見据えながら、長友選手はピッチの内外で人々をインスパイアし続けています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174831000.html",
-        "title": "仏像から平安時代末期の古文書 大量に見つかる 源義仲の記述も",
-        "title_ja": "大阪の重要文化財の仏像から平安末期の古文書が大量に発見",
-        "date": "Sun, 12 Jul 2026 11:45:02 +0900",
-        "summary": "A large number of late Heian period documents have been found inside a historic Buddhist statue in Osaka, offering valuable insights into the chaotic Genpei War era.",
+        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175221000.html",
+        "title": "科学技術・イノベーション白書 基礎研究の成果を社会実装へ",
+        "title_ja": "科学技術・イノベーション白書と社会実装の重要性",
+        "date": "Mon, 13 Jul 2026 08:13:55 +0900",
+        "summary": "This year's Japanese white paper on science and technology emphasizes 'social implementation' to solve real-world problems, inspired by the success of last year's two Japanese Nobel laureates.",
         "sentences": [
           {
-            "en": "A large number of ancient documents from the late Heian period have been discovered inside a Buddhist statue in Osaka.",
-            "ja": "大阪市の寺にある仏像の中から、平安時代末期の古文書が大量に見つかりました。"
+            "en": "This year's \"Science, Technology, and Innovation White Paper\" has been approved by the Japanese Cabinet.",
+            "ja": "今年の「科学技術・イノベーション白書」が、閣議決定されました。"
           },
           {
-            "en": "The statue, a wooden standing figure of Amida Nyorai, is designated as a national Important Cultural Property.",
-            "ja": "この仏像は「木造阿弥陀如来立像」で、国の重要文化財に指定されています。"
+            "en": "The annual report emphasizes the importance of \"social implementation,\" which means applying the results of basic research to solve real-world problems.",
+            "ja": "この年次報告書は、基礎研究の成果を実社会の課題解決に役立てる「社会実装」の重要性を強調しています。"
           },
           {
-            "en": "These documents are believed to shed light on the social chaos during the Genpei War in the late 12th century.",
-            "ja": "これらの文書は、12世紀末の源平合戦の時期における社会の混乱を解き明かす手がかりになるとみられています。"
+            "en": "As key examples, it points to the achievements of two Japanese researchers who won the Nobel Prize last year.",
+            "ja": "主な事例として、昨年ノーベル賞を受賞した2人の日本人研究者の業績を挙げています。"
           },
           {
-            "en": "Experts say that finding such a large volume of new documents from this specific era is an incredibly rare and valuable discovery.",
-            "ja": "専門家は、この時代の新しい古文書がこれほど大量に見つかるのは、極めて稀で貴重な発見であると話しています。"
+            "en": "Their research demonstrates how fundamental scientific discoveries can eventually lead to practical solutions for society.",
+            "ja": "彼らの研究は、基礎的な科学的発見が、最終的に社会のための実用的な解決策にどのように結びつくかを示しています。"
           },
           {
-            "en": "They hope these records will provide deeper insights into the daily lives and struggles of people during this turbulent period in Japanese history.",
-            "ja": "これらの記録によって、日本史におけるこの動乱期の人々の暮らしや葛藤について、より深い理解が得られることが期待されています。"
+            "en": "The government hopes to support more projects that bridge the gap between laboratory research and everyday life.",
+            "ja": "政府は、実験室での研究と日常生活との間の溝を埋めるようなプロジェクトを、さらに支援したいと考えています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174461000.html",
-        "title": "JAXA 再使用型ロケット実験機の試験 正常に飛行し着陸",
-        "title_ja": "JAXA、再使用型ロケット実験機の飛行試験に成功",
-        "date": "Sat, 11 Jul 2026 18:57:27 +0900",
-        "summary": "JAXA successfully conducted a flight test of its experimental reusable rocket in Akita Prefecture, where it rose to about 11 meters and landed safely as planned.",
+        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174831000.html",
+        "title": "仏像から平安時代末期の古文書 大量に見つかる 源義仲の記述も",
+        "title_ja": "重要文化財の仏像から平安末期の古文書が大量に発見される",
+        "date": "Sun, 12 Jul 2026 11:45:02 +0900",
+        "summary": "A large number of late Heian-period documents have been found inside a Buddhist statue in Osaka, offering rare insights into the chaos of the Genpei War.",
         "sentences": [
           {
-            "en": "On the 11th, the Japan Aerospace Exploration Agency, known as JAXA, conducted a flight test of its experimental reusable rocket.",
-            "ja": "11日、宇宙航空研究開発機構（JAXA）は、開発を進めている再使用型ロケット実験機の飛行試験を行いました。"
+            "en": "A large number of ancient documents from the late Heian period have been discovered inside a Buddhist statue in Osaka.",
+            "ja": "大阪市の寺院にある仏像の中から、平安時代末期の古文書が大量に見つかりました。"
           },
           {
-            "en": "The test took place in Noshiro City, Akita Prefecture.",
-            "ja": "試験は秋田県能代市で実施されました。"
+            "en": "The statue is a wooden standing image of Amida Nyorai, which is designated as a national Important Cultural Property.",
+            "ja": "この仏像は国の重要文化財に指定されている「木造阿弥陀如来立像」です。"
           },
           {
-            "en": "During the operation, the experimental vehicle took off and flew normally.",
-            "ja": "試験中、実験機は正常に飛行しました。"
+            "en": "These documents are believed to shed light on the social turmoil during the Genpei War, a major conflict in late 12th-century Japan.",
+            "ja": "これらの文書は、12世紀末に起きた源平合戦の時期における社会の混乱ぶりを伝えるものとみられています。"
           },
           {
-            "en": "It reached an altitude of approximately 11 meters.",
-            "ja": "機体はおよそ11メートルの高さまで上昇しました。"
+            "en": "Experts say that finding such a massive volume of new documents from this turbulent period is incredibly rare.",
+            "ja": "専門家は、この激動の時代の古文書が新たに大量に見つかるのは極めて珍しいことだと指摘しています。"
           },
           {
-            "en": "After reaching its peak height, the rocket descended and landed safely as planned.",
-            "ja": "最高点に達した後、ロケットは降下し、計画通りに無事着陸しました。"
-          },
-          {
-            "en": "This flight marks a key step forward in JAXA's ongoing research and development of reusable rocket technology.",
-            "ja": "今回の飛行は、JAXAが研究開発を進める再使用型ロケット技術における重要な一歩となります。"
+            "en": "This discovery is expected to provide valuable insights into how people lived and coped during one of Japan's most chaotic eras.",
+            "ja": "今回の発見は、日本史上最も混乱した時代のひとつにおいて、人々がどのように暮らし、対処していたのかを解き明かす貴重な手がかりになると期待されています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175131000.html",
-        "title": "国会最終盤　与党 残された法案成立を　野党 丁寧な審議を",
-        "title_ja": "会期末を控え、重要法案をめぐる与野党の攻防が活発化",
-        "date": "Mon, 13 Jul 2026 04:56:10 +0900",
-        "summary": "With the Diet session ending in four days, the ruling coalition is pushing to pass key bills, while opposition parties demand thorough deliberation due to potential issues in the legislation.",
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176061000.html",
+        "title": "与党 会期末控え「副首都」法案など成立調整 小幅延長の声も",
+        "title_ja": "国会会期末、残る法案の成立をめぐり与野党の攻防が活発化",
+        "date": "Tue, 14 Jul 2026 05:08:40 +0900",
+        "summary": "With only three days left in the Diet session, the Japanese government aims to pass all remaining bills, while opposition parties demand careful deliberation despite a very tight schedule.",
         "sentences": [
           {
-            "en": "With only four days left before the end of the current Diet session, political tensions are rising in Japan.",
-            "ja": "国会の会期末までわずか4日に迫る中、国内の政治的緊張が高まっています。"
+            "en": "With only three days remaining until the end of the current Diet session, political tensions are rising in Japan.",
+            "ja": "国会の会期末を3日後に控え、日本国内で政治的緊張が高まっています。"
           },
           {
-            "en": "The ruling coalition plans to make every effort to pass several remaining key bills.",
-            "ja": "与党は、残るいくつかの重要法案を成立させるために全力を挙げる方針です。"
+            "en": "The government and the ruling coalition plan to push through all remaining bills before the deadline.",
+            "ja": "政府・与党は、期限までに残るすべての法案の成立を図る方針です。"
           },
           {
-            "en": "These include a proposed amendment to the Imperial House Law and a bill related to the \"sub-capital\" concept.",
-            "ja": "これらには、皇室典範の改正案や「副首都」構想に関連する法案などが含まれています。"
+            "en": "These key pieces of legislation include a proposed amendment to the Imperial House Law and bills related to the \"sub-capital\" concept.",
+            "ja": "これらの重要法案には、皇室典範改正案や「副首都」構想の関連法案などが含まれています。"
           },
           {
-            "en": "In contrast, opposition parties argue that many of these bills still have significant issues and require careful deliberation.",
-            "ja": "これに対し野党は、これらの法案の多くに依然として課題があり、丁寧な審議が必要であると主張しています。"
+            "en": "On the other hand, opposition parties are demanding thorough and careful deliberation on each of these major issues.",
+            "ja": "一方で野党側は、これらの重要課題について、それぞれ丁寧な審議を行うよう求めています。"
           },
           {
-            "en": "Looking ahead to the end of the session, both sides are gearing up for a final confrontation over the legislative agenda.",
-            "ja": "会期末を見据え、与野党双方が法案の取り扱いをめぐって最後の攻防に備えています。"
+            "en": "Even within the ruling coalition, some members are concerned that the extremely tight schedule might jeopardize the secure passage of the bills.",
+            "ja": "与党内からも、日程が非常に窮屈であるため、法案の確実な成立が危ぶまれるのではないかと懸念する声が上がっています。"
+          },
+          {
+            "en": "Both sides are expected to engage in intense negotiations as the final days of the session approach.",
+            "ja": "会期末が近づく中、与野党による激しい攻防が予想されます。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174951000.html",
-        "title": "佐藤官房副長官 首相に代わり安倍氏墓参り 追悼のことば伝える",
-        "title_ja": "安倍元総理の死去から4年、佐藤官房副長官が代理で墓参り",
-        "date": "Sun, 12 Jul 2026 14:25:28 +0900",
-        "summary": "Deputy Chief Cabinet Secretary Sato visited Yamaguchi Prefecture on behalf of Prime Minister Takaichi to mark the fourth anniversary of former Prime Minister Abe's death. He paid his respects at Abe's grave and delivered a memorial message.",
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015175471000.html",
+        "title": "歴史的な円安「経済に悪い影響」61％ NHK世論調査",
+        "title_ja": "円安の影響に関する世論調査",
+        "date": "Tue, 14 Jul 2026 05:02:25 +0900",
+        "summary": "An NHK opinion poll reveals that 61 percent of respondents believe the historically weak yen is negatively impacting the Japanese economy, compared to only 22 percent who view it positively.",
         "sentences": [
           {
-            "en": "It has been four years since former Prime Minister Shinzo Abe was tragically shot and killed.",
-            "ja": "安倍元総理大臣が銃撃されて亡くなってから、4年が経ちました。"
+            "en": "The Japanese yen has been hovering at historically low levels against major currencies.",
+            "ja": "日本円は、主要通貨に対して歴史的な低水準で推移しています。"
           },
           {
-            "en": "To mark this anniversary, Deputy Chief Cabinet Secretary Sato visited Yamaguchi Prefecture on behalf of Prime Minister Takaichi.",
-            "ja": "この節目にあたり、佐藤官房副長官は高市総理大臣の代理として山口県を訪れました。"
+            "en": "In response to this situation, NHK conducted a public opinion poll to ask people how they feel this weak yen is affecting the country's economy.",
+            "ja": "この状況を受けて、NHKは世論調査を実施し、この円安が日本経済にどのような影響を与えていると人々が感じているかを尋ねました。"
           },
           {
-            "en": "During his visit, Sato paid his respects at the grave of the former prime minister.",
-            "ja": "訪問中、佐藤氏は安倍氏の墓参りを行いました。"
+            "en": "According to the survey, only 22 percent of respondents answered that the weak yen has a \"good impact.\"",
+            "ja": "調査によると、円安が「良い影響を与えている」と答えた回答者はわずか22％にとどまりました。"
           },
           {
-            "en": "He also delivered a message of condolence that had been entrusted to him by Prime Minister Takaichi.",
-            "ja": "同時に、高市総理大臣から預かった追悼の言葉を伝えました。"
+            "en": "On the other hand, a significant majority of 61 percent expressed concern, stating that it has a \"bad impact\" on the economy.",
+            "ja": "一方で、大半を占める61％が、経済に「悪い影響を与えている」と述べ、懸念を示しました。"
           },
           {
-            "en": "The government continues to honor the memory of the late leader through such formal tributes.",
-            "ja": "政府はこのような公式な追悼を通じて、亡きリーダーへの敬意を示し続けています。"
+            "en": "While a weak yen can boost exports, it also drives up the cost of imported goods and energy, directly affecting household budgets.",
+            "ja": "円安は輸出を促進する可能性がある一方で、輸入製品やエネルギーの価格を押し上げ、家計に直接影響を与えます。"
+          },
+          {
+            "en": "The poll highlights growing public anxiety over rising living costs amid this prolonged currency depreciation.",
+            "ja": "この世論調査は、長引く通貨安の中で、生活費の高騰に対する国民の不安が強まっていることを浮き彫りにしています。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175161000.html",
-        "title": "ホルムズ海峡封鎖表明で週明けの金融市場 影響に注目",
-        "title_ja": "ホルムズ海峡封鎖警告による原油価格と円相場への影響",
-        "date": "Mon, 13 Jul 2026 06:48:46 +0900",
-        "summary": "Financial markets are closely monitoring crude oil prices after Iran's Revolutionary Guard threatened to block the Strait of Hormuz, which could further impact the historically weak Japanese yen.",
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015175471000.html",
+        "title": "歴史的な円安「経済に悪い影響」61％ NHK世論調査",
+        "title_ja": "歴史的な円安、世論の6割が「経済に悪影響」と回答",
+        "date": "Tue, 14 Jul 2026 05:02:25 +0900",
+        "summary": "A recent NHK poll shows that 61% of people believe the historically weak yen is negatively affecting the Japanese economy, while only 22% see a positive impact.",
         "sentences": [
           {
-            "en": "At the start of the week, financial markets are closely watching the movement of crude oil futures.",
-            "ja": "週明けの金融市場では、原油先物価格の動向に注目が集まっています。"
+            "en": "The Japanese yen has been trading at historically weak levels against other major currencies recently.",
+            "ja": "最近、日本円は他の主要通貨に対して歴史的な円安水準で推移しています。"
           },
           {
-            "en": "This comes after Iran's Revolutionary Guard announced a statement indicating they might block the strategic Strait of Hormuz.",
-            "ja": "これは、イランの革命防衛隊が要衝であるホルムズ海峡を封鎖することを表明したためです。"
+            "en": "In light of this situation, NHK conducted a public opinion poll to see how people view its impact on the Japanese economy.",
+            "ja": "この状況を踏まえ、NHKは日本経済への影響を人々がどのように考えているかを調べるため、世論調査を実施しました。"
           },
           {
-            "en": "Recently, crude oil prices had been on a downward trend, but this news could trigger a sharp increase.",
-            "ja": "最近、原油価格は下落傾向にありましたが、このニュースによって大幅な上昇に転じる可能性があります。"
+            "en": "The survey revealed that only 22 percent of respondents believe the weak yen has a positive effect.",
+            "ja": "調査の結果、円安が「良い影響を与えている」と答えた人は、わずか22％にとどまることが分かりました。"
           },
           {
-            "en": "If energy prices surge, it could have a severe economic impact on resource-poor nations like Japan.",
-            "ja": "エネルギー価格が急騰した場合、日本のような資源の乏しい国々に深刻な経済的影響を及ぼす恐れがあります。"
+            "en": "On the other hand, a significant majority of 61 percent answered that the impact is actually negative.",
+            "ja": "その一方で、全体の61％という大半の人が、実際には「悪い影響がある」と回答しました。"
           },
           {
-            "en": "In particular, a spike in oil prices may put further downward pressure on the Japanese yen, which has already fallen to historic lows.",
-            "ja": "特に、原油価格の急騰は、すでに歴史的な水準まで下落している円相場にさらなる下落圧力をかける可能性があります。"
+            "en": "While a weak yen can boost profits for exporters, it also drives up the cost of imported goods and daily necessities.",
+            "ja": "円安は輸出企業の利益を押し上げる可能性がある一方で、輸入品や日用品の価格上昇を招くことになります。"
           },
           {
-            "en": "Investors remain highly vigilant as these geopolitical tensions could disrupt global supply chains and accelerate inflation.",
-            "ja": "地政学的な緊張が世界のサプライチェーンを混乱させ、インフレを加速させる可能性があるため、投資家は強い警戒を続けています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260712/k10015175001000.html",
-        "title": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
-        "title_ja": "ホルムズ海峡封鎖に伴う日本の原油代替調達の動き",
-        "date": "Sun, 12 Jul 2026 16:21:28 +0900",
-        "summary": "Following the effective closure of the Strait of Hormuz, the Japanese government is successfully securing alternative oil routes, slowing the decline of its crude oil imports.",
-        "sentences": [
-          {
-            "en": "Following the de facto closure of the Strait of Hormuz, the Japanese government has been actively seeking alternative routes to secure crude oil.",
-            "ja": "ホルムズ海峡が事実上封鎖されたことを受け、日本政府は原油を確保するため、代替ルートの確保に積極的に取り組んでいます。"
-          },
-          {
-            "en": "By procuring oil through paths that bypass this critical strait, Japan aims to stabilize its energy supply.",
-            "ja": "この重要な海峡を避けるルートを通じて原油を調達することで、日本はエネルギー供給の安定化を目指しています。"
-          },
-          {
-            "en": "Thanks to these efforts, the rate of decline in the country's crude oil imports has recently begun to narrow.",
-            "ja": "これらの取り組みのおかげで、国内の原油輸入量の減少幅は、最近縮小する傾向にあります。"
-          },
-          {
-            "en": "According to the Agency for Natural Resources and Energy, this positive trend was clearly observed in May of this year.",
-            "ja": "資源エネルギー庁によると、この好ましい傾向は今年5月に明確に観察されました。"
-          },
-          {
-            "en": "The government plans to continue diversifying its import channels to prevent potential energy shortages.",
-            "ja": "政府は、潜在的なエネルギー不足を防ぐため、今後も輸入ルートの多様化を継続する方針です。"
+            "en": "This poll highlights the growing concern among Japanese citizens regarding their rising living expenses.",
+            "ja": "今回の世論調査は、生活費の高騰に対する日本国民の懸念の高まりを浮き彫りにしています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175211000.html",
-        "title": "南シナ海仲裁判断10年 14か国共同声明に中国が反論",
-        "title_ja": "南シナ海仲裁判断から10年、中国が共同声明に反発",
-        "date": "Mon, 13 Jul 2026 06:18:57 +0900",
-        "summary": "Ten years after an international ruling rejected China's South China Sea claims, 14 nations including Japan urged China to comply, but Beijing dismissed the ruling as a 'scrap of paper.'",
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176211000.html",
+        "title": "アメリカ中央軍 “イランに3日連続 攻撃開始”",
+        "title_ja": "米軍、3日連続で対イラン攻撃を実施と発表",
+        "date": "Tue, 14 Jul 2026 06:49:02 +0900",
+        "summary": "The U.S. Central Command has announced a third consecutive day of military strikes against Iran-related targets, with President Trump also commenting on the situation.",
         "sentences": [
           {
-            "en": "It has been ten years since an international arbitration ruling rejected China's territorial claims in the South China Sea.",
-            "ja": "南シナ海における中国の領有権主張を退けた国際仲裁裁判の判断から、10年が経過しました。"
+            "en": "The U.S. Central Command, which oversees military operations in the Middle East, announced that it has launched strikes for the third consecutive day.",
+            "ja": "中東地域を管轄するアメリカ中央軍は、3日連続となる攻撃を開始したと発表しました。"
           },
           {
-            "en": "To mark this anniversary, a group of 14 countries, including Japan, issued a joint statement.",
-            "ja": "この節目に合わせ、日本を含む14か国が共同声明を発表しました。"
+            "en": "According to the military, the latest operation began at 4:45 p.m. Eastern Standard Time on the 13th, which is 5:45 a.m. on the 14th in Japan.",
+            "ja": "同軍によると、最新の作戦はアメリカ東部時間の13日午後4時45分、日本時間の14日午前5時45分に開始されました。"
           },
           {
-            "en": "The statement strongly urges China to comply with the landmark ruling.",
-            "ja": "声明は、中国に対してこの画期的な判断を順守するよう強く求めています。"
+            "en": "These consecutive actions target Iran-related positions, reflecting ongoing high tensions in the region.",
+            "ja": "これらの連続した行動はイランに関連する拠点を標的にしており、地域における緊張の高まりを反映しています。"
           },
           {
-            "en": "However, China's Ministry of Foreign Affairs quickly rejected the international community's demands.",
-            "ja": "しかし、中国外務省は国際社会の要求をすぐに拒絶しました。"
+            "en": "On the same day, President Trump addressed the military situation during a radio appearance.",
+            "ja": "同日、トランプ大統領はラジオ出演の際、この軍事状況について言及しました。"
           },
           {
-            "en": "A spokesperson dismissed the ruling, calling it nothing more than a \"non-binding scrap of paper.\"",
-            "ja": "報道官はその判断を退け、それは「拘束力のない紙くず」に過ぎないと表現しました。"
+            "en": "The U.S. government maintains that these measures are necessary to protect national interests and restore stability.",
+            "ja": "米国政府は、これらの措置が国益を守り、安定を取り戻すために必要であると主張しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176181000.html",
+        "title": "ベネズエラ大地震 死者4500人超に 捜索は難航",
+        "title_ja": "ベネズエラ大地震、死者4500人超で捜索続く",
+        "date": "Tue, 14 Jul 2026 05:44:50 +0900",
+        "summary": "A powerful earthquake in Venezuela has claimed over 4,500 lives, and local residents are continuing to search for missing people in the hardest-hit areas.",
+        "sentences": [
+          {
+            "en": "A powerful earthquake struck Venezuela in South America on the 24th of last month, causing widespread devastation.",
+            "ja": "先月24日、南米のベネズエラで強力な地震が発生し、広範囲にわたる甚大な被害をもたらしました。"
           },
           {
-            "en": "This ongoing dispute remains a major source of political tension in the region.",
-            "ja": "この長引く紛争は、依然としてこの地域における政治的緊張の主な要因となっています。"
+            "en": "According to recent reports, the death toll from the disaster has now exceeded 4,500 people.",
+            "ja": "最近の報告によると、この災害による死者数は現在、4,500人を超えています。"
+          },
+          {
+            "en": "In the areas where the damage is most concentrated, search operations are still active.",
+            "ja": "被害が集中している地域では、現在も捜索活動が活発に行われています。"
+          },
+          {
+            "en": "Local residents and rescue teams are working day and night to find those who still remain missing.",
+            "ja": "地元の住民や救助隊は、依然として行方がわからない人々を見つけるため、昼夜を問わず活動しています。"
+          },
+          {
+            "en": "Despite the challenging conditions, community members are coming together to support one another during this difficult time.",
+            "ja": "困難な状況にもかかわらず、地域の人々は力を合わせて、この苦しい時期をお互いに支え合っています。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175171000.html",
-        "title": "大相撲名古屋場所 2日目見どころ 初日黒星の大の里は藤ノ川と",
-        "title_ja": "復活を目指す横綱・大の里、名古屋場所2日目に挑む",
-        "date": "Mon, 13 Jul 2026 06:09:11 +0900",
-        "summary": "Yokozuna Onosato, returning from a shoulder injury, aims for his first win on Day 2 of the Nagoya Grand Sumo Tournament after a disappointing opening loss.",
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176191000.html",
+        "title": "サッカーＷ杯 スペインが準決勝へ最終調整",
+        "title_ja": "W杯スペイン、4大会ぶりのベスト4へ フランス戦を前に最終調整",
+        "date": "Tue, 14 Jul 2026 06:40:29 +0900",
+        "summary": "Spain has reached the World Cup semifinals for the first time in four tournaments and is making final preparations for their match against France.",
         "sentences": [
           {
-            "en": "On the second day of the Nagoya Grand Sumo Tournament, Yokozuna Onosato, who suffered a loss on the opening day, will face Maegashira 1 Fujinokawa.",
-            "ja": "大相撲名古屋場所は2日目、初日に黒星発進となった横綱の大の里は、前頭筆頭の藤ノ川と対戦します。"
+            "en": "Spain has advanced to the semifinals of the World Cup in North and Central America for the first time in four tournaments.",
+            "ja": "サッカーワールドカップ北中米大会で、スペインが4大会ぶりに準決勝（ベスト4）に進出しました。"
           },
           {
-            "en": "Onosato had missed the last two consecutive tournaments due to a left shoulder injury.",
-            "ja": "大の里は左肩のけがのため、2場所連続で休場していました。"
+            "en": "On the 13th, the team held their final training session in preparation for the upcoming semifinal match against France.",
+            "ja": "13日、チームはフランスとの準決勝に向けて最終調整を行いました。"
           },
           {
-            "en": "In his highly anticipated return match on day one, he was defeated by the new Komusubi, Yoshinofuji.",
-            "ja": "期待された初日の復帰戦で、彼は新小結の義ノ富士に敗れました。"
+            "en": "Currently ranked second in the world, Spain faced ninth-ranked Belgium in the quarter-finals.",
+            "ja": "世界ランキング2位のスペインは、準々決勝で世界9位のベルギーと対戦しました。"
           },
           {
-            "en": "This opening loss has put early pressure on the Yokozuna to turn things around.",
-            "ja": "この初日の敗戦により、横綱は早い段階で立て直すというプレッシャーを背負うことになりました。"
+            "en": "After a hard-fought match, Spain emerged victorious, securing their spot in the final four.",
+            "ja": "激しい戦いの末にスペインが勝利を収め、ベスト4の座を勝ち取りました。"
           },
           {
-            "en": "Fans are eagerly watching to see if Onosato can overcome his physical struggles and secure his first victory today.",
-            "ja": "ファンは、大の里が身体的な苦境を乗り越え、今日初白星を挙げられるかどうかを固唾をのんで見守っています。"
+            "en": "Soccer fans around the world are eagerly anticipating this highly-anticipated matchup between two European powerhouses.",
+            "ja": "世界中のサッカーファンが、ヨーロッパの強豪国同士によるこの大注目の対戦を心待ちにしています。"
+          },
+          {
+            "en": "The winner of this game will move one step closer to claiming the prestigious World Cup trophy.",
+            "ja": "この試合の勝者は、栄えあるワールドカップのトロフィー獲得へと大きく一歩近づくことになります。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176081000.html",
+        "title": "大相撲名古屋場所 3日目見どころ 豊昇龍は藤ノ川と",
+        "title_ja": "大相撲名古屋場所3日目：2連勝の豊昇龍、勢いに乗る藤ノ川と激突",
+        "date": "Tue, 14 Jul 2026 05:20:33 +0900",
+        "summary": "On the third day of the Nagoya Grand Sumo Tournament, Yokozuna Hoshoryu aims for his third consecutive win against Fujinokawa, who recently defeated Yokozuna Onosato.",
+        "sentences": [
+          {
+            "en": "On the third day of the Nagoya Grand Sumo Tournament, Yokozuna Hoshoryu, who is on a two-match winning streak, will face a tough challenge on the 13th.",
+            "ja": "大相撲名古屋場所の3日目、2連勝の横綱・豊昇龍は13日、厳しい挑戦を受けることになります。"
+          },
+          {
+            "en": "His opponent is Fujinokawa, who is gaining great momentum after defeating Yokozuna Onosato.",
+            "ja": "対戦相手は、横綱・大の里に勝って勢いに乗る藤ノ川です。"
+          },
+          {
+            "en": "In the previous tournament, Hoshoryu injured his right foot and was forced to withdraw from the second day onward.",
+            "ja": "豊昇龍は先場所、右足を痛めて2日目から休場を余儀なくされていました。"
+          },
+          {
+            "en": "However, he has made a strong comeback this time, defeating Komusubi Oho on the very first day.",
+            "ja": "しかし今場所は力強い復活を遂げ、初日に小結の王鵬を破りました。"
+          },
+          {
+            "en": "He kept his momentum going on the second day by defeating a Maegashira-ranked wrestler.",
+            "ja": "続く2日目にも前頭の力士を破り、その勢いを維持しています。"
+          },
+          {
+            "en": "Sumo fans are eagerly watching to see if Hoshoryu can continue his winning streak against the rising challenger.",
+            "ja": "勢いを増す挑戦者を相手に、豊昇龍が連勝を伸ばせるか、相撲ファンは熱い視線を送っています。"
           }
         ]
       }
