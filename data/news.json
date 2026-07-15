@@ -1,151 +1,118 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
-      "title": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
-      "title_ja": "米中央軍がホルムズ海峡で海上封鎖を再開",
-      "date": "Wed, 15 Jul 2026 06:12:42 +0900",
-      "summary": "The U.S. Central Command has resumed a naval blockade around the Strait of Hormuz targeting ships traveling to and from Iranian ports. This action comes amid ongoing retaliatory attacks, further escalating tensions in the Middle East.",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178081000.html",
+      "title": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
+      "title_ja": "ノーベル賞受賞者の利根川進氏が死去、86歳",
+      "date": "Thu, 16 Jul 2026 06:41:28 +0900",
+      "summary": "Susumu Tonegawa, the MIT professor who became the first Japanese Nobel laureate in Physiology or Medicine, has passed away at the age of 86.",
       "sentences": [
         {
-          "en": "The U.S. Central Command, which oversees military operations in the Middle East, has made a major announcement regarding regional security.",
-          "ja": "中東地域を管轄するアメリカ中央軍は、地域の安全保障に関する重大な発表を行いました。"
+          "en": "Susumu Tonegawa, a world-renowned Japanese scientist and professor at the Massachusetts Institute of Technology, passed away on the 11th of this month at the age of 86.",
+          "ja": "マサチューセッツ工科大学教授で、世界的に有名な日本人科学者の利根川進さんが、今月11日、86歳で亡くなりました。"
         },
         {
-          "en": "They announced the resumption of a naval blockade around the Strait of Hormuz, targeting vessels entering and leaving Iranian ports.",
-          "ja": "同軍は、イランの港などを出入りする船舶を対象とした、ホルムズ海峡周辺での海上封鎖の再開を発表しました。"
+          "en": "In 1987, he became the first Japanese laureate to receive the Nobel Prize in Physiology or Medicine.",
+          "ja": "1987年には、日本人として初めてノーベル生理学・医学賞を受賞しました。"
         },
         {
-          "en": "According to the announcement, the blockade went into effect on the morning of the 15th at 5:00 a.m., Japan Standard Time.",
-          "ja": "発表によると、この海上封鎖は日本時間の15日午前5時から実施されています。"
+          "en": "He was awarded the prestigious prize for his groundbreaking discovery of how the human body produces a diverse array of antibodies to fight off diseases.",
+          "ja": "この名誉ある賞は、人間の体が病気と戦うために多様な「抗体」を作り出す仕組みを解明した画期的な発見に対して贈られました。"
         },
         {
-          "en": "This decisive move comes as retaliatory attacks continue between the two sides, raising tensions in the vital shipping lane.",
-          "ja": "この断固とした措置は、双方による攻撃の応酬が続く中で行われ、極めて重要な海上交通路における緊張を高めています。"
+          "en": "His research solved a long-standing mystery in immunology by showing how our immune system can recognize and target countless different pathogens.",
+          "ja": "彼の研究は、私たちの免疫システムが無数の異なる病原体をどのように認識し攻撃できるのかを示し、免疫学における長年の謎を解き明かしました。"
         },
         {
-          "en": "While international observers closely watch the situation, there are growing concerns over whether this escalation will lead to an end of the conflict or further instability.",
-          "ja": "国際社会が状況を注視する中、この緊張の高まりが戦闘の終結につながるのか、あるいはさらなる不安定化を招くのか、懸念が広がっています。"
+          "en": "Dr. Tonegawa's pioneering work laid the foundation for modern immunology and continues to influence medical research today.",
+          "ja": "利根川博士の先駆的な業績は現代免疫学の基礎を築き、今日の医学研究にも影響を与え続けています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177181000.html",
-      "title": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
-      "title_ja": "W杯準決勝 スペインがフランスを破り決勝へ",
-      "date": "Wed, 15 Jul 2026 06:53:49 +0900",
-      "summary": "Spain defeated France 2-0 in the World Cup semifinals, advancing to the final for the first time in four tournaments, while France missed out on a third consecutive final appearance.",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177261000.html",
+      "title": "W杯 アルゼンチン 2大会連続決勝へ メッシ2アシスト【速報中】",
+      "title_ja": "W杯準決勝、アルゼンチンが逆転勝利で2大会連続の決勝へ",
+      "date": "Thu, 16 Jul 2026 06:47:40 +0900",
+      "summary": "Argentina defeated England 2-1 in a thrilling comeback victory to reach the World Cup final for the second consecutive tournament, ending England's hopes of a historic final appearance.",
       "sentences": [
         {
-          "en": "In the semifinals of the World Cup, Spain defeated France 2-0 to advance to the final.",
-          "ja": "ワールドカップの準決勝で、スペインがフランスを2対0で破り、決勝進出を果たしました。"
+          "en": "In the semifinals of the North American World Cup, Argentina faced off against England in a highly anticipated match.",
+          "ja": "サッカーワールドカップ北中米大会の準決勝で、アルゼンチンとイングランドが注目の一戦に臨みました。"
         },
         {
-          "en": "This marks Spain's first appearance in the tournament's final in four tournaments.",
-          "ja": "スペインが同大会の決勝に進出するのは、4大会ぶりのことです。"
+          "en": "Argentina secured a dramatic 2-to-1 comeback victory to claim their spot in the final.",
+          "ja": "アルゼンチンは2対1で劇的な逆転勝利を収め、決勝への切符を手にしました。"
         },
         {
-          "en": "On the other hand, France's hopes of reaching the final for the third consecutive tournament were shattered.",
-          "ja": "一方、フランスの3大会連続となる決勝進出の夢は絶たれました。"
+          "en": "With this win, Argentina has successfully advanced to the final for the second consecutive tournament.",
+          "ja": "この勝利により、アルゼンチンは2大会連続となる決勝進出を決めました。"
         },
         {
-          "en": "Spain delivered a strong performance during the match, successfully securing their two-goal lead until the end.",
-          "ja": "スペインは試合中、力強いパフォーマンスを見せ、2点リードを最後まで守り抜くことに成功しました。"
+          "en": "On the other hand, England's hopes of reaching the final for the first time in sixty years were shattered.",
+          "ja": "一方、イングランドの60年ぶりとなる決勝進出の夢は、ここで潰えることとなりました。"
         },
         {
-          "en": "Football fans around the world are now eagerly anticipating the final match.",
-          "ja": "世界中のサッカーファンが、今から決勝戦を心待ちにしています。"
+          "en": "Excitement is now building as fans look forward to the upcoming final match.",
+          "ja": "次に控える決勝戦に向けて、ファンの期待はさらに高まっています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176941000.html",
-      "title": "皇室典範改正案 きょう参院で審議入り 与党内で会期延長案も",
-      "title_ja": "皇室典範改正案の審議入りと国会会期延長の動き",
-      "date": "Wed, 15 Jul 2026 05:13:49 +0900",
-      "summary": "The Japanese Diet is starting deliberations on a bill to secure the number of imperial family members. With the session's end approaching on the 17th, the ruling party is considering an extension to pass all remaining bills.",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177931000.html",
+      "title": "きょうも各地で気温上昇 猛烈な暑さに 熱中症対策の徹底を",
+      "title_ja": "各地で猛烈な暑さ、北海道では大雨による土砂災害に警戒",
+      "date": "Thu, 16 Jul 2026 06:44:16 +0900",
+      "summary": "Extreme heat is expected to continue across most of Japan on the 16th, while heavy rain in Hokkaido brings a high risk of landslides.",
       "sentences": [
         {
-          "en": "In the Japanese Diet, deliberations are set to begin on the 15th regarding a bill to amend the Imperial House Law.",
-          "ja": "国会では15日、皇室典範の改正案に関する審議が始まる予定です。"
+          "en": "Temperatures are expected to rise across northern to western Japan on the 16th, bringing another day of extreme heat.",
+          "ja": "16日も北日本から西日本の各地で気温が上がり、猛烈な暑さとなる見込みです。"
         },
         {
-          "en": "This proposed amendment aims to secure a stable number of imperial family members for the future.",
-          "ja": "この改正案は、将来にわたり安定的な皇族の数を確保することを目指しています。"
+          "en": "Please take thorough precautions against heatstroke by using your air conditioner appropriately and staying well hydrated.",
+          "ja": "エアコンを適切に使い、こまめに水分を補給するなど、熱中症対策を徹底してください。"
         },
         {
-          "en": "Discussions on this matter will start in a special committee of the House of Councillors.",
-          "ja": "この問題に関する議論は、参議院の特別委員会で開始されます。"
+          "en": "On the other hand, active rain clouds are developing, particularly over Hokkaido.",
+          "ja": "一方、北海道を中心に発達した雨雲がかかっています。"
         },
         {
-          "en": "However, with the current Diet session scheduled to end on the 17th, time is running short to pass all pending legislation.",
-          "ja": "しかし、現在の国会の会期末が17日に迫る中、未処理の法案をすべて成立させるための時間は残り少なくなっています。"
+          "en": "This weather pattern is increasing the risk of landslides and other natural disasters in the affected regions.",
+          "ja": "この影響により、対象地域では土砂災害などの災害が発生する危険性が高まっています。"
         },
         {
-          "en": "Consequently, some members within the ruling party are proposing an extension of the Diet session.",
-          "ja": "その結果、与党内からは国会の会期を延長する案が浮上しています。"
+          "en": "Be sure to stay updated with the latest weather advisories and prioritize your safety.",
+          "ja": "最新の気象情報を常に確認し、安全確保を最優先にしてください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176981000.html",
-      "title": "富山 新潟 山梨で38度の危険な暑さ予想 東北でも猛烈な暑さに",
-      "title_ja": "東日本から西日本で危険な暑さ、熱中症に警戒呼びかけ",
-      "date": "Wed, 15 Jul 2026 06:11:12 +0900",
-      "summary": "Temperatures are expected to soar across Japan on the 15th, with some areas reaching a dangerous 38 degrees Celsius, prompting warnings to use air conditioning and stay hydrated.",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177891000.html",
+      "title": "皇室典範改正案 与党 会期末の成立図る 会期延長も検討",
+      "title_ja": "皇室典範改正案の成立と会期延長の検討",
+      "date": "Thu, 16 Jul 2026 05:24:46 +0900",
+      "summary": "The Japanese ruling party aims to pass an Imperial House Law amendment by the session's end on the 17th, but is considering extending the Diet session due to delays on other bills.",
       "sentences": [
         {
-          "en": "On the 15th, temperatures are expected to rise significantly across a wide area from eastern to western Japan.",
-          "ja": "15日も、東日本から西日本の広い範囲で気温が大幅に上昇する見込みです。"
+          "en": "The Japanese ruling coalition is currently making final arrangements to pass a key bill before the Diet session ends on the 17th.",
+          "ja": "与党は、国会会期末の17日までに重要法案を成立させるため、現在最終調整を進めています。"
         },
         {
-          "en": "Extremely dangerous heat is forecast, with daytime highs projected to reach 38 degrees Celsius in Toyama, Niigata, and Yamanashi prefectures.",
-          "ja": "富山県や新潟県、山梨県では日中の最高気温が38度と、危険な暑さが予想されています。"
+          "en": "This specific bill aims to amend the Imperial House Law to ensure a stable number of imperial family members in the future.",
+          "ja": "この法案は、将来にわたって皇族数を安定的に確保するための皇室典範改正を目指すものです。"
         },
         {
-          "en": "The Tohoku region is also likely to experience intense heat, with temperatures rising to 35 degrees or higher.",
-          "ja": "東北地方でも気温が35度以上の猛烈な暑さとなる見込みです。"
+          "en": "While the ruling party hopes to pass this amendment on the final day, other legislation is facing delays.",
+          "ja": "与党は最終日にこの改正案を成立させたい考えですが、他の法案については遅れが生じています。"
         },
         {
-          "en": "With these extreme temperatures, the risk of heatstroke is becoming critically high.",
-          "ja": "この厳しい暑さにより、熱中症の危険性が極めて高くなっています。"
+          "en": "In particular, bills related to the \"sub-capital\" concept are not expected to be passed by the 17th.",
+          "ja": "特に、「副首都」構想に関連する法案などは、17日までに成立するめどが立っていません。"
         },
         {
-          "en": "Authorities advise everyone to use air conditioning appropriately and drink plenty of water throughout the day.",
-          "ja": "エアコンを適切に使用し、一日を通して十分に水分を補給するよう呼びかけられています。"
-        },
-        {
-          "en": "It is also recommended to avoid going outdoors during the hottest hours of the day if possible.",
-          "ja": "また、可能であれば日中の最も暑い時間帯の外出を避けることが推奨されます。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177161000.html",
-      "title": "山口北部や島根西部の一部にレベル4高潮危険警報 厳重警戒を",
-      "title_ja": "台風9号の影響：山口県と島根県に高潮警報",
-      "date": "Wed, 15 Jul 2026 02:19:32 +0900",
-      "summary": "Due to the influence of Typhoon No. 9, high tide levels are expected in Yamaguchi and Shimane prefectures, prompting authorities to issue a Level 4 Storm Surge Danger Warning.",
-      "sentences": [
-        {
-          "en": "Typhoon No. 9 is currently moving near the Korean Peninsula, bringing severe weather conditions to parts of Japan.",
-          "ja": "台風9号は現在、朝鮮半島付近を進んでおり、日本の一部地域に荒天をもたらしています。"
-        },
-        {
-          "en": "Due to the influence of the typhoon, tide levels are expected to rise significantly in northern Yamaguchi Prefecture and western Shimane Prefecture until early afternoon on the 15th.",
-          "ja": "台風の影響により、山口県北部や島根県西部の一部地域では、15日の昼過ぎにかけて潮位が大幅に上昇する見込みです。"
-        },
-        {
-          "en": "In response to this threat, local meteorological observatories have issued a Level 4 Storm Surge Danger Warning.",
-          "ja": "この危険に対応するため、地元の気象台などはレベル4の高潮危険警報を発表しました。"
-        },
-        {
-          "en": "Residents living near coastal areas and river mouths are urged to stay on high alert for potential flooding.",
-          "ja": "海岸や川の河口付近に住む住民は、浸水への厳重な警戒が呼びかけられています。"
-        },
-        {
-          "en": "Please keep a close eye on the latest weather updates and prioritize your safety during this time.",
-          "ja": "最新の気象情報に細心の注意を払い、この期間中は安全を最優先に確保してください。"
+          "en": "As a result, lawmakers are now considering extending the current Diet session to allow more time for discussion.",
+          "ja": "その結果、与党内では十分な審議時間を確保するために、現在の国会会期を延長する方向で検討が進められています。"
         }
       ]
     }
@@ -153,304 +120,326 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176891000.html",
-        "title": "【動画】Pickup NEWS（7月15日）",
-        "title_ja": "1分でわかる最新ニュース動画",
-        "date": "Wed, 15 Jul 2026 06:41:50 +0900",
-        "summary": "This lesson introduces a quick one-minute video summary of the latest news, designed for busy listeners to catch up on daily events.",
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177861000.html",
+        "title": "精神障害の労災認定1086人 過去最多",
+        "title_ja": "仕事のストレスによる労災認定が過去最多に",
+        "date": "Thu, 16 Jul 2026 06:55:01 +0900",
+        "summary": "A survey by the Japanese government shows that a record-high 1,086 people were recognized for workers' compensation due to work-related mental disorders last fiscal year.",
         "sentences": [
           {
-            "en": "We bring you a quick summary of the latest news in a one-minute video format.",
-            "ja": "これまでに入っている最新のニュースを、1分間の動画にまとめてお伝えします。"
+            "en": "According to a survey by Japan's Ministry of Health, Labour and Welfare, a record-high 1,086 people were recognized for workers' compensation due to mental disorders like depression last fiscal year.",
+            "ja": "厚生労働省の調査によると、昨年度、うつ病などの精神障害で労災と認められた人は1,086人と、これまでで最も多くなりました。"
           },
           {
-            "en": "This program is designed to help you catch up on the day's major events efficiently.",
-            "ja": "この番組は、その日の主要な出来事を効率よく把握できるように設計されています。"
+            "en": "This rise is attributed to intense stress experienced in the workplace.",
+            "ja": "この増加は、仕事上の強いストレスが原因であると考えられています。"
           },
           {
-            "en": "We cover a wide range of topics, including politics, economy, and local community stories.",
-            "ja": "政治、経済、そして地域のニュースなど、幅広いトピックをカバーしています。"
+            "en": "The survey shows that the most common causes of mental distress include power harassment and drastic changes in work volume.",
+            "ja": "調査によると、精神的苦痛の最も一般的な原因には、パワーハラスメントや仕事量の急激な変化などが含まれています。"
           },
           {
-            "en": "Please note that this video content may not be available on some data broadcasting services.",
-            "ja": "なお、一部のデータ放送サービスでは動画をご覧いただけない場合がありますのでご注意ください。"
+            "en": "In response, the ministry is urging companies to establish more effective support systems for their employees.",
+            "ja": "これを受けて、同省は企業に対し、従業員のためのより効果的な支援体制を整えるよう促しています。"
           },
           {
-            "en": "We hope this quick update helps you stay informed during your busy day.",
-            "ja": "忙しい一日の合間に、この簡単な最新情報が皆様の情報収集のお役に立てば幸いです。"
+            "en": "Experts emphasize that promoting a healthy work-life balance is crucial for preventing such issues.",
+            "ja": "専門家は、こうした問題を防ぐためには健康的なワークライフバランスを推進することが極めて重要だと強調しています。"
+          },
+          {
+            "en": "As mental health awareness grows, improving workplace conditions remains a key challenge for Japanese society.",
+            "ja": "メンタルヘルスへの意識が高まる中、職場環境の改善は日本社会にとって重要な課題であり続けています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176981000.html",
-        "title": "富山 新潟 山梨で38度の危険な暑さ予想 東北でも猛烈な暑さに",
-        "title_ja": "東日本と西日本で危険な暑さ、熱中症に警戒を",
-        "date": "Wed, 15 Jul 2026 06:11:12 +0900",
-        "summary": "Extremely high temperatures are expected across wide areas of Japan on the 15th, prompting authorities to urge the public to use air conditioning and prevent heatstroke.",
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177931000.html",
+        "title": "きょうも各地で気温上昇 猛烈な暑さに 熱中症対策の徹底を",
+        "title_ja": "各地で猛暑と熱中症への警戒、北海道では大雨の恐れ",
+        "date": "Thu, 16 Jul 2026 06:44:16 +0900",
+        "summary": "Extreme heat continues across northern to western Japan, prompting warnings for heatstroke, while active rain clouds bring threats of landslides to Hokkaido.",
         "sentences": [
           {
-            "en": "On the 15th, temperatures are rising across a wide area from eastern to western Japan.",
-            "ja": "15日も、東日本から西日本の広い範囲で気温が上昇しています。"
+            "en": "On the 16th, temperatures are expected to rise across wide areas from northern to western Japan, bringing another day of intense heat.",
+            "ja": "16日も、北日本から西日本の広い範囲で気温が上昇し、再び猛烈な暑さとなる見込みです。"
           },
           {
-            "en": "Dangerous heat is expected, with daytime highs projected to reach 38 degrees Celsius in Toyama, Niigata, and Yamanashi Prefectures.",
-            "ja": "日中の最高気温は富山県や新潟県、山梨県で38度と、危険な暑さが予想されています。"
+            "en": "People are being urged to take strict precautions against heatstroke to protect themselves.",
+            "ja": "身を守るため、熱中症への対策を徹底するよう強く呼びかけられています。"
           },
           {
-            "en": "Even in the Tohoku region, intense heat of over 35 degrees Celsius is anticipated.",
-            "ja": "東北地方でも、35度以上の猛烈な暑さとなる見込みです。"
+            "en": "It is highly recommended to use air conditioning properly and to stay hydrated by drinking water frequently.",
+            "ja": "エアコンを適切に使い、こまめに水分を補給することが強く推奨されています。"
           },
           {
-            "en": "To stay safe in these extreme conditions, it is crucial to take proper precautions against heatstroke.",
-            "ja": "この厳しい状況の中で安全に過ごすためには、適切な熱中症対策をとることが極めて重要です。"
+            "en": "In contrast to the extreme heat, active rain clouds are developing mainly over Hokkaido.",
+            "ja": "この猛烈な暑さとは対照的に、北海道を中心に発達した雨雲が広がっています。"
           },
           {
-            "en": "Authorities strongly advise people to use air conditioning appropriately and drink plenty of water.",
-            "ja": "関係機関は、エアコンを適切に使用し、水分を十分に補給するよう強く呼びかけています。"
-          },
-          {
-            "en": "Please try to avoid going outdoors during the hottest times of the day unless it is absolutely necessary.",
-            "ja": "日中の最も暑い時間帯は、不要不急の外出を避けるようにしてください。"
+            "en": "Residents in these northern areas should remain on high alert for heavy rain and potential landslides.",
+            "ja": "これらの北日本地域の住民は、大雨や土砂災害の危険に対して厳重に警戒する必要があります。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176371000.html",
-        "title": "福岡県議会 中尾副議長が会見 金銭授受を改めて否定",
-        "title_ja": "福岡県議会の議長ポストをめぐる金銭授受疑惑",
-        "date": "Tue, 14 Jul 2026 19:17:08 +0900",
-        "summary": "A political dispute has risen in the Fukuoka Prefectural Assembly over bribery allegations regarding the speaker's post, involving a reported 10 million yen demand and an audio recording.",
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177691000.html",
+        "title": "博多祇園山笠 「追い山笠」で祭りを締めくくる",
+        "title_ja": "博多祇園山笠、クライマックスの「追い山」で閉幕",
+        "date": "Thu, 16 Jul 2026 06:09:49 +0900",
+        "summary": "The historic Hakata Gion Yamakasa festival in Fukuoka reached its climax on July 15th with the thrilling \"Oiyamakasa\" race, wrapping up the annual summer event.",
         "sentences": [
           {
-            "en": "A major political dispute has emerged in the Fukuoka Prefectural Assembly over allegations of bribery regarding the position of assembly speaker.",
-            "ja": "福岡県議会の議長ポストをめぐり、金銭授受の疑いについて大きな政治的対立が生じています。"
+            "en": "The Hakata Gion Yamakasa, a traditional summer festival in Fukuoka, reached its climax on July 15th with the final \"Oiyamakasa\" event.",
+            "ja": "福岡の伝統的な夏祭りである「博多祇園山笠」は、7月15日にフィナーレを飾る「追い山笠」が行われ、クライマックスを迎えました。"
           },
           {
-            "en": "The conflicting parties disagree on whether any money actually changed hands.",
-            "ja": "金銭の授受が本当にあったかどうかについて、当事者たちの主張は真っ向から対立しています。"
+            "en": "During this grand finale, massive wooden floats called \"Kakiyamakasa\" raced powerfully through the streets of Hakata.",
+            "ja": "このフィナーレでは、「舁き山笠」と呼ばれる巨大な木製の山笠が、博多の街を勇壮に駆け抜けました。"
           },
           {
-            "en": "On the afternoon of the 14th, Vice Speaker Masayuki Nakao held a press conference regarding the matter.",
-            "ja": "14日午後、中尾正幸副議長はこの問題に関して記者会見を行いました。"
+            "en": "This festival boasts a rich history of over 780 years and is designated as an important intangible folk cultural property of Japan.",
+            "ja": "このお祭りは780年以上の歴史を誇り、国の重要無形民俗文化財にも指定されています。"
           },
           {
-            "en": "The issue involves allegations that Assemblyman Motoaki Yoshimatsu was demanded to pay 10 million yen.",
-            "ja": "この問題は、吉松源昭議員が1000万円を支払うよう要求されたという疑惑に関連しています。"
+            "en": "Teams of local men carried the heavy floats on their shoulders, running a set course at full speed while being splashed with water to cool down.",
+            "ja": "地元の男性たちのグループが重い山笠を肩にかつぎ、勢い水を浴びせられながら、決められたコースを全力で走り抜けました。"
           },
           {
-            "en": "An audio recording reportedly exists, which Yoshimatsu allegedly made when he was asked for the money.",
-            "ja": "吉松議員がその金を要求された際に録音したとされる、音声データが存在するとされています。"
-          },
-          {
-            "en": "Public attention is now focused on whether this recording will clarify the truth behind the allegations.",
-            "ja": "疑惑の真相を明らかにするために、この音声データがどのような役割を果たすのかに世間の注目が集まっています。"
+            "en": "Many spectators gathered early in the morning to cheer on the runners and experience the dynamic energy of this historic event.",
+            "ja": "多くの見物客が早朝から集まり、走る男たちに声援を送り、この歴史ある行事のダイナミックなエネルギーを体感しました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176351000.html",
-        "title": "中古スマホ販売台数 過去最高更新 新品スマホの価格上昇背景に",
-        "title_ja": "中古スマホの販売台数、7年連続で過去最高を更新",
-        "date": "Tue, 14 Jul 2026 18:46:06 +0900",
-        "summary": "Sales of used smartphones in Japan have reached a record high of over 3.6 million units, marking the seventh consecutive year of growth. Rising prices of new smartphones due to inflation and the weak yen are driving consumers toward the secondhand market.",
+        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177511000.html",
+        "title": "世帯平均所得7.3％増も 生活「苦しい」は55.4％ 厚労省調査",
+        "title_ja": "平均所得は増加も、半数以上の世帯が「生活が苦しい」と回答",
+        "date": "Wed, 15 Jul 2026 17:11:37 +0900",
+        "summary": "A survey by Japan's health ministry reveals that while average household income rose by 7.3% two years ago, over 55% of households still report that their daily lives are difficult.",
         "sentences": [
           {
-            "en": "According to a recent report by a private research company, sales of used smartphones in Japan have reached a record high.",
-            "ja": "民間調査会社の最近の報告によると、日本国内における中古スマートフォンの販売台数が過去最高を記録しました。"
+            "en": "According to a survey by the Ministry of Health, Labour and Welfare, there is a stark contrast between rising household incomes and the actual living conditions of people in Japan.",
+            "ja": "厚生労働省が実施した調査によると、世帯所得の上昇と日本国民の実際の生活状況との間には大きなギャップがあることが分かりました。"
           },
           {
-            "en": "MM Research Institute revealed that more than 3.6 million used devices were sold, marking the seventh consecutive year of growth.",
-            "ja": "MM総研の発表によると、360万台以上の中古端末が販売され、7年連続で過去最高を更新しました。"
+            "en": "The survey revealed that the average income per household increased by 7.3% two years ago compared to the previous year.",
+            "ja": "同調査では、一世帯あたりの平均所得がおととし、その前年に比べて7.3%増加したことが明らかになりました。"
           },
           {
-            "en": "A major driving force behind this trend is the rising price of brand-new smartphones.",
-            "ja": "この傾向の大きな原動力となっているのは、新品スマートフォンの価格高騰です。"
+            "en": "However, this financial growth has not translated into a sense of wealth for many families.",
+            "ja": "しかし、この経済的な伸びは、多くの世帯にとって豊かさの実感にはつながっていません。"
           },
           {
-            "en": "Due to the weak yen and increasing material costs, the latest models have become less affordable for many consumers.",
-            "ja": "円安や原材料費の上昇により、最新モデルは多くの消費者にとって手が届きにくくなっています。"
+            "en": "In fact, a staggering 55.4% of the surveyed households reported that their daily lives are \"difficult.\"",
+            "ja": "実際、調査対象となった世帯の55.4%にのぼる人々が、日々の生活について「苦しい」と回答しています。"
           },
           {
-            "en": "As a result, more people are choosing high-quality used phones as a practical and budget-friendly alternative.",
-            "ja": "その結果、実用的で予算に優しい選択肢として、高品質な中古スマートフォンを選ぶ人が増えています。"
-          },
-          {
-            "en": "Furthermore, the growing availability of warranties and certified refurbished devices is boosting consumer confidence.",
-            "ja": "さらに、保証制度や認定整備済製品の普及が進んでいることも、消費者の安心感を高めています。"
-          },
-          {
-            "en": "Experts predict that the demand for secondhand smartphones will continue to expand in the future.",
-            "ja": "専門家は、中古スマートフォンの需要は今後も拡大し続けると予測しています。"
+            "en": "These results highlight the ongoing challenges that households face, even as official economic statistics show some improvement.",
+            "ja": "この結果は、公式の経済統計に改善が見られる一方で、各世帯が直面し続けている生活の厳しさを浮き彫りにしています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176901000.html",
-        "title": "きょう 第175回芥川賞・直木賞の選考会 候補作の詳細も",
-        "title_ja": "第175回芥川賞・直木賞の選考会が15日に開催へ",
-        "date": "Wed, 15 Jul 2026 06:18:23 +0900",
-        "summary": "The selection committee for the 175th Akutagawa and Naoki Prizes will meet on the 15th to choose the winners from a list of highly anticipated literary works.",
+        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177271000.html",
+        "title": "小型ロケット「イプシロンS」今月23日燃焼試験へ JAXA",
+        "title_ja": "イプシロンS、今月23日に燃焼試験へ",
+        "date": "Wed, 15 Jul 2026 11:33:34 +0900",
+        "summary": "JAXA has announced a combustion test for the Epsilon S rocket on the 23rd of this month at the Tanegashima Space Center. Despite previous development delays, they still aim for a launch within this fiscal year.",
         "sentences": [
           {
-            "en": "The selection committee for the 175th Akutagawa and Naoki Prizes is scheduled to meet on the 15th to decide this year's winners.",
-            "ja": "第175回芥川賞・直木賞の選考会が15日に開催され、今回の受賞作が決定されます。"
+            "en": "The Japan Aerospace Exploration Agency, or JAXA, has announced a key step forward for its new small-sized rocket, the Epsilon S.",
+            "ja": "宇宙航空研究開発機構（JAXA）は、新型の小型ロケット「イプシロンS」の開発に向けた重要な一歩を発表しました。"
           },
           {
-            "en": "These prestigious awards are held twice a year and recognize outstanding achievements in Japanese literature.",
-            "ja": "年に2回開催されるこれらの権威ある賞は、日本文学における優れた業績を称えるものです。"
+            "en": "The development of this next-generation rocket has faced several difficult challenges and delays.",
+            "ja": "この次世代ロケットの開発は、これまでいくつかの困難な課題や遅れに直面してきました。"
           },
           {
-            "en": "For the Akutagawa Prize, several notable works have been nominated, drawing significant attention from literary enthusiasts.",
-            "ja": "芥川賞の候補には、文学ファンから大きな注目を集めているいくつかの話題作がノミネートされています。"
+            "en": "To move the project forward, JAXA plans to conduct a crucial engine combustion test on the 23rd of this month.",
+            "ja": "プロジェクトを前進させるため、JAXAは今月23日に重要なエンジン燃焼試験を行う計画です。"
           },
           {
-            "en": "The nominees include Chito Kosagakawa's 'Zombie Recovery Woman' and Suzumi Suzuki's 'Bad Blood.'",
-            "ja": "候補作には、小砂川チトさんの「ゾンビ回収婦」や、鈴木涼美さんの「悪い血」などが含まれています。"
+            "en": "This critical ground test will take place at the Tanegashima Space Center in Kagoshima Prefecture.",
+            "ja": "この極めて重要な地上試験は、鹿児島県の種子島宇宙センターで実施されます。"
           },
           {
-            "en": "Other works in the running are Ren Nishina's 'Tanshin' and Yu Muraji's 'Solitaire Ojisan.'",
-            "ja": "また、仁科斂さんの「丹心」や、村司侑さんの「ソリティアおじさん」も候補に挙がっています。"
-          },
-          {
-            "en": "Book lovers across Japan are eagerly waiting to see which talented writers will take home the honors this time.",
-            "ja": "日本全国の本の愛好家たちが、今回はどの才能ある作家が栄冠を手にするのかを熱心に見守っています。"
+            "en": "With successful test results, JAXA aims to carry out the rocket's highly anticipated launch by the end of this fiscal year.",
+            "ja": "試験が成功すれば、JAXAは今年度中にこの期待されるロケットの打ち上げを行うことを目指しています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176971000.html",
-        "title": "政府 ナフサの供給対策検討 イラン情勢による流通影響受け",
-        "title_ja": "イラン緊迫化に伴うナフサ供給への影響と政府の対策",
-        "date": "Wed, 15 Jul 2026 06:42:52 +0900",
-        "summary": "Following disruptions in the supply of naphtha-based chemical products due to rising tensions in Iran, the Japanese government has begun discussing measures to ensure a stable domestic supply.",
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178041000.html",
+        "title": "旧安倍派が会合 80人余り出席 “安倍元首相の遺志受け継ぐ”",
+        "title_ja": "旧安倍派の国会議員ら80人余りが都内で会合、安倍元首相の遺志継承を確認",
+        "date": "Thu, 16 Jul 2026 06:53:12 +0900",
+        "summary": "More than 80 lawmakers from the LDP's former Abe faction met in Tokyo to reaffirm their commitment to carrying on the legacy of former Prime Minister Shinzo Abe.",
         "sentences": [
           {
-            "en": "Due to rising tensions in Iran, the distribution of chemical products derived from naphtha has been affected.",
-            "ja": "イラン情勢の緊迫化により、ナフサに由来する化学製品の流通に影響が出ています。"
+            "en": "On the evening of July 15th, more than 80 lawmakers from the Liberal Democratic Party's former Abe faction held a meeting in Tokyo.",
+            "ja": "7月15日の夜、自民党の旧安倍派に所属していた80人以上の国会議員が東京都内で会合を開きました。"
           },
           {
-            "en": "In response to this situation, the government has begun discussing measures to ensure a stable supply in the future.",
-            "ja": "この事態を受けて、政府は今後の安定供給に向けた対策の検討を始めました。"
+            "en": "During the gathering, the participants confirmed their commitment to carrying on the legacy and wishes of the late Prime Minister Shinzo Abe.",
+            "ja": "会合の中で出席者たちは、亡くなった安倍晋三元総理大臣の遺志を受け継いでいくことを確認しました。"
           },
           {
-            "en": "Naphtha is a vital raw material used to make many everyday items, including plastics and synthetic materials.",
-            "ja": "ナフサは、プラスチックや合成材料など、多くの身の回りの品を作るために欠かせない原材料です。"
+            "en": "This meeting took place as July 8th marked two years since Mr. Abe was tragically shot and killed.",
+            "ja": "この会合は、安倍氏が銃撃されて亡くなってから今月の8日で2年を迎えたことに合わせて開かれました。"
           },
           {
-            "en": "However, securing a steady supply is challenging because naphtha itself is difficult to store for long periods.",
-            "ja": "しかし、ナフサそのものは長期の保管が難しいという特性があるため、安定確保には課題があります。"
+            "en": "Despite the faction's recent dissolution following a political fundraising scandal, many former members gathered to show their continued solidarity.",
+            "ja": "政治資金問題をめぐって派閥が事実上の解散となった後ですが、多くの旧メンバーが集まり、引き続き結束している様子を示しました。"
           },
           {
-            "en": "Keeping these difficult characteristics in mind, the government plans to explore options like domestic stockpiling.",
-            "ja": "こうした特性も踏まえつつ、政府は国内での備蓄などの対策についても検討を進める方針です。"
+            "en": "Attendees expressed their determination to work together and address the various challenges currently facing Japan.",
+            "ja": "参加者たちは、一致団結して日本が現在直面している様々な課題に取り組んでいく決意を表明しました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176941000.html",
-        "title": "皇室典範改正案 きょう参院で審議入り 与党内で会期延長案も",
-        "title_ja": "皇族数確保の法案審議と国会会期延長の動き",
-        "date": "Wed, 15 Jul 2026 05:13:49 +0900",
-        "summary": "The Japanese Diet will begin deliberating a bill to secure the number of Imperial Family members, while the ruling party considers extending the legislative session to pass all remaining bills.",
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177901000.html",
+        "title": "消費税減税「国民会議」中間とりまとめで方向性出せるか不透明",
+        "title_ja": "食料品減税をめぐる国民会議の議論、高市首相が見解を示す",
+        "date": "Thu, 16 Jul 2026 06:14:59 +0900",
+        "summary": "Prime Minister Takaichi stated that legislative work for grocery tax cuts could be completed in time if a cross-party council reaches a consensus by early next month, despite significant differences in party opinions.",
         "sentences": [
           {
-            "en": "In the Japanese Diet, a key debate is set to begin regarding the future of the Imperial Family.",
-            "ja": "国会では、皇室の未来に関する重要な議論が始まろうとしています。"
+            "en": "Prime Minister Takaichi has commented on the ongoing debate regarding the reduction of consumption tax on groceries.",
+            "ja": "高市総理大臣は、食料品の消費税減税をめぐる議論について見解を示しました。"
           },
           {
-            "en": "On June 15th, a special committee in the House of Councillors will start deliberating a proposed amendment to the Imperial House Law.",
-            "ja": "15日には、参議院の特別委員会で、皇族数の確保に向けた皇室典範改正案の審議が始まります。"
+            "en": "She stated that if a cross-party \"National Council\" can reach a consensus by early next month, the legislative work will be completed in time.",
+            "ja": "首相は、超党派の「国民会議」が来月はじめごろまでに合意に達すれば、法制化に向けた準備作業は間に合うとの考えを示しました。"
           },
           {
-            "en": "This amendment aims to address the shrinking number of Imperial Family members to ensure their stable future.",
-            "ja": "この改正案は、皇族数の減少に対処し、将来の安定を確保することを目的としています。"
+            "en": "However, there is still a significant gap in opinions among the political parties participating in the council.",
+            "ja": "しかし、国民会議に参加する各政党の間には、依然として大きな意見の隔たりがあります。"
           },
           {
-            "en": "Meanwhile, the current Diet session is scheduled to end very soon, on June 17th.",
-            "ja": "一方、現在の国会会期は、間もなく17日に終了する予定となっています。"
+            "en": "Some members argue that the tax cut is essential to support households struggling with rising prices.",
+            "ja": "一部のメンバーは、物価高に苦しむ世帯を支援するために減税は不可欠だと主張しています。"
           },
           {
-            "en": "With the deadline approaching, some members of the ruling coalition are proposing to extend the session.",
-            "ja": "会期末が迫る中、与党内からは会期を延長する案が出ています。"
+            "en": "Others express concern about the potential drop in tax revenue and its impact on social security funding.",
+            "ja": "一方で、税収の減少や、社会保障財源への影響を懸念する声もあります。"
           },
           {
-            "en": "An extension would provide lawmakers with enough time to pass all remaining bills, including the Imperial House Law amendment.",
-            "ja": "会期延長が実現すれば、皇室典範改正案を含む、残るすべての法案を成立させるための十分な時間が確保されることになります。"
+            "en": "The government plans to carefully monitor the discussions to see if a compromise can be achieved.",
+            "ja": "政府は、妥協点が見出せるかどうか、今後の議論を慎重に見守る方針です。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176951000.html",
-        "title": "国内のEV乗用車の販売台数 前年同期比2倍余増 1月～6月",
-        "title_ja": "国内のEV販売台数が急増、前年同期比2倍以上に",
-        "date": "Wed, 15 Jul 2026 06:44:23 +0900",
-        "summary": "EV passenger car sales in Japan more than doubled to around 60,000 units in the first half of this year, driven by new model releases and increased government subsidies.",
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177941000.html",
+        "title": "米FRB経済報告 イラン情勢影響で物価は全体として緩やかに上昇",
+        "title_ja": "FRB最新経済報告：イラン情勢によるエネルギー価格上昇で物価は緩やかに上昇",
+        "date": "Thu, 16 Jul 2026 06:18:39 +0900",
+        "summary": "The US Federal Reserve's latest economic report shows that overall prices have risen moderately, driven partly by higher energy costs linked to the situation in Iran.",
         "sentences": [
           {
-            "en": "Electric vehicle sales in Japan have seen a significant increase during the first half of this year.",
-            "ja": "今年前半、日本国内における電気自動車（EV）の販売台数が大幅に増加しました。"
+            "en": "The US Federal Reserve has released its latest economic report, commonly known as the Beige Book.",
+            "ja": "アメリカの連邦準備制度理事会（FRB）は、ベージュブックとして知られる最新の地域経済報告を公開しました。"
           },
           {
-            "en": "Around 60,000 electric passenger cars were sold in the country through June, which is more than double the number from the same period last year.",
-            "ja": "6月までの半年間に国内で販売されたEVの乗用車は約6万台にのぼり、前年の同じ時期の2倍以上に急増しました。"
+            "en": "According to the report, overall prices across the nation have continued to rise at a moderate pace.",
+            "ja": "報告書によると、全米の物価は全体として緩やかなペースで上昇し続けています。"
           },
           {
-            "en": "Industry experts point to two major factors driving this impressive growth in the Japanese market.",
-            "ja": "業界の専門家は、日本市場におけるこの目覚ましい成長を後押しした2つの主な要因を指摘しています。"
+            "en": "A key factor behind this trend is the rise in energy prices, driven by ongoing tensions in Iran.",
+            "ja": "この傾向の背景にある主な要因は、緊迫するイラン情勢を背景としたエネルギー価格の上昇です。"
           },
           {
-            "en": "First, various automakers have introduced a wider range of attractive new EV models to appeal to consumers.",
-            "ja": "1つ目は、自動車メーカー各社が消費者にアピールするため、魅力的な新型EVを幅広く投入したことです。"
+            "en": "The report is based on information collected from twelve Federal Reserve Districts across the country.",
+            "ja": "この報告書は、全米の12の地区連邦準備銀行から集められた情報に基づいています。"
           },
           {
-            "en": "Second, the government's decision to increase subsidies for EV purchases has made these eco-friendly cars more affordable.",
-            "ja": "2つ目は、政府がEV購入への補助金を引き上げたことで、これらの環境に優しい車がより手頃な価格になったことです。"
+            "en": "While consumer spending showed mixed results, most regions reported slight to moderate economic growth.",
+            "ja": "個人消費にはばらつきが見られたものの、ほとんどの地域で緩やかな景気拡大が報告されました。"
           },
           {
-            "en": "With these supportive measures and new choices, the shift toward electric mobility in Japan is expected to gain further momentum.",
-            "ja": "これらの支援策と新たな選択肢により、日本における電動化への移行は今後さらに加速すると期待されています。"
+            "en": "Policymakers will closely monitor these inflation trends as they decide on future interest rate decisions.",
+            "ja": "政策立案者たちは、今後の金利判断を下すにあたり、こうしたインフレの動向を注意深く見守ることになります。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176971000.html",
-        "title": "政府 ナフサの供給対策検討 イラン情勢による流通影響受け",
-        "title_ja": "イラン情勢緊迫化に伴うナフサ安定供給対策",
-        "date": "Wed, 15 Jul 2026 06:42:52 +0900",
-        "summary": "The Japanese government is considering measures to ensure a stable supply of naphtha-derived chemical products, which have been impacted by rising tensions in Iran.",
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
+        "title": "ニチレイ サイバー攻撃 影響の広がりや原因究明など焦点",
+        "title_ja": "ニチレイにサイバー攻撃、外食や流通に影響広がる",
+        "date": "Thu, 16 Jul 2026 05:32:07 +0900",
+        "summary": "Major Japanese frozen food producer Nichirei suffered a cyberattack, causing system failures that have affected restaurant chains, major retailers, and delivery services.",
         "sentences": [
           {
-            "en": "Due to rising tensions in Iran, the distribution of chemical products derived from naphtha has been affected.",
-            "ja": "イラン情勢の緊迫化により、ナフサに由来する化学製品の流通に影響が出ています。"
+            "en": "Major Japanese frozen food company Nichirei has suffered a system failure due to a cyberattack.",
+            "ja": "冷凍食品大手のニチレイは、サイバー攻撃によるシステム障害に見舞われました。"
           },
           {
-            "en": "In response, the Japanese government has started discussing measures to ensure a stable supply in the future.",
-            "ja": "これを受けて、政府は今後の安定供給を確保するための対策の検討を始めました。"
+            "en": "The impact of this system disruption is spreading to various sectors.",
+            "ja": "このシステム障害の影響は、さまざまな分野に広がっています。"
           },
           {
-            "en": "Naphtha is a crucial raw material used to produce a wide range of plastics and daily goods.",
-            "ja": "ナフサは、幅広いプラスチック製品や日用品を製造するために使用される極めて重要な原材料です。"
+            "en": "Affected companies include major restaurant chains, large retailers, and home delivery services.",
+            "ja": "影響を受けている企業には、外食チェーンや流通大手、宅配サービスなどが含まれます。"
           },
           {
-            "en": "However, securing a stable supply is challenging because naphtha itself is difficult to store over long periods.",
-            "ja": "しかし、ナフサそのものは長期保管が難しいという特性があるため、安定した供給を維持することは容易ではありません。"
+            "en": "Nichirei stated that they plan to gradually resume operations starting from the 17th.",
+            "ja": "ニチレイは、17日から順次、業務を再開する予定であると発表しました。"
           },
           {
-            "en": "The government is now exploring ways to address this issue, including reviewing domestic stockpiling methods.",
-            "ja": "政府は現在、国内での備蓄方法の見直しを含め、この課題に対処するための方法を模索しています。"
+            "en": "The company is currently investigating the full extent of the damage caused by the attack.",
+            "ja": "同社は現在、今回の攻撃による被害の全容について調査を進めています。"
+          },
+          {
+            "en": "This incident highlights the growing threat of cyberattacks on major logistics and supply chains.",
+            "ja": "今回の出来事は、主要な物流やサプライチェーンに対するサイバー攻撃の脅威が高まっていることを浮き彫りにしています。"
           }
         ]
       }
     ],
-    "国際": [],
+    "国際": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178051000.html",
+        "title": "ウクライナ軍の無人システム部隊 「影の船団」136隻を攻撃",
+        "title_ja": "ウクライナ軍がロシアの「影の船団」を攻撃、海上作戦を強化",
+        "date": "Thu, 16 Jul 2026 06:56:20 +0900",
+        "summary": "A Ukrainian commander claims that their forces have attacked over 130 'shadow fleet' ships transporting sanctioned Russian oil and gas, using aerial and maritime drones.",
+        "sentences": [
+          {
+            "en": "The Ukrainian military is intensifying its maritime operations to disrupt Russia's energy exports.",
+            "ja": "ウクライナ軍は、ロシアのエネルギー輸出を阻止するため、海上での軍事作戦を強化しています。"
+          },
+          {
+            "en": "A Ukrainian commander recently claimed that their forces have attacked more than 130 vessels.",
+            "ja": "ウクライナの司令官は最近、自国軍が130隻以上の船舶を攻撃したと主張しました。"
+          },
+          {
+            "en": "These targeted ships are part of the so-called \"shadow fleet,\" which transports sanctioned Russian oil and gas.",
+            "ja": "これらの標的となった船は、制裁対象となっているロシア産の石油やガスを運ぶ、いわゆる「影の船団」の一部です。"
+          },
+          {
+            "en": "To carry out these high-stakes operations, Ukraine is heavily relying on modern technology.",
+            "ja": "これらの極めて重大な作戦を実行するため、ウクライナは現代のテクノロジーに大きく依存しています。"
+          },
+          {
+            "en": "They are actively utilizing both aerial drones and uncrewed surface vessels to conduct these strikes.",
+            "ja": "彼らはこれらの攻撃を行うために、無人機と無人艇の双方を積極的に活用しています。"
+          },
+          {
+            "en": "This strategy aims to weaken Russia's economic lifeline by targeting its vital maritime trade routes.",
+            "ja": "この戦略は、ロシアの重要な海上貿易ルートを標的にすることで、同国の経済的な生命線を弱体化させることを目的としています。"
+          }
+        ]
+      }
+    ],
     "スポーツ": []
   }
 }
