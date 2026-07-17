@@ -1,155 +1,68 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178691000.html",
-      "title": "皇室典範改正案成立へ 与党 会期延長し「副首都」法案成立図る",
-      "title_ja": "国会会期末と会期延長の方針",
-      "date": "Fri, 17 Jul 2026 05:08:01 +0900",
-      "summary": "The Japanese Diet is approaching the end of its current session, with plans by the ruling party to extend it in order to pass remaining key bills, including those related to the 'sub-capital' concept.",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179731000.html",
+      "title": "改正皇室典範成立で養子迎える手続きなど実務的課題検討 政府",
+      "title_ja": "皇族数確保に向けた政府の具体的検討",
+      "date": "Sat, 18 Jul 2026 05:08:24 +0900",
+      "summary": "The Japanese government plans to examine practical procedures for securing imperial family members, including adopting male descendants from former branches and letting female members retain their status after marriage.",
       "sentences": [
         {
-          "en": "The current Japanese Diet session is approaching its scheduled end on the 17th.",
-          "ja": "現在の日本の国会は、17日に予定されている会期末を迎えようとしています。"
+          "en": "The Japanese government is set to address practical challenges regarding ways to secure a stable number of Imperial Family members.",
+          "ja": "政府は、安定的な皇族数を確保する方法について、実務的な課題の検討を進める方針です。"
         },
         {
-          "en": "Several key bills, including an amendment to the Imperial House Law aimed at securing the number of imperial family members, are expected to be passed.",
-          "ja": "皇族の人数を確保することを目指す皇室典範の改正案など、いくつかの重要な法案が成立する見通しです。"
+          "en": "This comes as discussions progress on allowing current imperial families to adopt male descendants from former imperial branches.",
+          "ja": "これは、現行の皇室が旧皇族の男系男子を養子に迎えることを可能にする議論が進む中での動きです。"
         },
         {
-          "en": "However, some key legislation still remains undecided.",
-          "ja": "しかし、いくつかの重要な法案は依然として未決定のままです。"
+          "en": "Relevant government ministries will soon begin examining the specific administrative procedures required for such adoptions.",
+          "ja": "関係省庁は、こうした養子縁組に必要な具体的な事務手続きについて、間もなく検討を開始します。"
         },
         {
-          "en": "To guarantee the passage of these remaining bills, the ruling party plans to extend the legislative session.",
-          "ja": "これらの残された法案を確実に成立させるため、与党は国会の会期を延長する方針です。"
+          "en": "Another major proposal under consideration is allowing female imperial family members to retain their royal status even after they get married.",
+          "ja": "もう一つの主な提案は、女性皇族が結婚後も皇族としての身分を保持できるようにすることです。"
         },
         {
-          "en": "This includes an important bill related to the \"sub-capital\" concept.",
-          "ja": "これには、「副首都」構想に関連する重要な法案も含まれています。"
+          "en": "Under the current Imperial House Law, female members must leave the imperial family when they marry commoners.",
+          "ja": "現行の皇室典範では、女性皇族は一般の方と結婚する際に皇室を離れることになっています。"
         },
         {
-          "en": "We will see how these political developments unfold in the coming days.",
-          "ja": "これらの政治的な動きが今後数日間でどのように展開するか注目されます。"
+          "en": "The government aims to find a viable solution soon, as the shrinking size of the imperial family has become a pressing concern.",
+          "ja": "皇族数の減少が差し迫った課題となる中、政府は早期に実現可能な解決策を見出すことを目指しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178661000.html",
-      "title": "北日本～西日本で猛暑日 関東甲信など大気の状態不安定",
-      "title_ja": "各地で猛暑日の予想と局地的な大気不安定への警戒",
-      "date": "Fri, 17 Jul 2026 06:02:38 +0900",
-      "summary": "Japan faces extreme heat across wide areas from the north to the west, while unstable atmospheric conditions may bring sudden heavy rain to regions like Kanto-Koshin.",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179721000.html",
+      "title": "国会の会期延長 「副首都」構想法案の行方が焦点に",
+      "title_ja": "国会会期延長と「副首都」構想法案を巡る攻防",
+      "date": "Sat, 18 Jul 2026 05:00:03 +0900",
+      "summary": "Following the extension of the Japanese Diet session, the ruling party is pushing to pass a 'vice-capital' bill, while opposition parties criticize it as highly problematic.",
       "sentences": [
         {
-          "en": "On the 17th, extremely hot days are expected across wide areas of Japan, from the north to the west.",
-          "ja": "17日も、北日本から西日本の広い範囲で猛暑日が予想されています。"
+          "en": "Following the decision to extend the current Diet session until next week, on the 25th, political tensions are rising in Japan.",
+          "ja": "国会の会期が来週25日まで延長されたことを受けて、国内の政治的緊張が高まっています。"
         },
         {
-          "en": "People are urged to take strict precautions against heatstroke, such as staying hydrated and using air conditioning.",
-          "ja": "水分補給やエアコンの使用など、熱中症への対策を徹底するよう呼びかけられています。"
+          "en": "The ruling coalition is now focusing all its efforts on ensuring the passage of a bill related to the 'vice-capital' concept.",
+          "ja": "与党は現在、「副首都」構想に関連する法案の確実な成立に向けて全力を挙げています。"
         },
         {
-          "en": "At the same time, warm, moist air is flowing into some regions, making the atmosphere highly unstable.",
-          "ja": "一方で、一部の地域には暖かく湿った空気が流れ込んでおり、大気の状態が非常に不安定になっています。"
+          "en": "This proposal aims to designate a secondary city to back up administrative functions in case of emergencies.",
+          "ja": "この構想は、緊急事態の際に行政機能をバックアップする副首都を指定することを目指しています。"
         },
         {
-          "en": "In areas like Kanto-Koshin, this instability could bring sudden, extremely heavy rain and thunderstorms.",
-          "ja": "関東甲信などでは、この不安定な大気の影響により、局地的に非常に激しい雨や雷雨が発生するおそれがあります。"
+          "en": "However, opposition parties have strongly criticized the bill, calling it highly problematic.",
+          "ja": "しかし、野党からはこの法案について「問題の多い法案だ」という批判が相次いでいます。"
         },
         {
-          "en": "Please stay updated with the latest weather advisories and remain cautious of sudden changes in the weather.",
-          "ja": "最新の気象情報に注意し、急な天気の変化に警戒してください。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178791000.html",
-      "title": "ニチレイ きょう業務再開予定 物流網正常化できるかが焦点",
-      "title_ja": "ニチレイ、サイバー攻撃による障害から一部業務を再開へ",
-      "date": "Fri, 17 Jul 2026 06:04:24 +0900",
-      "summary": "Japanese frozen food giant Nichirei is gradually resuming its warehouse and factory operations following a cyberattack that caused major system failures.",
-      "sentences": [
-        {
-          "en": "Major Japanese frozen food company, Nichirei, has been dealing with system failures caused by a recent cyberattack.",
-          "ja": "日本の冷凍食品大手ニチレイは、最近のサイバー攻撃によるシステム障害への対応に追われています。"
+          "en": "They argue that the bill requires much deeper discussion before it can be put to a vote.",
+          "ja": "彼らは、この法案を採決にかける前により深い議論が必要であると主張しています。"
         },
         {
-          "en": "As a key player in the industry, the company plays a major role in logistics, including storing and transporting products for other businesses.",
-          "ja": "同社は業界の主要企業として、他社の製品の保管や運搬など、物流面でも重要な役割を果たしています。"
-        },
-        {
-          "en": "On the 17th, Nichirei decided to resume operations gradually, starting with facilities where safety has been confirmed.",
-          "ja": "ニチレイは17日、安全が確認された倉庫や工場から順次業務を再開させることを決めました。"
-        },
-        {
-          "en": "This decision aims to minimize the impact on the supply chains of various food companies.",
-          "ja": "この決定は、様々な食品会社のサプライチェーンへの影響を最小限に抑えることを目的としています。"
-        },
-        {
-          "en": "The company is continuing its efforts to fully restore all affected systems as quickly as possible.",
-          "ja": "同社は、影響を受けたすべてのシステムをできるだけ早く完全に復旧させるため、取り組みを続けています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178751000.html",
-      "title": "米が6日連続攻撃 イランはバーブルマンデブ海峡封鎖を要請か",
-      "title_ja": "イラン、フーシ派に海峡封鎖の準備を要請か",
-      "date": "Fri, 17 Jul 2026 06:11:51 +0900",
-      "summary": "As U.S. military strikes continue in the region, Reuters reports that Iran has requested Yemen's Houthi rebels to prepare to blockade the strategically important Bab-el-Mandeb Strait.",
-      "sentences": [
-        {
-          "en": "Tensions are rising in the Middle East as the U.S. military continues its daily airstrikes in the region.",
-          "ja": "米軍が同地域への空爆を連日続けるなか、中東での緊張が高まっています。"
-        },
-        {
-          "en": "Amid these ongoing conflicts, Reuters has reported a significant move by Iran.",
-          "ja": "こうした衝突が続くなか、ロイター通信はイランによる重大な動きを報じました。"
-        },
-        {
-          "en": "According to the news agency, Iran has requested the Houthi rebel group in Yemen to prepare for a blockade.",
-          "ja": "同通信によると、イランはイエメンの反政府組織フーシ派に対し、封鎖の態勢をとるよう要請したとのことです。"
-        },
-        {
-          "en": "The target of this potential blockade is the Bab-el-Mandeb Strait, a critical maritime shipping route.",
-          "ja": "この封鎖の標的となっているのは、海上輸送の要衝であるバーブルマンデブ海峡です。"
-        },
-        {
-          "en": "This strait is highly important because it serves as an alternative route to the Strait of Hormuz.",
-          "ja": "この海峡は、ホルムズ海峡の代替ルートとしても機能しているため、極めて重要な意味を持っています。"
-        },
-        {
-          "en": "Experts warn that any blockade there could severely disrupt global trade and energy supplies.",
-          "ja": "専門家は、そこが封鎖されれば世界の貿易やエネルギー供給が深刻な混乱に陥る可能性があると警告しています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015177141000.html",
-      "title": "【地震速報】宮崎県南部平野部 鹿児島県大隅地方で震度3",
-      "title_ja": "宮崎県と鹿児島県で震度3の地震、津波の心配なし",
-      "date": "Fri, 17 Jul 2026 06:54:30 +0900",
-      "summary": "An earthquake with a seismic intensity of 3 struck Miyazaki and Kagoshima prefectures on the morning of the 17th, but there is no threat of a tsunami.",
-      "sentences": [
-        {
-          "en": "An earthquake struck southwestern Japan on the morning of the 17th, shaking parts of Miyazaki and Kagoshima prefectures.",
-          "ja": "17日の朝、日本の南西部で地震が発生し、宮崎県と鹿児島県の一部で揺れを観測しました。"
-        },
-        {
-          "en": "The quake occurred around 6:49 a.m. and registered a maximum seismic intensity of 3 on the Japanese scale.",
-          "ja": "地震が発生したのは午前6時49分ごろで、日本の基準で最大震度3の揺れを記録しました。"
-        },
-        {
-          "en": "The areas that experienced the intensity 3 tremors were Nichinan City in Miyazaki and Kimotsuki Town in Kagoshima.",
-          "ja": "震度3の揺れを観測したのは、宮崎県日南市と鹿児島県肝付町です。"
-        },
-        {
-          "en": "Fortunately, officials announced that there is no danger of a tsunami resulting from this earthquake.",
-          "ja": "幸いなことに、当局はこの地震による津波の心配はないと発表しました。"
-        },
-        {
-          "en": "While no major damage or injuries have been reported, residents are advised to stay alert for potential aftershocks.",
-          "ja": "大きな被害や怪我人の報告はありませんが、住民は今後の余震に警戒するよう呼びかけられています。"
+          "en": "All eyes are now on how the deliberations will unfold during the remaining days of the session.",
+          "ja": "延長された会期の残りの期間で、この法案の審議がどのように進むのかに注目が集まっています。"
         }
       ]
     }
@@ -157,40 +70,259 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178661000.html",
-        "title": "北日本～西日本で猛暑日 関東甲信など大気の状態不安定",
-        "title_ja": "各地で猛暑日予想、関東甲信などでは局地的な激しい雨に注意",
-        "date": "Fri, 17 Jul 2026 07:04:30 +0900",
-        "summary": "Extreme heat is expected across northern to western Japan on the 17th, while unstable atmospheric conditions could bring localized heavy rain to the Kanto-Koshin region.",
+        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179571000.html",
+        "title": "群馬 太田市 避難指示を解除",
+        "title_ja": "群馬県太田市、3万人への避難指示を解除",
+        "date": "Sat, 18 Jul 2026 06:51:09 +0900",
+        "summary": "Ota City in Gunma Prefecture has lifted its evacuation order for over 30,000 residents early on the morning of the 18th as safety was restored.",
         "sentences": [
           {
-            "en": "Extremely hot days are expected once again on the 17th across wide areas from northern to western Japan.",
-            "ja": "17日も、北日本から西日本の広い範囲で猛暑日が予想されています。"
+            "en": "Early this morning, positive news regarding safety came from Gunma Prefecture.",
+            "ja": "今朝早く、群馬県から安全に関する良いニュースが入ってきました。"
           },
           {
-            "en": "People are being urged to take thorough precautions against heatstroke, such as staying hydrated and using air conditioning.",
-            "ja": "水分をこまめに補給したりエアコンを使用したりするなど、熱中症への対策を徹底するよう呼びかけられています。"
+            "en": "Ota City officially lifted its evacuation order at 6:09 AM today, on the 18th.",
+            "ja": "太田市は、本日18日の午前6時9分に避難指示を正式に解除しました。"
           },
           {
-            "en": "Meanwhile, warm and moist air flowing into the area has made atmospheric conditions highly unstable, especially in the Kanto-Koshin region.",
-            "ja": "一方、湿った空気が流れ込んでいる影響で、関東甲信地方などを中心に大気の状態が非常に不安定になっています。"
+            "en": "This emergency order had previously been issued to more than 30,000 residents in the city.",
+            "ja": "この緊急指示は、これまでに市内の3万人以上の住民を対象に出されていました。"
           },
           {
-            "en": "This instability is likely to bring sudden, localized heavy rain and active thunderstorms.",
-            "ja": "この大気の不安定さにより、局地的に非常に激しい雨や雷雨が発生する恐れがあります。"
+            "en": "With the safety of the area now confirmed, residents are able to return to their normal lives.",
+            "ja": "地域の安全が確認されたため、住民は普段の生活に戻ることができるようになります。"
           },
           {
-            "en": "Residents in these areas should remain alert for sudden weather changes, including lightning and strong gusts of wind.",
-            "ja": "該当する地域にお住まいの方は、落雷や突風など、急な天候の変化に十分注意してください。"
+            "en": "However, local officials still advise everyone to stay cautious and keep an eye on future weather updates.",
+            "ja": "しかし、自治体は引き続き注意を怠らず、今後の気象情報に留意するよう呼びかけています。"
           }
         ]
       }
     ],
-    "文化・エンタメ": [],
-    "科学・医療": [],
+    "文化・エンタメ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179621000.html",
+        "title": "「人気キャラのおもちゃ譲ります」 不審なSNS投稿に注意",
+        "title_ja": "SNSでの「無料おもちゃ」を騙るフィッシング詐欺への注意喚起",
+        "date": "Sat, 18 Jul 2026 05:43:33 +0900",
+        "summary": "Recent social media scams are tricking users with offers of free character toys to steal their personal information through fake delivery website pages.",
+        "sentences": [
+          {
+            "en": "There is a growing number of suspicious posts on social media claiming to give away popular character toys for free.",
+            "ja": "SNS上で、人気キャラクターのおもちゃを無料で譲るなどと称する不審な投稿が相次いでいます。"
+          },
+          {
+            "en": "These posts direct users to fake websites that mimic well-known delivery companies.",
+            "ja": "これらの投稿は、大手運送会社を装った偽のウェブサイトへとユーザーを誘導します。"
+          },
+          {
+            "en": "Once on the site, users are prompted to input personal information, such as their phone numbers and home addresses.",
+            "ja": "サイトに誘導されると、電話番号や住所などの個人情報の入力を求められます。"
+          },
+          {
+            "en": "Experts warn that entering your details too easily can lead to your information being stolen and misused.",
+            "ja": "専門家は、安易に詳細を入力すると、情報が盗まれて悪用される恐れがあると警告しています。"
+          },
+          {
+            "en": "If you see an offer on social media that seems too good to be true, always verify the source before sharing any personal data.",
+            "ja": "もしSNSで条件が良すぎると思われるような話を見かけたら、個人情報を共有する前に必ず発信元を確認してください。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179311000.html",
+        "title": "変わる水泳授業 民間施設利用や座学も 背景にプール老朽化など",
+        "title_ja": "変わりつつある学校の水泳授業",
+        "date": "Fri, 17 Jul 2026 20:36:27 +0900",
+        "summary": "Due to aging facilities and extreme summer heat, Japanese schools are changing how they teach swimming, with some using private pools or switching to classroom lessons.",
+        "sentences": [
+          {
+            "en": "Swimming lessons at elementary and junior high schools across Japan are undergoing significant changes.",
+            "ja": "日本各地の小中学校で、水泳の授業が大きく変わりつつあります。"
+          },
+          {
+            "en": "Due to factors like aging pool facilities and record-breaking summer heat, many schools are struggling to conduct traditional lessons.",
+            "ja": "プールの老朽化や記録的な夏の暑さなどを背景に、多くの学校が従来の授業を行うのに苦心しています。"
+          },
+          {
+            "en": "To address these challenges, some schools have started outsourcing their swimming classes to private indoor facilities.",
+            "ja": "こうした課題に対処するため、水泳の授業を民間の屋内施設に委託し始める学校も出てきています。"
+          },
+          {
+            "en": "Other schools have chosen to cancel practical pool sessions entirely and switch to classroom-based lectures.",
+            "ja": "また、プールでの実技を完全に取りやめ、教室での座学に切り替えることを選択した学校もあります。"
+          },
+          {
+            "en": "These adjustments help ensure student safety while also reducing the high costs of maintaining school pools.",
+            "ja": "これらの見直しは、学校のプールを維持する高いコストを削減しつつ、児童生徒の安全を確保するのに役立っています。"
+          },
+          {
+            "en": "As summer temperatures continue to rise, more schools are expected to reconsider how they teach swimming in the future.",
+            "ja": "夏の気温が上昇し続ける中、今後さらに多くの学校が水泳授業のあり方を見直すと予想されています。"
+          }
+        ]
+      }
+    ],
+    "科学・医療": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html",
+        "title": "「ABC予想」の証明 検証プロジェクト“結論見通し立たず”",
+        "title_ja": "「ABC予想」証明の検証、結論の見通し立たず",
+        "date": "Fri, 17 Jul 2026 20:59:44 +0900",
+        "summary": "An international research project released an interim report on a Japanese mathematician's proposed proof of the \"ABC Conjecture,\" stating that a final conclusion has not yet been reached.",
+        "sentences": [
+          {
+            "en": "An international research project has released an interim report regarding a famous mathematical proof.",
+            "ja": "有名な数学的証明に関して、国際研究プロジェクトが中間報告を発表しました。"
+          },
+          {
+            "en": "The project is verifying a complex theory by a Japanese mathematician who claims to have solved the \"ABC Conjecture.\"",
+            "ja": "このプロジェクトは、「ABC予想」を解決したと主張する日本の数学者の複雑な理論を検証しています。"
+          },
+          {
+            "en": "The ABC Conjecture is widely known as one of the most difficult unsolved problems in mathematics.",
+            "ja": "ABC予想は、数学における最も難しい未解決問題の一つとして広く知られています。"
+          },
+          {
+            "en": "On the 17th, the research team announced that there is currently no prospect of reaching a final conclusion.",
+            "ja": "17日、研究チームは、現時点で最終的な結論を出せる見通しは立っていないと発表しました。"
+          },
+          {
+            "en": "Experts from around the world continue their efforts to determine if the proposed proof is truly correct.",
+            "ja": "世界中の専門家たちが、提示された証明が本当に正しいかどうかを見極めるために、引き続き取り組みを続けています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html",
+        "title": "浜岡原発データ不正「原子力事業への信頼失墜」電事連会長",
+        "title_ja": "浜岡原発の不正データ処理問題と業界の反応",
+        "date": "Fri, 17 Jul 2026 18:36:26 +0900",
+        "summary": "Chubu Electric Power continued improper data processing at its Hamaoka Nuclear Power Plant even after inquiries from regulators, drawing sharp criticism from the head of the Federation of Electric Power Companies.",
+        "sentences": [
+          {
+            "en": "Chubu Electric Power has come under scrutiny for improper data processing during safety screenings for its Hamaoka Nuclear Power Plant in Shizuoka Prefecture.",
+            "ja": "中部電力は、静岡県にある浜岡原子力発電所の安全審査において、不適切なデータ処理を行っていたとして厳しい目が向けられています。"
+          },
+          {
+            "en": "Surprisingly, the utility continued this unauthorized data handling even after the Nuclear Regulation Authority demanded an explanation.",
+            "ja": "驚くべきことに、同社は原子力規制委員会から説明を求められた後も、この不正なデータ処理を続けていました。"
+          },
+          {
+            "en": "In response to the incident, Nozomu Mori, chairperson of the Federation of Electric Power Companies, addressed the issue in a recent statement.",
+            "ja": "この問題を受け、大手電力各社でつくる電気事業連合会の森望会長は、最近の会見でこの件に言及しました。"
+          },
+          {
+            "en": "He expressed strong regret, stating that such actions severely damage public trust in the entire nuclear power industry.",
+            "ja": "森会長は、こうした行為は原子力事業全体に対する社会的な信頼を大きく損なうものであるとして、強い遺憾の意を示しました。"
+          },
+          {
+            "en": "The industry group urged all member companies to strictly adhere to safety protocols and rebuild confidence.",
+            "ja": "業界団体は加盟各社に対し、安全プロトコルを厳格に遵守し、信頼を回復するよう求めました。"
+          },
+          {
+            "en": "Chubu Electric now faces the urgent task of thoroughly investigating the cause and restoring its damaged credibility.",
+            "ja": "中部電力は現在、原因を徹底的に調査し、失われた信頼を回復するという急務に直面しています。"
+          }
+        ]
+      }
+    ],
     "政治": [],
     "経済": [],
-    "国際": [],
-    "スポーツ": []
+    "国際": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179891000.html",
+        "title": "メキシコ南部の沖合で大地震 M7.3 大きな被害報告なし",
+        "title_ja": "メキシコ南部沖でM7.3の地震、大きな被害は報告されず",
+        "date": "Sat, 18 Jul 2026 06:53:11 +0900",
+        "summary": "A powerful magnitude 7.3 earthquake struck off the coast of southern Mexico. Fortunately, no major damage has been reported so far.",
+        "sentences": [
+          {
+            "en": "A powerful magnitude 7.3 earthquake struck off the Pacific coast of southern Mexico on the night of the 17th, Japan time.",
+            "ja": "日本時間の17日夜、メキシコ南部の太平洋沖でマグニチュード7.3の強い地震がありました。"
+          },
+          {
+            "en": "According to the U.S. Geological Survey, also known as the USGS, the epicenter was located in the ocean.",
+            "ja": "アメリカ地質調査所（USGS）によりますと、震源は海上に位置していました。"
+          },
+          {
+            "en": "Thankfully, local authorities have reported no major damage or casualties so far.",
+            "ja": "ありがたいことに、これまでのところ現地の当局から大きな被害や死傷者の報告はありません。"
+          },
+          {
+            "en": "While residents in nearby coastal areas felt significant shaking, life quickly returned to normal.",
+            "ja": "近くの沿岸地域の住民は大きな揺れを感じたものの、生活はすぐに正常に戻りました。"
+          },
+          {
+            "en": "Officials are continuing to assess the situation to ensure the safety of the local communities.",
+            "ja": "関係当局は、地域社会の安全を確保するため、引き続き状況の把握に努めています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179981000.html",
+        "title": "ゼレンスキー大統領 安全保障政策担う重要ポストを内相に打診",
+        "title_ja": "ウクライナ大統領、安全保障高官の交代を打診",
+        "date": "Sat, 18 Jul 2026 06:41:52 +0900",
+        "summary": "President Zelenskyy has approached Interior Minister Klymenko for a key national security post following the dismissal of the defense minister, marking a significant reshuffle in the country's leadership.",
+        "sentences": [
+          {
+            "en": "Ukrainian President Volodymyr Zelenskyy has recently approached Interior Minister Ihor Klymenko to take on a key national security position.",
+            "ja": "ウクライナのゼレンスキー大統領は最近、新たにクリメンコ内相に対し、安全保障政策を担当する政府高官ポストへの就任を打診しました。"
+          },
+          {
+            "en": "This offer comes shortly after the de facto dismissal of Defense Minister Fedorov.",
+            "ja": "この打診は、フェドロフ国防相を事実上解任したのに続いて行われました。"
+          },
+          {
+            "en": "The successive changes in key leadership roles are shaking up Ukraine's national security establishment.",
+            "ja": "主要な指導部のポストにおける相次ぐ交代は、ウクライナの安全保障体制を大きく揺るがしています。"
+          },
+          {
+            "en": "Experts believe these reshuffles are aimed at strengthening the country's defense during the ongoing conflict.",
+            "ja": "専門家らは、これらの人事刷新が現在続いている紛争下で国の防衛力を強化することを目的としていると考えています。"
+          },
+          {
+            "en": "The international community is closely watching how these sudden leadership transitions will affect Ukraine's future military strategies.",
+            "ja": "国際社会は、これらの突然の指導部交代がウクライナの今後の軍事戦略にどのように影響するかを注視しています。"
+          }
+        ]
+      }
+    ],
+    "スポーツ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179741000.html",
+        "title": "大相撲名古屋場所 7日目見どころ 大の里は伯乃富士と",
+        "title_ja": "大相撲名古屋場所：大の里、連勝を目指し伯乃富士と対戦",
+        "date": "Sat, 18 Jul 2026 05:40:47 +0900",
+        "summary": "Yokozuna Oonosato, who is recovering his form at the Nagoya Grand Sumo Tournament, faces a challenging matchup on Day 7 against Hakunofuji, who is seeking another major upset.",
+        "sentences": [
+          {
+            "en": "On the seventh day of the Nagoya Grand Sumo Tournament, Yokozuna Oonosato is set to face Hakunofuji, a lower-ranked maegashira wrestler.",
+            "ja": "大相撲名古屋場所の7日目、横綱の大の里は、平幕の伯乃富士との対戦に臨みます。"
+          },
+          {
+            "en": "Hakunofuji is highly motivated, aiming to claim a \"kinboshi\"—a gold star upset victory over a Yokozuna—for the second day in a row.",
+            "ja": "伯乃富士は、2日連続となる横綱からの白星「金星」の獲得を狙っており、闘志を燃やしています。"
+          },
+          {
+            "en": "Meanwhile, Oonosato, who has just returned to this tournament after sitting out previous matches due to injury, is starting to find his rhythm.",
+            "ja": "一方、休場明けで今場所に戻ってきた大の里は、徐々に自身のペースを取り戻しつつあります。"
+          },
+          {
+            "en": "On the sixth day of the tournament, he secured a victory against another maegashira wrestler, Hiradoumi, by utilizing his signature powerful pushing style.",
+            "ja": "6日目の対戦では、持ち味である馬力を生かした相撲で平幕の平戸海を破りました。"
+          },
+          {
+            "en": "This decisive win marked his second consecutive victory, bringing his current tournament record to three wins and three losses.",
+            "ja": "この快勝によって2連勝となり、現在の成績を3勝3敗の五分に戻しました。"
+          },
+          {
+            "en": "Sumo fans are eagerly watching to see if Oonosato can maintain this momentum and continue his winning streak.",
+            "ja": "大の里がこの勢いを維持し、連勝を伸ばすことができるか、相撲ファンは熱い視線を送っています。"
+          }
+        ]
+      }
+    ]
   }
 }
