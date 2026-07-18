@@ -1,68 +1,155 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179731000.html",
-      "title": "改正皇室典範成立で養子迎える手続きなど実務的課題検討 政府",
-      "title_ja": "皇族数確保に向けた政府の具体的検討",
-      "date": "Sat, 18 Jul 2026 05:08:24 +0900",
-      "summary": "The Japanese government plans to examine practical procedures for securing imperial family members, including adopting male descendants from former branches and letting female members retain their status after marriage.",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180531000.html",
+      "title": "北海道 青森で大雨 レベル4危険警報も 土砂災害など厳重警戒",
+      "title_ja": "北海道・青森で局地的大雨、レベル4警戒",
+      "date": "Sun, 19 Jul 2026 05:56:31 +0900",
+      "summary": "Heavy rain triggered by a weather front and low-pressure system has prompted Level 4 alerts in parts of Hokkaido and Aomori, with residents urged to watch out for landslides.",
       "sentences": [
         {
-          "en": "The Japanese government is set to address practical challenges regarding ways to secure a stable number of Imperial Family members.",
-          "ja": "政府は、安定的な皇族数を確保する方法について、実務的な課題の検討を進める方針です。"
+          "en": "Heavy rain has been battering parts of northern Japan due to an active weather front and a low-pressure system.",
+          "ja": "活発な前線と低気圧の影響で、北日本の一部地域で大雨となっています。"
         },
         {
-          "en": "This comes as discussions progress on allowing current imperial families to adopt male descendants from former imperial branches.",
-          "ja": "これは、現行の皇室が旧皇族の男系男子を養子に迎えることを可能にする議論が進む中での動きです。"
+          "en": "The localized downpours began on the night of the 18th, particularly affecting Hokkaido and Aomori Prefecture.",
+          "ja": "局地的な大雨は18日の夜から始まり、特に北海道と青森県に影響を与えています。"
         },
         {
-          "en": "Relevant government ministries will soon begin examining the specific administrative procedures required for such adoptions.",
-          "ja": "関係省庁は、こうした養子縁組に必要な具体的な事務手続きについて、間もなく検討を開始します。"
+          "en": "In response to the dangerous conditions, authorities have issued a Level 4 warning for several areas.",
+          "ja": "危険な状況を受けて、一部の地域に対して「レベル4危険警報」が発表されています。"
         },
         {
-          "en": "Another major proposal under consideration is allowing female imperial family members to retain their royal status even after they get married.",
-          "ja": "もう一つの主な提案は、女性皇族が結婚後も皇族としての身分を保持できるようにすることです。"
+          "en": "Weather officials warn that extremely heavy rain is expected to continue in these regions.",
+          "ja": "気象庁は、これらの地域では今後も非常に激しい雨が降り続くおそれがあると警告しています。"
         },
         {
-          "en": "Under the current Imperial House Law, female members must leave the imperial family when they marry commoners.",
-          "ja": "現行の皇室典範では、女性皇族は一般の方と結婚する際に皇室を離れることになっています。"
+          "en": "Residents are urged to remain on high alert for potential landslides and flooding.",
+          "ja": "住民に対して、土砂災害や浸水への厳重な警戒を続けるよう強く求めています。"
         },
         {
-          "en": "The government aims to find a viable solution soon, as the shrinking size of the imperial family has become a pressing concern.",
-          "ja": "皇族数の減少が差し迫った課題となる中、政府は早期に実現可能な解決策を見出すことを目指しています。"
+          "en": "Please stay tuned to the latest weather updates and prioritize your safety.",
+          "ja": "最新の気象情報に注意し、安全を最優先に確保してください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179721000.html",
-      "title": "国会の会期延長 「副首都」構想法案の行方が焦点に",
-      "title_ja": "国会会期延長と「副首都」構想法案を巡る攻防",
-      "date": "Sat, 18 Jul 2026 05:00:03 +0900",
-      "summary": "Following the extension of the Japanese Diet session, the ruling party is pushing to pass a 'vice-capital' bill, while opposition parties criticize it as highly problematic.",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180461000.html",
+      "title": "【速報中】W杯 イングランドが追加点 フランスはエムバペ先発",
+      "title_ja": "W杯3位決定戦：フランス対イングランド、得点王争いにも注目",
+      "date": "Sun, 19 Jul 2026 06:30:35 +0900",
+      "summary": "The FIFA World Cup third-place play-off features a thrilling match between France and England. Beyond the final result, fans are highly focused on the battle for the top scorer title between the two teams' star players.",
       "sentences": [
         {
-          "en": "Following the decision to extend the current Diet session until next week, on the 25th, political tensions are rising in Japan.",
-          "ja": "国会の会期が来週25日まで延長されたことを受けて、国内の政治的緊張が高まっています。"
+          "en": "The third-place play-off of the FIFA World Cup is about to begin, featuring a highly anticipated matchup.",
+          "ja": "サッカーワールドカップの3位決定戦が、大注目のカードで間もなく行われます。"
         },
         {
-          "en": "The ruling coalition is now focusing all its efforts on ensuring the passage of a bill related to the 'vice-capital' concept.",
-          "ja": "与党は現在、「副首都」構想に関連する法案の確実な成立に向けて全力を挙げています。"
+          "en": "This exciting match will be played between world number three France and world number four England.",
+          "ja": "この白熱した試合は、世界ランキング3位のフランスと4位のイングランドの対戦です。"
         },
         {
-          "en": "This proposal aims to designate a secondary city to back up administrative functions in case of emergencies.",
-          "ja": "この構想は、緊急事態の際に行政機能をバックアップする副首都を指定することを目指しています。"
+          "en": "While fans are eager to see who wins, another major point of interest is the race for the Golden Boot.",
+          "ja": "勝敗の行方に加え、もう一つの大きな注目ポイントは得点王争いです。"
         },
         {
-          "en": "However, opposition parties have strongly criticized the bill, calling it highly problematic.",
-          "ja": "しかし、野党からはこの法案について「問題の多い法案だ」という批判が相次いでいます。"
+          "en": "Star players from both nations are currently competing closely for the tournament's top scorer title.",
+          "ja": "両チームのスター選手たちが、今大会の得点王の座をかけて競い合っています。"
         },
         {
-          "en": "They argue that the bill requires much deeper discussion before it can be put to a vote.",
-          "ja": "彼らは、この法案を採決にかける前により深い議論が必要であると主張しています。"
+          "en": "We will now bring you the latest updates on this epic clash between two football giants.",
+          "ja": "サッカー強豪国同士によるこの大一番について、最新情報をお伝えします。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180431000.html",
+      "title": "モジタバ師「覚書繰り返し違反 米大統領署名が無効の証し」",
+      "title_ja": "イラン最高指導者が米国を批判、合意違反を指摘",
+      "date": "Sun, 19 Jul 2026 03:01:11 +0900",
+      "summary": "Iran's Supreme Leader Mojtaba released a statement criticizing the U.S. for repeatedly violating bilateral agreements, calling the U.S. president's signature worthless.",
+      "sentences": [
+        {
+          "en": "On the 18th, a new statement was released by Iran's Supreme Leader, Mojtaba.",
+          "ja": "18日、イランの最高指導者モジタバ師による新たな声明が発表されました。"
         },
         {
-          "en": "All eyes are now on how the deliberations will unfold during the remaining days of the session.",
-          "ja": "延長された会期の残りの期間で、この法案の審議がどのように進むのかに注目が集まっています。"
+          "en": "In this statement, he sharply criticized the United States over its handling of past diplomatic agreements.",
+          "ja": "この声明の中で、同氏は過去の外交合意に対するアメリカの対応を強く批判しました。"
+        },
+        {
+          "en": "He pointed out that the U.S. has repeatedly violated the memorandum of understanding signed between the presidents of both nations.",
+          "ja": "同氏は、両国の大統領間で交わされた覚書をアメリカが繰り返し違反してきたと指摘しました。"
+        },
+        {
+          "en": "He argued that these actions demonstrate how worthless and invalid the signature of a U.S. president truly is.",
+          "ja": "また、こうした行為は、アメリカ大統領の署名がいかに無価値で無効なものであるかを示していると主張しました。"
+        },
+        {
+          "en": "This announcement reflects the deep-seated distrust that continues to define relations between Iran and the United States.",
+          "ja": "今回の発表は、イランとアメリカの関係を特徴づけ続けている根深い不信感を反映しています。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180351000.html",
+      "title": "きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し",
+      "title_ja": "ユネスコ世界遺産委員会、釜山で開幕へ「飛鳥・藤原」審議",
+      "date": "Sun, 19 Jul 2026 05:04:49 +0900",
+      "summary": "The UNESCO World Heritage Committee will meet in Busan, South Korea, to deliberate on new sites, including Japan's nominated 'Asuka-Fujiwara' ancient capital ruins in Nara.",
+      "sentences": [
+        {
+          "en": "The UNESCO World Heritage Committee is scheduled to begin its session in Busan, South Korea, on the 19th.",
+          "ja": "ユネスコの世界遺産委員会が、19日から韓国南部の釜山で始まる予定です。"
+        },
+        {
+          "en": "During this meeting, the committee will deliberate on the registration of new World Heritage sites.",
+          "ja": "今回の会合では、新たな世界遺産の登録について審議が行われます。"
+        },
+        {
+          "en": "The Japanese government has nominated a group of archaeological sites from the Asuka period in Nara Prefecture.",
+          "ja": "日本政府は、奈良県内にある飛鳥時代の遺跡群を推薦しています。"
+        },
+        {
+          "en": "This candidate site is officially known as 'Asuka-Fujiwara: Archaeological Sites of Japan’s Ancient Capitals.'",
+          "ja": "この推薦候補は、「飛鳥・藤原の宮都（きゅうと）」として知られています。"
+        },
+        {
+          "en": "These ancient capitals represent a crucial era when Japan developed into a centralized state under a legal system.",
+          "ja": "これらの古代の都は、日本が律令制度のもとで中央集権国家へと発展した重要な時代を象徴しています。"
+        },
+        {
+          "en": "People in Japan are eagerly waiting to see if these historical ruins will be successfully registered as a World Heritage site.",
+          "ja": "これらの歴史的な遺跡群が、無事に世界遺産として登録されるかどうかに国内の関心が集まっています。"
+        }
+      ]
+    },
+    {
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180561000.html",
+      "title": "栃木 足利 住宅に土砂流入し倒壊 行方不明者の捜索続く",
+      "title_ja": "栃木・群馬で記録的大雨、足利市で土砂崩れにより住宅が倒壊し夫婦が行方不明",
+      "date": "Sun, 19 Jul 2026 05:21:51 +0900",
+      "summary": "Record-breaking heavy rain in Tochigi and Gunma prefectures has caused severe landslides, leaving a couple in their 60s missing after their home collapsed in Ashikaga City.",
+      "sentences": [
+        {
+          "en": "Record-breaking heavy rain hit Tochigi and Gunma prefectures from midnight into the early morning of the 18th, causing widespread landslides and flooding.",
+          "ja": "栃木県と群馬県では18日未明にかけて記録的な大雨となり、各地で土砂災害や浸水被害が相次ぎました。"
+        },
+        {
+          "en": "In Ashikaga City, Tochigi Prefecture, a landslide rushed into a residential area, causing a house to collapse.",
+          "ja": "栃木県足利市では、住宅に土砂が流れ込んで建物が倒壊しました。"
+        },
+        {
+          "en": "A couple in their 60s who lived in the home remain unaccounted for after the disaster.",
+          "ja": "この家に住む60代の夫婦と連絡が取れなくなっています。"
+        },
+        {
+          "en": "Local authorities quickly launched search and rescue operations to find the missing couple.",
+          "ja": "地元の自治体は、行方不明となっている夫婦を捜索するため、速やかに救助活動を開始しました。"
+        },
+        {
+          "en": "Residents in the surrounding areas are urged to stay alert as the risk of further landslides remains high.",
+          "ja": "周辺地域の住民は、さらなる土砂災害の危険性が高いとして、引き続き警戒するよう呼びかけられています。"
         }
       ]
     }
@@ -70,256 +157,440 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179571000.html",
-        "title": "群馬 太田市 避難指示を解除",
-        "title_ja": "群馬県太田市、3万人への避難指示を解除",
-        "date": "Sat, 18 Jul 2026 06:51:09 +0900",
-        "summary": "Ota City in Gunma Prefecture has lifted its evacuation order for over 30,000 residents early on the morning of the 18th as safety was restored.",
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180531000.html",
+        "title": "北海道 青森で大雨 レベル4危険警報も 土砂災害など厳重警戒",
+        "title_ja": "北海道と青森で局地的大雨、レベル4避難指示も発表",
+        "date": "Sun, 19 Jul 2026 05:56:31 +0900",
+        "summary": "Due to an active weather front, Hokkaido and Aomori Prefecture are experiencing heavy localized rain, leading to Level 4 evacuation warnings in some areas. Residents are advised to stay alert for potential landslides.",
         "sentences": [
           {
-            "en": "Early this morning, positive news regarding safety came from Gunma Prefecture.",
-            "ja": "今朝早く、群馬県から安全に関する良いニュースが入ってきました。"
+            "en": "Due to an active weather front and a low-pressure system, parts of Hokkaido and Aomori Prefecture have been experiencing localized heavy rain since the night of the 18th.",
+            "ja": "活発な前線と低気圧の影響で、北海道や青森県の一部地域では18日の夜から局地的な大雨となっています。"
           },
           {
-            "en": "Ota City officially lifted its evacuation order at 6:09 AM today, on the 18th.",
-            "ja": "太田市は、本日18日の午前6時9分に避難指示を正式に解除しました。"
+            "en": "In response to the heavy rainfall, a Level 4 evacuation warning has been issued for some of these areas.",
+            "ja": "この大雨を受けて、これらの地域の一部には「レベル4避難指示」が発表されています。"
           },
           {
-            "en": "This emergency order had previously been issued to more than 30,000 residents in the city.",
-            "ja": "この緊急指示は、これまでに市内の3万人以上の住民を対象に出されていました。"
+            "en": "This warning advises residents in high-risk locations to evacuate to safe areas immediately.",
+            "ja": "この警告は、危険な場所にいる住民に対して、ただちに安全な場所へ避難するよう促すものです。"
           },
           {
-            "en": "With the safety of the area now confirmed, residents are able to return to their normal lives.",
-            "ja": "地域の安全が確認されたため、住民は普段の生活に戻ることができるようになります。"
+            "en": "Weather experts warn that heavy downpours are likely to continue for some time.",
+            "ja": "気象専門家は、激しい雨がしばらくの間降り続く可能性があると警告しています。"
           },
           {
-            "en": "However, local officials still advise everyone to stay cautious and keep an eye on future weather updates.",
-            "ja": "しかし、自治体は引き続き注意を怠らず、今後の気象情報に留意するよう呼びかけています。"
+            "en": "Residents are urged to remain on high alert for potential landslides and flooding.",
+            "ja": "住民の皆さんは、土砂災害や浸水に厳重な警戒を続けるよう呼びかけられています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180561000.html",
+        "title": "栃木 足利 住宅に土砂流入し倒壊 行方不明者の捜索続く",
+        "title_ja": "栃木・群馬で記録的大雨、土砂災害や浸水相次ぐ",
+        "date": "Sun, 19 Jul 2026 05:21:51 +0900",
+        "summary": "Record-breaking heavy rain caused severe landslides and flooding in Tochigi and Gunma prefectures, leaving a couple in their 60s missing after their house collapsed in Ashikaga City.",
+        "sentences": [
+          {
+            "en": "Record-breaking heavy rain hit Tochigi and Gunma prefectures from late night until the early hours of the 18th.",
+            "ja": "栃木県と群馬県では、夜遅くから18日未明にかけて記録的な大雨となりました。"
+          },
+          {
+            "en": "This downpour triggered a series of landslides and severe flooding across the region.",
+            "ja": "この大雨により、地域全体で土砂災害や深刻な浸水被害が相次いで発生しました。"
+          },
+          {
+            "en": "In Ashikaga City, Tochigi Prefecture, a landslide struck a residential area and caused a home to collapse completely.",
+            "ja": "栃木県足利市では、土砂崩れが住宅街を襲い、家屋が完全に倒壊しました。"
+          },
+          {
+            "en": "Emergency services have been unable to contact a married couple in their 60s who lived in the house.",
+            "ja": "その家に住んでいた60代の夫婦と連絡が取れなくなっており、救助隊による捜索が行われています。"
+          },
+          {
+            "en": "Local officials are urging residents to remain highly alert, as the ground remains unstable and prone to further landslides.",
+            "ja": "地盤が緩んでさらなる土砂災害が発生しやすくなっているため、地元自治体は住民に厳重な警戒を呼びかけています。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179621000.html",
-        "title": "「人気キャラのおもちゃ譲ります」 不審なSNS投稿に注意",
-        "title_ja": "SNSでの「無料おもちゃ」を騙るフィッシング詐欺への注意喚起",
-        "date": "Sat, 18 Jul 2026 05:43:33 +0900",
-        "summary": "Recent social media scams are tricking users with offers of free character toys to steal their personal information through fake delivery website pages.",
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html",
+        "title": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
+        "title_ja": "チャップリンの名作映画が文楽に：大阪で公演開始",
+        "date": "Sun, 19 Jul 2026 06:20:40 +0900",
+        "summary": "A Bunraku puppet show based on a classic 1931 film by comedy icon Charlie Chaplin has begun performing at the National Bunraku Theatre in Osaka.",
         "sentences": [
           {
-            "en": "There is a growing number of suspicious posts on social media claiming to give away popular character toys for free.",
-            "ja": "SNS上で、人気キャラクターのおもちゃを無料で譲るなどと称する不審な投稿が相次いでいます。"
+            "en": "A unique Bunraku puppet show based on a classic film by legendary comedian Charlie Chaplin has started in Osaka.",
+            "ja": "伝説的な喜劇王、チャールズ・チャップリンの名作映画を原作としたユニークな人形浄瑠璃文楽の公演が、大阪で始まりました。"
           },
           {
-            "en": "These posts direct users to fake websites that mimic well-known delivery companies.",
-            "ja": "これらの投稿は、大手運送会社を装った偽のウェブサイトへとユーザーを誘導します。"
+            "en": "The performances began on the evening of the 18th at the National Bunraku Theatre in Nipponbashi.",
+            "ja": "公演は18日の夜から、日本橋の国立文楽劇場で始まりました。"
           },
           {
-            "en": "Once on the site, users are prompted to input personal information, such as their phone numbers and home addresses.",
-            "ja": "サイトに誘導されると、電話番号や住所などの個人情報の入力を求められます。"
+            "en": "The featured play is adapted from a famous 1931 American silent film, which was directed by and starred Chaplin himself.",
+            "ja": "上演されている作品は、チャップリン自らが監督・主演を務めた1931年制作の有名なアメリカの無声映画を脚色したものです。"
           },
           {
-            "en": "Experts warn that entering your details too easily can lead to your information being stolen and misused.",
-            "ja": "専門家は、安易に詳細を入力すると、情報が盗まれて悪用される恐れがあると警告しています。"
+            "en": "This creative adaptation brings the warmth and humor of the silver screen to the traditional Japanese stage.",
+            "ja": "この創造的な翻案は、銀幕の温もりとユーモアを日本の伝統的な舞台にもたらしています。"
           },
           {
-            "en": "If you see an offer on social media that seems too good to be true, always verify the source before sharing any personal data.",
-            "ja": "もしSNSで条件が良すぎると思われるような話を見かけたら、個人情報を共有する前に必ず発信元を確認してください。"
+            "en": "Puppeteers, narrators, and shamisen players work together to express the delicate emotions of the classic story.",
+            "ja": "人形遣い、太夫、三味線弾きが一体となり、古典的名作の繊細な感情を表現します。"
+          },
+          {
+            "en": "Organizers hope this event will attract new audiences to the ancient art of Bunraku.",
+            "ja": "主催者は、このイベントが新しい観客をこの伝統ある文楽の芸術に惹きつけるきっかけになることを期待しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179311000.html",
-        "title": "変わる水泳授業 民間施設利用や座学も 背景にプール老朽化など",
-        "title_ja": "変わりつつある学校の水泳授業",
-        "date": "Fri, 17 Jul 2026 20:36:27 +0900",
-        "summary": "Due to aging facilities and extreme summer heat, Japanese schools are changing how they teach swimming, with some using private pools or switching to classroom lessons.",
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180291000.html",
+        "title": "“サル専用プール” ことしも設置 大分 高崎山自然動物園",
+        "title_ja": "高崎山自然動物園でサル専用のプールがオープン",
+        "date": "Sat, 18 Jul 2026 20:39:42 +0900",
+        "summary": "To help wild monkeys beat the intense summer heat, Takasakiyama Natural Zoological Garden in Oita City has set up its annual monkey-only pool.",
         "sentences": [
           {
-            "en": "Swimming lessons at elementary and junior high schools across Japan are undergoing significant changes.",
-            "ja": "日本各地の小中学校で、水泳の授業が大きく変わりつつあります。"
+            "en": "At Takasakiyama Natural Zoological Garden in Oita City, visitors can observe wild monkeys up close.",
+            "ja": "大分市の高崎山自然動物園では、野生のサルを間近で観察することができます。"
           },
           {
-            "en": "Due to factors like aging pool facilities and record-breaking summer heat, many schools are struggling to conduct traditional lessons.",
-            "ja": "プールの老朽化や記録的な夏の暑さなどを背景に、多くの学校が従来の授業を行うのに苦心しています。"
+            "en": "To help the monkeys cope with the intense summer heat, a special pool has been set up again this year.",
+            "ja": "厳しい夏の暑さを乗り切ってもらおうと、今年もサル専用のプールが設置されました。"
           },
           {
-            "en": "To address these challenges, some schools have started outsourcing their swimming classes to private indoor facilities.",
-            "ja": "こうした課題に対処するため、水泳の授業を民間の屋内施設に委託し始める学校も出てきています。"
+            "en": "This annual tradition provides a refreshing escape for the monkeys during the hottest months.",
+            "ja": "この毎年の恒例行事は、最も暑い時期にサルたちに涼しい避難場所を提供しています。"
           },
           {
-            "en": "Other schools have chosen to cancel practical pool sessions entirely and switch to classroom-based lectures.",
-            "ja": "また、プールでの実技を完全に取りやめ、教室での座学に切り替えることを選択した学校もあります。"
+            "en": "Visitors can enjoy watching the monkeys playfully splash around in the cool water.",
+            "ja": "訪れた人たちは、サルたちが冷たい水の中で楽しそうに水しぶきをあげて遊ぶ姿を見ることができます。"
           },
           {
-            "en": "These adjustments help ensure student safety while also reducing the high costs of maintaining school pools.",
-            "ja": "これらの見直しは、学校のプールを維持する高いコストを削減しつつ、児童生徒の安全を確保するのに役立っています。"
-          },
-          {
-            "en": "As summer temperatures continue to rise, more schools are expected to reconsider how they teach swimming in the future.",
-            "ja": "夏の気温が上昇し続ける中、今後さらに多くの学校が水泳授業のあり方を見直すと予想されています。"
+            "en": "Staff members hope this cool spot will help the animals stay healthy and active throughout the summer.",
+            "ja": "スタッフは、この涼しい場所が、サルたちが夏の間ずっと健康で元気に過ごす助けになることを願っています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179631000.html",
-        "title": "「ABC予想」の証明 検証プロジェクト“結論見通し立たず”",
-        "title_ja": "「ABC予想」証明の検証、結論の見通し立たず",
-        "date": "Fri, 17 Jul 2026 20:59:44 +0900",
-        "summary": "An international research project released an interim report on a Japanese mathematician's proposed proof of the \"ABC Conjecture,\" stating that a final conclusion has not yet been reached.",
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html",
+        "title": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
+        "title_ja": "チャップリンの名作映画が文楽に、大阪で公演がスタート",
+        "date": "Sun, 19 Jul 2026 06:20:40 +0900",
+        "summary": "A Bunraku puppet show based on Charlie Chaplin's classic 1931 film has begun performing at the National Bunraku Theatre in Osaka.",
         "sentences": [
           {
-            "en": "An international research project has released an interim report regarding a famous mathematical proof.",
-            "ja": "有名な数学的証明に関して、国際研究プロジェクトが中間報告を発表しました。"
+            "en": "A unique Bunraku puppet theater performance based on a movie by the legendary comedian Charlie Chaplin has begun in Osaka.",
+            "ja": "喜劇王チャールズ・チャップリンの映画を原作にしたユニークな人形浄瑠璃文楽の公演が、大阪で始まりました。"
           },
           {
-            "en": "The project is verifying a complex theory by a Japanese mathematician who claims to have solved the \"ABC Conjecture.\"",
-            "ja": "このプロジェクトは、「ABC予想」を解決したと主張する日本の数学者の複雑な理論を検証しています。"
+            "en": "The show opened on the night of the 18th at the National Bunraku Theatre in Nipponbashi, Osaka.",
+            "ja": "公演は18日の夜、大阪・日本橋の国立文楽劇場で開幕しました。"
           },
           {
-            "en": "The ABC Conjecture is widely known as one of the most difficult unsolved problems in mathematics.",
-            "ja": "ABC予想は、数学における最も難しい未解決問題の一つとして広く知られています。"
+            "en": "The performance is adapted from the famous 1931 American film \"City Lights,\" which Chaplin wrote, directed, and starred in.",
+            "ja": "上演されたのは、チャップリン自らが脚本、監督、主演を務めた1931年制作のアメリカの名作映画『街の灯』を脚色したものです。"
           },
           {
-            "en": "On the 17th, the research team announced that there is currently no prospect of reaching a final conclusion.",
-            "ja": "17日、研究チームは、現時点で最終的な結論を出せる見通しは立っていないと発表しました。"
+            "en": "This creative production beautifully blends traditional Japanese puppetry with the humor and pathos of classic Western cinema.",
+            "ja": "このクリエイティブな演出は、日本の伝統的な人形劇と、西洋の古典映画が持つユーモアや哀愁を見事に融合させています。"
           },
           {
-            "en": "Experts from around the world continue their efforts to determine if the proposed proof is truly correct.",
-            "ja": "世界中の専門家たちが、提示された証明が本当に正しいかどうかを見極めるために、引き続き取り組みを続けています。"
+            "en": "Theatergoers were delighted to see how the expressive puppets recreated Chaplin's famous character on the stage.",
+            "ja": "表現力豊かな人形たちが、チャップリンのおなじみのキャラクターを舞台上で再現する様子に、観客は歓喜しました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179491000.html",
-        "title": "浜岡原発データ不正「原子力事業への信頼失墜」電事連会長",
-        "title_ja": "浜岡原発の不正データ処理問題と業界の反応",
-        "date": "Fri, 17 Jul 2026 18:36:26 +0900",
-        "summary": "Chubu Electric Power continued improper data processing at its Hamaoka Nuclear Power Plant even after inquiries from regulators, drawing sharp criticism from the head of the Federation of Electric Power Companies.",
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180351000.html",
+        "title": "きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し",
+        "title_ja": "「飛鳥・藤原の宮都」世界遺産登録へ、ユネスコ委員会が釜山で開幕",
+        "date": "Sun, 19 Jul 2026 05:04:49 +0900",
+        "summary": "The UNESCO World Heritage Committee will meet in Busan, South Korea, to deliberate on new registrations, including Japan's nominated 'Asuka-Fujiwara' archaeological sites in Nara.",
         "sentences": [
           {
-            "en": "Chubu Electric Power has come under scrutiny for improper data processing during safety screenings for its Hamaoka Nuclear Power Plant in Shizuoka Prefecture.",
-            "ja": "中部電力は、静岡県にある浜岡原子力発電所の安全審査において、不適切なデータ処理を行っていたとして厳しい目が向けられています。"
+            "en": "The UNESCO World Heritage Committee is scheduled to begin its meeting in Busan, South Korea, on the 19th to deliberate on new registrations.",
+            "ja": "新たな世界遺産の登録を審議するユネスコの世界遺産委員会が、19日から韓国南部の釜山で始まる予定です。"
           },
           {
-            "en": "Surprisingly, the utility continued this unauthorized data handling even after the Nuclear Regulation Authority demanded an explanation.",
-            "ja": "驚くべきことに、同社は原子力規制委員会から説明を求められた後も、この不正なデータ処理を続けていました。"
+            "en": "This year, the Japanese government has recommended the \"Asuka-Fujiwara\" archaeological sites located in Nara Prefecture.",
+            "ja": "今年、日本政府は奈良県内にある飛鳥時代の遺跡群「飛鳥・藤原の宮都」を推薦しています。"
           },
           {
-            "en": "In response to the incident, Nozomu Mori, chairperson of the Federation of Electric Power Companies, addressed the issue in a recent statement.",
-            "ja": "この問題を受け、大手電力各社でつくる電気事業連合会の森望会長は、最近の会見でこの件に言及しました。"
+            "en": "These sites include ancient ruins and temples from the Asuka period, which mark the birth of the ancient Japanese state.",
+            "ja": "これらの遺跡には、古代日本国家の誕生を示す飛鳥時代の古代遺跡や寺院が含まれています。"
           },
           {
-            "en": "He expressed strong regret, stating that such actions severely damage public trust in the entire nuclear power industry.",
-            "ja": "森会長は、こうした行為は原子力事業全体に対する社会的な信頼を大きく損なうものであるとして、強い遺憾の意を示しました。"
+            "en": "The committee will discuss whether the historical value of these sites meets the global standards for World Heritage status.",
+            "ja": "委員会では、これらの遺跡の歴史的価値が世界遺産の基準を満たしているかどうかが話し合われます。"
           },
           {
-            "en": "The industry group urged all member companies to strictly adhere to safety protocols and rebuild confidence.",
-            "ja": "業界団体は加盟各社に対し、安全プロトコルを厳格に遵守し、信頼を回復するよう求めました。"
-          },
-          {
-            "en": "Chubu Electric now faces the urgent task of thoroughly investigating the cause and restoring its damaged credibility.",
-            "ja": "中部電力は現在、原因を徹底的に調査し、失われた信頼を回復するという急務に直面しています。"
+            "en": "Local residents and officials in Nara are waiting with high expectations for a positive decision during the session.",
+            "ja": "会期中に前向きな決定が下されることを、奈良の地元住民や関係者は大きな期待を寄せて待っています。"
           }
         ]
       }
     ],
-    "政治": [],
-    "経済": [],
-    "国際": [
+    "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179891000.html",
-        "title": "メキシコ南部の沖合で大地震 M7.3 大きな被害報告なし",
-        "title_ja": "メキシコ南部沖でM7.3の地震、大きな被害は報告されず",
-        "date": "Sat, 18 Jul 2026 06:53:11 +0900",
-        "summary": "A powerful magnitude 7.3 earthquake struck off the coast of southern Mexico. Fortunately, no major damage has been reported so far.",
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180331000.html",
+        "title": "共産 田村委員長“政府は早急に追加の物価高対策を”",
+        "title_ja": "共産党の田村委員長、政府に追加の物価高対策を求める",
+        "date": "Sat, 18 Jul 2026 18:27:05 +0900",
+        "summary": "Tomoko Tamura, the chairperson of the Japanese Communist Party, has urged the government to quickly implement new measures to address rising prices caused by the weak yen and global instability.",
         "sentences": [
           {
-            "en": "A powerful magnitude 7.3 earthquake struck off the Pacific coast of southern Mexico on the night of the 17th, Japan time.",
-            "ja": "日本時間の17日夜、メキシコ南部の太平洋沖でマグニチュード7.3の強い地震がありました。"
+            "en": "Tomoko Tamura, the chairperson of the Japanese Communist Party, gave a speech at the party's headquarters.",
+            "ja": "共産党の田村委員長は党本部で講演を行いました。"
           },
           {
-            "en": "According to the U.S. Geological Survey, also known as the USGS, the epicenter was located in the ocean.",
-            "ja": "アメリカ地質調査所（USGS）によりますと、震源は海上に位置していました。"
+            "en": "She pointed out that the weak yen and the prolonged instability in the Middle East are having a growing impact on people's daily lives.",
+            "ja": "彼女は、円安や中東情勢の長期化が人々の暮らしに深刻な影響を与えていると指摘しました。"
           },
           {
-            "en": "Thankfully, local authorities have reported no major damage or casualties so far.",
-            "ja": "ありがたいことに、これまでのところ現地の当局から大きな被害や死傷者の報告はありません。"
+            "en": "In light of these challenges, she expressed her intention to demand that the government immediately implement additional measures to combat rising prices.",
+            "ja": "こうした課題を踏まえ、政府に対して追加の物価高対策を早急に講じるよう求めていく考えを示しました。"
           },
           {
-            "en": "While residents in nearby coastal areas felt significant shaking, life quickly returned to normal.",
-            "ja": "近くの沿岸地域の住民は大きな揺れを感じたものの、生活はすぐに正常に戻りました。"
+            "en": "Many households in Japan are currently struggling as the cost of food and utility bills continues to climb.",
+            "ja": "食料品や光熱費の価格が上昇し続ける中、現在、日本国内の多くの家庭が苦しい状況に置かれています。"
           },
           {
-            "en": "Officials are continuing to assess the situation to ensure the safety of the local communities.",
-            "ja": "関係当局は、地域社会の安全を確保するため、引き続き状況の把握に努めています。"
+            "en": "Chairperson Tamura emphasized that swift political action is necessary to protect the livelihoods of the public.",
+            "ja": "田村委員長は、国民の生活を守るためには迅速な政治的対応が必要であると強調しました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179981000.html",
-        "title": "ゼレンスキー大統領 安全保障政策担う重要ポストを内相に打診",
-        "title_ja": "ウクライナ大統領、安全保障高官の交代を打診",
-        "date": "Sat, 18 Jul 2026 06:41:52 +0900",
-        "summary": "President Zelenskyy has approached Interior Minister Klymenko for a key national security post following the dismissal of the defense minister, marking a significant reshuffle in the country's leadership.",
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180321000.html",
+        "title": "みらい 結党後初の党大会開催“AI時代の民主主義を”",
+        "title_ja": "チームみらい、結党後初の党大会を開催",
+        "date": "Sat, 18 Jul 2026 18:14:12 +0900",
+        "summary": "The political party Team Mirai held its first-ever convention in Tokyo, where leader Anno shared his vision of utilizing AI to create a more responsive democracy.",
         "sentences": [
           {
-            "en": "Ukrainian President Volodymyr Zelenskyy has recently approached Interior Minister Ihor Klymenko to take on a key national security position.",
-            "ja": "ウクライナのゼレンスキー大統領は最近、新たにクリメンコ内相に対し、安全保障政策を担当する政府高官ポストへの就任を打診しました。"
+            "en": "The political party Team Mirai held its first convention in Tokyo since its formation.",
+            "ja": "政治団体「チームみらい」は、結党後初となる党大会を東京都内で開催しました。"
           },
           {
-            "en": "This offer comes shortly after the de facto dismissal of Defense Minister Fedorov.",
-            "ja": "この打診は、フェドロフ国防相を事実上解任したのに続いて行われました。"
+            "en": "During the event, party leader Anno shared his vision for the future of politics.",
+            "ja": "大会の中で安野党首は、政治の未来に向けた自身のビジョンを語りました。"
           },
           {
-            "en": "The successive changes in key leadership roles are shaking up Ukraine's national security establishment.",
-            "ja": "主要な指導部のポストにおける相次ぐ交代は、ウクライナの安全保障体制を大きく揺るがしています。"
+            "en": "He expressed a strong desire to realize a new form of democracy suited for the AI era.",
+            "ja": "同氏は、AI時代にふさわしい新しい形の民主主義を実現したいという強い決意を示しました。"
           },
           {
-            "en": "Experts believe these reshuffles are aimed at strengthening the country's defense during the ongoing conflict.",
-            "ja": "専門家らは、これらの人事刷新が現在続いている紛争下で国の防衛力を強化することを目的としていると考えています。"
+            "en": "This approach aims to quickly and deeply listen to the voices of a diverse range of citizens.",
+            "ja": "このアプローチは、多様な市民の声を迅速かつ深く聴き取ることを目指しています。"
           },
           {
-            "en": "The international community is closely watching how these sudden leadership transitions will affect Ukraine's future military strategies.",
-            "ja": "国際社会は、これらの突然の指導部交代がウクライナの今後の軍事戦略にどのように影響するかを注視しています。"
+            "en": "By doing so, the party hopes to actively reflect these opinions in actual political decisions.",
+            "ja": "そうすることで、党はこれらの意見を実際の政治決定に積極的に反映させたいと考えています。"
+          }
+        ]
+      }
+    ],
+    "経済": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180281000.html",
+        "title": "リニア中央新幹線 静岡県内着工へ 静岡県とJR東海協定締結",
+        "title_ja": "リニア静岡工区、環境協定締結で着工へ前進",
+        "date": "Sat, 18 Jul 2026 19:44:09 +0900",
+        "summary": "Shizuoka Prefecture and JR Central have signed an environmental agreement, breaking a long-term deadlock over the construction of the Linear Chuo Shinkansen.",
+        "sentences": [
+          {
+            "en": "Shizuoka Prefecture and JR Central have signed a crucial environmental conservation agreement regarding the Linear Chuo Shinkansen project.",
+            "ja": "静岡県とJR東海は、リニア中央新幹線事業に関する重要な自然環境保全協定を締結しました。"
+          },
+          {
+            "en": "This high-speed maglev train is expected to become the next generation's major transportation artery in Japan.",
+            "ja": "この超電導リニアは、日本の次世代の交通の大動脈になると期待されています。"
+          },
+          {
+            "en": "The signing of this agreement on the 18th is a key prerequisite for starting construction within Shizuoka Prefecture.",
+            "ja": "18日に締結されたこの協定は、静岡県内での着工に向けた重要な前提条件となります。"
+          },
+          {
+            "en": "Due to environmental concerns, the construction in this area had been stalled for a long period.",
+            "ja": "環境への懸念から、この地域での工事は長期間にわたってこう着状態にありました。"
+          },
+          {
+            "en": "With this breakthrough agreement, the stalled project is finally ready to move forward.",
+            "ja": "今回の画期的な合意により、滞っていたプロジェクトがいよいよ動き出すことになります。"
+          },
+          {
+            "en": "JR Central now plans to proceed with preparations and begin the next phases of the project.",
+            "ja": "JR東海は今後、準備を進め、プロジェクトの次の段階へと進む予定です。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180171000.html",
+        "title": "米アップル 日本でiPhoneの販売価格を約10％値上げ",
+        "title_ja": "アップル、日本国内のiPhone価格を約10％引き上げ",
+        "date": "Sat, 18 Jul 2026 12:40:21 +0900",
+        "summary": "Apple has raised the prices of its iPhones in Japan by approximately 10 percent, a move widely believed to be a reaction to the weakening yen.",
+        "sentences": [
+          {
+            "en": "The U.S. technology giant Apple has raised the sales prices of its iPhones in Japan by about 10 percent.",
+            "ja": "アメリカのIT大手アップルは、日本国内でのiPhoneの販売価格を10％程度引き上げました。"
+          },
+          {
+            "en": "This price hike, implemented on Apple's official website, is believed to reflect the impact of the weakening yen.",
+            "ja": "自社サイトで実施されたこの値上げは、円安の影響を反映したものとみられています。"
+          },
+          {
+            "en": "As the Japanese yen continues to depreciate against the U.S. dollar, foreign companies face pressure to adjust their local pricing.",
+            "ja": "米ドルに対して円安が進行し続ける中、外資系企業は現地での価格設定を調整せざるを得ない状況に直面しています。"
+          },
+          {
+            "en": "This is not the first time currency fluctuations have prompted the company to increase its prices in the Japanese market.",
+            "ja": "為替の変動を理由に、同社が日本市場での価格を引き上げたのは今回が初めてではありません。"
+          },
+          {
+            "en": "Many consumers are now closely watching whether other major electronics brands will follow suit.",
+            "ja": "他の大手家電ブランドもこれに追随する動きを見せるか、多くの消費者が注目しています。"
+          },
+          {
+            "en": "Despite the higher costs, the iPhone remains one of the most popular smartphone brands in the country.",
+            "ja": "価格が高くなったものの、iPhoneは依然として国内で最も人気のあるスマートフォンブランドの一つです。"
+          }
+        ]
+      }
+    ],
+    "国際": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180431000.html",
+        "title": "モジタバ師「覚書繰り返し違反 米大統領署名が無効の証し」",
+        "title_ja": "「米大統領の署名は無価値」イラン最高指導者が非難",
+        "date": "Sun, 19 Jul 2026 03:01:11 +0900",
+        "summary": "Iran's Supreme Leader Mojtaba issued a statement criticizing the United States for repeatedly violating past agreements, claiming the U.S. president's signature is worthless.",
+        "sentences": [
+          {
+            "en": "A new statement by Iran's Supreme Leader, Mojtaba, was released on the 18th.",
+            "ja": "18日、イランの最高指導者モジタバ師による新たな声明が発表されました。"
+          },
+          {
+            "en": "In the message, he sharply criticized the United States for its actions regarding past diplomatic agreements.",
+            "ja": "声明の中で同師は、過去の外交合意に関するアメリカの対応を強く批判しました。"
+          },
+          {
+            "en": "Specifically, he referred to the memorandum of understanding signed between the presidents of Iran and the U.S.",
+            "ja": "具体的には、イランとアメリカの大統領の間で交わされた覚書について言及しました。"
+          },
+          {
+            "en": "He argued that repeated violations by the U.S. prove that the signature of the American president is completely worthless and invalid.",
+            "ja": "同師は、アメリカによる度重なる違反行為は、アメリカ大統領の署名がいかに無価値で無効であるかを示していると主張しました。"
+          },
+          {
+            "en": "This announcement highlights the deep-seated distrust that continues to exist between the two nations.",
+            "ja": "今回の発表は、両国間に依然として存在する根深い不信感を浮き彫りにしています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015141091000.html",
+        "title": "【詳細】ロシア ウクライナに軍事侵攻（7月18日の動き）",
+        "title_ja": "ウクライナ情勢と市民の避難",
+        "date": "Sun, 19 Jul 2026 00:09:11 +0900",
+        "summary": "The military conflict in Ukraine continues as fighting persists across the country, forcing many citizens to flee abroad while the international community monitors diplomatic efforts.",
+        "sentences": [
+          {
+            "en": "Russia's military invasion of Ukraine continues to cause severe devastation.",
+            "ja": "ロシアによるウクライナへの軍事侵攻は、今も深刻な破壊をもたらし続けています。"
+          },
+          {
+            "en": "Intense fighting between Russian and Ukrainian forces is ongoing in various parts of the country.",
+            "ja": "ウクライナの各地で、ロシア軍とウクライナ軍による激しい戦闘が続いています。"
+          },
+          {
+            "en": "As a result of the conflict, a large number of citizens have been forced to flee their homes and seek safety abroad.",
+            "ja": "この紛争の結果、大勢の市民が自宅を追われ、国外へ避難することを余儀なくされています。"
+          },
+          {
+            "en": "The international community is closely monitoring both the developments on the battlefield and the diplomatic efforts of involved nations.",
+            "ja": "国際社会は、戦況の推移と関係各国の外交努力の両方を注視しています。"
+          },
+          {
+            "en": "Many countries are working together to provide humanitarian aid and seek a peaceful resolution to the crisis.",
+            "ja": "多くの国々が、人道支援を提供し、この危機に対する平和的な解決策を模索するために協力しています。"
+          },
+          {
+            "en": "We will continue to follow the situation closely as events unfold.",
+            "ja": "今後も事態の推移に伴い、この状況を緊密に追っていきます。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179741000.html",
-        "title": "大相撲名古屋場所 7日目見どころ 大の里は伯乃富士と",
-        "title_ja": "大相撲名古屋場所：大の里、連勝を目指し伯乃富士と対戦",
-        "date": "Sat, 18 Jul 2026 05:40:47 +0900",
-        "summary": "Yokozuna Oonosato, who is recovering his form at the Nagoya Grand Sumo Tournament, faces a challenging matchup on Day 7 against Hakunofuji, who is seeking another major upset.",
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180461000.html",
+        "title": "【速報中】W杯 イングランドが追加点 フランスはエムバペ先発",
+        "title_ja": "W杯3位決定戦：フランス対イングランドと得点王争い",
+        "date": "Sun, 19 Jul 2026 06:30:35 +0900",
+        "summary": "France and England are set to face off in the third-place match of the World Cup, where the battle for the top goal scorer title is also drawing major attention.",
         "sentences": [
           {
-            "en": "On the seventh day of the Nagoya Grand Sumo Tournament, Yokozuna Oonosato is set to face Hakunofuji, a lower-ranked maegashira wrestler.",
-            "ja": "大相撲名古屋場所の7日目、横綱の大の里は、平幕の伯乃富士との対戦に臨みます。"
+            "en": "The third-place playoff of the World Cup in North America is about to begin.",
+            "ja": "北中米で開催されているワールドカップの3位決定戦がまもなく始まります。"
           },
           {
-            "en": "Hakunofuji is highly motivated, aiming to claim a \"kinboshi\"—a gold star upset victory over a Yokozuna—for the second day in a row.",
-            "ja": "伯乃富士は、2日連続となる横綱からの白星「金星」の獲得を狙っており、闘志を燃やしています。"
+            "en": "This highly anticipated match features France, ranked third in the world, against England, ranked fourth.",
+            "ja": "この注目の対戦では、世界ランキング3位のフランスと4位のイングランドが激突します。"
           },
           {
-            "en": "Meanwhile, Oonosato, who has just returned to this tournament after sitting out previous matches due to injury, is starting to find his rhythm.",
-            "ja": "一方、休場明けで今場所に戻ってきた大の里は、徐々に自身のペースを取り戻しつつあります。"
+            "en": "Along with the outcome of the match, many are focusing on the race for the Golden Boot.",
+            "ja": "試合の勝敗とともに、多くの人が得点王争いに注目しています。"
           },
           {
-            "en": "On the sixth day of the tournament, he secured a victory against another maegashira wrestler, Hiradoumi, by utilizing his signature powerful pushing style.",
-            "ja": "6日目の対戦では、持ち味である馬力を生かした相撲で平幕の平戸海を破りました。"
+            "en": "Star players from both teams are competing closely to become the tournament's top goal scorer.",
+            "ja": "両チームのスター選手たちが、今大会の得点王の座をかけて競い合っています。"
           },
           {
-            "en": "This decisive win marked his second consecutive victory, bringing his current tournament record to three wins and three losses.",
-            "ja": "この快勝によって2連勝となり、現在の成績を3勝3敗の五分に戻しました。"
+            "en": "Here is the latest information on this exciting matchup.",
+            "ja": "この刺激的な対戦に関する最新情報をお伝えします。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180411000.html",
+        "title": "アルゼンチン メッシの地元でサッカーW杯連覇に期待の声",
+        "title_ja": "W杯決勝でスペインとアルゼンチンが激突へ、メッシの地元でも高まる期待",
+        "date": "Sun, 19 Jul 2026 06:29:28 +0900",
+        "summary": "Spain and Argentina will face off in the upcoming World Cup final. Excitement is reaching a fever pitch in Argentina, especially in Lionel Messi's hometown, as fans hope for a second consecutive title.",
+        "sentences": [
+          {
+            "en": "The final match of the World Cup will take place on the 20th, Japan time, featuring a thrilling clash between Spain and Argentina.",
+            "ja": "サッカーワールドカップの決勝が日本時間の20日に行われ、スペインとアルゼンチンが激突します。"
           },
           {
-            "en": "Sumo fans are eagerly watching to see if Oonosato can maintain this momentum and continue his winning streak.",
-            "ja": "大の里がこの勢いを維持し、連勝を伸ばすことができるか、相撲ファンは熱い視線を送っています。"
+            "en": "In Argentina, anticipation is growing rapidly as fans hope for back-to-back championship victories.",
+            "ja": "アルゼンチン国内では、大会連覇への期待からファンの間で急速に興奮が高まっています。"
+          },
+          {
+            "en": "This excitement is particularly high in the hometown of Argentina's star player, Lionel Messi.",
+            "ja": "この熱狂は、アルゼンチンのエースであるリオネル・メッシ選手の地元で特に高まっています。"
+          },
+          {
+            "en": "In the capital city of Buenos Aires, supporters are already gathering to show their passionate support.",
+            "ja": "首都ブエノスアイレスでは、熱烈な声援を送るためにサポーターたちがすでに集まり始めています。"
+          },
+          {
+            "en": "Many local residents are dreaming of seeing their national hero lift the trophy once again.",
+            "ja": "多くの地元住民は、国のヒーローが再びトロフィーを掲げる姿を見ることを夢見ています。"
+          },
+          {
+            "en": "The entire football world is watching closely to see which country will claim the ultimate victory.",
+            "ja": "どちらの国が究極の勝利を手にするのか、サッカー界全体が固唾をのんで見守っています。"
           }
         ]
       }
