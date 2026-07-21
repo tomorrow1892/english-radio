@@ -1,155 +1,126 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181481000.html",
-      "title": "広い範囲で気温上昇 埼玉県では酷暑日予想 熱中症に厳重警戒",
-      "title_ja": "東日本から西日本で危険な酷暑、埼玉県で40度予想",
-      "date": "Tue, 21 Jul 2026 06:04:38 +0900",
-      "summary": "Extremely high temperatures, reaching up to 40 degrees Celsius in Saitama, are expected across eastern and western Japan, prompting urgent warnings for heatstroke prevention.",
+      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182151000.html",
+      "title": "関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨",
+      "title_ja": "関東・東海で「酷暑日」予想、熱中症に厳重警戒",
+      "date": "Wed, 22 Jul 2026 06:14:38 +0900",
+      "summary": "Japan recorded its first-ever official \"extreme heat days\" as temperatures exceeded 40°C in Gifu and Aichi prefectures, with dangerous heat expected to continue in the Kanto and Tokai regions.",
       "sentences": [
         {
-          "en": "On the 21st, temperatures are expected to rise significantly across a wide area spanning from eastern to western Japan.",
-          "ja": "21日も、東日本から西日本にかけての広い範囲で気温が大幅に上昇する見込みです。"
+          "en": "On the 21st, maximum temperatures in Gifu and Aichi prefectures reached 40 degrees Celsius or higher.",
+          "ja": "21日は、岐阜県と愛知県で最高気温が40度以上となりました。"
         },
         {
-          "en": "In Saitama Prefecture, the temperature is projected to reach 40 degrees Celsius, which is a dangerously high, life-threatening level.",
-          "ja": "埼玉県では気温が40度に達すると予想されており、これは命に関わる危険な暑さです。"
+          "en": "This marked the first-ever official \"extreme heat days\" since the Japan Meteorological Agency began using this classification.",
+          "ja": "これは、気象庁がこの区分の運用を開始して以来、初めての「酷暑日」となりました。"
         },
         {
-          "en": "Due to these extreme conditions, people are being urged to be on high alert for heatstroke.",
-          "ja": "この極端な状況のため、熱中症に対して厳重に警戒するよう呼びかけられています。"
+          "en": "The extreme heat is expected to persist on the 22nd, with temperatures potentially reaching \"extreme heat\" levels again in the Kanto and Tokai regions.",
+          "ja": "この極端な暑さは22日も続く見込みで、関東と東海地方でも「酷暑日」が予想されています。"
         },
         {
-          "en": "It is crucial to take proactive measures, such as staying hydrated and using air conditioning properly.",
-          "ja": "水分を補給することや、エアコンを適切に使用するなど、事前の対策を心がけることが極めて重要です。"
+          "en": "Weather officials are urging the public to take strict precautions against heatstroke.",
+          "ja": "気象当局は、熱中症に対して厳重に警戒するよう強く呼びかけています。"
         },
         {
-          "en": "Please try to avoid going outdoors during the hottest times of the day if possible.",
-          "ja": "できる限り、日中の最も暑い時間帯の外出は避けるようにしてください。"
-        },
-        {
-          "en": "Keep a close eye on the latest weather updates to stay safe during this severe heatwave.",
-          "ja": "この厳しい暑さを乗り切るために、最新の気象情報をこまめに確認し、安全に過ごしてください。"
+          "en": "Please make sure to stay hydrated, use air conditioning, and avoid unnecessary outdoor activities during peak hours.",
+          "ja": "水分をしっかり補給し、エアコンを使用し、最も暑い時間帯の不要不急の外出を避けるようにしてください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181341000.html",
-      "title": "危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行",
-      "title_ja": "危険運転の数値基準を定めた改正法が施行",
-      "date": "Tue, 21 Jul 2026 06:19:19 +0900",
-      "summary": "A revised Japanese law has officially gone into effect, setting specific numerical standards to apply the charge of dangerous driving causing death or injury to drunk driving and speeding.",
+      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182261000.html",
+      "title": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
+      "title_ja": "ニチレイにサイバー攻撃、ハッカー集団が犯行声明",
+      "date": "Wed, 22 Jul 2026 05:01:00 +0900",
+      "summary": "Major Japanese frozen food producer Nichirei suffered a cyberattack that disrupted shipping operations, with a hacker group claiming responsibility.",
       "sentences": [
         {
-          "en": "A revised law in Japan that sets strict numerical standards for dangerous driving has officially gone into effect.",
-          "ja": "危険運転に厳格な数値基準を設ける日本の改正法が、正式に施行されました。"
+          "en": "Major Japanese frozen food producer Nichirei has suffered a system failure caused by a cyberattack, affecting its shipping operations.",
+          "ja": "冷凍食品大手のニチレイがサイバー攻撃によるシステム障害に見舞われ、出荷業務に影響が出ています。"
         },
         {
-          "en": "The revised Act on Punishment of Acts Governing Driving of Motor Vehicles was passed in June and took effect on the 21st.",
-          "ja": "改正自動車運転処罰法は6月に成立し、21日に施行されました。"
+          "en": "According to security experts, a hacker group claimed responsibility for the attack on the night of November 21st.",
+          "ja": "セキュリティ会社への取材によると、11月21日の夜、あるハッカー集団がこの攻撃に対する犯行声明を出しました。"
         },
         {
-          "en": "The new law aims to clarify the standards for applying the charge of dangerous driving causing death or injury.",
-          "ja": "新法は、危険運転致死傷罪を適用するための基準を明確にすることを目的としています。"
+          "en": "The hacker group claimed to have breached the company's network and compromised their internal systems.",
+          "ja": "ハッカー集団は同社のネットワークに侵入し、社内システムを麻痺させたと主張しています。"
         },
         {
-          "en": "Under the new rules, the charge will apply to drunk driving if a driver has 0.5 milligrams or more of alcohol per liter of breath.",
-          "ja": "新しい規則のもとでは、呼気1リットルにつき0.5ミリグラム以上のアルコールが検出された場合の飲酒運転にこの罪が適用されます。"
+          "en": "Nichirei is currently investigating the scale of the damage while working to safely restore its operations.",
+          "ja": "ニチレイは安全に業務を復旧させるための作業を進めつつ、現在、被害の規模について調査を行っています。"
         },
         {
-          "en": "It also establishes specific numerical limits for speeding to ensure reckless drivers are held accountable.",
-          "ja": "また、無謀な運転手の責任を追及するため、高速度での走行に対しても具体的な数値基準が盛り込まれています。"
+          "en": "Many retail stores and supermarkets may experience delays in receiving frozen food deliveries because of this incident.",
+          "ja": "この問題の影響により、多くの小売店やスーパーで冷凍食品の配送に遅れが生じる可能性があります。"
+        },
+        {
+          "en": "Experts warn that cyberattacks targeting critical supply chains are becoming increasingly common and sophisticated.",
+          "ja": "専門家は、重要なサプライチェーンを狙ったサイバー攻撃がますます一般的になり、巧妙化していると警告しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
-      "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
-      "title_ja": "沖ノ鳥島周辺のEEZ内で中国船が射撃訓練、ロシア船も確認され防衛省が警戒",
-      "date": "Tue, 21 Jul 2026 04:44:47 +0900",
-      "summary": "The Japanese Ministry of Defense has raised its alert level after a Chinese naval vessel conducted a machine gun drill within Japan's EEZ near Okinotorishima, with Russian ships also spotted nearby.",
+      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182271000.html",
+      "title": "ウクライナ 国防相に続き軍総司令官も交代 異例の事態",
+      "title_ja": "ウクライナのゼレンスキー大統領、軍総司令官を解任",
+      "date": "Wed, 22 Jul 2026 06:46:52 +0900",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has dismissed Commander-in-Chief Oleksandr Syrskyi and appointed Mykhailo Drapatyi as his successor, continuing a series of leadership changes amid the ongoing conflict.",
       "sentences": [
         {
-          "en": "The Japanese Ministry of Defense announced that a Chinese Navy vessel was spotted conducting a military drill within Japan's Exclusive Economic Zone.",
-          "ja": "防衛省は、中国海軍の艦艇が日本の排他的経済水域（EEZ）内で軍事演習を行っているのを確認したと発表しました。"
+          "en": "On November 21st, Ukrainian President Volodymyr Zelenskyy announced the dismissal of the military's Commander-in-Chief, Oleksandr Syrskyi.",
+          "ja": "ウクライナのゼレンスキー大統領は21日、軍のシルスキー総司令官を解任したと発表しました。"
         },
         {
-          "en": "The drill, which included machine gun firing, took place on the 19th near Okinotorishima Island in the Ogasawara chain.",
-          "ja": "機関銃の射撃訓練を含むこの演習は、19日に小笠原諸島の沖ノ鳥島周辺で実施されました。"
+          "en": "He appointed Mykhailo Drapatyi, the current Joint Forces Commander, as the new successor.",
+          "ja": "後任には、統合軍司令官を務めるミハイロ・ドラパティ氏を起用します。"
         },
         {
-          "en": "At around the same time, Russian Navy vessels were also confirmed in the nearby waters.",
-          "ja": "ほぼ同じ時期に、付近の海域ではロシア海軍の艦艇も確認されています。"
+          "en": "This major shake-up comes as the country continues to face a difficult situation during the ongoing Russian invasion.",
+          "ja": "この大幅な体制変更は、ロシアによる軍事侵攻が続く中、国が困難な状況に直面し続ける中で行われました。"
         },
         {
-          "en": "This has raised concerns, as it is highly unusual for foreign military vessels to conduct live-fire exercises inside Japan's EEZ.",
-          "ja": "外国の軍用艦艇が日本のEEZ内で実弾演習を行うのは極めて異例のことであり、懸念が高まっています。"
+          "en": "In Ukraine, both the defense minister and top military leaders have been successively replaced recently.",
+          "ja": "ウクライナでは最近、国防相や軍のトップが相次いで交代しています。"
         },
         {
-          "en": "In response, the Ministry of Defense is maintaining a high level of alert and closely monitoring their activities.",
-          "ja": "これを受けて防衛省は、警戒レベルを維持し、彼らの活動を注意深く監視しています。"
-        },
-        {
-          "en": "Officials are also analyzing the intentions behind the simultaneous presence of Chinese and Russian ships in the area.",
-          "ja": "関係当局は、同海域に中国とロシアの艦艇が同時に存在していた背後にある意図についても分析を進めています。"
+          "en": "These leadership changes reflect the government's efforts to adapt its military strategy during the prolonged conflict.",
+          "ja": "こうした指導部の交代は、長期化する紛争の中で軍事戦略を適応させようとする政府の動きを反映しています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181391000.html",
-      "title": "与党 「副首都」法案成立目指す 野党 衆院超える審議時間を",
-      "title_ja": "「副首都」法案をめぐる与野党の攻防",
-      "date": "Tue, 21 Jul 2026 06:14:59 +0900",
-      "summary": "The Japanese ruling coalition aims to pass a \"sub-capital\" bill this week, while opposition parties criticize it as being too focused on Osaka and demand more deliberation time.",
+      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182251000.html",
+      "title": "ケンタッキー きょうから全店舗で通常営業を再開",
+      "title_ja": "ケンタッキー、システム障害による時短営業から全店通常営業へ",
+      "date": "Wed, 22 Jul 2026 05:03:32 +0900",
+      "summary": "Kentucky Fried Chicken Japan has resumed normal operating hours at all stores following a supply disruption caused by a system failure at Nichirei.",
       "sentences": [
         {
-          "en": "Japan's ruling coalition has begun deliberations in the House of Councillors on a bill related to the \"sub-capital\" concept.",
-          "ja": "「副首都」構想に関連する法案をめぐり、日本の与党側は参議院での審議を開始しました。"
+          "en": "Kentucky Fried Chicken Japan has announced that all of its stores have returned to normal operating hours starting from the 22nd.",
+          "ja": "日本ケンタッキー・フライド・チキンは、22日からすべての店舗で通常の営業時間に戻ったと発表しました。"
         },
         {
-          "en": "The ruling parties started the debate on the 22nd and aim to pass the legislation by the 24th of this week.",
-          "ja": "与党側は22日に審議入りさせ、今週24日の成立を目指す方針です。"
+          "en": "Previously, some locations had been forced to shorten their business hours.",
+          "ja": "これに先立ち、一部の店舗では営業時間を短縮せざるを得ない状況となっていました。"
         },
         {
-          "en": "However, opposition parties are strongly pushing back against this rapid timeline.",
-          "ja": "これに対し、野党側はこの迅速なスケジュールに強く反発しています。"
+          "en": "This disruption was caused by a major system failure at Nichirei, a leading Japanese frozen food and logistics company.",
+          "ja": "この混乱は、冷凍食品や物流の大手であるニチレイで発生した大規模なシステム障害が原因でした。"
         },
         {
-          "en": "They criticize the bill, claiming that it is designed with the assumption that Osaka is the only choice.",
-          "ja": "野党側は、この法案が「大阪ありき」で設計されているとして批判しています。"
+          "en": "The system issue temporarily affected the distribution and supply chain of KFC's ingredients.",
+          "ja": "このシステム障害により、ケンタッキーの食材の流通やサプライチェーンに一時的な影響が出ていました。"
         },
         {
-          "en": "As a result, they are demanding that the government secure even more deliberation time in the Upper House than was allowed in the Lower House.",
-          "ja": "そのため、衆議院での審議時間を超える十分な審議時間を参議院で確保するよう求めています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181461000.html",
-      "title": "米大統領 イランへの攻撃強化の構え 双方による応酬収まらず",
-      "title_ja": "トランプ氏、兵士死亡でイランへ警告",
-      "date": "Tue, 21 Jul 2026 06:24:03 +0900",
-      "summary": "Following the deaths of American soldiers in the Middle East, President Trump has warned Iran that they will pay a heavy price and signaled his readiness to escalate military action.",
-      "sentences": [
-        {
-          "en": "Tensions are rising once again between the United States and Iran following the deaths of American soldiers in the Middle East.",
-          "ja": "中東でアメリカ軍の兵士が死亡したことを受け、アメリカとイランの間で再び緊張が高まっています。"
+          "en": "Fortunately, the logistics system has now been restored, allowing supply lines to return to normal.",
+          "ja": "幸いなことに、現在は物流システムが復旧し、供給体制も通常通りに戻っています。"
         },
         {
-          "en": "In response to the incident, U.S. President Donald Trump has issued a strong warning to the Iranian government.",
-          "ja": "この事態を受け、アメリカのトランプ大統領はイラン政府に対して強い警告を発しました。"
-        },
-        {
-          "en": "Trump declared that every time Iran kills an American soldier, they will pay a price many times greater.",
-          "ja": "トランプ氏は、イランがアメリカの兵士を殺害するたびに、彼らはその何倍もの代償を支払うことになると宣言しました。"
-        },
-        {
-          "en": "He also signaled a readiness to ramp up military action against Iran to deter future attacks.",
-          "ja": "さらに同氏は、今後の攻撃を阻止するため、イランへの軍事行動を強化する構えを示しました。"
-        },
-        {
-          "en": "International observers are closely watching how this escalating rhetoric will impact stability in the region.",
-          "ja": "国際的な専門家らは、このエスカレートする発言が地域の安定にどのような影響を与えるか、注視しています。"
+          "en": "KFC apologized to its customers for any inconvenience caused during the period of reduced hours.",
+          "ja": "ケンタッキーは、短縮営業の期間中に顧客に不便をかけたことについて謝罪しました。"
         }
       ]
     }
@@ -157,411 +128,440 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181301000.html",
-        "title": "【動画】Pickup NEWS（7月21日）",
-        "title_ja": "1分でわかる最新ニュース動画のご案内",
-        "date": "Tue, 21 Jul 2026 06:46:39 +0900",
-        "summary": "This announcement introduces a convenient one-minute video summarizing the latest news, though it is unavailable through data broadcasting.",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182151000.html",
+        "title": "関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨",
+        "title_ja": "岐阜と愛知で初の「酷暑日」を記録、関東・東海でも厳重警戒",
+        "date": "Wed, 22 Jul 2026 06:14:38 +0900",
+        "summary": "Temperatures exceeded 40 degrees Celsius in Gifu and Aichi Prefectures, marking Japan's first official \"Extreme Heat Days.\" Extreme heat warnings continue for the Kanto and Tokai regions, with authorities advising strict heatstroke precautions.",
         "sentences": [
           {
-            "en": "Welcome to our quick news update, where we bring you today's top stories.",
-            "ja": "本日の主なニュースをお届けする、クイックニュースアップデートへようこそ。"
+            "en": "On July 21st, temperatures in Gifu and Aichi Prefectures soared to over 40 degrees Celsius.",
+            "ja": "7月21日、岐阜県と愛知県で最高気温が40度以上となりました。"
           },
           {
-            "en": "We have summarized the latest news events into a convenient one-minute video.",
-            "ja": "これまでに入っている最新のニュースを、便利な1分間の動画にまとめました。"
+            "en": "This marked the first official \"Extreme Heat Day\" since the Japan Meteorological Agency introduced the category.",
+            "ja": "これにより、気象庁がこの区分を導入して以来、初めての公式な「酷暑日」となりました。"
           },
           {
-            "en": "This format is perfect for anyone who wants to catch up on the day's events quickly.",
-            "ja": "この形式は、一日の出来事を素早く把握したい方に最適です。"
+            "en": "Extreme heat is also expected on July 22nd, particularly in the Kanto and Tokai regions.",
+            "ja": "7月22日も、特に関東地方と東海地方で「酷暑日」が予想されています。"
           },
           {
-            "en": "Please note that if you are using data broadcasting services, you will not be able to watch this video.",
-            "ja": "なお、データ放送をご利用の場合は、こちらの動画をご覧いただけませんのでご注意ください。"
+            "en": "Authorities are urging the public to take strict precautions against heatstroke.",
+            "ja": "関係機関は、熱中症に対して厳重に警戒するよう強く呼びかけています。"
           },
           {
-            "en": "We hope this short summary helps you stay informed during your busy day.",
-            "ja": "忙しい一日の合間に、この短いまとめが情報収集のお役に立てば幸いです。"
-          },
-          {
-            "en": "Thank you for tuning in, and please enjoy the video presentation.",
-            "ja": "ご視聴いただきありがとうございます。それでは動画をお楽しみください。"
+            "en": "Please stay hydrated, use air conditioning, and avoid going outside during the hottest parts of the day.",
+            "ja": "水分をこまめに補給し、エアコンを使用し、一日のうちで最も暑い時間帯の外出は避けるようにしてください。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181341000.html",
-        "title": "危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行",
-        "title_ja": "改正自動車運転処罰法が施行、危険運転に数値基準を導入",
-        "date": "Tue, 21 Jul 2026 06:19:19 +0900",
-        "summary": "A revised Japanese law has taken effect, introducing clear numerical standards for dangerous driving. This change aims to simplify the prosecution of severe drunk driving and high-speed offenses.",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182141000.html",
+        "title": "「津波注意報で広域避難指示」は信頼性損なうおそれ 国通知",
+        "title_ja": "フィリピン沖地震での避難指示と今後の津波対策",
+        "date": "Wed, 22 Jul 2026 06:00:56 +0900",
+        "summary": "Following a major June earthquake near the Philippines, some Japanese municipalities issued widespread evacuation orders, prompting government agencies to review guidelines for more effective disaster response.",
         "sentences": [
           {
-            "en": "A revised law targeting dangerous driving officially went into effect in Japan on the 21st.",
-            "ja": "危険運転を取り締まる改正法が、21日に日本で正式に施行されました。"
+            "en": "Following a major earthquake near the Philippines in June, tsunami advisories were issued across various regions in Japan.",
+            "ja": "6月にフィリピン付近で発生した大地震の後、日本国内の各地に津波注意報が発表されました。"
           },
           {
-            "en": "This legislation, which was passed in June, introduces clear numerical standards for defining dangerous driving.",
-            "ja": "6月に成立したこの法律は、危険運転を定義するための明確な数値基準を導入しています。"
+            "en": "In response, some local municipalities issued evacuation orders for areas expected to be flooded by a worst-case scenario tsunami.",
+            "ja": "これを受けて、一部の自治体は最大クラスの津波で浸水が想定される区域に避難指示を出しました。"
           },
           {
-            "en": "Specifically, these new standards apply to drunk driving and traveling at extremely high speeds.",
-            "ja": "具体的には、これらの新しい基準は、飲酒運転や極端な高速度での走行に適用されます。"
+            "en": "However, calling for evacuations over such a massive area can sometimes lead to confusion among residents.",
+            "ja": "しかし、これほど広大な範囲に避難を呼びかけることは、時に住民の間に混乱を招くことがあります。"
           },
           {
-            "en": "Under the revised law, a driver with a breath alcohol level of 0.5 milligrams or more per liter can be charged with dangerous driving causing death or injury.",
-            "ja": "改正法のもとでは、呼気1リットルにつき0.5ミリグラム以上のアルコールが検出された運転手は、危険運転致死傷罪に問われる可能性があります。"
+            "en": "Because of this, the Cabinet Office and related agencies are reviewing the guidelines to ensure more effective evacuation instructions.",
+            "ja": "このため、内閣府などの関係機関は、より効果的な避難指示が行えるようガイドラインの見直しを進めています。"
           },
           {
-            "en": "Previously, the lack of objective numerical standards made it difficult to apply this severe charge.",
-            "ja": "これまでは、客観的な数値基準がなかったため、この重い罪を適用することが困難でした。"
+            "en": "Experts emphasize that residents should regularly check local hazard maps to understand their actual risk levels.",
+            "ja": "専門家は、住民が日頃から地域のハザードマップを確認し、実際の危険度を把握しておくことが重要だと強調しています。"
           },
           {
-            "en": "The government hopes these strict and clear guidelines will help prevent reckless behavior on the road.",
-            "ja": "政府は、これらの厳格かつ明確なガイドラインが、道路上での無謀な行為を防止するのに役立つことを期待しています。"
+            "en": "Staying informed and acting calmly is key to staying safe during sudden coastal emergencies.",
+            "ja": "突然の沿岸部の緊急事態において安全を確保するためには、情報を常に把握し、冷静に行動することが鍵となります。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html",
-        "title": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
-        "title_ja": "チャップリンの名作映画が文楽に：大阪で公演がスタート",
-        "date": "Sun, 19 Jul 2026 08:42:39 +0900",
-        "summary": "A unique Bunraku puppet performance based on Charlie Chaplin's 1931 classic film 'City Lights' has begun at the National Bunraku Theatre in Osaka.",
+        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181931000.html",
+        "title": "iPS脊髄損傷治療の研究 長期でも悪化せず安全性確認",
+        "title_ja": "iPS細胞による脊髄損傷治療、長期的な安全性を確認",
+        "date": "Tue, 21 Jul 2026 18:00:32 +0900",
+        "summary": "A research group from Keio University reported that a patient treated with iPS cells for a spinal cord injury has shown no long-term deterioration in motor function or serious side effects.",
         "sentences": [
           {
-            "en": "A unique Bunraku puppet theater performance based on a classic Charlie Chaplin film has begun in Osaka.",
-            "ja": "喜劇王チャップリンの名作映画を原作にした、ユニークな人形浄瑠璃文楽の公演が大阪で始まりました。"
+            "en": "A research group led by Keio University has reported on the long-term progress of a patient who received a pioneering spinal cord injury treatment.",
+            "ja": "慶応義塾大学などの研究グループは、先駆的な脊髄損傷治療を受けた患者の長期的な経過報告を行いました。"
           },
           {
-            "en": "The show opened on the evening of the 18th at the National Bunraku Theatre in Nipponbashi.",
-            "ja": "この公演は、18日の夜から日本橋の国立文楽劇場で始まりました。"
+            "en": "This groundbreaking clinical study used iPS cells, marking the first trial of its kind in the world.",
+            "ja": "この画期的な臨床研究にはiPS細胞が使用されており、世界初の試みとして注目されています。"
           },
           {
-            "en": "The featured play is an adaptation of 'City Lights,' a famous 1931 American film directed by Chaplin himself.",
-            "ja": "上演されているのは、1931年に制作されたチャップリン自身が監督したアメリカの名作映画『街の灯』を脚色したものです。"
+            "en": "The patient had previously made headlines after showing significant improvements in their symptoms following the cell transplant.",
+            "ja": "この患者は、細胞移植後に症状の大幅な改善が見られたことで、以前大きな話題となりました。"
           },
           {
-            "en": "This creative crossover blends traditional Japanese puppetry with classic Western cinema.",
-            "ja": "この創造的なクロスオーバーは、日本の伝統的な人形劇と古典的な西洋映画を融合させています。"
+            "en": "According to the latest update, the patient's motor functions have not deteriorated over a long period.",
+            "ja": "最新の経過報告によると、患者の運動機能は長期間にわたって悪化していないことが確認されました。"
           },
           {
-            "en": "Audience members were deeply moved by the emotional story, which was beautifully expressed through the detailed movements of the puppets.",
-            "ja": "人形たちの繊細な動きによって美しく表現された感情豊かなストーリーに、観客は深く感動していました。"
+            "en": "Furthermore, researchers confirmed that no serious side effects or safety issues have been observed.",
+            "ja": "さらに、重い副作用や安全上の問題なども見られなかったことが確認されています。"
           },
           {
-            "en": "This special collaboration offers a fresh and exciting perspective on both Chaplin's masterpiece and the traditional art of Bunraku.",
-            "ja": "この特別なコラボレーションは、チャップリンの傑作と文楽の伝統芸能の両方に、新鮮で刺激的な視点を与えてくれます。"
+            "en": "This positive outcome brings new hope to millions of people suffering from spinal cord injuries worldwide.",
+            "ja": "この前向きな成果は、世界中で脊髄損傷に苦しむ何百万人もの人々に新たな希望をもたらしています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180481000.html",
-        "title": "多くの戦死者の遺骨が残る硫黄島 学生たちが慰霊",
-        "title_ja": "学生たちが硫黄島を訪問、戦没者を慰霊",
-        "date": "Sun, 19 Jul 2026 08:17:00 +0900",
-        "summary": "A group of students visited Iwo Jima in the Ogasawara Islands to pay tribute to the war dead on the historical battlefield where many soldiers' remains still lie.",
+        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181881000.html",
+        "title": "首都圏新築マンション平均価格 上半期初めて1億円超に",
+        "title_ja": "首都圏の新築マンション平均価格、上半期で初の1億円超え",
+        "date": "Tue, 21 Jul 2026 16:36:49 +0900",
+        "summary": "The average price of new condominiums in the Tokyo metropolitan area surpassed 100 million yen for the first time in the first half of the year, driven by rising costs.",
         "sentences": [
           {
-            "en": "A group of students recently visited Iwo Jima in the Ogasawara Islands, where a fierce ground battle was fought between Japanese and U.S. forces near the end of World War II.",
-            "ja": "太平洋戦争の末期、日米両軍の間で激しい地上戦が行われた小笠原諸島の硫黄島を、学生たちのグループが最近訪問しました。"
+            "en": "According to a private research firm, the average price of a newly built condominium in the Tokyo metropolitan area reached a record high in the first half of this year.",
+            "ja": "民間の調査会社によると、今年上半期に首都圏で販売された新築マンションの平均価格が過去最高を記録しました。"
           },
           {
-            "en": "On the 18th, the visitors arrived on the island to hold a memorial service at the site where the battle took place.",
-            "ja": "18日、訪問団は戦闘が行われた現地で慰霊式を行うため、島に到着しました。"
+            "en": "The average price during this period was 101.35 million yen, exceeding the 100 million yen mark for the first time ever in a first-half period.",
+            "ja": "この期間の平均価格は1億135万円となり、上半期として初めて1億円の大台を突破しました。"
           },
           {
-            "en": "Even now, the remains of many soldiers who died in the war still rest on the island.",
-            "ja": "今もなお、戦争で亡くなった多くの戦死者の遺骨がこの島に残されています。"
+            "en": "The Real Estate Economic Institute reported these figures for Tokyo and its three neighboring prefectures.",
+            "ja": "不動産経済研究所は、東京と隣接する3県を対象としたこれらの数値を発表しました。"
           },
           {
-            "en": "This trip was part of an initiative to pass down the memories of the war to younger generations.",
-            "ja": "この訪問は、若い世代に戦争の記憶を継承するための取り組みの一環として行われました。"
+            "en": "This sharp increase is mainly driven by soaring construction costs and the popularity of luxury apartments in central Tokyo.",
+            "ja": "この急激な上昇は、主に建設資材の高騰や、都心部における高級マンションの人気が背景にあります。"
           },
           {
-            "en": "The students directly experienced the reality of the past and renewed their prayers for lasting peace.",
-            "ja": "学生たちは過去の現実を直接肌で感じ、恒久平和への祈りを新たにしました。"
+            "en": "As prices continue to rise, it is becoming increasingly difficult for average buyers to purchase a new home in the capital region.",
+            "ja": "価格の上昇が続く中、一般的な購入層が首都圏で新築の住まいを購入することはますます難しくなっています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180761000.html",
-        "title": "競技かるたの高校日本一決める全国大会 高校生が熱い戦い 滋賀",
-        "title_ja": "高校生が競う「競技かるたの甲子園」、近江神宮で開幕",
-        "date": "Sun, 19 Jul 2026 16:23:43 +0900",
-        "summary": "The national high school competitive karuta championship is being held at Omi Jingu Shrine in Shiga Prefecture, where young players compete intensely in the tournament known as the 'Koshien of karuta.'",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182261000.html",
+        "title": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
+        "title_ja": "ニチレイへのサイバー攻撃でハッカー集団が犯行声明",
+        "date": "Wed, 22 Jul 2026 05:01:00 +0900",
+        "summary": "A hacker group has claimed responsibility for a cyberattack on major Japanese frozen food maker Nichirei, which caused system failures and disrupted shipments.",
         "sentences": [
           {
-            "en": "A national championship is currently underway to determine the top high school competitive karuta team in Japan.",
-            "ja": "競技かるたの高校日本一を決める全国大会が、現在開催されています。"
+            "en": "A hacker group has claimed responsibility for a cyberattack on the major Japanese frozen food company Nichirei.",
+            "ja": "日本の冷凍食品大手「ニチレイ」に対するサイバー攻撃について、ハッカー集団が犯行声明を出しました。"
           },
           {
-            "en": "The main venue for the tournament is Omi Jingu Shrine in Otsu City, Shiga Prefecture, which is widely known as the 'sacred place of karuta.'",
-            "ja": "大会の主な会場は、かるたの聖地として広く知られる滋賀県大津市の近江神宮です。"
+            "en": "According to information from a cybersecurity firm, the group posted their claim on the night of the 21st.",
+            "ja": "セキュリティ会社への取材によると、このハッカー集団は21日の夜に犯行声明を出したとのことです。"
           },
           {
-            "en": "Often referred to as the 'Koshien of competitive karuta,' this prestigious tournament has drawn passionate students from all over the country.",
-            "ja": "「競技かるたの甲子園」とも呼ばれるこの権威ある大会には、全国から熱意ある生徒たちが集まっています。"
+            "en": "The cyberattack previously caused a major system failure at the company, disrupting shipments and other operations.",
+            "ja": "このサイバー攻撃により、同社ではシステム障害が発生し、出荷などの業務に影響が出ていました。"
           },
           {
-            "en": "The high school players are engaging in intense matches, showing incredible speed and concentration as they swipe the cards.",
-            "ja": "高校生たちは、札を払う際に驚異的なスピードと集中力を見せ、白熱した試合を繰り広げています。"
+            "en": "Experts warn that cyberattacks targeting major companies can have a widespread impact on daily life.",
+            "ja": "専門家は、大手企業を標的にしたサイバー攻撃が日常生活に広範な影響を及ぼす可能性があると警告しています。"
           },
           {
-            "en": "This annual event showcases the youth's dedication to preserving and competing in this traditional Japanese card game.",
-            "ja": "この年に一度のイベントは、日本の伝統的なカードゲームを守り、競い合う若者たちのひたむきな姿勢を示しています。"
+            "en": "Companies are being urged to strengthen their security measures to prevent similar incidents in the future.",
+            "ja": "同様の事案の再発を防ぐため、各企業にはセキュリティ対策の強化が求められています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180401000.html",
-        "title": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
-        "title_ja": "チャップリンの名作映画が文楽に 大阪で公演開始",
-        "date": "Sun, 19 Jul 2026 08:42:39 +0900",
-        "summary": "A unique Bunraku puppet theater performance based on Charlie Chaplin's 1931 classic film has begun at the National Bunraku Theatre in Osaka.",
+        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181931000.html",
+        "title": "iPS脊髄損傷治療の研究 長期でも悪化せず安全性確認",
+        "title_ja": "iPS細胞を使った脊髄損傷治療、長期経過でも良好な結果",
+        "date": "Tue, 21 Jul 2026 18:00:32 +0900",
+        "summary": "A research group from Keio University reported that patients who received a pioneering spinal cord injury treatment using iPS cells showed no deterioration in motor functions or severe side effects over the long term.",
         "sentences": [
           {
-            "en": "A unique Bunraku puppet theater performance based on a film by the comedy legend Charlie Chaplin has started in Osaka.",
-            "ja": "喜劇王チャーリー・チャップリンの映画を原作にした、ユニークな人形浄瑠璃文楽の公演が大阪で始まりました。"
+            "en": "A research group from Keio University has released a follow-up report on patients who underwent a groundbreaking spinal cord injury treatment using iPS cells.",
+            "ja": "慶応大学などの研究グループは、iPS細胞を用いた画期的な脊髄損傷治療を受けた患者の、その後の経過報告を発表しました。"
           },
           {
-            "en": "The performances began on the evening of the 18th at the National Bunraku Theatre in Nihonbashi.",
-            "ja": "公演は18日の夜から、日本橋の国立文楽劇場で始まっています。"
+            "en": "These patients were previously recognized as the first in the world to show symptomatic improvement from this type of therapy.",
+            "ja": "これらの患者は、この治療法によって世界で初めて症状の改善が見られたことで知られています。"
           },
           {
-            "en": "The featured play is an adaptation of the 1931 American film directed by Chaplin himself.",
-            "ja": "上演されているのは、1931年に制作された、チャップリン自らが監督を務めたアメリカ映画を原作にした作品です。"
+            "en": "The group's long-term study revealed that the patients' motor functions have not deteriorated over an extended period.",
+            "ja": "同グループの長期的な調査により、患者の運動機能が長期間にわたって悪化していないことが明らかになりました。"
           },
           {
-            "en": "This production beautifully blends traditional Japanese performing arts with classic Western cinema.",
-            "ja": "この作品は、日本の伝統芸能と西洋の古典映画を美しく融合させています。"
+            "en": "Additionally, no severe side effects or safety concerns were reported during the observation period.",
+            "ja": "さらに、観察期間中に重い副作用や安全上の懸念は報告されませんでした。"
           },
           {
-            "en": "Viewers can experience how the film's humor and emotion are brought to life through the puppets' delicate movements.",
-            "ja": "観客は、映画のユーモアと感動が、人形たちの繊細な動きによってどのように表現されるかを体験することができます。"
+            "en": "This promising result is expected to pave the way for the practical application of regenerative medicine.",
+            "ja": "この有望な結果は、再生医療の実用化に向けた道を開くものと期待されています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181391000.html",
-        "title": "与党 「副首都」法案成立目指す 野党 衆院超える審議時間を",
-        "title_ja": "「副首都」構想法案をめぐる与野党の攻防",
-        "date": "Tue, 21 Jul 2026 06:14:59 +0900",
-        "summary": "The ruling coalition in Japan aims to quickly pass a bill regarding the 'sub-capital' concept, while opposition parties criticize it as being too focused on Osaka and demand more debate time.",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182081000.html",
+        "title": "中道 結党大会から半年 立民・公明と合流協議進展できるか焦点",
+        "title_ja": "結党から半年の中道改革連合、党勢回復へ合流協議が焦点に",
+        "date": "Wed, 22 Jul 2026 05:43:05 +0900",
+        "summary": "The Centrist Reform Coalition marked six months since its founding this month. The key focus now is whether they can advance merger talks with other parties to restore their political strength.",
         "sentences": [
           {
-            "en": "Deliberations have begun in Japan's House of Councillors regarding a bill related to the 'sub-capital' concept.",
-            "ja": "「副首都」構想の関連法案をめぐり、参議院での審議が始まりました。"
+            "en": "On the 22nd, the Centrist Reform Coalition marked exactly six months since its founding convention in January of this year.",
+            "ja": "中道改革連合は、今年1月の結党大会から22日でちょうど半年を迎えました。"
           },
           {
-            "en": "The ruling coalition initiated the debate on the 22nd, aiming to pass the legislation by the 24th of this week.",
-            "ja": "与党側は22日に審議入りさせ、今週24日までの法案成立を目指しています。"
+            "en": "As the party reaches this milestone, the main focus is on how it can restore its political influence and strength.",
+            "ja": "この節目を迎えるにあたり、同党がどのように党勢を回復できるかが主な焦点となっています。"
           },
           {
-            "en": "On the other hand, opposition parties have criticized the bill, claiming that it is designed specifically with Osaka in mind.",
-            "ja": "これに対し野党側は、この法案が「大阪ありき」のものであると批判しています。"
+            "en": "To achieve this, the key lies in whether they can make progress in merger talks with other political groups.",
+            "ja": "その実現に向けて、他党との合流協議を進展させられるかが鍵を握っています。"
           },
           {
-            "en": "They are demanding that the Upper House secure even more deliberation time than was spent in the House of Representatives.",
-            "ja": "野党側は、衆議院での審議時間を超える審議時間を参議院でも確保するよう求めています。"
+            "en": "Specifically, the coalition is looking to advance discussions with the Constitutional Democratic Party and Komeito.",
+            "ja": "具体的には、立憲民主党や公明党との協議を進めることが目指されています。"
           },
           {
-            "en": "As the government pushes for a quick decision, the debate continues over the fairness and necessity of the proposed plan.",
-            "ja": "政府が迅速な決定を急ぐ中、提案された計画の公平性と必要性をめぐって議論が続いています。"
+            "en": "Attention is now focused on how these moves will affect the future dynamics of the House of Representatives.",
+            "ja": "これらの動きが今後の衆議院の勢力図にどう影響を与えるか、注目が集まっています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182061000.html",
+        "title": "「副首都」構想関連法案 きょう参議院で審議入り 論戦本格化",
+        "title_ja": "「副首都」構想の法案が参議院で審議入り、野党は「大阪ありき」と批判",
+        "date": "Wed, 22 Jul 2026 05:36:33 +0900",
+        "summary": "Deliberations have begun in the Japanese Diet on a bill regarding the 'sub-capital' concept, which aims to prepare for major disasters, but opposition parties argue the plan is biased toward Osaka.",
+        "sentences": [
+          {
+            "en": "On the 22nd, deliberations began in the House of Councillors on a bill related to the 'sub-capital' concept.",
+            "ja": "国会では22日、「副首都」構想の関連法案が参議院で審議入りしました。"
+          },
+          {
+            "en": "The Liberal Democratic Party and Nippon Ishin no Kai, who jointly submitted the bill, argue that it is necessary to prepare for potential large-scale disasters.",
+            "ja": "法案を提出した自民・維新両党は、大規模災害に備えるために必要なものであると主張しています。"
+          },
+          {
+            "en": "The plan aims to designate a secondary city to temporarily take over government functions if Tokyo is severely affected by a disaster.",
+            "ja": "この構想は、東京が災害で甚大な被害を受けた場合に、一時的に政府機能を代行する副首都を指定することを目指しています。"
+          },
+          {
+            "en": "However, opposition parties are criticizing the bill, pointing out that the designation requirements seem to be tailored specifically for Osaka.",
+            "ja": "しかし野党側は、指定の要件が「大阪ありき」で作られているのではないかと指摘し、批判しています。"
+          },
+          {
+            "en": "Active debates are expected to continue over whether the selection process for the backup capital is fair and transparent.",
+            "ja": "代替都市の選定プロセスが公平で不透明感がないかについて、今後も活発な議論が続くとみられます。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181311000.html",
-        "title": "生産地 備蓄米の早期買い戻し求める声強まる 政府は慎重に検討",
-        "title_ja": "コメ価格下落への対応をめぐる政府と生産地の議論",
-        "date": "Tue, 21 Jul 2026 06:59:44 +0900",
-        "summary": "As rice prices fall, Japanese producers are urging the government to buy back reserve rice to support the market, while officials hesitate due to ongoing inflation.",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182121000.html",
+        "title": "プラ容器高値で容器の変更相次ぐ 小売各社で",
+        "title_ja": "弁当容器の見直しでコスト削減を目指す小売各社",
+        "date": "Wed, 22 Jul 2026 06:57:07 +0900",
+        "summary": "Amid rising plastic costs driven by Middle East tensions, Japanese retailers like the supermarket OK are redesigning bento containers to keep prices stable for consumers.",
         "sentences": [
           {
-            "en": "With rice prices falling, agricultural regions in Japan are calling on the government for support.",
-            "ja": "コメ価格の値下がりを受けて、日本の生産地からは政府に支援を求める声が強まっています。"
+            "en": "Due to the unstable situation in the Middle East, the procurement costs of plastic containers remain high.",
+            "ja": "中東情勢の影響を受け、プラスチック製容器の調達価格が高止まりしています。"
           },
           {
-            "en": "Producers want the government to buy back reserve rice to prop up prices before the new harvest fully enters the market.",
-            "ja": "生産者たちは、新米が本格的に市場に出回る前に政府が備蓄米を買い戻し、価格を下支えすることを望んでいます。"
+            "en": "In response, many retailers are reviewing the containers they use for bento lunch boxes to keep costs down.",
+            "ja": "これを受けて、多くの小売企業がコストを抑えるために、お弁当に使う容器の見直しを進めています。"
           },
           {
-            "en": "They hope this intervention will stabilize market prices and protect their livelihoods.",
-            "ja": "彼らは、この介入によって市場価格が安定し、自分たちの生活が守られることを期待しています。"
+            "en": "For example, OK, a supermarket chain operating in the Tokyo metropolitan area and the Kansai region, is planning to make changes starting next month.",
+            "ja": "例えば、首都圏や関西にスーパーを展開するオーケーでは、来月から容器の変更を予定しています。"
           },
           {
-            "en": "However, some within the government are hesitant to take such measures.",
-            "ja": "しかし、政府内にはこうした措置をとることに慎重な姿勢もあります。"
+            "en": "The company aims to reduce expenses by switching to thinner plastic or alternative materials for their popular lunch boxes.",
+            "ja": "同社は、人気の弁当の容器に薄いプラスチックや代替素材を採用することで、経費削減を目指しています。"
           },
           {
-            "en": "As overall consumer prices continue to rise, officials are concerned that higher rice prices could further strain household budgets.",
-            "ja": "物価の上昇が続くなかでコメの価格が上がれば、家計にさらなる負担をかけるのではないかと懸念されているためです。"
+            "en": "This shift highlights a broader effort among supermarkets to prevent rising material costs from affecting retail prices.",
+            "ja": "この動きは、原材料価格の上昇が店頭価格に影響するのを防ごうとする、スーパー各社の取り組みを浮き彫りにしています。"
+          },
+          {
+            "en": "As a result, consumers can expect to see more cost-effective and eco-friendly packaging on store shelves in the near future.",
+            "ja": "その結果、消費者は近い将来、より費用対効果が高く環境に配慮したパッケージを店頭で見かけることになりそうです。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181321000.html",
-        "title": "トヨタ 近健太社長 “開発や生産の効率化進め 稼ぐ力強化を”",
-        "title_ja": "トヨタ、部品削減で効率化を進め「稼ぐ力」を強化へ",
-        "date": "Tue, 21 Jul 2026 06:45:42 +0900",
-        "summary": "Toyota Motor plans to boost its earning power by reducing the variety of parts and streamlining its development and production processes to stay competitive against emerging rivals.",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182111000.html",
+        "title": "自動車メーカー 完成車の共同輸送を検討 2028年までに実施へ",
+        "title_ja": "自動車メーカー、2028年までに完成車の共同輸送を検討へ",
+        "date": "Wed, 22 Jul 2026 06:53:02 +0900",
+        "summary": "To address the severe driver shortage, major automakers plan to implement a joint transportation system for finished vehicles by 2028 through standardized loading and shared data rules.",
         "sentences": [
           {
-            "en": "Toyota Motor is planning to boost its earning power as competition in the automotive industry intensifies.",
-            "ja": "トヨタ自動車は、自動車業界での競争が激化する中、会社の稼ぐ力を強化する計画です。"
+            "en": "In the logistics industry, addressing the shortage of truck drivers has become a critical challenge.",
+            "ja": "物流業界において、トラックドライバー不足への対応が極めて重要な課題となっています。"
           },
           {
-            "en": "Kenta Kon, a top executive at Toyota, shared this vision during recent interviews with various media outlets.",
-            "ja": "トヨタの幹部である近健太氏は、報道各社との最近のインタビューでこの考えを示しました。"
+            "en": "To tackle this issue, major automakers have decided to work together to transport finished vehicles.",
+            "ja": "この問題に対処するため、大手自動車メーカー各社は、完成車の共同輸送に向けて協力することを決定しました。"
           },
           {
-            "en": "He noted that the market is becoming highly competitive, especially with the rise of new emerging manufacturers.",
-            "ja": "同氏は、新興メーカーの台頭を含め、市場の競争が非常に激しくなっていると指摘しました。"
+            "en": "Their goal is to fully implement this joint transportation system by the year 2028.",
+            "ja": "彼らの目標は、この共同輸送システムを2028年までに本格的に実施することです。"
           },
           {
-            "en": "To stay ahead, Toyota aims to streamline its development and production processes.",
-            "ja": "競争を勝ち抜くため、トヨタは開発や生産プロセスの効率化を目指しています。"
+            "en": "As a first step, the companies will establish rules for sharing logistics information.",
+            "ja": "最初のステップとして、各社は物流情報を共有するためのルール作りを進めます。"
           },
           {
-            "en": "One key strategy is to reduce the number of different parts used in their vehicles.",
-            "ja": "主要な戦略の一つは、車両に使用する部品の種類の削減です。"
+            "en": "They will also consider standardizing loading operations to make the process more efficient.",
+            "ja": "また、作業をより効率化するために、積み込み作業の標準化なども検討していく予定です。"
           },
           {
-            "en": "By simplifying these components, the company hopes to cut costs and respond more quickly to market demands.",
-            "ja": "これらの部品を簡素化することで、同社はコストを削減し、市場の需要に迅速に対応したい考えです。"
+            "en": "This collaboration is expected to help secure a stable supply chain despite the worsening labor shortage.",
+            "ja": "この協調的な取り組みは、深刻化する労働力不足の中でも、安定したサプライチェーンを確保するのに役立つと期待されています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
-        "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
-        "title_ja": "英労働党のバーナム氏、首相に就任",
-        "date": "Tue, 21 Jul 2026 06:41:30 +0900",
-        "summary": "Andy Burnham, the leader of the UK's ruling Labour Party, has been appointed as the new Prime Minister by King Charles. Burnham, the former Mayor of Manchester, won over 90 percent of the party's support to succeed Keir Starmer.",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182271000.html",
+        "title": "ウクライナ 国防相に続き軍総司令官も交代 異例の事態",
+        "title_ja": "ウクライナ、軍のシルスキー総司令官を解任 後任にドラパティ氏",
+        "date": "Wed, 22 Jul 2026 06:46:52 +0900",
+        "summary": "Ukrainian President Volodymyr Zelenskyy has dismissed the country's top military commander, Oleksandr Syrskyi, replacing him with Mykhailo Drapatyi amid the ongoing war with Russia.",
         "sentences": [
           {
-            "en": "On the 20th, Andy Burnham, the leader of the ruling Labour Party, was officially appointed as the new Prime Minister by King Charles.",
-            "ja": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。"
+            "en": "Ukrainian President Volodymyr Zelenskyy announced on the 21st that he has dismissed the military's top commander, Oleksandr Syrskyi.",
+            "ja": "ウクライナのゼレンスキー大統領は21日、軍のトップであるシルスキー総司令官を解任したと発表しました。"
           },
           {
-            "en": "Burnham, a Member of Parliament and the former Mayor of Manchester, takes over the leadership from Keir Starmer.",
-            "ja": "マンチェスターの前市長で下院議員のバーナム氏は、スターマー氏の後任として指導権を引き継ぎます。"
+            "en": "He appointed Mykhailo Drapatyi, the commander of the joint forces, as Syrskyi's successor.",
+            "ja": "後任には、統合軍司令官のミハイロ・ドラパティ氏を起用しました。"
           },
           {
-            "en": "He secured his position after winning a landslide victory in the party leadership election.",
-            "ja": "同氏は、党首選挙で圧倒的な勝利を収め、その地位を確実にしました。"
+            "en": "This leadership change comes at a critical time as Ukraine continues to defend itself against Russia's ongoing invasion.",
+            "ja": "この指導部の交代は、ウクライナがロシアの継続的な侵攻に対して防衛を続ける極めて重要な時期に行われました。"
           },
           {
-            "en": "Reports indicate that he received over 90 percent of the support from party members in the election to decide Starmer's successor.",
-            "ja": "スターマー氏の後任を決める選挙において、同氏は党所属議員らの9割を超える支持を獲得したと報じられています。"
+            "en": "Recently, the country has seen consecutive replacements of both its defense minister and top military commanders.",
+            "ja": "最近、同国では国防相と軍のトップが相次いで交代しています。"
           },
           {
-            "en": "As the country's new leader, Burnham is now expected to address the nation's key political and economic challenges.",
-            "ja": "国の新たなリーダーとして、バーナム氏は今後、主要な政治的・経済的課題に取り組むことが期待されています。"
+            "en": "President Zelenskyy indicated that the military needs new leadership and fresh strategies to strengthen its defense.",
+            "ja": "ゼレンスキー大統領は、防衛を強化するために、軍には新たな指導部と斬新な戦略が必要であることを示唆しました。"
+          },
+          {
+            "en": "The restructuring highlights the ongoing pressure on Ukraine to adapt to the changing situation on the battlefield.",
+            "ja": "この再編は、戦況の変化に対応しなければならないウクライナへの継続的な圧力を浮き彫りにしています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181461000.html",
-        "title": "米大統領 イランへの攻撃強化の構え 双方による応酬収まらず",
-        "title_ja": "トランプ大統領、米兵殺害でイランへの攻撃強化を警告",
-        "date": "Tue, 21 Jul 2026 06:24:03 +0900",
-        "summary": "President Trump has warned Iran of severe retaliation following the deaths of U.S. soldiers in the Middle East, stating they will pay a much higher price.",
+        "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182231000.html",
+        "title": "小泉防衛相 中国艦艇の射撃訓練 4か国防衛相会談で情報共有",
+        "title_ja": "小泉防衛大臣、中国海軍のEEZ内訓練を日英など4か国会談で共有",
+        "date": "Wed, 22 Jul 2026 06:27:35 +0900",
+        "summary": "During a four-nation defense meeting in the UK, Japanese Defense Minister Koizumi shared information regarding a Chinese naval vessel conducting live-fire drills within Japan's EEZ, emphasizing continued vigilance.",
         "sentences": [
           {
-            "en": "Following the deaths of U.S. soldiers in the Middle East, President Donald Trump has issued a strong warning to Iran.",
-            "ja": "中東でアメリカ軍の兵士が死亡したことを受け、トランプ大統領はイランに対して強い警告を示しました。"
+            "en": "Japanese Defense Minister Koizumi, who is currently visiting the United Kingdom, shared critical security information during a four-nation defense ministers' meeting.",
+            "ja": "イギリスを訪れている小泉防衛大臣は、4か国による防衛相会談の中で、安全保障に関する重要な情報を共有しました。"
           },
           {
-            "en": "He declared that whenever Iran kills U.S. military personnel, they will pay a price many times greater.",
-            "ja": "同氏は、イランがアメリカ軍の兵士を殺害するたびに、彼らはその何倍もの代償を支払うことになると宣言しました。"
+            "en": "The shared info concerned a Chinese naval vessel that conducted live-fire shooting drills inside Japan's Exclusive Economic Zone, or EEZ.",
+            "ja": "共有された情報は、中国海軍の艦艇が日本の排他的経済水域（EEZ）の内側で射撃訓練を実施したというものでした。"
           },
           {
-            "en": "With these remarks, the president showed a readiness to strengthen actions against Iran.",
-            "ja": "この発言により、大統領はイランへの攻撃を強化する構えを示しました。"
+            "en": "Minister Koizumi explained that such activities in neighboring waters raise significant security concerns for Japan.",
+            "ja": "小泉大臣は、周辺海域におけるこのような活動は、日本にとって重大な安全保障上の懸念をもたらすと説明しました。"
           },
           {
-            "en": "Tensions between the two nations have risen significantly following recent events in the region.",
-            "ja": "この地域での最近の出来事を受け、両国間の緊張は著しく高まっています。"
+            "en": "He emphasized that Japan will work closely with international partners, including the UK, to maintain regional peace.",
+            "ja": "同大臣は、地域の平和を維持するため、イギリスを含む国際的なパートナーと緊密に連携していくことを強調しました。"
           },
           {
-            "en": "International observers are closely monitoring how this stance will impact the stability of the Middle East.",
-            "ja": "この姿勢が中東の安定にどのように影響するか、国際的な観測筋が注視しています。"
+            "en": "In addition, the minister stated that Japan will remain highly vigilant and take all necessary measures for surveillance and monitoring.",
+            "ja": "さらに、大臣は、日本が引き続き強い警戒感を持ち、警戒監視に万全を期す考えを示しました。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181471000.html",
-        "title": "W杯優勝 スペイン代表が凱旋",
-        "title_ja": "ワールドカップ優勝のスペイン代表が帰国、熱狂的な歓迎パレード",
-        "date": "Tue, 21 Jul 2026 05:59:11 +0900",
-        "summary": "The Spanish national soccer team returned home to a massive victory parade after winning the World Cup, celebrated by enthusiastic fans across the country.",
+        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015182021000.html",
+        "title": "【プロ野球結果】巨人 山崎伊織が今シーズン初勝利",
+        "title_ja": "巨人・山崎伊織投手が復帰後初勝利、プロ野球4試合が開催",
+        "date": "Wed, 22 Jul 2026 02:05:17 +0900",
+        "summary": "On April 21st, four professional baseball games were played in Japan, where Yomiuri Giants pitcher Iori Yamasaki earned his first win of the season in his second start since returning from a shoulder injury.",
         "sentences": [
           {
-            "en": "The Spanish national soccer team, which won the World Cup in North and Central America, returned home on the 20th.",
-            "ja": "北中米で開催されたサッカーワールドカップで優勝したスペイン代表チームが、20日に帰国しました。"
+            "en": "On April 21st, four professional baseball games were held in Japan, with three in the Central League and one in the Pacific League.",
+            "ja": "4月21日、日本のプロ野球ではセ・リーグ3試合、パ・リーグ1試合の計4試合が行われました。"
           },
           {
-            "en": "Upon their arrival, they held a grand victory parade and were enthusiastically welcomed by a massive crowd.",
-            "ja": "帰国後、彼らは盛大な優勝パレードを行い、大勢の群衆から熱狂的な歓迎を受けました。"
+            "en": "A key highlight of the day was the performance of Yomiuri Giants pitcher Iori Yamasaki.",
+            "ja": "この日の大きな注目は、読売ジャイアンツの山崎伊織投手の活躍でした。"
           },
           {
-            "en": "The historic victory was decided just the day before, on the 19th, in the final match.",
-            "ja": "この歴史的な勝利は、前日の19日に行われた決勝戦で決まりました。"
+            "en": "He made his second start since returning to the mound after dealing with discomfort in his right shoulder.",
+            "ja": "山崎投手は右肩の違和感から復帰後、2回目となる先発登板に臨みました。"
           },
           {
-            "en": "Players waved to the cheering fans from an open-top bus, showing off their hard-earned trophy.",
-            "ja": "選手たちはオープンバスから声援を送るファンに向けて手を振り、苦労して勝ち取ったトロフィーを披露しました。"
+            "en": "Yamasaki pitched into the sixth inning and allowed only two runs.",
+            "ja": "山崎投手は6回途中まで投げ、失点をわずか2点に抑えました。"
           },
           {
-            "en": "The streets were filled with national flags and roaring cheers, celebrating the team's incredible achievement.",
-            "ja": "通りは国旗と鳴り響く歓声で埋め尽くされ、チームの素晴らしい偉業を祝いました。"
-          },
-          {
-            "en": "This triumph has brought immense pride and joy to soccer fans all across Spain.",
-            "ja": "この勝利は、スペイン全土のサッカーファンに計り知れない誇りと喜びをもたらしました。"
+            "en": "Thanks to this solid performance, he successfully earned his first win of the season.",
+            "ja": "この好投により、彼は見事に今シーズン初勝利を挙げました。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181381000.html",
-        "title": "大相撲名古屋場所10日目見どころ 安青錦は豊昇龍と対戦",
-        "title_ja": "名古屋場所10日目、1敗の安青錦が豊昇龍と対戦へ",
-        "date": "Tue, 21 Jul 2026 05:11:44 +0900",
-        "summary": "At the Nagoya Grand Sumo Tournament, Sekiwake Aonishiki, who is tied for the lead with only one loss, faces a critical Day 10 match against Hoshoryu to keep his championship hopes and Ozeki promotion dreams alive.",
+        "url": "http://www3.nhk.or.jp/news/html/20260721/k10015182201000.html",
+        "title": "サッカーW杯 前田大然のゴールが最優秀ゴール候補に",
+        "title_ja": "前田大然選手のゴール、FIFA最優秀ゴール候補に選出",
+        "date": "Tue, 21 Jul 2026 23:40:22 +0900",
+        "summary": "FIFA has nominated Japan's Daizen Maeda for the tournament's best goal, following his impressive performance against Sweden in the group stage.",
         "sentences": [
           {
-            "en": "At the Nagoya Grand Sumo Tournament, the competition is heating up as we enter Day 10.",
-            "ja": "大相撲名古屋場所は10日目を迎え、優勝争いが白熱しています。"
+            "en": "On the 20th, FIFA announced the nominees for the best goal of the World Cup.",
+            "ja": "FIFA（国際サッカー連盟）は20日、ワールドカップの最優秀ゴールの候補を発表しました。"
           },
           {
-            "en": "Following the results of Day 9, three wrestlers are currently tied for the lead with only one loss.",
-            "ja": "9日目を終えた時点で、わずか1敗でトップに並んでいるのは3人です。"
+            "en": "Among the selected nominees is Japan's Daizen Maeda.",
+            "ja": "選ばれた候補の中には、日本の前田大然選手も含まれています。"
           },
           {
-            "en": "These leaders are Sekiwake Aonishiki, along with Maegashira Kotoeho and Shishi.",
-            "ja": "そのリードを守るのは、関脇の安青錦、そして平幕の琴栄峰と獅司の3人です。"
+            "en": "His spectacular goal was scored during the group stage match against Sweden.",
+            "ja": "彼の素晴らしいゴールは、1次リーグのスウェーデン戦で決められたものです。"
           },
           {
-            "en": "With a return to the Ozeki rank on the line, Aonishiki will face Hoshoryu today.",
-            "ja": "大関復帰がかかる中、安青錦は今日、豊昇龍との対戦に臨みます。"
+            "en": "This nomination has brought exciting news to soccer fans across Japan.",
+            "ja": "このノミネートは、日本全国のサッカーファンに明るいニュースをもたらしました。"
           },
           {
-            "en": "This will be his second consecutive day facing a top-tier opponent as he fights to stay in the lead.",
-            "ja": "トップを維持するための戦いとして、彼にとっては2日連続となる上位陣との対戦になります。"
+            "en": "Football fans from around the world will now cast their votes to determine the winner.",
+            "ja": "世界中のサッカーファンが、受賞者を決めるためにこれから投票を行います。"
           }
         ]
       }
