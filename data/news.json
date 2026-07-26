@@ -1,93 +1,89 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186241000.html",
-      "title": "相模原 障害者施設殺傷事件からきょうで10年",
-      "title_ja": "相模原障害者施設殺傷事件から10年、犠牲者を追悼",
-      "date": "Sun, 26 Jul 2026 05:35:08 +0900",
-      "summary": "July 26th marks the 10th anniversary of the tragic mass killing at a care facility in Sagamihara City, where the public is offering flowers to mourn the 19 victims.",
+      "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186851000.html",
+      "title": "北陸など土砂災害に厳重警戒 西日本中心に危険な暑さ続く",
+      "title_ja": "北陸などで局地的な猛烈な雨、広範囲で大気不安定に",
+      "date": "Mon, 27 Jul 2026 06:09:00 +0900",
+      "summary": "Due to warm, damp air, localized torrential rain has hit parts of Japan, including the Hokuriku region. The meteorological agency warns of potential landslides and flooding across a wide area from Tohoku to Kyushu as atmospheric conditions remain highly unstable.",
       "sentences": [
         {
-          "en": "July 26th marks 10 years since the tragic incident where 19 people were killed at a facility for people with intellectual disabilities in Sagamihara City.",
-          "ja": "相模原市の知的障害者施設で19人が殺害された事件から、26日で10年となります。"
+          "en": "Due to the influence of warm, damp air, localized heavy rain has been falling in regions like Hokuriku.",
+          "ja": "湿った空気の影響により、北陸地方などで局地的に雨が強まっています。"
         },
         {
-          "en": "The incident, which occurred at a prefectural facility on July 26th, 2016, deeply shocked the entire country.",
-          "ja": "2016年7月26日に県立の施設で起きたこの事件は、日本中に大きな衝撃を与えました。"
+          "en": "The Japan Meteorological Agency estimates that some areas have experienced torrential downpours.",
+          "ja": "気象庁は、一部の地域で猛烈な雨が降ったとみられると発表しました。"
         },
         {
-          "en": "To honor and mourn the victims, the facility is accepting flowers from the public again this year.",
-          "ja": "犠牲者を追悼するため、施設では今年も一般からの献花を受け付けています。"
+          "en": "Officials are urging people to remain highly vigilant against landslides and flooding in low-lying areas.",
+          "ja": "気象庁は、土砂災害や低い土地の浸水などに厳重に警戒するよう呼びかけています。"
         },
         {
-          "en": "Visitors, including family members of the victims and local residents, have been arriving to offer their prayers.",
-          "ja": "遺族や地域住民をはじめとする訪問者たちが、祈りを捧げるために訪れています。"
+          "en": "This extremely unstable atmospheric condition is expected to continue on the 27th.",
+          "ja": "この非常に不安定な大気の状態は、27日も続く見込みです。"
         },
         {
-          "en": "Efforts continue to ensure that the memory of this tragedy does not fade and to build a society where everyone can live safely.",
-          "ja": "この悲劇の記憶を風化させず、誰もが安心して暮らせる社会を築くための取り組みが続けられています。"
+          "en": "A wide area stretching from Tohoku all the way to Kyushu could see sudden weather changes and heavy rainfall.",
+          "ja": "東北から九州にかけての広い範囲で、急な天気の変化や大雨となるおそれがあります。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186101000.html",
-      "title": "「飛鳥・藤原の宮都」きょう世界文化遺産に登録決定の見通し",
-      "title_ja": "「飛鳥・藤原の宮都」世界遺産登録へ",
-      "date": "Sun, 26 Jul 2026 05:51:27 +0900",
-      "summary": "The 'Asuka-Fujiwara' archaeological sites in Nara Prefecture are expected to be registered as a UNESCO World Heritage site, which would mark Japan's 27th listing.",
+      "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186821000.html",
+      "title": "秀吉が恭順の毛利側を盛大にもてなしたこと示す文書発見",
+      "title_ja": "秀吉の大坂城での豪華な宴席を示す毛利家の新史料が見つかる",
+      "date": "Mon, 27 Jul 2026 05:12:50 +0900",
+      "summary": "A newly discovered historical document reveals details of a grand banquet hosted by Hashiba Hideyoshi at Osaka Castle for the Mori clan, who had pledged their allegiance to him.",
       "sentences": [
         {
-          "en": "The UNESCO World Heritage Committee is currently holding its meeting in South Korea.",
-          "ja": "ユネスコの世界遺産委員会が、現在韓国で開催されています。"
+          "en": "A newly discovered historical document sheds light on a grand banquet hosted by Hashiba Hideyoshi during the Sengoku period.",
+          "ja": "戦国時代に羽柴秀吉が催した盛大な宴席の様子を明らかにする、新たな歴史資料が見つかりました。"
         },
         {
-          "en": "During this session, the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture are highly likely to be registered as a new World Heritage site.",
-          "ja": "会期中の26日、日本が推薦している奈良県の「飛鳥・藤原の宮都」の遺跡群が、世界遺産に登録される見通しです。"
+          "en": "At the time, Hideyoshi was consolidating his power as the successor to Oda Nobunaga.",
+          "ja": "当時、秀吉は織田信長の後継者として実権を握りつつありました。"
         },
         {
-          "en": "These ruins represent the political and cultural center of Japan during the Asuka period, which dates back to the late 6th to early 8th centuries.",
-          "ja": "これらの遺跡群は、6世紀後半から8世紀初頭にかけての飛鳥時代における、日本の政治や文化の中心地を構成しています。"
+          "en": "The document, written by the Mori clan, details how Hideyoshi lavishly entertained Mori generals who had pledged their allegiance to him at Osaka Castle.",
+          "ja": "毛利家側によって書かれたこの文書には、秀吉に恭順の意を示した毛利方の武将たちを、大坂城で盛大にもてなした様子が詳細に記録されています。"
         },
         {
-          "en": "A formal decision is expected to be made on the 26th, marking a major milestone for local preservation efforts.",
-          "ja": "正式な決定は26日に行われる見込みで、地元の保存活動にとって大きな節目となります。"
+          "en": "It describes the banquet in great detail, showcasing Hideyoshi's hospitality and his political influence.",
+          "ja": "文書には宴席の様子が詳細に記述されており、秀吉の持て成しと政治的な影響力の大きさが示されています。"
         },
         {
-          "en": "If successfully registered, this will become Japan's 27th World Heritage site.",
-          "ja": "登録が決まれば、日本国内では27件目の世界遺産となります。"
-        },
-        {
-          "en": "Local residents and officials are eagerly awaiting the announcement, hoping it will bring global attention to Nara's rich history.",
-          "ja": "地元住民や関係者は、奈良の豊かな歴史に世界的な注目が集まることを期待し、発表を心待ちにしています。"
+          "en": "Experts believe this discovery is highly valuable for understanding the political strategies used during the unification of Japan.",
+          "ja": "専門家は、この発見が天下統一の過程で用いられた政治的戦略を理解する上で非常に価値が高いと考えています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186081000.html",
-      "title": "「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか",
-      "title_ja": "宇宙に蓄積する「ニュートリノ」の兆候を初検出",
-      "date": "Sun, 26 Jul 2026 06:26:14 +0900",
-      "summary": "An international research team led by the University of Tokyo has detected the first signs of ancient neutrinos accumulated in space from past stellar explosions.",
+      "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186791000.html",
+      "title": "沖縄県知事選告示まで1か月 各党が準備加速へ",
+      "title_ja": "沖縄県知事選の告示まで1か月",
+      "date": "Mon, 27 Jul 2026 06:19:07 +0900",
+      "summary": "With one month left until the official announcement of the Okinawa gubernatorial election, political parties are ramping up preparations. Key issues include U.S. military base reduction and economic promotion, which could affect national security.",
       "sentences": [
         {
-          "en": "An international research group, including the University of Tokyo, has announced a major breakthrough in astrophysics.",
-          "ja": "東京大学などの国際研究グループが、天体物理学における大きな突破口となる発表を行いました。"
+          "en": "It is now just one month until the official announcement of the Okinawa gubernatorial election, scheduled for the 27th of next month.",
+          "ja": "来月27日に告示される沖縄県知事選挙まで、ちょうど1か月となりました。"
         },
         {
-          "en": "They have captured the first signs of ancient neutrinos that have accumulated in the universe over cosmic history.",
-          "ja": "彼らは、宇宙の歴史を通じて宇宙空間に蓄積されてきた古代のニュートリノの存在を示す兆候を、世界で初めて捉えました。"
+          "en": "The main campaign issues are expected to be reducing the burden of hosting U.S. military bases and promoting the local economy.",
+          "ja": "主な争点は、米軍基地の負担軽減や地元経済の振興になると見込まれています。"
         },
         {
-          "en": "Neutrinos are tiny elementary particles that are released in massive amounts when stars explode.",
-          "ja": "ニュートリノは、星が爆発する際に大量に放出される極めて小さな素粒子です。"
+          "en": "Because this election could also impact Japan's national security policy, it is drawing attention nationwide.",
+          "ja": "この選挙は国の安全保障政策にも影響を与える可能性があるため、全国的な注目を集めています。"
         },
         {
-          "en": "Since these particles can pass through almost anything, detecting them has been an extremely difficult challenge for scientists.",
-          "ja": "これらの粒子はほとんど何でも通り抜けてしまうため、検出することは科学者にとって極めて困難な挑戦でした。"
+          "en": "With the official campaign period approaching, political parties are ramping up their preparations to support their respective candidates.",
+          "ja": "告示が近づく中、各政党はそれぞれの候補者を支援するための準備を加速させています。"
         },
         {
-          "en": "This discovery is expected to provide key insights into the history of stars and the evolution of our universe.",
-          "ja": "この発見は、星の歴史や私たちの宇宙の進化に関する重要な手がかりをもたらすと期待されています。"
+          "en": "The election is highly anticipated as it will shape the future direction of Okinawa.",
+          "ja": "沖縄の今後の方向性を決める選挙として、大きな関心が寄せられています。"
         }
       ]
     }
@@ -95,394 +91,411 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186121000.html",
-        "title": "【動画】Pickup NEWS（7月26日）",
-        "title_ja": "1分動画で見る最新ニュース",
-        "date": "Sun, 26 Jul 2026 06:47:03 +0900",
-        "summary": "This lesson explains how viewers can quickly catch up on the latest news through a convenient one-minute video digest, while noting some viewing limitations.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186761000.html",
+        "title": "【動画】Pickup NEWS（7月27日）",
+        "title_ja": "1分間のニュースまとめ動画",
+        "date": "Mon, 27 Jul 2026 06:44:27 +0900",
+        "summary": "This update introduces a quick one-minute video summarizing today's major news events, while noting that it cannot be viewed on data broadcasting.",
         "sentences": [
           {
-            "en": "We will now bring you a summary of the latest news received so far.",
-            "ja": "これまでに入っている最新のニュースを、まとめてお伝えします。"
+            "en": "Welcome to our quick news update.",
+            "ja": "最新のニュースアップデートへようこそ。"
           },
           {
-            "en": "All the key updates have been compiled into a convenient one-minute video.",
-            "ja": "主要な情報はすべて、便利な1分間の動画にまとめられています。"
+            "en": "We have put together a one-minute video summarizing the major news events that have happened so far today.",
+            "ja": "本日これまでに配信された主なニュースを、1分間の動画にまとめてお届けします。"
           },
           {
-            "en": "This is an easy way to stay informed even when you have a busy schedule.",
-            "ja": "これは、忙しいスケジュールの中でも簡単に最新情報を把握できる方法です。"
+            "en": "This format is designed for busy people who want to stay informed in a short amount of time.",
+            "ja": "このフォーマットは、短時間で効率よく情報を得たい忙しい方向けに設計されています。"
           },
           {
-            "en": "Please note that the video cannot be viewed if you are using the data broadcasting service.",
-            "ja": "なお、データ放送をご利用の場合は、動画をご覧いただけませんのでご注意ください。"
+            "en": "Please note that this video content cannot be viewed through data broadcasting services.",
+            "ja": "なお、データ放送ではこの動画をご覧いただくことはできませんのでご注意ください。"
           },
           {
-            "en": "To watch the video, please access our official website or streaming platform.",
-            "ja": "動画を視聴するには、公式ウェブサイトまたは配信プラットフォームにアクセスしてください。"
-          },
-          {
-            "en": "We hope this quick news digest helps you stay up to date throughout the day.",
-            "ja": "この簡単なニュースダイジェストが、一日の最新情報の把握に役立つことを願っています。"
+            "en": "We hope this brief roundup helps you stay updated on today's key events.",
+            "ja": "この簡単なまとめが、今日の主要な出来事を把握するのに役立つことを願っています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186311000.html",
-        "title": "西日本など危険な暑さに 北陸や新潟で非常に激しい雨のおそれ",
-        "title_ja": "5日連続で40度超え 記録的な酷暑と熱中症対策",
-        "date": "Sun, 26 Jul 2026 06:20:08 +0900",
-        "summary": "On July 25th, parts of Japan reached over 40 degrees Celsius, marking a record fifth consecutive day of extreme heat. Dangerous temperatures are expected to continue on the 26th, and people are urged to take strict precautions against heatstroke.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186851000.html",
+        "title": "北陸など土砂災害に厳重警戒 西日本中心に危険な暑さ続く",
+        "title_ja": "北陸などで局地的な大雨、気象庁が土砂災害や浸水に厳重警戒を呼びかけ",
+        "date": "Mon, 27 Jul 2026 06:09:00 +0900",
+        "summary": "Due to unstable atmospheric conditions, heavy localized rain has hit regions like Hokuriku. The meteorological agency warns of potential landslides and flooding across a wide area from Tohoku to Kyushu.",
         "sentences": [
           {
-            "en": "On July 25th, temperatures reached over 40 degrees Celsius in the Tokai region and Yamanashi Prefecture.",
-            "ja": "7月25日、東海地方と山梨県で最高気温が40度以上を観測しました。"
+            "en": "Due to warm, moist air, localized heavy rain has been hitting parts of Japan, particularly the Hokuriku region.",
+            "ja": "湿った空気の影響により、北陸地方を中心に日本各地で局地的な大雨が降っています。"
           },
           {
-            "en": "This marked the fifth consecutive day of temperatures hitting 40 degrees or higher in Japan, setting a new record.",
-            "ja": "これにより、国内で気温が40度以上となる「酷暑日」が5日連続となり、これまでの記録を更新しました。"
+            "en": "The Japan Meteorological Agency reported that some areas likely experienced extremely intense rainfall in a short period.",
+            "ja": "気象庁は、一部の地域で短時間に猛烈な雨が降ったとみられると発表しました。"
           },
           {
-            "en": "Unfortunately, this dangerous heatwave is expected to continue on the 26th.",
-            "ja": "残念ながら、この危険な暑さは26日も続く見込みです。"
+            "en": "Officials are warning residents about the high risk of landslides and flooding in low-lying areas.",
+            "ja": "関係機関は、土砂災害や低い土地の浸水に対する厳重な警戒を住民に呼びかけています。"
           },
           {
-            "en": "Regions such as Tokai, Kinki, Shikoku, and Kyushu are all expected to experience extreme heat.",
-            "ja": "東海、近畿、四国、九州などの各地域で、厳しい暑さが予想されています。"
+            "en": "This highly unstable atmospheric condition is expected to continue on the 27th as well.",
+            "ja": "この非常に不安定な大気の状態は、27日も引き続き発生する見込みです。"
           },
           {
-            "en": "Authorities are urging everyone in these areas to continue taking thorough precautions against heatstroke.",
-            "ja": "関係地域の人々は、引き続き熱中症対策を徹底するよう呼びかけられています。"
+            "en": "The affected area is very broad, stretching from the Tohoku region all the way down to Kyushu.",
+            "ja": "影響を受ける地域は非常に広く、東北地方から九州にまで及んでいます。"
           },
           {
-            "en": "Please stay hydrated, use air conditioning, and try to avoid going outside during the hottest parts of the day.",
-            "ja": "水分をこまめに補給し、エアコンを活用するとともに、一日の中で最も暑い時間帯の外出は避けるようにしてください。"
+            "en": "People living in these regions are advised to stay updated with the latest weather reports and be ready to evacuate if necessary.",
+            "ja": "これらの地域にお住まいの方は、最新の気象情報を確認し、必要に応じて避難できるよう準備することが勧められています。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186031000.html",
-        "title": "東京 隅田川花火大会 2万発余が夏の夜空彩る",
-        "title_ja": "隅田川花火大会、夜空を彩る2万発の花火",
-        "date": "Sat, 25 Jul 2026 20:57:14 +0900",
-        "summary": "The historic Sumida River Fireworks Festival was held in Tokyo, lighting up the night sky with over 20,000 spectacular fireworks.",
+        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186641000.html",
+        "title": "障害者施設殺傷事件から10年 ほんの少しでも“優しい社会に”",
+        "title_ja": "相模原施設殺傷事件から10年、遺族が願う「優しい社会」",
+        "date": "Sun, 26 Jul 2026 19:32:09 +0900",
+        "summary": "Ten years have passed since the tragic stabbing at a care facility in Sagamihara. The mother of Miho, a 19-year-old victim, continues to hope for a kinder and more compassionate society.",
         "sentences": [
           {
-            "en": "One of Tokyo's most iconic summer traditions, the Sumida River Fireworks Festival, was held on the evening of July 25th.",
-            "ja": "東京の夏の代表的な風物詩の一つである「隅田川花火大会」が、7月25日の夜に開催されました。"
+            "en": "Ten years have passed since the tragic incident at a care facility for people with intellectual disabilities in Sagamihara City, where 19 residents were killed.",
+            "ja": "相模原市の知的障害者施設で、入所者19人が殺害された惨事から10年が経ちました。"
           },
           {
-            "en": "More than 20,000 colorful fireworks were launched into the air, beautifully lighting up the night sky.",
-            "ja": "2万発以上の色鮮やかな花火が打ち上げられ、夜空を美しく彩りました。"
+            "en": "This devastating event deeply shook the nation and raised serious questions about how society treats people with disabilities.",
+            "ja": "この悲劇的な事件は社会に大きな衝撃を与え、障害を持つ人々への向き合い方について重い問いを投げかけました。"
           },
           {
-            "en": "This historic festival is traditionally held on the last Saturday of July every year.",
-            "ja": "この歴史ある祭りは、例年7月の最後の土曜日に開催されています。"
+            "en": "Among those who lost their lives was Miho, who was only 19 years old at the time.",
+            "ja": "犠牲となった人々の中には、当時わずか19歳だった美帆さんがいました。"
           },
           {
-            "en": "The event takes place along the Sumida River, spanning across Taito and Sumida wards.",
-            "ja": "イベントは台東区と墨田区にまたがる隅田川沿いで行われます。"
+            "en": "Over the years, Miho's mother has shared her grief and her hopes for the future.",
+            "ja": "歳月が流れる中で、美帆さんの母親は自らの深い悲しみと未来への希望を語り続けてきました。"
           },
           {
-            "en": "Many spectators gathered along the riverbanks to enjoy the spectacular view and experience the lively summer atmosphere.",
-            "ja": "多くの観客が川沿いに集まり、壮観な景色を楽しみ、活気ある夏の雰囲気を体感しました。"
+            "en": "She continues to pray that our society will become even just a little bit kinder and more compassionate than it is today.",
+            "ja": "彼女は、私たちの社会が今よりもほんの少しでも優しく、思いやりのある場所になってほしいと願い続けています。"
           },
           {
-            "en": "The brilliant display brought joy and excitement to both locals and visitors alike.",
-            "ja": "華やかな光のショーは、地元の人々にも観光客にも喜びと興奮をもたらしました。"
+            "en": "Her message reminds us of the importance of creating a world where everyone can live safely and with dignity.",
+            "ja": "彼女のメッセージは、誰もが安全に、そして尊厳を持って暮らせる世界を作ることの大切さを私たちに思い出させてくれます。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185901000.html",
-        "title": "「地域医療構想」新たなガイドライン公表 2040年見据え 厚労省",
-        "title_ja": "厚労省、2040年を見据えた「地域医療構想」の新たなガイドラインを公表",
-        "date": "Sat, 25 Jul 2026 11:21:32 +0900",
-        "summary": "The Japanese health ministry has released new guidelines for its \"Community Medicine Vision\" to prepare regional healthcare systems for 2040, when the population of those aged 85 and older is expected to surge.",
+        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186591000.html",
+        "title": "北海道 根室の断水 3日ぶりに全面復旧",
+        "title_ja": "北海道根室市の断水、3日ぶりに全面復旧",
+        "date": "Sun, 26 Jul 2026 18:43:05 +0900",
+        "summary": "A widespread water outage in Nemuro City, Hokkaido, has been fully resolved after three days. The disruption was caused by an algae bloom that clogged the filtration system due to rising water temperatures in the source pond.",
         "sentences": [
           {
-            "en": "Japan's Ministry of Health, Labour and Welfare has released new guidelines for its \"Community Medicine Vision.\"",
-            "ja": "厚生労働省は、「地域医療構想」に向けた新たなガイドラインを公表しました。"
+            "en": "A major water outage in Nemuro City, Hokkaido, has finally been fully resolved after three days.",
+            "ja": "北海道根室市で発生していた大規模な断水が、3日ぶりにようやく全面復旧しました。"
           },
           {
-            "en": "This vision outlines the future of regional healthcare systems across the country.",
-            "ja": "この構想は、全国の地域医療体制の将来像を示すものです。"
+            "en": "The outage began on the 23rd of this month and temporarily spread to affect almost the entire city.",
+            "ja": "この断水は今月の23日に発生し、一時は市内のほぼ全域に広がりました。"
           },
           {
-            "en": "The update looks ahead to the year 2040, when the population of elderly people aged 85 and older is expected to increase significantly.",
-            "ja": "今回の改定は、85歳以上の高齢者人口が大幅に増加すると見込まれる2040年を見据えたものです。"
+            "en": "Water services were completely restored as of noon on the 26th.",
+            "ja": "水道サービスは、26日の正午に完全に復旧しました。"
           },
           {
-            "en": "To prepare for this demographic shift, local governments will need to restructure their medical services.",
-            "ja": "この人口動態の変化に備えるため、地方自治体は医療サービスを再編していく必要があります。"
+            "en": "According to local officials, the issue was caused by unusually high water temperatures in the city's source pond.",
+            "ja": "市の担当者によると、今回の問題は水源となる沼の水温が異常に高くなったことが原因でした。"
           },
           {
-            "en": "The goal is to ensure that healthcare resources are distributed efficiently according to regional needs.",
-            "ja": "その目標は、地域のニーズに応じて医療資源が効率的に配分されるようにすることです。"
+            "en": "This warmth led to a rapid growth of algae, which then clogged the filtration system at the water treatment plant.",
+            "ja": "この水温の上昇によって藻が急激に繁殖し、浄水場のろ過装置に詰まってしまったのです。"
           },
           {
-            "en": "This policy will likely play a crucial role in supporting Japan's aging society in the coming decades.",
-            "ja": "この政策は、今後数十年にわたり、日本の高齢化社会を支える上で極めて重要な役割を果たすことになるでしょう。"
+            "en": "The city has apologized to residents for the major disruption and is now working on measures to prevent it from happening again.",
+            "ja": "市は住民に対して大きな混乱を招いたことを謝罪し、現在は再発防止に向けた対策に取り組んでいます。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186081000.html",
-        "title": "「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか",
-        "title_ja": "宇宙の歴史を探る：ニュートリノの「兆候」を初観測",
-        "date": "Sun, 26 Jul 2026 06:26:14 +0900",
-        "summary": "An international research group including the University of Tokyo has detected the first signs of relic neutrinos, which have accumulated in space from past stellar explosions.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186821000.html",
+        "title": "秀吉が恭順の毛利側を盛大にもてなしたこと示す文書発見",
+        "title_ja": "羽柴秀吉が毛利家をもてなした大坂城の宴席、詳細な記録文書が見つかる",
+        "date": "Mon, 27 Jul 2026 05:12:50 +0900",
+        "summary": "A newly discovered historical document reveals details of a grand banquet hosted by Hashiba Hideyoshi at Osaka Castle for the Mori clan during the Sengoku period.",
         "sentences": [
           {
-            "en": "Neutrinos are mysterious elementary particles that are often called \"ghost particles\" because they can pass through almost anything.",
-            "ja": "ニュートリノは、ほとんどあらゆるものを通り抜けることができるため、しばしば「幽霊素粒子」と呼ばれる不思議な素粒子です。"
+            "en": "A historical document has been discovered in Japan, offering a detailed look into a grand banquet from the Sengoku period.",
+            "ja": "戦国時代の盛大な宴席の様子を詳細に伝える、歴史的な文書が日本で見つかりました。"
           },
           {
-            "en": "Throughout the history of the universe, massive stars have exploded, releasing countless numbers of these particles into space.",
-            "ja": "宇宙の歴史を通じて、巨大な星が爆発し、これらの粒子を宇宙空間に無数に放出してきました。"
+            "en": "The event was hosted at Osaka Castle by Hashiba Hideyoshi, who was rising to power as the successor to Oda Nobunaga.",
+            "ja": "この宴席は、織田信長の後継者として実権を握り始めていた羽柴秀吉が、大坂城で催したものです。"
           },
           {
-            "en": "Scientists have long believed that these ancient neutrinos have been accumulating and are still floating around us today.",
-            "ja": "科学者たちは、これらの大昔のニュートリノが蓄積され、今も私たちの周りを漂い続けていると長年信じてきました。"
+            "en": "Hideyoshi held this lavish feast to welcome and entertain commanders from the Mori clan, who had recently pledged their loyalty to him.",
+            "ja": "秀吉は、自身への恭順の意を示した毛利家の武将たちを歓迎し、もてなすためにこの豪華な宴を催しました。"
           },
           {
-            "en": "Recently, an international research team led by the University of Tokyo announced a major breakthrough.",
-            "ja": "最近、東京大学などが参加する国際研究グループが、大きな画期的成果を発表しました。"
+            "en": "Written from the perspective of the Mori clan, the document records the specific details of the hospitality they received.",
+            "ja": "毛利側の視点で書かれたこの文書には、彼らが受けたもてなしの具体的な詳細が記録されています。"
           },
           {
-            "en": "For the first time, they have captured signs indicating the actual existence of these accumulated \"relic\" neutrinos.",
-            "ja": "彼らは、蓄積された「残存」ニュートリノの実際の存在を示す兆候を、世界で初めて捉えることに成功したのです。"
+            "en": "This discovery provides valuable insights into how Hideyoshi used grand banquets to build political alliances.",
+            "ja": "この発見は、秀吉が政治的な同盟関係を築くために、どのように盛大な宴席を利用したかを知る貴重な手がかりとなります。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186101000.html",
+        "title": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+        "title_ja": "「飛鳥・藤原の宮都」が世界文化遺産に登録決定",
+        "date": "Sun, 26 Jul 2026 19:03:28 +0900",
+        "summary": "The UNESCO World Heritage Committee has decided to register the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture as a World Cultural Heritage site, increasing the total number of World Heritage sites in Japan.",
+        "sentences": [
+          {
+            "en": "The UNESCO World Heritage Committee, meeting in South Korea, has decided to register the \"Asuka-Fujiwara\" archaeological sites in Nara Prefecture as a World Cultural Heritage site.",
+            "ja": "韓国で開かれたユネスコの世界遺産委員会で、奈良県内の飛鳥時代の遺跡群「飛鳥・藤原の宮都」を世界文化遺産として登録することが決まりました。"
           },
           {
-            "en": "This exciting discovery is expected to help researchers better understand the history of stars and the evolution of our universe.",
-            "ja": "このエキサイティングな発見は、研究者が星の歴史や宇宙の進化をより深く理解するのに役立つと期待されています。"
+            "en": "These historical sites represent the ancient capitals of Japan and show the foundation of the country's early state system.",
+            "ja": "これらの歴史的な遺跡群は日本の古代の都を代表するものであり、初期の国家体制の基礎を示しています。"
+          },
+          {
+            "en": "The area features unique palaces, temples, and tombs that reflect deep cultural exchanges with neighboring Asian nations.",
+            "ja": "この地域には、近隣のアジア諸国との深い文化的交流を反映した、独特な宮殿や寺院、古墳が存在します。"
+          },
+          {
+            "en": "With this new addition, the total number of World Heritage sites in Japan, combining both cultural and natural sites, has increased.",
+            "ja": "今回の決定により、文化遺産と自然遺産を合わせた日本国内の世界遺産の総数が増加することになります。"
+          },
+          {
+            "en": "Local communities in Nara are celebrating this achievement, hoping it will help preserve these valuable historical treasures for future generations.",
+            "ja": "奈良の地域社会はこの快挙を祝福しており、これらの貴重な歴史的遺産が未来の世代へと受け継がれていくことを期待しています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186131000.html",
-        "title": "維新 「副首都」大阪府指定に向けて準備加速を確認",
-        "title_ja": "維新、「副首都」大阪の実現と衆院定数削減に向け準備加速",
-        "date": "Sat, 25 Jul 2026 20:59:34 +0900",
-        "summary": "Following the passage of a law related to the 'vice-capital' concept, Nippon Ishin no Kai is speeding up preparations to designate Osaka as a vice-capital. The party also confirmed plans to pass a bill reducing the number of House of Representatives seats in the next Diet session.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186791000.html",
+        "title": "沖縄県知事選告示まで1か月 各党が準備加速へ",
+        "title_ja": "沖縄県知事選挙の告示まで残り1か月、基地問題や経済振興が争点に",
+        "date": "Mon, 27 Jul 2026 06:19:07 +0900",
+        "summary": "With only one month left until the official announcement of the Okinawa gubernatorial election, political parties are gearing up for a race that could impact national security and economic policies.",
         "sentences": [
           {
-            "en": "Following the passage of a law related to the \"vice-capital\" concept, political discussions in Japan are heating up.",
-            "ja": "「副首都」構想に関連する法律の成立を受け、日本国内の政治的議論が活発化しています。"
+            "en": "We are now just one month away from the official announcement of the Okinawa gubernatorial election, scheduled for the 27th of next month.",
+            "ja": "来月27日に告示を迎える沖縄県知事選挙まで、残り1か月となりました。"
           },
           {
-            "en": "Nippon Ishin no Kai is now accelerating its preparations to officially designate Osaka Prefecture as Japan's vice-capital.",
-            "ja": "日本維新の会は、大阪府を日本の「副首都」に正式指定するための準備を加速させています。"
+            "en": "The upcoming election is expected to focus on key issues such as reducing Okinawa's burden of hosting U.S. military bases and boosting the local economy.",
+            "ja": "今回の選挙では、沖縄の米軍基地負担の軽減や地元経済の振興などが主な争点となる見通しです。"
           },
           {
-            "en": "The party aims to distribute government functions away from Tokyo to ensure the country can continue to operate in the event of a major disaster.",
-            "ja": "同党は、大規模災害が発生した場合でも国が機能し続けられるよう、東京から政府機能を分散させることを目指しています。"
+            "en": "Because the outcome could significantly impact Japan's national security policies, political parties are watching the race closely.",
+            "ja": "選挙結果は国の安全保障政策に大きな影響を与える可能性があるため、各政党はこの動きを注視しています。"
           },
           {
-            "en": "In addition to this, they have reaffirmed their commitment to push for another key political reform.",
-            "ja": "これに加えて、同党はもう一つの重要な政治改革を推進する方針を改めて確認しました。"
+            "en": "Major political parties have already begun accelerating their preparations to support their respective candidates.",
+            "ja": "主要政党は、すでにそれぞれの候補者を支援するための準備を加速させています。"
           },
           {
-            "en": "Specifically, the party plans to pass a bill to reduce the number of seats in the House of Representatives during the next Diet session.",
-            "ja": "具体的には、次の国会で衆議院議員の定数を削減する法案を成立させる方針です。"
-          },
-          {
-            "en": "As these major structural changes are being proposed, many are closely watching how other political parties will respond.",
-            "ja": "これらの大きな構造改革が提案される中、他の政党がどのように対応するかに注目が集まっています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185681000.html",
-        "title": "福岡県議会 正副議長ポストめぐる問題 調査の透明性確保が焦点",
-        "title_ja": "福岡県議会の副議長が辞職、金銭授受疑惑めぐり",
-        "date": "Sat, 25 Jul 2026 05:04:49 +0900",
-        "summary": "The vice-speaker of the Fukuoka Prefectural Assembly has resigned over allegations of money changing hands regarding leadership posts, prompting calls for a third-party investigation.",
-        "sentences": [
-          {
-            "en": "On October 24th, Masayuki Nakao, the vice-speaker of the Fukuoka Prefectural Assembly, resigned from his position as an assembly member.",
-            "ja": "10月24日、福岡県議会の中尾正幸副議長が、県議会議員を辞職しました。"
-          },
-          {
-            "en": "His resignation comes amid serious allegations of money changing hands regarding the selection of the assembly's speaker and vice-speaker.",
-            "ja": "今回の辞職は、正副議長のポストをめぐり金銭の授受があったとされる深刻な疑惑が指摘される中で行われました。"
-          },
-          {
-            "en": "Nakao stated that he decided to step down to take responsibility for causing confusion in the prefectural administration.",
-            "ja": "中尾氏は、県政に混乱を招いたことへの責任を取るために辞職を決意したと説明しました。"
-          },
-          {
-            "en": "However, many believe that his resignation alone does not resolve the underlying issues.",
-            "ja": "しかし、彼の辞職だけでは根本的な問題は解決しないと多くの人が考えています。"
-          },
-          {
-            "en": "There are now growing calls from within the assembly to establish a third-party committee to clarify the facts.",
-            "ja": "事実関係を明らかにするため、県議会内からは第三者委員会を設置するよう求める声が高まっています。"
+            "en": "Voters will have to make a crucial decision regarding both the island's future development and its role in national defense.",
+            "ja": "有権者は、沖縄の今後の発展と国の防衛における役割の双方に関わる、極めて重要な決断を迫られることになります。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186161000.html",
-        "title": "ジャングリア沖縄 開業1年 運営会社“思うような数字 至らず”",
-        "title_ja": "「ジャングリア沖縄」が開業1周年、来場者100万人見通し",
-        "date": "Sat, 25 Jul 2026 22:16:40 +0900",
-        "summary": "The theme park \"Junglia Okinawa\" in northern Okinawa celebrated its first anniversary, expecting to reach one million visitors in its first year while aiming for further improvements.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186771000.html",
+        "title": "日銀 今週決定会合 政策金利据え置きか 経済・物価見通し焦点",
+        "title_ja": "日銀、今週の金融政策決定会合で金利据え置きを検討へ",
+        "date": "Mon, 27 Jul 2026 06:24:20 +0900",
+        "summary": "The Bank of Japan is expected to keep its policy interest rate unchanged this week to evaluate the effects of last month's rate hike, while investors watch for future economic outlooks amid a weak yen.",
         "sentences": [
           {
-            "en": "Junglia Okinawa, a theme park in the northern part of Okinawa's main island, celebrated its first anniversary on the 25th.",
-            "ja": "沖縄本島北部のテーマパーク「ジャングリア沖縄」が、25日に開業から1周年を迎えました。"
+            "en": "The Bank of Japan is scheduled to hold its monetary policy meeting this week.",
+            "ja": "日銀は今週、金融政策決定会合を開催する予定です。"
           },
           {
-            "en": "Since its opening last year, the park has quickly become a major new tourist attraction in the prefecture.",
-            "ja": "昨年オープンして以来、このパークは県内の新たな主要観光スポットとして急速に成長しています。"
+            "en": "The central bank is expected to keep its key interest rate unchanged during this meeting.",
+            "ja": "日銀は今回の会合で、政策金利を据え置く方向で検討するとみられています。"
           },
           {
-            "en": "The operating company announced that the total number of visitors in its first year is expected to reach one million.",
-            "ja": "運営会社は、開業初年度の累計来場者数が100万人に達する見通しであることを明らかにしました。"
+            "en": "This pause will allow policymakers to closely monitor the impact of the interest rate hike decided last month.",
+            "ja": "この据え置きにより、先月決定された利上げの影響を慎重に見極める狙いがあります。"
           },
           {
-            "en": "While they are pleased with this milestone, the management also reflected on areas where they can make further improvements.",
-            "ja": "この大きな節目を喜ぶ一方で、運営陣は今後さらに改善できる点についても振り返りを行いました。"
+            "en": "Meanwhile, the Japanese yen continues to hover around historically weak levels.",
+            "ja": "一方、日本円は歴史的な安値水準で推移し続けています。"
           },
           {
-            "en": "They hope to continue boosting the local economy by attracting more domestic and international tourists to northern Okinawa.",
-            "ja": "彼らは、国内外から沖縄北部へさらに多くの観光客を誘致することで、引き続き地域経済を活性化させたいと考えています。"
+            "en": "Under these circumstances, people are closely watching how the bank will describe its outlook for the economy and prices.",
+            "ja": "こうした状況の中、日銀が今後の経済や物価の見通しをどう示すかに注目が集まっています。"
+          },
+          {
+            "en": "There is also great interest in what the bank will say about the pace of future interest rate hikes.",
+            "ja": "また、今後の利上げのペースについて日銀がどのように言及するかにも高い関心が寄せられています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
-        "title": "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
-        "title_ja": "韓国大統領、米AI企業に投資呼びかけ 半導体供給網の強化へ",
-        "date": "Sat, 25 Jul 2026 21:33:03 +0900",
-        "summary": "During his visit to the United States, the South Korean President spoke to leaders of major AI companies like Nvidia and OpenAI, calling for investment and discussing cooperation in semiconductor production.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186781000.html",
+        "title": "米FRB会合 イラン情勢によるインフレ再加速懸念で判断注目",
+        "title_ja": "FRB、ウォーシュ議長のもとで2回目の金融政策決定会合を開催へ",
+        "date": "Mon, 27 Jul 2026 05:02:21 +0900",
+        "summary": "The U.S. Federal Reserve is set to hold its second policy meeting under Chairman Warsh, with markets expecting rates to remain unchanged amid rising inflation concerns from the Iran situation.",
         "sentences": [
           {
-            "en": "The South Korean President delivered a speech to the CEOs of major AI-related companies, including Nvidia and OpenAI, during his visit to the United States.",
-            "ja": "韓国の大統領は訪問先のアメリカで、エヌビディアやオープンAIなどの主要な人工知能（AI）関連企業のCEOを前に演説を行いました。"
+            "en": "The U.S. Federal Reserve will hold its second monetary policy meeting under Chairman Warsh starting on the 28th.",
+            "ja": "アメリカの連邦準備制度理事会（FRB）は、28日からウォーシュ議長のもとで2回目となる金融政策決定会合を開催します。"
           },
           {
-            "en": "In his address, he actively called for increased investment in South Korea's expanding tech sector.",
-            "ja": "演説の中で大統領は、拡大する韓国の技術セクターへの投資拡大を積極的に呼びかけました。"
+            "en": "Many in the financial markets expect the central bank to keep its key interest rate unchanged this time.",
+            "ja": "金融市場では、FRBが今回の会合で政策金利を据え置くとの見方が大勢を占めています。"
           },
           {
-            "en": "Following the meeting, the South Korean presidential office shared details regarding their future plans.",
-            "ja": "会談後、韓国大統領府は今後の計画に関する詳細を明らかにしました。"
+            "en": "However, there are lingering concerns about rising inflation, driven by the unstable situation in Iran.",
+            "ja": "一方で、不安定なイラン情勢を背景に、インフレ懸念が根強く残っています。"
           },
           {
-            "en": "They emphasized the importance of collaboration in key areas such as semiconductor production and supply chains.",
-            "ja": "大統領府は、半導体の生産やサプライチェーン（供給網）といった主要な分野における協力の重要性を強調しました。"
+            "en": "Investors are closely watching how these geopolitical tensions might affect global oil prices and overall economic growth.",
+            "ja": "投資家たちは、こうした地政学的緊張が世界の原油価格や経済成長全体にどのように影響するかを注視しています。"
           },
           {
-            "en": "This initiative aims to strengthen partnerships between South Korean manufacturers and global AI giants.",
-            "ja": "この取り組みは、韓国の製造業者とグローバルなAI大手企業とのパートナーシップを強化することを目指しています。"
+            "en": "The Fed faces a difficult challenge in balancing inflation control with economic stability.",
+            "ja": "FRBは、インフレの抑制と経済の安定維持を両立させるという、難しい課題に直面しています。"
           },
           {
-            "en": "Both sectors hope to drive innovation and secure a stable supply of essential tech components.",
-            "ja": "双方のセクターは、イノベーションを推進し、不可欠な技術部品の安定した供給を確保することを期待しています。"
+            "en": "Market participants will pay close attention to the statement after the meeting for clues about future policy moves.",
+            "ja": "市場関係者は、今後の政策の動きに関する手がかりを得るため、会合後の声明に高い関心を寄せています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
-        "title": "トランプ大統領がイラン攻撃しないよう指示か 米報道",
-        "title_ja": "米イラン間の緊張、一時的な小康状態に",
-        "date": "Sun, 26 Jul 2026 06:11:07 +0900",
-        "summary": "Following two weeks of retaliatory attacks, direct military actions between the U.S. and Iran have paused, though tensions remain high.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186961000.html",
+        "title": "米国連大使“協議の余地残す” イラン高官“懐疑的見方強い”",
+        "title_ja": "「トランプ大統領は協議の余地を残している」米国連大使が表明",
+        "date": "Mon, 27 Jul 2026 05:32:47 +0900",
+        "summary": "The US Ambassador to the UN stated that the US has not launched direct attacks on Iran, noting that President Trump is keeping the door open for diplomatic talks.",
         "sentences": [
           {
-            "en": "Tensions between the United States and Iran have been high, with both sides exchanging attacks for about two weeks.",
-            "ja": "アメリカとイランの間では、およそ2週間にわたって攻撃の応酬が続き、緊張が高まっています。"
+            "en": "The US Ambassador to the United Nations recently made an important statement regarding the ongoing tensions with Iran.",
+            "ja": "国連のアメリカ大使は、イランとの間で続く緊張について、最近重要な発言を行いました。"
           },
           {
-            "en": "However, no direct military strikes have been reported between the two nations from the 25th through the morning of the 26th.",
-            "ja": "しかし、25日から26日朝にかけて、両国間での直接的な軍事攻撃は報告されていません。"
+            "en": "She clarified that the US military has not launched any direct attacks on Iran.",
+            "ja": "大使は、アメリカ軍がイランへの直接的な攻撃を行っていないことを明らかにしました。"
           },
           {
-            "en": "U.S. media reported that President Trump had approved a new strike against Iran on the 24th, though it was not carried out.",
-            "ja": "アメリカのメディアは、トランプ大統領が24日にイランへの新たな攻撃を承認したものの、実施はされなかったと報じました。"
+            "en": "According to her, President Trump is keeping the door open for diplomatic talks.",
+            "ja": "彼女によると、トランプ大統領は外交交渉の余地を残しているとのことです。"
           },
           {
-            "en": "This temporary pause in military action provides a brief moment of relief, though the situation remains highly volatile.",
-            "ja": "軍事行動の一時的な停止は、状況が依然として非常に不安定であるものの、束の間の安堵をもたらしています。"
+            "en": "She emphasized that the administration is currently communicating with related countries to address the situation.",
+            "ja": "大使は、事態に対処するために、政府が現在、関係国とやりとりを進めていることを強調しました。"
           },
           {
-            "en": "International observers are closely watching whether both countries can find a diplomatic path to resolve their differences.",
-            "ja": "両国が対立を解決するための外交的な道筋を見出せるかどうか、国際的な観測筋が注視しています。"
+            "en": "This approach suggests that the United States is seeking a peaceful resolution rather than immediate military conflict.",
+            "ja": "この姿勢は、アメリカが即座の軍事衝突よりも、平和的な解決を模索していることを示唆しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186911000.html",
+        "title": "ウクライナ“ロシア・イラン間の輸送船を攻撃” イランは反発",
+        "title_ja": "ウクライナがロシア・イラン間の輸送船を攻撃したと発表",
+        "date": "Mon, 27 Jul 2026 05:30:26 +0900",
+        "summary": "Ukraine announced it targeted a vessel transporting military supplies between Russia and Iran to disrupt logistics, while Iran claims the ship was actually a civilian merchant vessel.",
+        "sentences": [
+          {
+            "en": "Ukraine has intensified its attacks on logistics networks to weaken Russia's ability to continue the war.",
+            "ja": "ウクライナは、ロシアの戦闘継続能力を低下させるため、物流網への攻撃を強化しています。"
+          },
+          {
+            "en": "As part of these efforts, Ukraine recently announced that it targeted a vessel transporting military supplies between Russia and Iran.",
+            "ja": "この取り組みの一環として、ウクライナは最近、ロシアとイランの間で軍事物資を輸送していた船舶を攻撃したと発表しました。"
+          },
+          {
+            "en": "According to Ukrainian officials, the ship was a key link in the supply chain supporting Russian military operations.",
+            "ja": "ウクライナ当局によると、この船はロシアの軍事作戦を支えるサプライチェーンの重要な一環でした。"
+          },
+          {
+            "en": "On the other hand, Iran disputed this claim, stating that the vessel was actually a civilian merchant ship.",
+            "ja": "一方でイランはこの主張に異議を唱え、攻撃を受けた船舶は実際には民間の商船であったと述べています。"
+          },
+          {
+            "en": "This confrontation highlights the increasing tension over international supply lines feeding the ongoing conflict.",
+            "ja": "この対立は、現在も続く紛争に供給を行う国際的な輸送ルートを巡る緊張の高まりを浮き彫りにしています。"
           }
         ]
       }
     ],
     "スポーツ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186231000.html",
-        "title": "大相撲名古屋場所千秋楽 単独トップの安青錦は熱海富士と対戦",
-        "title_ja": "名古屋場所千秋楽：安青錦、優勝をかけて熱海富士と対決へ",
-        "date": "Sun, 26 Jul 2026 06:25:48 +0900",
-        "summary": "On the final day of the Nagoya Sumo Tournament, leader Sekiwake Aonishiki, with two losses, faces Sekiwake Atamifuji, who has three losses, in a decisive championship match.",
+        "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186951000.html",
+        "title": "ホワイトソックス 村上宗隆 21号22号 1試合2本塁打は2回目",
+        "title_ja": "ホワイトソックス村上宗隆選手、復帰後初の21号含む1試合2本塁打の大活躍",
+        "date": "Mon, 27 Jul 2026 06:15:26 +0900",
+        "summary": "Munetaka Murakami of the White Sox shined in a recent game against the Astros, hitting two home runs including his first since returning from a hamstring injury.",
         "sentences": [
           {
-            "en": "The final day of the Nagoya Grand Sumo Tournament has arrived, bringing the exciting championship race to its climax.",
-            "ja": "大相撲名古屋場所は千秋楽を迎え、優勝争いは白熱したクライマックスに達しています。"
+            "en": "On the 26th, Major League Baseball player Munetaka Murakami of the White Sox started as the number two hitter and first baseman in a game against the Astros.",
+            "ja": "大リーグ、ホワイトソックスの村上宗隆選手は26日、アストロズ戦に2番・ファーストで先発出場しました。"
           },
           {
-            "en": "After fourteen days of intense bouts, Sekiwake Aonishiki stands alone at the top with only two losses.",
-            "ja": "14日間の激しい取組を終え、関脇の安青錦が2敗で単独トップに立っています。"
+            "en": "He had an outstanding performance, hitting two home runs in a single game.",
+            "ja": "村上選手はこの試合で、1試合2本のホームランを放つ素晴らしい活躍を見せました。"
           },
           {
-            "en": "If Aonishiki wins his match today, he will secure the tournament championship.",
-            "ja": "安青錦は今日の勝負に勝てば、場所優勝が決まります。"
+            "en": "In the first inning, he hit his 21st home run of the season.",
+            "ja": "1回には、今シーズン第21号となるホームランを放ちました。"
           },
           {
-            "en": "However, he faces a tough challenge against Sekiwake Atamifuji, who is closely chasing him with three losses.",
-            "ja": "しかし、彼の前には、3敗で追う関脇の熱海富士との厳しい対戦が待ち受けています。"
+            "en": "This home run was especially meaningful as it was his first since returning from a right hamstring injury.",
+            "ja": "このホームランは、右太もも裏のけがから復帰して以来、彼にとって初めての1発となり、非常に価値のあるものでした。"
           },
           {
-            "en": "Sumo fans are filled with anticipation to see who will emerge victorious on this final day.",
-            "ja": "この千秋楽の日に誰が覇者となるのか、相撲ファンは期待に胸を膨らませています。"
+            "en": "His powerful return to the lineup has brought great excitement to his team and fans alike.",
+            "ja": "戦列への力強い復帰は、チームとファンの両方に大きな興奮をもたらしています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186271000.html",
-        "title": "59歳 三浦知良 天皇杯代表決定戦でゴール 移籍後公式戦初得点",
-        "title_ja": "59歳のカズ、福島ユナイテッドで公式戦ゴールを記録",
-        "date": "Sun, 26 Jul 2026 00:02:57 +0900",
-        "summary": "Fifty-nine-year-old soccer legend Kazuyoshi Miura, known as 'Kazu,' has scored a goal in an official match for Fukushima United. He achieved this feat during the Emperor's Cup regional final against Iwaki Furukawa FC.",
+        "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186861000.html",
+        "title": "【プロ野球結果】阪神 村上頌樹が巨人に完封勝利 首位に並ぶ",
+        "title_ja": "阪神・村上投手が巨人を完封、チームは再び首位タイに",
+        "date": "Sun, 26 Jul 2026 23:09:09 +0900",
+        "summary": "On the 26th, pitcher Shoki Murakami led the Hanshin Tigers to a 1-0 shutout victory against the Giants, bringing the Tigers back into a tie for first place.",
         "sentences": [
           {
-            "en": "Fifty-nine-year-old soccer player Kazuyoshi Miura, widely known as 'Kazu,' has scored a goal in an official match.",
-            "ja": "「カズ」の愛称で広く知られる59歳のサッカー選手、三浦知良選手が公式戦でゴールを決めました。"
+            "en": "Six games were played in Japanese professional baseball on the 26th.",
+            "ja": "プロ野球は26日、6試合が行われました。"
           },
           {
-            "en": "Miura, who currently plays for the J3 league club Fukushima United, participated in a crucial game on the 25th.",
-            "ja": "現在J3の福島ユナイテッドに所属する三浦選手は、25日に行われた重要な試合に出場しました。"
+            "en": "Among them, the matchup between the Hanshin Tigers and the Yomiuri Giants drew significant attention.",
+            "ja": "その中において、阪神タイガースと読売ジャイアンツの対戦が大きな注目を集めました。"
           },
           {
-            "en": "This match was the final of the Emperor's Cup Fukushima representative decider, held in Fukushima City.",
-            "ja": "この試合は、福島市で開催された天皇杯の福島県代表決定戦の決勝でした。"
+            "en": "Hanshin's pitcher Shoki Murakami threw a brilliant complete-game shutout, leading his team to a tight 1-0 victory.",
+            "ja": "阪神の村上頌樹投手が素晴らしい完封勝利を収め、チームを1対0の接戦での勝利に導きました。"
           },
           {
-            "en": "Facing off against Iwaki Furukawa FC, the legendary striker demonstrated his enduring skills on the pitch.",
-            "ja": "いわき古河FCと対戦したこのレジェンドストライカーは、ピッチ上で衰えぬ技術を披露しました。"
+            "en": "Murakami's dominant pitching kept the Giants' batters quiet throughout the entire game.",
+            "ja": "村上投手の圧倒的なピッチングは、試合を通じて巨人打線を抑え込みました。"
           },
           {
-            "en": "His successful goal during the match once again proved that age is just a number in professional sports.",
-            "ja": "試合中での見事なゴールは、プロスポーツの世界において年齢は単なる数字に過ぎないことを改めて証明しました。"
-          },
-          {
-            "en": "Fans and fellow athletes alike continue to be inspired by his remarkable longevity and passion for the game.",
-            "ja": "ファンや他のアスリートたちは、彼の驚異的な現役の長さとサッカーへの情熱に刺激を受け続けています。"
+            "en": "With this crucial win, the Tigers have successfully tied for first place once again.",
+            "ja": "この貴重な勝利により、タイガースは見事に再び首位に並びました。"
           }
         ]
       }
