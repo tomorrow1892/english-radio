@@ -1,122 +1,89 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195361000.html",
-      "title": "台風13号 小笠原諸島に近づく 高波と暴風に厳重に警戒を",
-      "title_ja": "台風13号が小笠原諸島に接近、沖縄・奄美でも暴風の恐れ",
-      "date": "Tue, 04 Aug 2026 06:37:25 +0900",
-      "summary": "A large and very strong Typhoon Number 13 is approaching the Ogasawara Islands, prompting warnings for high waves, severe winds, and safety precautions through the weekend.",
+      "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196631000.html",
+      "title": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
+      "title_ja": "台風13号、非常に強い勢力で沖縄・奄美に接近へ",
+      "date": "Wed, 05 Aug 2026 06:55:30 +0900",
+      "summary": "A large and very strong Typhoon No. 13 is expected to approach Okinawa and the Amami region, prompting weather officials to urge residents to prepare early for violent winds and high waves.",
       "sentences": [
         {
-          "en": "A large and very strong typhoon, Typhoon Number 13, is currently approaching the Ogasawara Islands.",
-          "ja": "大型で非常に強い台風13号が、現在小笠原諸島に接近しています。"
+          "en": "A large and very strong typhoon, Typhoon No. 13, is expected to approach the Okinawa and Amami regions while maintaining its strong force.",
+          "ja": "大型で非常に強い台風13号は、強い勢力を維持したまま沖縄・奄美地方に接近する見込みです。"
         },
         {
-          "en": "The Japan Meteorological Agency is urging residents to remain highly vigilant against high waves and violent winds.",
-          "ja": "気象庁は住民に対し、高波や暴風に厳重に警戒するよう呼びかけています。"
+          "en": "The Japan Meteorological Agency is warning residents to be on high alert for violent winds and high waves.",
+          "ja": "気象庁は、暴風や高波に厳重に警戒するよう呼びかけています。"
         },
         {
-          "en": "Officials are also advising people in the affected areas to avoid non-essential outings to ensure their safety.",
-          "ja": "また、安全を確保するため、影響を受ける地域の住民に対して不要不急の外出を控えるよう呼びかけています。"
+          "en": "As the storm approaches, weather conditions are expected to deteriorate rapidly in the affected regions.",
+          "ja": "台風の接近に伴い、影響を受ける地域では天候が急速に悪化する見通しです。"
         },
         {
-          "en": "As the storm progresses, extremely strong winds are expected to hit the Okinawa and Amami regions from Friday through the weekend.",
-          "ja": "台風の進行に伴い、金曜日から週末にかけて、沖縄や奄美地方で猛烈な風が吹くおそれがあります。"
+          "en": "Officials urge everyone in these areas to check the latest weather updates frequently.",
+          "ja": "関係自治体などは、対象地域の人々に対して最新の気象情報をこまめに確認するよう強く促しています。"
         },
         {
-          "en": "Local residents in these areas are advised to monitor the latest weather updates and prepare for potential disruptions.",
-          "ja": "これらの地域の住民は、最新の気象情報を確認し、交通の乱れなどに備えるよう呼びかけられています。"
+          "en": "It is critical to complete all emergency preparations and secure your homes before the winds intensify.",
+          "ja": "風が強くなる前に、早めの備えを進め、安全を確保することが極めて重要です。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195341000.html",
-      "title": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
-      "title_ja": "日米による協調介入と今後の円安対策",
-      "date": "Tue, 04 Aug 2026 06:45:11 +0900",
-      "summary": "Japan and the U.S. have conducted coordinated currency interventions to curb the historic depreciation of the yen. Authorities have indicated they are prepared for further action, while closely cooperating to secure necessary funds.",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
+      "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
+      "title_ja": "ベッセント米財務長官、日米の協調為替介入を「日米連携の象徴」と言及",
+      "date": "Wed, 05 Aug 2026 03:15:30 +0900",
+      "summary": "U.S. Treasury Secretary Scott Bessent spoke to NHK about the recent joint currency intervention, emphasizing its symbolic representation of strong U.S.-Japan cooperation.",
       "sentences": [
         {
-          "en": "Last week, currency authorities from Japan and the United States coordinated to conduct yen-buying interventions to stop the historic decline of the Japanese yen.",
-          "ja": "先週、日米の通貨当局は歴史的な円安に歯止めをかけるため、協調して円買い介入を実施しました。"
+          "en": "U.S. Treasury Secretary Scott Bessent recently granted an exclusive interview to NHK.",
+          "ja": "アメリカのベッセント財務長官が、このほどNHKの単独インタビューに応じました。"
         },
         {
-          "en": "On the 3rd, they indicated a strong stance, showing they would not hesitate to conduct further coordinated interventions if necessary.",
-          "ja": "3日には、必要に応じて追加の協調介入も辞さないという強い姿勢を示しました。"
+          "en": "During the interview, he commented on the joint currency intervention carried out by Japanese and U.S. authorities last week.",
+          "ja": "インタビューの中で同氏は、日米の通貨当局が先週実施した協調的な通貨介入について言及しました。"
         },
         {
-          "en": "To secure enough U.S. dollars to fund these yen-buying operations, Japan plans to closely cooperate with the United States going forward.",
-          "ja": "日本側は、これらの円買い介入の資金となる米ドルを十分に確保するため、今後アメリカと緊密に連携していく方針です。"
+          "en": "This coordinated yen-buying action was aimed at curbing the historic depreciation of the Japanese yen.",
+          "ja": "この協調的な円買い介入は、歴史的な円安の進行を阻止することを目的に実施されたものです。"
         },
         {
-          "en": "Market watchers are paying close attention to how these joint efforts will affect the currency market in the coming days.",
-          "ja": "市場関係者は、こうした共同の取り組みが今後為替相場にどのような影響を与えるか、注視しています。"
+          "en": "Bessent noted that the joint operation served as a highly symbolic representation of the strong partnership between Japan and the United States.",
+          "ja": "ベッセント氏は、この共同介入について、日米間の強力な連携を示す象徴的な意味合いを持っていたと述べました。"
         },
         {
-          "en": "Observers note that while interventions can provide temporary relief, long-term economic factors will continue to influence the yen's value.",
-          "ja": "専門家は、介入が一時的な緩和をもたらす一方で、長期的な経済要因が今後も円の価値に影響を与え続けると指摘しています。"
+          "en": "He suggested that close communication between the two nations would continue to be vital for stabilizing the financial markets.",
+          "ja": "同氏はまた、金融市場の安定化に向けて、日米両国間の緊密な意思疎通が引き続き極めて重要であるとの認識を示しました。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015194611000.html",
-      "title": "【地震速報】熊本 宇城で震度4 津波の心配なし(5:32)",
-      "title_ja": "熊本県で震度4の地震、津波の心配なし",
-      "date": "Tue, 04 Aug 2026 06:26:31 +0900",
-      "summary": "An earthquake with a maximum intensity of 4 struck Kumamoto Prefecture early on the 4th. Fortunately, there is no threat of a tsunami.",
+      "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196581000.html",
+      "title": "消費税減税 基本方針案 閣議決定へ 野党は国会でただす構え",
+      "title_ja": "食料品の消費税、来年4月から2年間1%へ引き下げ案",
+      "date": "Wed, 05 Aug 2026 05:42:31 +0900",
+      "summary": "The Japanese government is planning to temporarily lower the consumption tax on food to 1% for two years starting next April, prompting the ruling coalition to begin detailed tax reform discussions.",
       "sentences": [
         {
-          "en": "Early in the morning on the 4th, an earthquake struck Kumamoto Prefecture, measuring a maximum seismic intensity of 4.",
-          "ja": "4日の早朝、熊本県で最大震度4を観測する地震がありました。"
+          "en": "The Japanese government is planning to temporarily lower the consumption tax on food products to one percent.",
+          "ja": "日本政府は、食料品の消費税を一時的に1％に引き下げる計画を進めています。"
         },
         {
-          "en": "The tremor occurred at around 5:32 AM, but fortunately, there is no threat of a tsunami.",
-          "ja": "揺れは午前5時32分ごろに発生しましたが、幸いにも津波の心配はありません。"
+          "en": "This tax cut is proposed to start next April and last for a period of two years.",
+          "ja": "この減税は来年4月から開始され、2年間の期間にわたり実施される予定です。"
         },
         {
-          "en": "The strongest shaking, measuring intensity 4 on the Japanese seismic scale, was recorded in Uki City.",
-          "ja": "日本の震度階級で震度4の最も強い揺れが、宇城市で観測されました。"
+          "en": "The government aims to officially approve this basic policy plan during a cabinet meeting on the 5th.",
+          "ja": "政府は、5日の閣議でこの基本方針案を正式に決定したい考えです。"
         },
         {
-          "en": "A seismic intensity of 3 was also felt in other areas, including the Minami Ward of Kumamoto City.",
-          "ja": "また、熊本市南区を含むその他の地域でも震度3の揺れが観測されました。"
+          "en": "In response to this move, the ruling coalition has begun discussions on the tax reform outline.",
+          "ja": "これを受けて、与党は税制改正大綱の検討に入りました。"
         },
         {
-          "en": "Local authorities advise residents to remain calm and stay updated on the latest safety information.",
-          "ja": "地元当局は住民に対し、落ち着いて行動し、最新の安全情報に注意するよう呼びかけています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195321000.html",
-      "title": "食料品の消費税減税 5日にも閣議決定したい考え 政府",
-      "title_ja": "食料品消費税1%への引き下げ案、自民党が小野寺税調会長に一任",
-      "date": "Tue, 04 Aug 2026 05:49:09 +0900",
-      "summary": "The Japanese government has proposed a draft plan to lower the consumption tax on food to 1% for two years starting next April, with the LDP leaving the decision up to its tax chief.",
-      "sentences": [
-        {
-          "en": "The Japanese government has drafted a basic policy to temporarily reduce the consumption tax rate on food products.",
-          "ja": "政府は、食料品の消費税率を一時的に引き下げる基本方針案をまとめました。"
-        },
-        {
-          "en": "Under this proposal, the tax rate would drop to 1% for a period of two years, beginning next April.",
-          "ja": "この案では、来年4月から2年間の期限付きで、税率が1%に引き下げられます。"
-        },
-        {
-          "en": "Regarding this plan, a joint committee of the ruling Liberal Democratic Party met to discuss how to proceed.",
-          "ja": "この計画を巡り、与党・自民党の合同会議が開かれ、今後の対応について協議しました。"
-        },
-        {
-          "en": "The committee ultimately decided to leave the final decision entirely up to the party's Tax Commission Chairman, Itsunori Onodera.",
-          "ja": "会議では最終的に、対応を小野寺税制調査会長に一任することを決めました。"
-        },
-        {
-          "en": "The government hopes to officially approve this basic policy in a cabinet meeting as early as the 5th.",
-          "ja": "政府は、早ければ5日にも閣議でこの基本方針を決定したい考えです。"
-        },
-        {
-          "en": "Discussions will now shift to the specific details of how to implement this tax cut.",
-          "ja": "今後は、この減税を具体的にどのように実施するかについての議論に移る見通しです。"
+          "en": "They are now expected to step up efforts to work out the concrete details of the system.",
+          "ja": "今後、具体的な制度設計に向けた検討を本格化させる見通しです。"
         }
       ]
     }
@@ -124,410 +91,317 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195131000.html",
-        "title": "【動画】Pickup NEWS（8月4日）",
-        "title_ja": "1分でわかる最新ニュースのまとめ",
-        "date": "Tue, 04 Aug 2026 06:48:33 +0900",
-        "summary": "A brief introduction to a one-minute news summary video designed for busy viewers, noting that it is unavailable via data broadcasting.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196631000.html",
+        "title": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
+        "title_ja": "台風13号が沖縄・奄美に接近、厳重な警戒を呼びかけ",
+        "date": "Wed, 05 Aug 2026 06:55:30 +0900",
+        "summary": "Typhoon Number 13 is approaching the Okinawa and Amami regions with great force, prompting weather officials to urge residents to prepare for severe winds and high waves.",
         "sentences": [
           {
-            "en": "Welcome to our daily news update, where we bring you the latest stories summarized in a one-minute video.",
-            "ja": "最新のニュースを1分間の動画にまとめてお届けする、デイリーニュースアップデートへようこそ。"
+            "en": "Large and very strong Typhoon Number 13 is expected to approach the Okinawa and Amami regions while maintaining its high intensity.",
+            "ja": "大型で非常に強い台風13号は、今後、強い勢力を維持したまま沖縄や奄美地方に接近する見込みです。"
           },
           {
-            "en": "This short video is designed to help you quickly catch up on the key events happening around the world today.",
-            "ja": "この短い動画は、今日世界で起きている主要な出来事を素早く把握できるように設計されています。"
+            "en": "Local authorities are urging residents to be on high alert for violent winds and high waves.",
+            "ja": "自治体は、暴風や高波に厳重に警戒するよう住民に呼びかけています。"
           },
           {
-            "en": "It is perfect for those who have a busy schedule but still want to stay informed.",
-            "ja": "忙しいスケジュールの中でも、常に最新の情報を得たいと考えている方に最適です。"
+            "en": "According to the Japan Meteorological Agency, the storm is likely to bring severe weather conditions to the islands.",
+            "ja": "気象庁によると、この台風により島々は大荒れの天気になる恐れがあります。"
           },
           {
-            "en": "Please note that if you are viewing this via data broadcasting, the video playback feature is not available.",
-            "ja": "なお、データ放送でご覧いただいている場合、動画再生機能はご利用いただけませんのでご注意ください。"
+            "en": "It is crucial to stay updated with the latest weather advisories and complete safety preparations as early as possible.",
+            "ja": "最新の気象情報を常に確認し、できるだけ早く安全対策を済ませることが極めて重要です。"
           },
           {
-            "en": "We hope this quick wrap-up helps you stay updated with the most important news of the day.",
-            "ja": "この素早いニュースまとめが、今日の最も重要なニュースを把握するのにお役に立てば幸いです。"
+            "en": "Please secure any loose outdoor items and double-check your local evacuation routes.",
+            "ja": "屋外の飛ばされやすい物を固定し、地域の避難経路を再確認してください。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195491000.html",
-        "title": "【地震速報】熊本で震度3 津波の心配なし(6:04)",
-        "title_ja": "熊本県で震度3の地震、津波の心配なし",
-        "date": "Tue, 04 Aug 2026 06:41:33 +0900",
-        "summary": "An earthquake with a seismic intensity of 3 struck Kumamoto Prefecture on the morning of the 4th, with no threat of a tsunami.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196441000.html",
+        "title": "公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化",
+        "title_ja": "公正取引委員会、中小企業支援のため約30年ぶりの組織再編へ",
+        "date": "Wed, 05 Aug 2026 06:49:02 +0900",
+        "summary": "Japan's Fair Trade Commission plans to establish a new specialized bureau to help small and medium-sized enterprises pass rising costs onto their prices, marking its first major restructure in about 30 years.",
         "sentences": [
           {
-            "en": "An earthquake with a seismic intensity of 3 struck Kumamoto Prefecture on the morning of the 4th.",
-            "ja": "4日朝、熊本県で震度3の揺れを観測する地震がありました。"
+            "en": "Japan's Fair Trade Commission is planning to establish a new specialized bureau to support small and medium-sized enterprises.",
+            "ja": "公正取引委員会は、中小企業を支援するための専門の局を新たに設ける方針です。"
           },
           {
-            "en": "The earthquake occurred at around 6:04 a.m., but there is no threat of a tsunami.",
-            "ja": "地震が発生したのは午前6時4分ごろですが、この地震による津波の心配はありません。"
+            "en": "The goal is to create an environment where these smaller businesses, which often have weaker bargaining power, can smoothly pass rising costs onto their prices.",
+            "ja": "その目的は、立場が弱い中小企業が、上昇したコストを適切に価格に転嫁できる環境を整備することです。"
           },
           {
-            "en": "A seismic intensity of 3 was observed in Minami Ward of Kumamoto City, Yatsushiro City, Uki City, and Hikawa Town.",
-            "ja": "震度3を観測したのは、熊本市南区、八代市、宇城市、氷川町でした。"
+            "en": "Many small businesses have struggled to adjust their prices despite facing higher raw material and labor costs.",
+            "ja": "多くの小規模事業者は、原材料費や人件費の高騰に直面しているにもかかわらず、価格の調整に苦慮しています。"
           },
           {
-            "en": "In addition, lighter tremors were recorded in other surrounding areas.",
-            "ja": "このほか、周辺のその他の地域でも弱い揺れが観測されました。"
+            "en": "By creating this new bureau, the commission hopes to strengthen its oversight and ensure fair trading practices.",
+            "ja": "新たな局を設立することで、公正取引委員会は監視体制を強化し、公正な取引慣行を確保したい考えです。"
           },
           {
-            "en": "Local authorities advise residents to remain calm and stay updated on the latest safety information.",
-            "ja": "地元の自治体は住民に対し、冷静に行動し、最新の安全情報に注意するよう呼びかけています。"
-          },
-          {
-            "en": "Fortunately, no immediate damage or injuries have been reported from this earthquake.",
-            "ja": "さいわいにも、この地震による被害や怪我人の情報は現在のところ報告されていません。"
+            "en": "If realized, this will be the commission's first major organizational restructure in about 30 years.",
+            "ja": "これが実現すれば、公正取引委員会にとっては、およそ30年ぶりの大規模な組織再編となります。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195441000.html",
-        "title": "東京 多摩動物公園 ライオン3頭が相次ぎ死ぬ 熱中症か",
-        "title_ja": "多摩動物公園のライオン3頭が相次いで死亡、熱中症の疑い",
-        "date": "Mon, 03 Aug 2026 22:50:43 +0900",
-        "summary": "Tama Zoological Park in Tokyo has announced that three of its lions died recently, with heatstroke suspected as the cause of death.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196431000.html",
+        "title": "熊本地震による断水 家庭への配水管 今月末までの復旧目指す",
+        "title_ja": "熊本地震の断水復旧状況",
+        "date": "Wed, 05 Aug 2026 05:27:25 +0900",
+        "summary": "While major water purification facilities have been restored after the Kumamoto earthquake, work on the pipes connecting local reservoirs to individual homes is still underway with nationwide support.",
         "sentences": [
           {
-            "en": "Tama Zoological Park in Hino City, Tokyo, announced that three of its lions have died one after another.",
-            "ja": "東京都日野市にある多摩動物公園は、飼育していたライオン3頭が相次いで死んだと発表しました。"
+            "en": "Regarding the water outages caused by the Kumamoto earthquake, the Ministry of Land, Infrastructure, Transport and Tourism has provided an update on the restoration progress.",
+            "ja": "熊本地震による断水について、国土交通省は復旧状況に関する最新の情報を発表しました。"
           },
           {
-            "en": "The deaths of the three lions all occurred by the second of this month.",
-            "ja": "3頭のライオンの死亡は、いずれも今月の2日までに確認されました。"
+            "en": "According to the ministry, restoration work on the \"upstream\" side, which includes the areas around water purification plants, is mostly complete.",
+            "ja": "同省によると、浄水場周辺にあたる、いわば「上流側」の復旧工事はおおむね完了しています。"
           },
           {
-            "en": "The zoo suspects that the cause of death for these animals may be heatstroke.",
-            "ja": "動物園は、これらの動物の死因は熱中症の疑いがあるとみています。"
+            "en": "However, repairs on the \"downstream\" side, which connects water distribution reservoirs to individual households, are still ongoing.",
+            "ja": "しかし、配水池から各家庭をつなぐ「下流側」の修復工事はまだ終わっていません。"
           },
           {
-            "en": "They are planning to conduct a detailed investigation to determine the exact cause.",
-            "ja": "園側は、正確な原因を特定するために今後詳しい調査を行うことにしています。"
+            "en": "This final phase of connecting water lines directly to homes requires detailed work and is causing delays in fully restoring service.",
+            "ja": "水道管を各家庭に直接つなぐこの最終段階の作業には、きめ細かな対応が必要であり、全面復旧への遅れが生じています。"
           },
           {
-            "en": "The park is famous for its spacious environment where visitors can observe lions up close.",
-            "ja": "同園は、来園者が間近でライオンを観察できる広々とした環境で有名です。"
-          },
-          {
-            "en": "The zoo is now taking urgent steps to review its heat prevention measures for the remaining animals.",
-            "ja": "動物園は現在、残された動物たちのために暑さ対策を見直す緊急の措置をとっています。"
+            "en": "To speed up the process, local governments and construction contractors from across Japan are working together to support the recovery efforts.",
+            "ja": "作業を加速させるため、全国の自治体や配管工事業者が一丸となって復旧支援に取り組んでいます。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194641000.html",
-        "title": "ライフライン(電気 水道 ガス）やコンビニなど【8月3日】",
-        "title_ja": "緊急時に命を守る情報伝達",
-        "date": "Mon, 03 Aug 2026 21:03:57 +0900",
-        "summary": "During emergencies, providing timely and accurate information is crucial for saving lives. This lesson highlights the importance of staying informed and prepared through official broadcasts.",
+        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196451000.html",
+        "title": "熊本 5日から船舶を活用し医療チームが診療や健康相談など開始",
+        "title_ja": "熊本地震：八代港の船内で医療支援を開始",
+        "date": "Tue, 04 Aug 2026 22:59:08 +0900",
+        "summary": "Following the Kumamoto earthquakes, a medical team will begin providing healthcare services onboard a ship docked at Yatsushiro Port to support damaged local clinics.",
         "sentences": [
           {
-            "en": "In times of emergency, we widely deliver critical information to help protect your life.",
-            "ja": "緊急時には、みなさまの命を守るための重要な情報を広くお伝えしています。"
+            "en": "Due to the recent earthquakes in Kumamoto, many local medical facilities have suffered damage.",
+            "ja": "今回の熊本地震により、多くの地元の医療機関が被害を受けています。"
           },
           {
-            "en": "This includes urgent alerts about natural disasters, evacuation procedures, and safety updates in your area.",
-            "ja": "これには、自然災害に関する緊急警報、避難手順、そしてお住まいの地域の安全に関する最新情報が含まれます。"
+            "en": "In response to this situation, the Cabinet Office announced a new initiative to provide medical support using a ship.",
+            "ja": "この状況を受けて、内閣府は船舶を活用して医療支援を提供する新たな取り組みを発表しました。"
           },
           {
-            "en": "Our goal is to ensure that everyone has access to accurate and timely information when it matters most.",
-            "ja": "私たちの目標は、最も重要な時に、誰もが正確でタイムリーな情報にアクセスできるようにすることです。"
+            "en": "Starting on the 5th, a medical team will begin offering treatments and health consultations onboard a vessel docked at Yatsushiro Port.",
+            "ja": "5日から、八代港に停泊している船内で、医療チームによる診療や健康相談が始まります。"
           },
           {
-            "en": "Please make sure you know how to access these updates through our broadcasts and official channels.",
-            "ja": "私たちの放送や公式チャンネルを通じて、これらの最新情報を確認する方法を必ず知っておいてください。"
+            "en": "The idea of using ships for medical care has been widely discussed, especially after the challenges faced during the COVID-19 pandemic.",
+            "ja": "船舶を医療に活用するという考え方は、コロナ禍での課題を経て、広く議論されてきました。"
           },
           {
-            "en": "Staying informed and prepared is the best way to keep yourself and your loved ones safe.",
-            "ja": "情報を常に把握し備えておくことが、ご自身と大切な人たちの安全を守る最善の方法です。"
+            "en": "This disaster response effort aims to ensure that residents can still access essential healthcare services during emergencies.",
+            "ja": "この災害対応の取り組みは、非常時であっても住民が必要な医療サービスを受けられるようにすることを目的としています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195291000.html",
-        "title": "小学館 漫画家起用問題で第三者委“人権侵害 助長または加担”",
-        "title_ja": "小学館、漫画家再起用問題で第三者委が報告書",
-        "date": "Mon, 03 Aug 2026 21:29:59 +0900",
-        "summary": "A third-party committee established by Shogakukan reported that rehiring a manga artist, who committed sexual assault, under a different pen name contributed to violating the victim's human rights.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196601000.html",
+        "title": "先月死去の東野圭吾さん 最新作発売 歴代編集者が魅力語る",
+        "title_ja": "「ガリレオ」シリーズ最新作が発売、歴代編集者が魅力を語るイベント開催",
+        "date": "Wed, 05 Aug 2026 05:18:33 +0900",
+        "summary": "The latest book in the popular 'Galileo' series by Keigo Higashino has been released, accompanied by a special bookstore event where past editors shared behind-the-scenes stories.",
         "sentences": [
           {
-            "en": "A third-party committee established by the major Japanese publisher Shogakukan has released a report regarding a controversial hiring decision.",
-            "ja": "日本の大手出版社・小学館が設置した第三者委員会は、物議を醸している採用決定に関する報告書を公表しました。"
+            "en": "The latest novel in the popular 'Galileo' series by author Keigo Higashino, who passed away last month, was released on the 5th.",
+            "ja": "先月亡くなった作家、東野圭吾さんの人気「ガリレオ」シリーズの最新作が5日に発売されました。"
           },
           {
-            "en": "The issue involves an editorial department of Shogakukan's manga app, which rehired a manga artist whose previous series had been canceled due to a sexual assault case.",
-            "ja": "この問題は、性加害事件によって過去の連載が中止となった漫画家を、小学館の漫画アプリの編集部が再び起用したというものです。"
+            "en": "To coincide with the release, a special promotional event was held at a bookstore in Tokyo on the night of the 4th.",
+            "ja": "これに合わせて、4日の夜、都内の書店で特別な記念イベントが開催されました。"
           },
           {
-            "en": "The publisher allowed the artist to work as a writer under a different pen name.",
-            "ja": "同社は、この漫画家を別のペンネームで原作者として活動させていました。"
+            "en": "At the venue, successive editors who had worked on the series gathered to talk about the charm of the books.",
+            "ja": "会場には、同シリーズを担当した歴代の編集者たちが集まり、作品の魅力について語り合いました。"
           },
           {
-            "en": "According to the committee's report, this rehiring facilitated or contributed to the violation of the victim's human rights.",
-            "ja": "委員会の報告書によると、この再起用は被害女性への人権侵害を助長または加担するものであったとされています。"
+            "en": "They shared memorable behind-the-scenes stories about working with the author and how the famous characters were created.",
+            "ja": "彼らは、著者との仕事における思い出深い舞台裏のストーリーや、有名なキャラクターたちがどのように誕生したかについて語りました。"
           },
           {
-            "en": "The committee criticized the editorial department for prioritizing business profits over ethical considerations and the safety of victims.",
-            "ja": "委員会は、倫理的な配慮や被害者の安全よりも、商業的な利益を優先したとして編集部を批判しました。"
+            "en": "The event became a touching tribute, with fans reflecting on his remarkable career and celebrating his final masterpiece.",
+            "ja": "イベントは、ファンが彼の素晴らしい経歴を振り返り、最後の傑作を祝う、感動的な追悼の場となりました。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html",
+        "title": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
+        "title_ja": "京都・高台寺の敷地内で火災、建物が焼失",
+        "date": "Mon, 03 Aug 2026 21:41:30 +0900",
+        "summary": "On the night of the 3rd, a fire broke out at the historic Kodai-ji temple in Kyoto, burning down a building on the premises before being extinguished.",
+        "sentences": [
+          {
+            "en": "On the night of the 3rd, a fire broke out on the grounds of Kodai-ji, a historic temple in Kyoto's Higashiyama Ward.",
+            "ja": "3日の夜、京都市東山区にある由緒ある寺院、高台寺の敷地内で火災が発生しました。"
           },
           {
-            "en": "In response, Shogakukan apologized and stated they will implement measures to prevent similar incidents in the future.",
-            "ja": "これを受けて小学館は謝罪し、今後は同様の事態の再発を防ぐための対策を実施すると表明しました。"
+            "en": "This famous temple is closely associated with Nene, the wife of the prominent historical figure Toyotomi Hideyoshi.",
+            "ja": "この有名なお寺は、歴史上の重要人物である豊臣秀吉の妻、ねねにゆかりがあることで知られています。"
+          },
+          {
+            "en": "Firefighters responded quickly, and the blaze was mostly extinguished about 40 minutes after the initial emergency call.",
+            "ja": "消防隊が迅速に対応し、通報から約40分後に火はほぼ消し止められました。"
+          },
+          {
+            "en": "Unfortunately, a building located within the temple complex was burned in the incident.",
+            "ja": "残念ながら、この火事により寺院の敷地内にある建物が焼けました。"
+          },
+          {
+            "en": "The police and fire departments are currently investigating the cause of the fire and the full extent of the damage.",
+            "ja": "警察と消防が現在、出火原因と被害の詳しい状況を調べています。"
           }
         ]
       }
     ],
     "政治": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195331000.html",
-        "title": "熊本地震 プッシュ型支援進める 予備費で予算確保も 政府",
-        "title_ja": "地震発生から1週間、猛暑の中での避難支援と予備費支出へ",
-        "date": "Tue, 04 Aug 2026 05:51:29 +0900",
-        "summary": "One week after the earthquake, the government is delivering drinking water and portable coolers to evacuees facing intense heat, while also deciding to use reserve funds for disaster relief.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196581000.html",
+        "title": "消費税減税 基本方針案 閣議決定へ 野党は国会でただす構え",
+        "title_ja": "食料品の消費税減税案、来年4月から2年間1％へ",
+        "date": "Wed, 05 Aug 2026 05:42:31 +0900",
+        "summary": "The Japanese government plans to temporarily lower the consumption tax on food to 1% for two years starting next April, with the ruling parties now working on the details.",
         "sentences": [
           {
-            "en": "It has been one week since the major earthquake struck, and many residents are still living in evacuation centers.",
-            "ja": "今回の地震の発生から4日で1週間が経過し、多くの住民が今も避難所での生活を余儀なくされています。"
+            "en": "The Japanese government is planning to temporarily reduce the consumption tax on food items.",
+            "ja": "日本政府は、食料品に対する消費税を一時的に引き下げることを計画しています。"
           },
           {
-            "en": "Amidst intense summer heat, the government expects that the evacuation period will be prolonged.",
-            "ja": "猛暑が続く中、政府は避難生活が長期化することを見込んでいます。"
+            "en": "Under the proposed basic policy, the tax rate would be lowered to 1% for a period of two years starting next April.",
+            "ja": "提案されている基本方針案によると、税率は来年4月から2年間、1％に引き下げられる見通しです。"
           },
           {
-            "en": "To help survivors, the government continues to deliver relief supplies to the affected areas using a proactive \"push-type\" system.",
-            "ja": "被災者を支援するため、政府は被災地に対して要望を待たずに物資を届ける「プッシュ型」の支援を引き続き行っています。"
+            "en": "The government aims to officially approve this plan during a cabinet meeting on the 5th.",
+            "ja": "政府は、この方針案を5日の閣議で正式に決定したいと考えています。"
           },
           {
-            "en": "These essential items include drinking water, daily necessities, and portable air conditioners to prevent heatstroke.",
-            "ja": "届ける物資には、熱中症を防ぐための飲料水や日用品、簡易型のクーラーなどが含まれています。"
+            "en": "Following this move, the ruling coalition has begun discussions on the tax reform outline.",
+            "ja": "この動きを受けて、与党は税制改正大綱の検討に入りました。"
           },
           {
-            "en": "Furthermore, officials decided on the 4th to allocate reserve funds from this fiscal year's budget to speed up recovery efforts.",
-            "ja": "さらに政府は、復旧活動を加速させるため、今年度予算の予備費を支出することを4日に決定しました。"
+            "en": "They are now starting to work out the concrete details and design of the new system.",
+            "ja": "与党は現在、新たな制度の具体的な設計に着手しています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195321000.html",
-        "title": "食料品の消費税減税 5日にも閣議決定したい考え 政府",
-        "title_ja": "食料品消費税、来年4月から1％に引き下げ案を政府が提示",
-        "date": "Tue, 04 Aug 2026 05:49:09 +0900",
-        "summary": "The Japanese government has drafted a plan to lower the consumption tax on food to one percent for two years starting next April, with cabinet approval targeted for as early as the fifth.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196751000.html",
+        "title": "福岡県議会 藏内議長 第三者委員会設置し調査の意向を固める",
+        "title_ja": "福岡県議会、正副議長ポスト巡る金銭授受疑惑で第三者委員会設置へ",
+        "date": "Wed, 05 Aug 2026 05:38:09 +0900",
+        "summary": "The Speaker of the Fukuoka Prefectural Assembly decided to set up a third-party committee to investigate allegations of financial transactions over the assembly's leadership posts.",
         "sentences": [
           {
-            "en": "The Japanese government has drafted a basic policy to temporarily lower the consumption tax rate on food items.",
-            "ja": "日本政府は、食料品に対する消費税率を一時的に引き下げる基本方針案をまとめました。"
+            "en": "An investigation is underway in Fukuoka Prefecture regarding allegations of improper financial transactions within the local government.",
+            "ja": "福岡県議会において、地方自治体内部での不適切な金銭授受の疑いを巡り、調査が進められています。"
           },
           {
-            "en": "According to the draft, the tax rate for food products will be reduced to one percent for two years, starting next April.",
-            "ja": "この方針案によると、食料品の税率は来年4月から2年間、1％に引き下げられます。"
+            "en": "The controversy centers around claims that money changed hands during the selection process for the Speaker and Deputy Speaker of the prefectural assembly.",
+            "ja": "この問題は、県議会の正副議長ポストの選出過程で、金銭のやり取りがあったと指摘されているものです。"
           },
           {
-            "en": "During a joint meeting of the ruling Liberal Democratic Party, members agreed to leave the final decision on this matter to Tax Commission Chairman Itsunori Onodera.",
-            "ja": "自民党の合同会議では、この件に関する最終決定を小野寺税制調査会長に一任することに合意しました。"
+            "en": "In response to these serious allegations, Isao Kurauchi, the current Speaker of the assembly, has decided to take action.",
+            "ja": "これらの深刻な指摘を受け、現議長の藏内勇夫氏は行動を起こすことを決めました。"
           },
           {
-            "en": "The government intends to seek cabinet approval for this plan as early as the fifth.",
-            "ja": "政府は、早ければ5日にもこの計画を閣議決定したい考えです。"
+            "en": "He plans to establish an independent, third-party committee to thoroughly investigate the facts surrounding the matter.",
+            "ja": "藏内議長は、この問題に関する事実関係を徹底的に調査するため、独立した第三者委員会を設置する意向を固めました。"
           },
           {
-            "en": "Further discussions will follow to work out the concrete details of how this tax cut will be implemented.",
-            "ja": "この減税がどのように実施されるかについて、具体的な詳細を決定するための議論が今後も続けられます。"
+            "en": "This committee will be formed in accordance with the guidelines set by the Japan Federation of Bar Associations.",
+            "ja": "この委員会は、日本弁護士連合会が定めたガイドラインに基づいて組織される予定です。"
+          },
+          {
+            "en": "On the 5th, Speaker Kurauchi communicated his decision to the leaders of the assembly's major political factions.",
+            "ja": "5日、藏内議長は県議会の主要な会派の代表者らにこの決定を伝えました。"
+          },
+          {
+            "en": "Local residents are closely watching the situation, hoping for a transparent and fair investigation.",
+            "ja": "地域住民は、透明で公正な調査を期待しながら、事態の推移を注視しています。"
           }
         ]
       }
     ],
     "経済": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195341000.html",
-        "title": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
-        "title_ja": "日米による協調為替介入",
-        "date": "Tue, 04 Aug 2026 06:45:11 +0900",
-        "summary": "Japanese and U.S. currency authorities have jointly intervened to stop the yen's historic decline, signaling a readiness for further action.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196441000.html",
+        "title": "公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化",
+        "title_ja": "公取委、中小企業の価格転嫁を支援する新局設置へ",
+        "date": "Wed, 05 Aug 2026 06:49:02 +0900",
+        "summary": "Japan's Fair Trade Commission plans to establish a new specialized department to help small businesses properly pass on rising costs, marking its first major restructuring in about 30 years.",
         "sentences": [
           {
-            "en": "Last week, Japanese and U.S. currency authorities jointly intervened in the foreign exchange market to halt the historic decline of the yen.",
-            "ja": "先週、日米の通貨当局は、歴史的な円安に歯止めをかけるため、外国為替市場で共同介入を実施しました。"
+            "en": "Japan's Fair Trade Commission plans to establish a new specialized department to help small and medium-sized enterprises.",
+            "ja": "公正取引委員会は、中小企業を支援するために、新たな専門の局を設立する方針です。"
           },
           {
-            "en": "On May 3rd, both sides signaled their readiness to carry out further coordinated interventions if necessary.",
-            "ja": "3日、両国は必要に応じてさらなる協調介入を行う用意があるとの姿勢を示しました。"
+            "en": "The goal is to create an environment where these smaller businesses can properly pass on rising costs to their transaction prices.",
+            "ja": "その目的は、これらの中小企業が上昇するコストを取引価格に適切に転嫁できる環境を整備することです。"
           },
           {
-            "en": "The Japanese government has been actively purchasing yen and selling dollars to support its currency.",
-            "ja": "日本政府は自国通貨を支えるため、積極的に円を買い、ドルを売る動きを見せています。"
+            "en": "Many smaller companies with weak bargaining power often struggle to negotiate price increases with larger clients.",
+            "ja": "立場の弱い多くの中小企業は、大手の取引先との価格引き上げの交渉に苦心することがよくあります。"
           },
           {
-            "en": "To sustain these efforts, Japan is focusing on securing sufficient dollar reserves to fund future interventions.",
-            "ja": "こうした取り組みを維持するため、日本は今後の介入資金となる十分なドル資金の確保に注力しています。"
+            "en": "If this plan is realized, it will be the commission's first major organizational restructuring in about 30 years.",
+            "ja": "この計画が実現すれば、公正取引委員会にとっては約30年ぶりの大規模な組織再編となります。"
           },
           {
-            "en": "Market analysts are closely watching how these joint efforts will impact the global economy and the value of the yen.",
-            "ja": "市場関係者は、これらの共同の取り組みが世界経済や円の価値にどのような影響を与えるかを注視しています。"
+            "en": "The new bureau will closely monitor transactions to ensure fair business practices.",
+            "ja": "新たな局は、公正な取引慣行を確保するために、取引を厳重に監視することになります。"
+          },
+          {
+            "en": "This initiative is expected to support the economy by helping smaller businesses improve their earnings and raise wages.",
+            "ja": "この取り組みは、中小企業が収益を改善して賃上げを行えるよう支援することで、経済を後押しすることが期待されています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
-        "title": "【熊本地震 企業影響 3日】工場で操業停止続く 生産一部再開も",
-        "title_ja": "熊本県の地震、九州の大手メーカー操業に影響",
-        "date": "Tue, 04 Aug 2026 00:22:43 +0900",
-        "summary": "A powerful earthquake with a maximum intensity of 7 struck Kumamoto on July 28, disrupting the operations of major manufacturing plants in Kyushu, including Suntory.",
+        "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
+        "title": "NYダウ 2日連続で最高値更新 中東情勢 緊張緩和への期待感で",
+        "title_ja": "ニューヨーク株式市場、ダウ平均が2日連続で最高値を更新",
+        "date": "Wed, 05 Aug 2026 06:37:02 +0900",
+        "summary": "The New York stock market rose on October 4th, with the Dow Jones Industrial Average hitting a record high for the second straight day amid hopes of easing tensions in the Middle East.",
         "sentences": [
           {
-            "en": "On July 28th, a powerful earthquake with a maximum seismic intensity of 7 struck Kumamoto Prefecture.",
-            "ja": "7月28日、熊本県で最大震度7の非常に激しい揺れを観測する地震がありました。"
+            "en": "On the New York Stock Exchange on October 4th, stock prices rose, with the Dow Jones Industrial Average hitting a record high for the second consecutive day.",
+            "ja": "10月4日のニューヨーク株式市場では株価が上昇し、ダウ平均株価は2日連続で最高値を更新しました。"
           },
           {
-            "en": "This severe earthquake has significantly impacted the operations of major manufacturers' factories located across the Kyushu region.",
-            "ja": "今回の激しい地震の影響で、九州地方にある大手メーカーの工場などでは操業に大きな影響が出ています。"
+            "en": "This upward trend was driven by growing optimism that tensions in the Middle East might ease.",
+            "ja": "この上昇傾向は、中東情勢をめぐる緊張が和らぐことへの期待感の高まりによるものでした。"
           },
           {
-            "en": "Food and beverage companies are among those experiencing disruptions to their production lines.",
-            "ja": "食品メーカーなども、生産ラインの停止などの影響を受けている企業の一部です。"
+            "en": "Investors welcomed this outlook, which led to widespread buying orders across the market.",
+            "ja": "投資家はこの見通しを好感し、市場全体に買い注文が広がりました。"
           },
           {
-            "en": "For instance, beverage giant Suntory has reported issues at its plant in Kashima Town, Kumamoto Prefecture.",
-            "ja": "例えば、大手飲料メーカーのサントリーは、熊本県嘉島町にある工場での影響を報告しています。"
+            "en": "Analysts note that market sentiment improved significantly as fears of a wider conflict subsided.",
+            "ja": "アナリストは、紛争拡大への懸念が和らいだことで市場心理が大きく改善したと指摘しています。"
           },
           {
-            "en": "Companies are currently assessing the damage to their facilities to ensure safety before deciding when to resume operations.",
-            "ja": "各企業は、操業再開の時期を判断する前に、安全を確保するため現在施設の被害状況を確認しています。"
+            "en": "While some caution remains regarding future geopolitical developments, the market closed the week on a strong note.",
+            "ja": "今後の地政学的な動向に対して一部で慎重な見方は残るものの、市場は好調な状態で今週の取引を終えました。"
           }
         ]
       }
     ],
-    "国際": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195341000.html",
-        "title": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
-        "title_ja": "日米による協調介入と今後の円安阻止への動き",
-        "date": "Tue, 04 Aug 2026 06:45:11 +0900",
-        "summary": "Monetary authorities from Japan and the U.S. recently conducted coordinated market interventions to halt the historic depreciation of the yen, signaling readiness for further action if needed.",
-        "sentences": [
-          {
-            "en": "Last week, monetary authorities from Japan and the United States took joint action by conducting a coordinated market intervention to support the yen.",
-            "ja": "先週、日米の通貨当局は、円を支えるために協調して市場介入を実施し、共同行動をとりました。"
-          },
-          {
-            "en": "This move was aimed at curbing the historic depreciation of the currency, which has been under significant pressure.",
-            "ja": "この動きは、大きな圧力を受けている円の歴史的な下落を抑制することを目的としていました。"
-          },
-          {
-            "en": "On the 3rd, officials indicated that they are ready to carry out further coordinated interventions if necessary.",
-            "ja": "3日、当局は必要に応じてさらなる協調介入を実施する用意があるという姿勢を示しました。"
-          },
-          {
-            "en": "To prepare for future actions, Japan is focused on securing sufficient U.S. dollars, which serve as the primary funds for buying yen.",
-            "ja": "今後の行動に備え、日本は円買い介入の主な原資となる米ドルを十分に確保することに注力しています。"
-          },
-          {
-            "en": "Market analysts are closely watching how these joint efforts will influence the foreign exchange market in the coming weeks.",
-            "ja": "市場のアナリストらは、こうした共同の取り組みが今後数週間の外国為替市場にどのような影響を与えるかを注視しています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195371000.html",
-        "title": "ウクライナ対外情報局長官にウメロフ氏 無人機協力推進へ",
-        "title_ja": "ウクライナ大統領、対外情報局の新長官を任命",
-        "date": "Tue, 04 Aug 2026 05:55:45 +0900",
-        "summary": "Ukrainian President Volodymyr Zelenskyy has appointed a new head of the Foreign Intelligence Service to strengthen cooperation with Western allies and increase pressure on Russia.",
-        "sentences": [
-          {
-            "en": "Ukrainian President Volodymyr Zelenskyy has appointed a new head of the country's Foreign Intelligence Service.",
-            "ja": "ウクライナのゼレンスキー大統領は、同国の対外情報局の新たな長官を任命しました。"
-          },
-          {
-            "en": "The newly appointed chief, Mr. Umerov, was previously a member of the high-level talks regarding peace proposals with Russia.",
-            "ja": "新たに長官に任命されたウメロフ氏は、これまでロシアとの和平案をめぐる高官協議のメンバーの1人でした。"
-          },
-          {
-            "en": "Through this appointment, Ukraine aims to accelerate its cooperation with Western nations, particularly in the field of drone technology.",
-            "ja": "この人事を通じて、ウクライナは特に無人機技術の分野において、欧米諸国との協力を加速させることを目指しています。"
-          },
-          {
-            "en": "By strengthening these international partnerships, the government hopes to put more pressure on Russia.",
-            "ja": "こうした国際的なパートナーシップを強化することで、政府はロシアへの圧力をさらに強めたい考えです。"
-          },
-          {
-            "en": "This leadership change comes at a critical time as Ukraine seeks to enhance its defense capabilities and intelligence operations.",
-            "ja": "この指導部の交代は、ウクライナが防衛力と情報活動の強化を模索する重大な時期に行われました。"
-          },
-          {
-            "en": "Observers believe that the move is designed to bring fresh strategies to the ongoing conflict.",
-            "ja": "専門家らは、この動きが現在も続く紛争に新たな戦略をもたらすことを狙ったものと見ています。"
-          }
-        ]
-      }
-    ],
-    "スポーツ": [
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195221000.html",
-        "title": "プロ野球実行委員会 ピッチクロック導入承認 時期は今後検討",
-        "title_ja": "プロ野球が「ピッチクロック」の導入を全会一致で承認",
-        "date": "Mon, 03 Aug 2026 23:14:37 +0900",
-        "summary": "Nippon Professional Baseball and its 12 teams have unanimously agreed to introduce the pitch clock, a time-limit system for pitchers already used in MLB.",
-        "sentences": [
-          {
-            "en": "Nippon Professional Baseball, or NPB, along with its 12 teams, has officially decided to introduce the pitch clock system.",
-            "ja": "NPB（日本野球機構）とプロ野球の12球団は、ピッチクロック制度を導入することを正式に決定しました。"
-          },
-          {
-            "en": "During an executive committee meeting held in Tokyo, the proposal was approved unanimously.",
-            "ja": "東京都内で開かれた実行委員会において、この提案は全会一致で承認されました。"
-          },
-          {
-            "en": "The pitch clock is a rule that limits the time a pitcher has between pitches.",
-            "ja": "ピッチクロックは、投手の手を離れるまでの投球間の時間を制限するルールです。"
-          },
-          {
-            "en": "It has already been successfully implemented in Major League Baseball and various international tournaments.",
-            "ja": "この制度は、すでに大リーグやさまざまな国際大会で導入され、成果を上げています。"
-          },
-          {
-            "en": "Detailed discussions are currently underway regarding the exact timing of when the system will be implemented.",
-            "ja": "この制度を具体的にいつから導入するかという時期については、現在、詳細な協議が進められています。"
-          }
-        ]
-      },
-      {
-        "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195421000.html",
-        "title": "【プロ野球結果】オリックスが楽天にサヨナラ勝ち",
-        "title_ja": "緊急時における命を守る情報の提供について",
-        "date": "Mon, 03 Aug 2026 23:01:16 +0900",
-        "summary": "This article highlights the critical importance of delivering fast and accurate life-saving information to the public during emergencies and natural disasters.",
-        "sentences": [
-          {
-            "en": "In times of emergency, delivering life-saving information to the public as quickly as possible is our top priority.",
-            "ja": "緊急時には、命を守る情報をできるだけ早く皆様にお伝えすることが、私たちの最優先事項です。"
-          },
-          {
-            "en": "Whether it is an earthquake, a typhoon, or a sudden evacuation order, having access to accurate updates can make a critical difference.",
-            "ja": "地震や台風、突然の避難指示など、正確な最新情報を得られるかどうかが、決定的な違いを生みます。"
-          },
-          {
-            "en": "We utilize various media channels, including radio, television, and online platforms, to ensure that everyone receives these vital alerts.",
-            "ja": "すべての人がこれらの重要な警報を受け取れるよう、私たちはラジオ、テレビ、オンラインプラットフォームなど、さまざまなメディアを活用しています。"
-          },
-          {
-            "en": "Our mission is to help you stay prepared and make calm, informed decisions when a disaster strikes.",
-            "ja": "私たちの使命は、災害が発生した際に、皆様が備えを怠らず、冷静で情報に基づいた判断を下せるようサポートすることです。"
-          },
-          {
-            "en": "Please keep your emergency devices ready and stay tuned to our broadcasts for your safety.",
-            "ja": "ご自身の安全のため、緊急用機器を準備し、私たちの放送に引き続き耳を傾けてください。"
-          }
-        ]
-      }
-    ]
+    "国際": [],
+    "スポーツ": []
   }
 }
