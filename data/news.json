@@ -1,151 +1,159 @@
 {
   "main_news": [
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198521000.html",
-      "title": "大型で強い台風13号 沖縄本島地方・奄美地方 厳重警戒を",
-      "title_ja": "台風13号が沖縄・奄美に接近、猛烈な風と大雨に警戒",
-      "date": "Fri, 07 Aug 2026 06:58:26 +0900",
-      "summary": "A large and powerful Typhoon No. 13 is approaching Okinawa and the Amami region, bringing extremely strong winds and heavy rain.",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
+      "title": "大型で非常に強い台風13号 暴風などに厳重警戒",
+      "title_ja": "台風13号が沖縄・奄美に接近中、暴風に厳重警戒",
+      "date": "Sat, 08 Aug 2026 06:07:26 +0900",
+      "summary": "Typhoon No. 13 is moving westward, keeping the Okinawa and Amami regions inside its violent wind zone, prompting officials to urge strict vigilance.",
       "sentences": [
         {
-          "en": "A large and strong typhoon, designated as Typhoon Number 13, is currently moving westward.",
-          "ja": "大型で強い台風13号が、現在、西寄りに進んでいます。"
+          "en": "A large and very strong typhoon, Typhoon No. 13, is currently moving westward.",
+          "ja": "大型で非常に強い台風13号は、現在、西寄りに進んでいます。"
         },
         {
-          "en": "The storm's high-wind zone has already engulfed the Amami region of Kagoshima Prefecture and the main island of Okinawa.",
-          "ja": "台風の暴風域は、すでに鹿児島県の奄美地方や沖縄本島地方などを巻き込んでいます。"
+          "en": "The storm is still keeping the main island of Okinawa and the Amami region within its violent wind zone.",
+          "ja": "台風は依然として、沖縄本島地方や奄美地方を暴風域に巻き込んでいます。"
         },
         {
-          "en": "Weather officials warn that fierce winds in these areas could be strong enough to cause some residential buildings to collapse.",
-          "ja": "気象庁は、これらの地域では一部の住宅が倒壊するほどの猛烈な風が吹くおそれがあると警告しています。"
+          "en": "Weather officials are urging residents in these areas to remain on high alert for fierce winds and high waves.",
+          "ja": "気象当局は、これらの地域の住民に対し、暴風や高波に厳重な警戒を続けるよう呼びかけています。"
         },
         {
-          "en": "In addition to the dangerous winds, rainfall is also intensifying, with a high risk of localized linear rainbands forming.",
-          "ja": "危険な風に加えて雨も強まっており、局地的な線状降水帯が発生する危険性が高まっています。"
+          "en": "Heavy rain and sudden flooding are also major concerns as the typhoon passes through.",
+          "ja": "台風の通過に伴い、大雨や突然の浸水も大きな懸念材料となっています。"
         },
         {
-          "en": "Residents in the affected regions are strongly urged to stay indoors and monitor the latest weather updates to ensure their safety.",
-          "ja": "影響を受ける地域の住民の皆さんは、安全を確保するため、外出を避けて最新の気象情報を確認するよう強く求められています。"
+          "en": "Please stay indoors, keep away from windows, and monitor the latest weather updates for your safety.",
+          "ja": "安全のため屋内に留まり、窓から離れ、最新の気象情報を確認するようにしてください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198771000.html",
-      "title": "九州新幹線 新水俣駅～鹿児島中央駅で運転再開 本数は大幅減",
-      "title_ja": "九州新幹線、一部区間で運転再開",
-      "date": "Fri, 07 Aug 2026 08:41:59 +0900",
-      "summary": "A section of the Kyushu Shinkansen has resumed service between Shin-Minamata and Kagoshima-Chuo after being suspended due to an earthquake. Rail operators are continuing their efforts to safely restore the entire line.",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199781000.html",
+      "title": "熊本 8日も猛烈な暑さ 熱中症対策を 台風13号で強風にも注意",
+      "title_ja": "被災地の熊本で猛烈な暑さと台風の影響懸念",
+      "date": "Sat, 08 Aug 2026 06:24:12 +0900",
+      "summary": "Kumamoto Prefecture, which is recovering from a major earthquake, faces extreme heat and rising winds due to Typhoon No. 13, prompting safety warnings from officials.",
       "sentences": [
         {
-          "en": "Part of the Kyushu Shinkansen line has resumed operations after being suspended due to an earthquake.",
-          "ja": "地震の影響で運転を見合わせていた九州新幹線ですが、一部の区間で運転を再開しました。"
+          "en": "Kumamoto Prefecture, which was heavily damaged by an earthquake measuring a maximum intensity of 7, is expected to experience another day of extreme heat on the 8th.",
+          "ja": "最大震度7の地震で大きな被害のあった熊本県では、8日も猛烈な暑さが続く見込みです。"
         },
         {
-          "en": "On the 7th, train services restarted between Shin-Minamata Station and Kagoshima-Chuo Station.",
-          "ja": "7日、新水俣駅から鹿児島中央駅の間で運転が再開されました。"
+          "en": "Residents are urged to take all possible measures to prevent heatstroke, such as drinking water frequently.",
+          "ja": "水分をこまめにとるなど、できるかぎりの熱中症対策を続けてください。"
         },
         {
-          "en": "Following an earthquake in July, the entire line between Hakata and Kagoshima-Chuo had been temporarily shut down.",
-          "ja": "7月に発生した地震の後、一時は博多駅から鹿児島中央駅の間の全線で運転が見合わされていました。"
+          "en": "In addition to the intense heat, winds are also strengthening slightly due to the influence of Typhoon No. 13.",
+          "ja": "また猛烈な暑さに加え、台風13号の影響で風もやや強まっています。"
         },
         {
-          "en": "While this partial resumption is a positive step, some sections of the line still remain out of service.",
-          "ja": "今回の部分的な再開は前向きな一歩ですが、一部の区間では依然として運転見合わせが続いています。"
+          "en": "The Japan Meteorological Agency is warning people to remain highly vigilant, especially in areas where the ground may have loosened from the earthquake.",
+          "ja": "気象庁は、地震の影響で地盤が緩んでいる可能性がある地域を中心に、厳重に警戒するよう呼びかけています。"
         },
         {
-          "en": "Rail operators are working diligently to ensure safety and restore full service as quickly as possible.",
-          "ja": "鉄道会社は、安全を確保しながら、できるだけ早く全線で運転を再開できるよう復旧作業を急いでいます。"
+          "en": "Please stay updated with the latest weather information and prioritize your safety during this challenging time.",
+          "ja": "引き続き最新の気象情報を確認し、この困難な状況において身の安全を最優先にしてください。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198801000.html",
-      "title": "4月30日の市場介入 6.2兆円 円買いとして1日あたりで過去最大",
-      "title_ja": "政府・日銀、4月30日の為替介入で過去最大の6.2兆円を投入",
-      "date": "Fri, 07 Aug 2026 09:07:48 +0900",
-      "summary": "The Japanese government and the Bank of Japan spent a record 6.2787 trillion yen on April 30 in a single-day market intervention to buy yen and sell dollars.",
+      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199501000.html",
+      "title": "イオンモール熊本 妹亡くした男性“当時の対応 丁寧に調査を”",
+      "title_ja": "地震後の爆発で亡くなった妹への思いを兄が語る",
+      "date": "Fri, 07 Aug 2026 19:38:01 +0900",
+      "summary": "Following a tragic explosion after an earthquake at Aeon Mall Kumamoto, the brother of a 30-year-old female victim shared his deep grief over her sudden loss with NHK.",
       "sentences": [
         {
-          "en": "According to the Ministry of Finance, the Japanese government and the Bank of Japan carried out a massive market intervention on April 30 of this year.",
-          "ja": "財務省の発表によりますと、政府と日本銀行は今年4月30日に大規模な市場介入を実施しました。"
+          "en": "Following a recent earthquake in Kumamoto, a tragic explosion occurred at Aeon Mall Kumamoto in Kashima Town.",
+          "ja": "熊本県嘉島町の「イオンモール熊本」で、地震の後に悲惨な爆発事故が発生しました。"
         },
         {
-          "en": "The total amount of funds spent in just that one day reached 6.2787 trillion yen.",
-          "ja": "そのわずか1日で投じられた資金の総額は、6兆2787億円に達しました。"
+          "en": "A female employee in her 30s unfortunately lost her life in the accident.",
+          "ja": "この事故で、30代の女性従業員が不運にも命を落としました。"
         },
         {
-          "en": "This has become the largest-ever single-day intervention for buying yen and selling US dollars.",
-          "ja": "これは、円を買いドルを売る介入としては、1日あたりで過去最大となりました。"
+          "en": "Her older brother recently spoke to NHK, expressing his deep grief over the sudden tragedy.",
+          "ja": "彼女の兄がNHKの取材に応じ、突然の悲劇に対する深い悲しみを語りました。"
         },
         {
-          "en": "The historic scale of this action reflects the government's strong stance against the rapid decline of the yen.",
-          "ja": "この措置の歴史的な規模は、急速な円安に対する政府の強い姿勢を反映しています。"
+          "en": "He said it is hard to believe that someone who was always a natural part of his life is suddenly gone.",
+          "ja": "これまで当たり前に存在していた人が、急にいなくなってしまったことが信じられないと彼は語りました。"
         },
         {
-          "en": "Market observers continue to closely monitor how these interventions will affect the future value of the currency.",
-          "ja": "市場関係者は、これらの介入が今後の通貨価値にどのように影響するかを引き続き注視しています。"
+          "en": "He shared that the loss occurred so unexpectedly, at a moment he could have never anticipated.",
+          "ja": "まったく意識をしていなかった瞬間に、その別れが突然やってきたと彼は話しました。"
+        },
+        {
+          "en": "This heartbreaking story highlights the sudden and painful impact of disasters on local families.",
+          "ja": "この痛ましい出来事は、災害が地元の家族に与える突然の痛烈な影響を浮き彫りにしています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198791000.html",
-      "title": "6月 実質消費支出 7か月連続減少 家計調査",
-      "title_ja": "6月の家計消費、7か月連続で減少",
-      "date": "Fri, 07 Aug 2026 08:50:10 +0900",
-      "summary": "Japan's household spending fell by 3.3% in June compared to last year, marking the seventh consecutive month of decline as rising prices continue to pressure consumers.",
+      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199381000.html",
+      "title": "税務職員が高齢女性から約1億5000万円受け取り競艇 懲戒免職に",
+      "title_ja": "税務署職員、高齢女性から1.5億円受領し懲戒免職",
+      "date": "Fri, 07 Aug 2026 21:49:47 +0900",
+      "summary": "A tax officer in Ibaraki Prefecture has been dismissed after taking about 150 million yen from an elderly woman he met during an audit and spending it on boat racing.",
       "sentences": [
         {
-          "en": "According to the Ministry of Internal Affairs and Communications, household spending in Japan decreased in June compared to the previous year.",
-          "ja": "総務省によると、日本の6月の家計消費は前年に比べて減少しました。"
+          "en": "A tax officer in Ibaraki Prefecture has been dismissed for taking a massive amount of money from an elderly woman.",
+          "ja": "茨城県の税務署の職員が、高齢の女性から多額の資金を受け取っていたとして懲戒免職処分を受けました。"
         },
         {
-          "en": "Spending by households with two or more people fell by 3.3% in real terms, which adjusts for inflation.",
-          "ja": "2人以上の世帯による消費支出は、物価変動の影響を除いた実質で3.3％減少しました。"
+          "en": "The officer reportedly met the woman during a routine tax audit and managed to receive about 150 million yen from her.",
+          "ja": "この職員は税務調査を通じて女性と知り合い、およそ1億5000万円を受け取っていたとのことです。"
         },
         {
-          "en": "This marks the seventh consecutive month of decline, reflecting ongoing cautiousness among consumers.",
-          "ja": "これで7か月連続の減少となり、消費者の間で慎重な姿勢が続いていることを反映しています。"
+          "en": "According to authorities, he spent almost all of the money on boat racing.",
+          "ja": "当局によると、彼はその資金のほとんどを競艇につぎ込んでいたということです。"
         },
         {
-          "en": "The average spending per household for the month was 290,886 yen.",
-          "ja": "1世帯あたりの平均消費額は29万886円でした。"
+          "en": "Furthermore, he failed to declare this money as income, resulting in charges of tax evasion.",
+          "ja": "さらに、彼はこの資金を所得として申告しておらず、脱税の疑いも持たれています。"
         },
         {
-          "en": "Rising prices for daily necessities and utilities continue to squeeze household budgets, leading people to cut back on non-essential spending.",
-          "ja": "日用品や光熱費の値上がりが家計を圧迫し続けており、人々が不要不急の支出を抑える要因となっています。"
+          "en": "In response to these actions, the Kanto-Shinetsu Regional Taxation Bureau issued a disciplinary dismissal.",
+          "ja": "これらの行為を受けて、関東信越国税局は彼を懲戒免職の処分にしました。"
         },
         {
-          "en": "Experts suggest that wages need to grow faster than inflation to help boost consumer confidence and revive spending.",
-          "ja": "専門家は、消費者の信頼感を高め支出を回復させるためには、物価上昇を上回る賃金の伸びが必要であると指摘しています。"
+          "en": "Officials have apologized for the incident, stating they will work hard to restore public trust.",
+          "ja": "税務局は今回の事態を謝罪し、国民の信頼回復に努めるとしています。"
         }
       ]
     },
     {
-      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198731000.html",
-      "title": "熊本県では7日も猛暑予想 台風影響による強風にも注意を",
-      "title_ja": "震災後の熊本で猛暑と強風への警戒続く",
-      "date": "Fri, 07 Aug 2026 08:19:07 +0900",
-      "summary": "Kumamoto Prefecture, which is recovering from a major earthquake, is facing a combination of extreme heat and strong winds caused by Typhoon No. 13.",
+      "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198921000.html",
+      "title": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6630人避難",
+      "title_ja": "熊本県の地震被害：死者38人、避難者は6,600人超に",
+      "date": "Fri, 07 Aug 2026 21:31:17 +0900",
+      "summary": "An earthquake in Kumamoto Prefecture has claimed 38 lives, including suspected disaster-related deaths, and left over 6,600 people staying in evacuation shelters.",
       "sentences": [
         {
-          "en": "Kumamoto Prefecture, which suffered severe damage from a massive earthquake with a maximum intensity of 7, is expected to experience extreme heat again today on the 7th.",
-          "ja": "最大震度7の巨大地震で大きな被害を受けた熊本県では、本日7日も猛烈な暑さが続く見込みです。"
+          "en": "An earthquake has caused severe damage in Kumamoto Prefecture, and local authorities are continuing to assess the situation.",
+          "ja": "熊本県で地震による大きな被害が出ており、現地自治体による状況の把握が続けられています。"
         },
         {
-          "en": "Authorities are urging residents to take all possible precautions against heatstroke, such as drinking water frequently.",
-          "ja": "関係機関は、こまめに水分を補給するなど、熱中症対策を万全にするよう住民に呼びかけています。"
+          "en": "According to the Kumamoto Prefecture Disaster Response Headquarters, 38 people have been confirmed dead as of 6:00 p.m. on the 7th.",
+          "ja": "熊本県災害対策本部によると、7日午後6時時点で38人の死亡が確認されています。"
         },
         {
-          "en": "In addition to the intense heat, the region is also facing the effects of Typhoon Number 13, which is bringing increasingly strong winds.",
-          "ja": "厳しい暑さに加え、この地域は台風13号の影響も受けており、風が次第に強まっています。"
+          "en": "This tragic total includes individuals whose deaths are suspected to be directly related to the aftermath of the disaster.",
+          "ja": "この悲痛な数字には、災害後の影響が直接の原因と疑われる災害関連死の疑いがある人も含まれています。"
         },
         {
-          "en": "The Japan Meteorological Agency has issued warnings for people to stay alert for these strong gusts of wind.",
-          "ja": "気象庁は、これらの強風に対して警戒を怠らないよう注意を呼びかけています。"
+          "en": "In addition to the casualties, many residents have been forced to leave their homes due to safety concerns.",
+          "ja": "犠牲者に加え、多くの住民が安全上の懸念から自宅を離れることを余儀なくされています。"
         },
         {
-          "en": "Those involved in recovery and reconstruction efforts in the affected areas need to be extremely careful under these harsh weather conditions.",
-          "ja": "被災地で復旧活動に取り組む人々は、この厳しい気象状況下で細心の注意を払う必要があります。"
+          "en": "Currently, 6,630 people are staying in various evacuation shelters across the prefecture.",
+          "ja": "現在、県内各地の避難所には6,630人が避難しています。"
+        },
+        {
+          "en": "Local officials and volunteers are working diligently to provide food, water, and support to those affected by the disaster.",
+          "ja": "地元の関係者やボランティアは、災害の被災者に対して食料や水、支援を届けるために懸命に活動しています。"
         }
       ]
     }
@@ -153,174 +161,418 @@
   "category_news": {
     "社会": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198391000.html",
-        "title": "【動画】Pickup NEWS（8月7日）",
-        "title_ja": "1分間の動画で伝える最新ニュース",
-        "date": "Fri, 07 Aug 2026 09:48:37 +0900",
-        "summary": "This lesson introduces a convenient service that delivers a summary of the latest news in a one-minute video format, while noting a limitation for data broadcasting users.",
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199781000.html",
+        "title": "熊本 8日も猛烈な暑さ 熱中症対策を 台風13号で強風にも注意",
+        "title_ja": "被災地の熊本で猛暑と強風への警戒続く",
+        "date": "Sat, 08 Aug 2026 06:24:12 +0900",
+        "summary": "Kumamoto Prefecture, which was heavily damaged by a major earthquake, is facing extreme heat and strengthening winds from Typhoon No. 13, prompting authorities to urge residents to take precautions.",
         "sentences": [
           {
-            "en": "Welcome to our quick news update.",
-            "ja": "最新ニュースのクイックアップデートへようこそ。"
+            "en": "Kumamoto Prefecture, which was heavily damaged by a massive earthquake with a maximum intensity of 7, is expected to experience another day of extreme heat on the 8th.",
+            "ja": "最大震度7の巨大地震で大きな被害を受けた熊本県では、8日も猛烈な暑さが続く見込みです。"
           },
           {
-            "en": "Today, we are bringing you a summary of the latest news received so far in a convenient one-minute video.",
-            "ja": "本日は、これまでに入っている最新ニュースをまとめた、便利な1分間の動画をお届けします。"
+            "en": "Local residents are urged to take all possible precautions against heatstroke, such as drinking water frequently.",
+            "ja": "地元の住民は、こまめに水分を補給するなど、できる限りの熱中症対策を行うよう呼びかけられています。"
           },
           {
-            "en": "This short segment is designed to help you catch up on today's key events quickly.",
-            "ja": "この短いコーナーは、今日の重要な出来事を素早く把握できるように設計されています。"
+            "en": "In addition to the intense heat, the area is experiencing stronger winds due to the influence of Typhoon No. 13.",
+            "ja": "この猛烈な暑さに加え、台風13号の影響で現地では風もやや強まっています。"
           },
           {
-            "en": "Please note that if you are watching via data broadcasting, the video playback feature is not available.",
-            "ja": "なお、データ放送でご覧いただいている場合、動画再生機能はご利用いただけませんのでご注意ください。"
+            "en": "The Japan Meteorological Agency is calling for vigilance, as the strong winds could impact ongoing recovery efforts in the disaster-struck areas.",
+            "ja": "気象庁は、強風が被災地で進められている復旧作業に影響を与える可能性があるとして、警戒を呼びかけています。"
           },
           {
-            "en": "We recommend checking our main broadcast or official website for more details.",
-            "ja": "詳細については、本放送または公式サイトをご確認いただくことをお勧めします。"
-          },
-          {
-            "en": "Thank you for tuning in, and we hope you find this daily summary helpful.",
-            "ja": "ご視聴いただきありがとうございます。この日々のまとめがお役に立てば幸いです。"
+            "en": "Under these challenging weather conditions, staying safe and keeping hydrated remain the top priorities for everyone in the region.",
+            "ja": "このような厳しい気象条件のもと、地域のだれにとっても、安全の確保と水分補給を続けることが最優先事項となっています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015198771000.html",
-        "title": "九州新幹線 新水俣駅～鹿児島中央駅で運転再開 本数は大幅減",
-        "title_ja": "九州新幹線、新水俣ー鹿児島中央間で運転再開",
-        "date": "Fri, 07 Aug 2026 08:41:59 +0900",
-        "summary": "The Kyushu Shinkansen has partially resumed operations between Shin-Minamata and Kagoshima-Chuo stations following suspensions caused by an earthquake.",
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199741000.html",
+        "title": "熊本地震 災害ボランティアの活動が本格化 8日から氷川町でも",
+        "title_ja": "熊本の被災地で災害ボランティア活動が本格化",
+        "date": "Sat, 08 Aug 2026 06:19:38 +0900",
+        "summary": "Disaster volunteer activities are ramping up in Kumamoto Prefecture following the recent earthquake, with operations expanding to heavily damaged areas like Hikawa Town.",
         "sentences": [
           {
-            "en": "Part of the Kyushu Shinkansen line has resumed operations after being suspended due to an earthquake.",
-            "ja": "地震の影響で運転を見合わせていた九州新幹線の一部区間で、運転が再開されました。"
+            "en": "Following the recent earthquake in Kumamoto Prefecture, disaster volunteer activities are now fully underway in the affected areas.",
+            "ja": "今回の地震を受けて、熊本県の被災地では災害ボランティアの活動が本格化しています。"
           },
           {
-            "en": "On the 7th, bullet train services restarted between Shin-Minamata Station and Kagoshima-Chuo Station.",
-            "ja": "7日、新水俣駅から鹿児島中央駅の間で新幹線の運転が再開しました。"
+            "en": "According to prefectural officials, volunteer work began as early as the first of this month in some municipalities.",
+            "ja": "熊本県によると、早い自治体では今月1日からすでにボランティア活動が始まっています。"
           },
           {
-            "en": "Following an earthquake in July, the entire line between Hakata and Kagoshima-Chuo was temporarily shut down.",
-            "ja": "7月に発生した地震の影響で、一時は博多駅から鹿児島中央駅の間の全線で運転が見合わされていました。"
+            "en": "In Hikawa Town, which suffered severe damage from the quake, volunteer operations are scheduled to start on the 8th.",
+            "ja": "地震で大きな被害を受けた氷川町でも、8日からボランティア活動が始まる予定です。"
           },
           {
-            "en": "Railway operators have been working diligently to inspect the tracks and ensure passenger safety.",
-            "ja": "鉄道会社は線路の点検を行い、乗客の安全を確保するために懸命に作業を続けてきました。"
+            "en": "Volunteers will assist local residents by helping to clear debris and clean up damaged homes.",
+            "ja": "ボランティアは、がれきの撤去や片付けなどを手伝い、被災した住民を支援します。"
           },
           {
-            "en": "This partial reopening is expected to ease travel for residents and visitors in the region.",
-            "ja": "今回の一部運転再開により、地域住民や観光客の移動が便利になることが期待されています。"
+            "en": "Local coordination centers are managing the registration process to ensure that help goes where it is needed most.",
+            "ja": "地元のボランティアセンターは、最も支援を必要としている場所に手が届くよう、登録や調整を進めています。"
           },
           {
-            "en": "Efforts are still underway to fully restore the remaining suspended sections as soon as possible.",
-            "ja": "残る運休区間についても、一日も早い全線復旧に向けて、現在も復旧作業が進められています。"
+            "en": "Officials are urging volunteers to stay safe and remain cautious of aftershocks during their activities.",
+            "ja": "関係者はボランティアに対し、活動中の安全を確保し、余震に十分注意するよう呼びかけています。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260806/k10015198331000.html",
-        "title": "熊本地震 住宅修理トラブルや便乗した詐欺に注意を 消費者庁",
-        "title_ja": "熊本地震に便乗した詐欺に消費者庁が注意喚起",
-        "date": "Thu, 06 Aug 2026 18:23:09 +0900",
-        "summary": "Following the Kumamoto earthquake, Japan's Consumer Affairs Agency warns of potential scams and home repair frauds targeting affected residents.",
+        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199091000.html",
+        "title": "食料自給率37％ 過去最低に コメの価格高騰が低下招く",
+        "title_ja": "日本の食料自給率が過去最低の37％に低下",
+        "date": "Fri, 07 Aug 2026 22:06:39 +0900",
+        "summary": "Japan's calorie-based food self-sufficiency rate fell to a record low of 37% last fiscal year, largely driven by a decline in rice consumption due to rising prices.",
         "sentences": [
           {
-            "en": "In the wake of the recent earthquake in Kumamoto, the Consumer Affairs Agency is urging the public to stay vigilant.",
-            "ja": "今回の熊本地震を受けて、消費者庁は市民に対して警戒を強めるよう呼びかけています。"
+            "en": "According to the Ministry of Agriculture, Forestry and Fisheries, Japan's calorie-based food self-sufficiency rate fell to 37% last fiscal year.",
+            "ja": "農林水産省によると、昨年度の日本のカロリーベースの食料自給率は37％に低下しました。"
           },
           {
-            "en": "This warning comes as the agency has received numerous consultations regarding suspected disaster-related scams and home repair troubles.",
-            "ja": "この注意喚起は、災害に便乗した詐欺の疑いがある事案や、住宅修理に関するトラブルの相談が同庁に多数寄せられていることを受けたものです。"
+            "en": "This represents a one-percentage-point decrease from the previous year, matching the lowest level on record.",
+            "ja": "これは前年度から1ポイントの低下となり、過去最低値と並ぶ結果となりました。"
           },
           {
-            "en": "Fraudsters often take advantage of people's anxiety after natural disasters by offering fake services or demanding upfront payments.",
-            "ja": "詐欺師は、自然災害の後の人々の不安に付け込み、架空のサービスを提案したり、前払金を要求したりすることがよくあります。"
+            "en": "Officials say that rising prices led to a significant decrease in rice consumption, which heavily impacted the overall rate.",
+            "ja": "関係者によると、価格高騰によってコメの消費量が大幅に減少したことが、全体の自給率に大きく響いたとのことです。"
           },
           {
-            "en": "Some residents have reportedly been pressured into signing expensive contracts for urgent house repairs.",
-            "ja": "一部の住民は、急を要する住宅修理のために高額な契約を結ぶよう圧力をかけられたと報告されています。"
+            "en": "Rice has traditionally been a staple food that Japan can produce entirely on its own.",
+            "ja": "コメは伝統的に、日本が国内で完全に自給できる主食となってきました。"
           },
           {
-            "en": "The agency advises people to get multiple quotes and consult with family members or local authorities before making any decisions.",
-            "ja": "同庁は、決定を下す前に複数の見積もりを取り、家族や地元の自治体に相談するようアドバイスしています。"
+            "en": "Therefore, when people eat less rice and consume more imported foods instead, the nation's self-sufficiency rate drops.",
+            "ja": "そのため、人々がコメを食べる量を減らし、代わりに輸入食品を多く消費すると、国の自給率は低下します。"
           },
           {
-            "en": "If you suspect any fraudulent activity or face contract trouble, you are encouraged to call the consumer hotline.",
-            "ja": "詐欺的な行為が疑われる場合や契約トラブルに直面した場合は、消費者ホットラインに相談することが推奨されています。"
+            "en": "The government aims to raise this self-sufficiency rate to 45% by the year 2030, but achieving this goal remains a major challenge.",
+            "ja": "政府は2030年度までにこの自給率を45％に引き上げることを目指していますが、この目標の達成は依然として大きな課題となっています。"
           }
         ]
       },
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260806/k10015198161000.html",
-        "title": "地震で不安に 子どもの心のケアのポイントまとめた文書公開",
-        "title_ja": "被災した子どもの心のケア：保護者向けガイド公開",
-        "date": "Thu, 06 Aug 2026 15:42:01 +0900",
-        "summary": "The National Center for Child Health and Development has released a mental care guide for parents to support children affected by the Kumamoto earthquake.",
+        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199181000.html",
+        "title": "国家公務員の月給 2年連続で3％超の引き上げを勧告 人事院",
+        "title_ja": "国家公務員の月給3.51%引き上げ勧告",
+        "date": "Fri, 07 Aug 2026 20:16:14 +0900",
+        "summary": "Japan's National Personnel Authority has recommended a 3.51% raise in monthly salaries for national civil servants. This marks the second consecutive year of hikes over 3%, aiming to improve pay for both young and mid-career employees.",
         "sentences": [
           {
-            "en": "The National Center for Child Health and Development in Setagaya, Tokyo, has released a guide to help parents support children affected by the Kumamoto earthquake.",
-            "ja": "東京・世田谷区にある国立成育医療研究センターは、熊本地震で被災した子どもたちを支援する保護者向けのガイドを公開しました。"
+            "en": "Japan's National Personnel Authority has recommended a 3.51% increase in the monthly salary of national civil servants for this fiscal year.",
+            "ja": "人事院は今年度の国家公務員の月給について、3.51％引き上げるよう勧告しました。"
           },
           {
-            "en": "The document outlines key tips on how to interact with children who may be experiencing trauma or anxiety.",
-            "ja": "この文書には、トラウマや不安を抱えている可能性のある子どもたちへの接し方の重要なポイントがまとめられています。"
+            "en": "This recommendation was submitted to both the Cabinet and the Diet.",
+            "ja": "この勧告は、内閣と国会の双方に提出されました。"
           },
           {
-            "en": "It explains that children might show signs of stress, such as clinging to parents, bedwetting, or throwing tantrums more than usual.",
-            "ja": "子どもたちはストレスの兆候として、親にべったり甘えたり、おねしょをしたり、いつもよりかんしゃくを起こしたりすることがあると説明されています。"
+            "en": "This marks the second consecutive year that the proposed salary increase rate has exceeded 3%.",
+            "ja": "給与の引き上げ率が3％を超えるのは、2年連続のこととなります。"
           },
           {
-            "en": "The experts advise parents to listen patiently to their children's feelings and reassure them of their safety.",
-            "ja": "専門家は保護者に対し、子どもの気持ちに辛抱強く耳を傾け、安全であることを伝えて安心させるようアドバイスしています。"
+            "en": "While previous increases focused mainly on younger staff, this year's proposal also calls for better treatment of mid-career and senior employees.",
+            "ja": "これまでの引き上げは主に若手職員が中心でしたが、今年の提案では中堅やそれ以上の職員の処遇改善も求めています。"
           },
           {
-            "en": "They also emphasize that parents should take care of their own mental health so they can better support their kids.",
-            "ja": "また、子どもたちをより良く支えるためには、保護者自身が自分自身のメンタルケアを行うことも重要だと強調しています。"
-          },
-          {
-            "en": "The research center encourages parents and caregivers to read the guide and use it as a helpful resource during this difficult time.",
-            "ja": "同研究センターは、保護者や支援者に向けて、この困難な時期にこのガイドを読み、役立つ資料として参考にしてほしいと呼びかけています。"
+            "en": "The move aims to keep pace with wage hikes in the private sector and secure talented human resources.",
+            "ja": "この動きは、民間企業の賃上げペースに合わせ、優秀な人材を確保することを目的としています。"
           }
         ]
       }
     ],
     "科学・医療": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260806/k10015197981000.html",
-        "title": "人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁",
-        "title_ja": "集英社の通販サイトで大量の未払い注文、大阪の32歳男を逮捕",
-        "date": "Thu, 06 Aug 2026 18:30:20 +0900",
-        "summary": "A 32-year-old man from Osaka has been arrested for repeatedly placing over 2,000 fraudulent, unpaid orders on a major publisher's online store.",
+        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199251000.html",
+        "title": "台風で打ち上げ延期「みちびき7号機」 8月10日打ち上げ JAXA",
+        "title_ja": "日本版GPS「みちびき」7号機、10日に打ち上げへ",
+        "date": "Fri, 07 Aug 2026 17:23:49 +0900",
+        "summary": "JAXA has announced that the launch of the \"Michibiki\" No. 7 satellite, which was delayed due to a typhoon, will take place on the 10th of this month from the Tanegashima Space Center.",
         "sentences": [
           {
-            "en": "A 32-year-old man living in Osaka has been arrested by the Tokyo Metropolitan Police Department.",
-            "ja": "大阪に住む32歳の男が、警視庁に逮捕されました。"
+            "en": "The Japan Aerospace Exploration Agency, or JAXA, has announced a new launch date for the \"Michibiki\" No. 7 satellite.",
+            "ja": "宇宙航空研究開発機構（JAXA）は、日本版GPS衛星「みちびき」7号機の新たな打ち上げ日程を発表しました。"
           },
           {
-            "en": "He is accused of repeatedly making massive orders on an online store run by the major publisher Shueisha without paying.",
-            "ja": "男は、大手出版社「集英社」が運営するオンラインショップで、代金を支払わずに大量の注文を繰り返した疑いが持たれています。"
+            "en": "The launch had been postponed due to poor weather conditions caused by a typhoon.",
+            "ja": "この打ち上げは、台風による天候悪化のため延期されていました。"
           },
           {
-            "en": "Police believe the suspect carried out this disruptive behavior more than 2,000 times.",
-            "ja": "警察は、容疑者がこのような迷惑行為を2000回以上繰り返していたとみています。"
+            "en": "According to JAXA, the satellite is now scheduled to be launched on the 10th of this month.",
+            "ja": "JAXAによると、この衛星は今月10日に打ち上げられる予定です。"
           },
           {
-            "en": "This continuous obstruction caused significant trouble and financial disruption for the online business.",
-            "ja": "この継続的な妨害行為は、オンライン事業に重大なトラブルと金銭的な混乱をもたらしました。"
+            "en": "The rocket will lift off from the Tanegashima Space Center in Kagoshima Prefecture.",
+            "ja": "ロケットは鹿児島県の種子島宇宙センターから打ち上げられます。"
           },
           {
-            "en": "Investigators are now looking into his motives and the details of his methods.",
-            "ja": "捜査関係者は現在、男の動機や詳しい手口について調べています。"
+            "en": "The \"Michibiki\" satellite series serves as Japan's own GPS system to improve the accuracy of location data nationwide.",
+            "ja": "「みちびき」衛星シリーズは、全国の位置情報の精度を向上させる日本独自のGPSシステムとして機能しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260806/k10015197981000.html",
+        "title": "人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁",
+        "title_ja": "集英社の通販サイトで大量の未払い注文、32歳男を逮捕",
+        "date": "Thu, 06 Aug 2026 18:30:20 +0900",
+        "summary": "A 32-year-old man from Osaka was arrested for repeatedly placing over 2,000 fraudulent orders without payment on an online shop operated by major publisher Shueisha.",
+        "sentences": [
+          {
+            "en": "A 32-year-old man living in Osaka has been arrested for repeatedly making massive online orders without paying for them.",
+            "ja": "代金を支払わずに大量のオンライン注文を繰り返したとして、大阪に住む32歳の男が逮捕されました。"
+          },
+          {
+            "en": "The suspect allegedly targeted an online shop operated by Shueisha, one of Japan's leading publishing companies.",
+            "ja": "容疑者は、日本の大手出版社である集英社が運営するオンラインショップを標的にしていたとされています。"
+          },
+          {
+            "en": "According to the Tokyo Metropolitan Police Department, he is believed to have made over 2,000 fraudulent orders.",
+            "ja": "警視庁によると、男は2,000回を超える不正な注文を行っていたとみられています。"
+          },
+          {
+            "en": "This malicious behavior caused severe disruptions to the company's daily business operations.",
+            "ja": "この悪質な迷惑行為は、同社の日常的な業務運営に重大な支障をきたしました。"
+          },
+          {
+            "en": "The police are currently investigating his motives and the specific methods he used to place so many unpaid orders.",
+            "ja": "警察は現在、その動機や、これほど多くの未払い注文を行った具体的な方法について捜査しています。"
+          },
+          {
+            "en": "This case highlights the growing challenges e-commerce sites face regarding fraudulent and disruptive customer behavior.",
+            "ja": "今回の事件は、不正や迷惑行為を行う顧客に対して、ECサイトが直面している課題が浮き彫りになった形です。"
           }
         ]
       }
     ],
-    "政治": [],
-    "経済": [],
-    "国際": [],
-    "スポーツ": []
+    "政治": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199751000.html",
+        "title": "熊本地震 中小企業の復旧補助など支援パッケージ急ぐ 政府",
+        "title_ja": "熊本地震の被災者支援パッケージ、政府がとりまとめを急ぐ",
+        "date": "Sat, 08 Aug 2026 05:34:47 +0900",
+        "summary": "Following the recent Kumamoto earthquake, the Japanese government is fast-tracking a support package aimed at restoring the livelihoods of affected residents and helping small businesses rebuild.",
+        "sentences": [
+          {
+            "en": "In response to the recent Kumamoto earthquake, the Japanese government is rushing to compile a comprehensive support package.",
+            "ja": "今回の熊本地震を受けて、政府は総合的な支援パッケージのとりまとめを急いでいます。"
+          },
+          {
+            "en": "The primary goal of this package is to help disaster victims rebuild their daily lives and restore their livelihoods.",
+            "ja": "このパッケージの主な目的は、被災者が日常生活を再建し、なりわいを取り戻すのを支援することです。"
+          },
+          {
+            "en": "Specifically, the government is considering subsidies to cover the cost of repairing damaged facilities for small and medium-sized enterprises.",
+            "ja": "具体的には、中小企業や小規模事業者が被災した施設を復旧するための費用を補助することを検討しています。"
+          },
+          {
+            "en": "Prime Minister Takaichi expressed a strong commitment to delivering prompt and effective assistance to the affected regions.",
+            "ja": "高市総理大臣は、被災地に対して迅速かつ効果的な支援を届けるという強い決意を示しました。"
+          },
+          {
+            "en": "The government plans to finalize the details of these relief measures as soon as possible to ensure a smooth recovery process.",
+            "ja": "政府は、円滑な復興プロセスを確実にするため、これらの救援策の詳細をできるだけ早く取りまとめる方針です。"
+          }
+        ]
+      }
+    ],
+    "経済": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199811000.html",
+        "title": "KDDI 楽天への回線提供の契約 9月で終了 一部では提供継続",
+        "title_ja": "KDDI、楽天モバイルへのローミング提供を一部限定で継続へ",
+        "date": "Sat, 08 Aug 2026 00:04:09 +0900",
+        "summary": "KDDI has announced that while its current roaming agreement with Rakuten Mobile will end in September, it plans to continue providing network coverage in limited areas, such as sparsely populated regions.",
+        "sentences": [
+          {
+            "en": "KDDI has announced its plans regarding the roaming agreement that allows Rakuten Mobile to use its network.",
+            "ja": "KDDIは、楽天モバイルに回線を貸し出すローミング契約に関する今後の計画を明らかにしました。"
+          },
+          {
+            "en": "During a recent financial results press conference, KDDI's President, Hiroji Matsuda, explained the details.",
+            "ja": "先日の決算会見の中で、KDDIの松田浩路社長がその詳細を説明しました。"
+          },
+          {
+            "en": "He stated that while the current contract is scheduled to end at the end of September, the partnership will not stop completely.",
+            "ja": "同社長は、現在の契約は9月末で終了するものの、提携が完全に終了するわけではないと述べました。"
+          },
+          {
+            "en": "KDDI plans to continue providing its communication lines in limited areas, such as sparsely populated regions.",
+            "ja": "KDDIは、過疎地などの限定されたエリアにおいて、引き続き通信回線を提供していく考えです。"
+          },
+          {
+            "en": "This arrangement helps Rakuten Mobile maintain its service quality in areas where it has not yet built its own base stations.",
+            "ja": "この取り決めにより、楽天モバイルは自社の基地局がまだ整備されていない地域でもサービス品質を維持することができます。"
+          },
+          {
+            "en": "The two companies are expected to adjust the details to ensure a smooth transition for users.",
+            "ja": "両社は、利用者がスムーズに移行できるよう、今後の詳細を調整していく見通しです。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199701000.html",
+        "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
+        "title_ja": "米雇用統計が予想を大幅に下回り、早期利上げ観測が後退",
+        "date": "Fri, 07 Aug 2026 23:53:24 +0900",
+        "summary": "The latest U.S. employment statistics for July showed a surprising decline in non-farm payrolls, significantly missing market expectations and dampening hopes for an early rate hike by the Federal Reserve.",
+        "sentences": [
+          {
+            "en": "The latest U.S. employment statistics, which heavily influence currency exchange rates and stock prices, have been released.",
+            "ja": "為替相場や株価に大きな影響を与える最新のアメリカ雇用統計が発表されました。"
+          },
+          {
+            "en": "According to the report, non-farm payrolls for July turned downward, falling significantly below market expectations.",
+            "ja": "報告書によると、7月の非農業部門の就業者数は減少に転じ、市場の予想を大幅に下回りました。"
+          },
+          {
+            "en": "This unexpected decline has raised concerns about the pace of economic recovery in the United States.",
+            "ja": "この予想外の減少は、アメリカの景気回復のペースに対する懸念を強めています。"
+          },
+          {
+            "en": "Consequently, speculation that the Federal Reserve would implement an early interest rate hike has quickly receded.",
+            "ja": "その結果、米連邦準備制度理事会（FRB）が早期の利上げに踏み切るという観測は急速に後退しました。"
+          },
+          {
+            "en": "In response to the weak data, the U.S. dollar weakened against the yen, and stock markets experienced increased volatility.",
+            "ja": "この弱い指標を受けて、ドルは円に対して下落し、株式市場では変動が大きくなりました。"
+          },
+          {
+            "en": "Investors are now closely watching how the central bank will adjust its monetary policy in the coming months.",
+            "ja": "投資家たちは現在、中央銀行が今後数ヶ月間で金融政策をどのように調整していくかを注視しています。"
+          }
+        ]
+      }
+    ],
+    "国際": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199791000.html",
+        "title": "台湾軍 中国による侵攻を想定した大規模演習を公開",
+        "title_ja": "台湾で中国の侵攻に備える大規模軍事演習が実施",
+        "date": "Sat, 08 Aug 2026 01:02:44 +0900",
+        "summary": "Taiwan is conducting its annual large-scale military drills across the island to prepare for a potential invasion by China, simulating real combat scenarios to test defense readiness.",
+        "sentences": [
+          {
+            "en": "Taiwan has launched its annual large-scale military exercises to prepare for a potential invasion by China.",
+            "ja": "台湾で、中国による侵攻に備えた年に一度の大規模な軍事演習が始まりました。"
+          },
+          {
+            "en": "During the drills, soldiers simulated real combat scenarios to test and confirm their response readiness.",
+            "ja": "演習では、兵士らが実戦を想定した訓練を行い、対応力を確認しました。"
+          },
+          {
+            "en": "The military exercises are being held across all of Taiwan from the 5th to August 14th.",
+            "ja": "この軍事演習は、5日から8月14日まで台湾全土で行われます。"
+          },
+          {
+            "en": "On the 7th, a key training session was conducted at a military base in Hsinchu, northern Taiwan.",
+            "ja": "7日には、台湾北部の新竹にある軍の基地で主要な訓練が実施されました。"
+          },
+          {
+            "en": "Through these intensive drills, Taiwan aims to strengthen its defense capabilities and maintain regional stability.",
+            "ja": "台湾はこれらの集中訓練を通じて、防衛力を強化し、地域の安定を維持することを目指しています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199701000.html",
+        "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
+        "title_ja": "7月の米雇用統計が予想を下回り、早期利上げ観測が後退",
+        "date": "Fri, 07 Aug 2026 23:53:24 +0900",
+        "summary": "The newly released U.S. employment data for July showed a decline in non-farm payrolls, significantly missing market expectations and dampening speculation of an early rate hike by the Federal Reserve.",
+        "sentences": [
+          {
+            "en": "The latest U.S. employment statistics, which have a significant impact on foreign exchange rates and stock prices, have been released.",
+            "ja": "為替相場や株価に大きな影響を与える最新のアメリカの雇用統計が発表されました。"
+          },
+          {
+            "en": "In July, non-farm payrolls turned to a decline, falling far below market expectations.",
+            "ja": "7月の非農業部門の就業者数は減少に転じ、市場の予想を大幅に下回りました。"
+          },
+          {
+            "en": "This disappointing data has quickly cooled down speculation that the Federal Reserve might raise interest rates sooner than expected.",
+            "ja": "この期待外れな結果により、米連邦準備制度理事会（FRB）が予想よりも早く利上げに踏み切るという観測は急速に後退しました。"
+          },
+          {
+            "en": "Following the announcement, the yen surged against the dollar as investors adjusted their outlook on U.S. monetary policy.",
+            "ja": "この発表を受けて、投資家がアメリカの金融政策の見通しを修正したため、円相場はドルに対して急上昇しました。"
+          },
+          {
+            "en": "Global stock markets also experienced high volatility, reflecting growing concerns about the pace of the economic recovery.",
+            "ja": "世界の株式市場も、景気回復のペースに対する懸念の高まりを反映し、不安定な値動きを見せました。"
+          }
+        ]
+      }
+    ],
+    "スポーツ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199541000.html",
+        "title": "高校野球 夏の甲子園【大会4日目の見どころ】",
+        "title_ja": "夏の高校野球、大会4日目に遊学館と青森山田が対戦",
+        "date": "Sat, 08 Aug 2026 05:33:03 +0900",
+        "summary": "On the fourth day of the Summer National High School Baseball Championship, four first-round games will be played, including a matchup between Ishikawa's Yugakukan and Aomori Yamada.",
+        "sentences": [
+          {
+            "en": "On the fourth day of the Summer National High School Baseball Championship, four first-round games are scheduled to be played.",
+            "ja": "夏の全国高校野球は大会4日目を迎え、1回戦の4試合が行われます。"
+          },
+          {
+            "en": "The first game of the day features a matchup between Yugakukan High School from Ishikawa and Aomori Yamada High School from Aomori.",
+            "ja": "第1試合では、石川代表の遊学館高校と青森代表の青森山田高校が対戦します。"
+          },
+          {
+            "en": "Yugakukan is making its seventh appearance in the tournament, returning for the first time in 11 years.",
+            "ja": "遊学館は11年ぶり7回目の出場となります。"
+          },
+          {
+            "en": "Meanwhile, Aomori Yamada is making its 13th appearance, returning after a two-year absence.",
+            "ja": "一方の青森山田は、2年ぶり13回目の出場です。"
+          },
+          {
+            "en": "Both teams are highly competitive, making this opening matchup of the day a highly anticipated event for baseball fans.",
+            "ja": "両校ともに実力のある強豪校であり、この日の開幕カードは野球ファンにとって非常に注目の集まる一戦です。"
+          },
+          {
+            "en": "People are excited to see how these young athletes will perform on the grand stage of Koshien Stadium.",
+            "ja": "甲子園という大舞台で、若い選手たちがどのようなプレーを見せてくれるのか、多くの人が期待を寄せています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199671000.html",
+        "title": "【プロ野球結果】首位ソフトバンク 西武との直接対決 初戦制す",
+        "title_ja": "緊急時の命を守る情報伝達について",
+        "date": "Sat, 08 Aug 2026 01:51:29 +0900",
+        "summary": "We provide critical, life-saving information during emergencies to ensure public safety and help people make informed decisions.",
+        "sentences": [
+          {
+            "en": "We are committed to widely sharing crucial information to protect your lives during emergencies.",
+            "ja": "私たちは、緊急時にみなさまの命を守るための重要な情報を広くお伝えすることに努めています。"
+          },
+          {
+            "en": "When a natural disaster or crisis occurs, quick and accurate updates are essential for everyone's safety.",
+            "ja": "自然災害や危機が発生した際、迅速かつ正確な最新情報は、全員の安全を守るために不可欠です。"
+          },
+          {
+            "en": "We deliver real-time reports on weather alerts, evacuation advisories, and available safety shelters.",
+            "ja": "気象警報や避難勧告、利用可能な避難所に関するリアルタイムの情報を配信しています。"
+          },
+          {
+            "en": "It is our mission to ensure this life-saving news reaches as many people as possible in the affected areas.",
+            "ja": "この命を救うためのニュースを、被災地のひとりでも多くの人々に届けることが私たちの使命です。"
+          },
+          {
+            "en": "Please stay tuned to our broadcasts and official channels to keep yourself and your loved ones safe.",
+            "ja": "ご自身と大切な人の安全を守るため、私たちの放送や公式チャンネルからの情報を常に確認するようにしてください。"
+          }
+        ]
+      }
+    ]
   }
 }
