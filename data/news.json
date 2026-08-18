@@ -3,153 +3,95 @@
     {
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "title_ja": "台風13号、沖縄の西を進行中",
+      "title_ja": "台風13号、沖縄の西を進行中。土砂災害などに厳重警戒",
       "date": "Sat, 08 Aug 2026 21:54:30 +0900",
-      "summary": "Large and very strong Typhoon No. 13 is moving west of Okinawa, bringing prolonged wind and rain. Residents in Okinawa and Amami are urged to remain on high alert for landslides.",
+      "summary": "A large and powerful Typhoon No. 13 is moving west of Okinawa, bringing prolonged heavy rain and strong winds. Residents in Okinawa and Amami are urged to remain on high alert for landslides and other disasters.",
       "sentences": [
         {
-          "en": "Large and very strong Typhoon No. 13 is currently moving over the waters west of Okinawa's main island.",
+          "en": "A large and very strong typhoon, Typhoon Number 13, is currently moving over the sea to the west of Okinawa's main island.",
           "ja": "大型で非常に強い台風13号は、現在、沖縄本島の西の海上を進んでいます。"
         },
         {
-          "en": "In Okinawa and the Amami region, the severe effects of wind and rain have been continuing for a prolonged period.",
-          "ja": "沖縄や奄美地方では、雨や風による深刻な影響が長時間続いています。"
+          "en": "In the Okinawa and Amami regions, the impact of strong winds and heavy rain is continuing for an extended period.",
+          "ja": "沖縄や奄美地方では、風や雨の影響が長時間にわたって続いています。"
         },
         {
           "en": "Local authorities are urging residents to remain on high alert for landslides and other potential disasters.",
-          "ja": "自治体などは、土砂災害などの発生に厳重な警戒を続けるよう呼びかけています。"
+          "ja": "自治体などは、土砂災害などの災害に対して厳重な警戒を続けるよう呼びかけています。"
         },
         {
-          "en": "It is important to stay indoors away from windows and avoid going near flooded areas or steep slopes.",
-          "ja": "窓から離れた屋内に留まり、浸水している場所や急な斜面には近づかないようにすることが重要です。"
+          "en": "It is highly recommended to stay updated on the situation using news and disaster prevention apps.",
+          "ja": "ニュースや防災アプリなどを活用し、常に最新の情報を確認することが強く推奨されます。"
         },
         {
-          "en": "Please keep a close eye on the latest weather advisories to ensure your safety.",
-          "ja": "安全を確保するため、最新の気象警報に細心の注意を払ってください。"
+          "en": "Please prioritize your safety and avoid going outside unless it is absolutely necessary.",
+          "ja": "安全を最優先にし、不要不急の外出は控えるようにしてください。"
         }
       ]
     },
     {
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
-      "title_ja": "広い範囲で大気が不安定に、記録的大雨の警告も",
+      "title_ja": "広範囲で大気不安定、記録的大雨情報を7回発表",
       "date": "Sat, 08 Aug 2026 23:17:32 +0900",
-      "summary": "Extremely unstable atmospheric conditions brought localized heavy rain across Japan on August 8th, triggering seven emergency warnings. The unstable weather is expected to continue into the next day, and officials are urging caution.",
+      "summary": "Atmospheric instability brought localized torrential rain to Japan on the 8th, triggering seven emergency alerts, with unstable conditions expected to continue on the 9th.",
       "sentences": [
         {
-          "en": "On August 8th, atmospheric conditions became extremely unstable across a wide area from northern to western Japan.",
+          "en": "On the 8th, atmospheric conditions became extremely unstable across a wide area from northern to western Japan.",
           "ja": "8日、北日本から西日本にかけての広い範囲で、大気の状態が非常に不安定になりました。"
         },
         {
-          "en": "This instability triggered localized torrential rain in many regions.",
-          "ja": "この不安定な大気により、多くの地域で局地的な大雨がもたらされました。"
+          "en": "This instability led to sudden and localized heavy rainfall in many regions.",
+          "ja": "この不安定な大気により、多くの地域で局地的な大雨が発生しました。"
         },
         {
-          "en": "In fact, weather agencies issued emergency warnings for 'record-breaking short-term heavy rain' a total of seven times.",
-          "ja": "実際、気象庁は「記録的短時間大雨情報」を合わせて7回発表しました。"
+          "en": "In fact, weather authorities issued emergency bulletins for \"record-breaking short-term heavy rain\" a total of seven times.",
+          "ja": "実際、気象当局は「記録的短時間大雨」の気象防災速報を合わせて7回発表しました。"
         },
         {
-          "en": "The sudden downpours caused immediate flooding and disrupted transportation in some areas.",
-          "ja": "この突然の豪雨により、一部の地域で道路の冠水が発生し、交通機関に影響が出ました。"
+          "en": "These alerts are released when torrential rain falls in a very short period, raising the immediate risk of disasters.",
+          "ja": "この情報は、災害の危険性が高まるような猛烈な雨が極めて短時間に降った際に発表されます。"
         },
         {
-          "en": "Meteorologists warn that the atmosphere is expected to remain highly unstable on August 9th as well.",
-          "ja": "気象庁は、9日も引き続き大気の状態が非常に不安定になる見込みであると警告しています。"
+          "en": "Forecasters warn that the atmosphere will remain highly unstable on the 9th as well.",
+          "ja": "気象予報士は、9日も引き続き大気の状態が非常に不安定になる見込みであると警告しています。"
         },
         {
-          "en": "Residents are urged to stay alert for sudden rain, lightning, and potential landslides.",
-          "ja": "住民に対して、急な大雨や雷、土砂災害の危険に厳重に警戒するよう呼びかけています。"
+          "en": "Residents in the affected areas are advised to stay alert for sudden downpours, lightning, and potential flooding.",
+          "ja": "該当地域の住民は、突然の豪雨や雷、そして浸水などの災害に警戒するよう呼びかけられています。"
         }
       ]
     },
     {
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "title": "愛知県内で水難事故相次ぐ 2人死亡",
-      "title_ja": "愛知県内で水難事故相次ぐ 2人死亡",
+      "title_ja": "愛知県の水難事故で2人死亡",
       "date": "Sat, 08 Aug 2026 23:06:51 +0900",
-      "summary": "On the 8th, two people lost their lives in separate water accidents in a river and the sea in Aichi Prefecture, prompting safety warnings.",
+      "summary": "On August 8th, two people tragically lost their lives in separate water accidents in the sea and a river in Aichi Prefecture.",
       "sentences": [
         {
-          "en": "On the 8th, a series of tragic water accidents occurred in Aichi Prefecture, resulting in two fatalities.",
-          "ja": "8日、愛知県内で悲しい水難事故が相次ぎ、2人が亡くなりました。"
+          "en": "On August 8th, a series of tragic water accidents occurred in Aichi Prefecture.",
+          "ja": "8日、愛知県内で悲惨な水難事故が相次ぎました。"
         },
         {
-          "en": "According to local authorities, these incidents took place separately in a river and in the sea.",
-          "ja": "地元の警察や消防によると、これらの事故は川と海でそれぞれ発生しました。"
+          "en": "The incidents took place in two different locations, specifically in the sea and in a river.",
+          "ja": "事故は海と川の2つの異なる場所で発生しました。"
         },
         {
-          "en": "With the summer season in full swing, many people have been visiting water spots to cool off.",
-          "ja": "夏本番を迎え、多くの人々が涼を求めて水辺を訪れていました。"
+          "en": "Sadly, authorities have confirmed that two people lost their lives in these separate mishaps.",
+          "ja": "残念なことに、これらの別々の事故で2人の死亡が確認されました。"
         },
         {
-          "en": "However, sudden changes in water depth and strong currents can quickly lead to dangerous situations.",
-          "ja": "しかし、水深の急激な変化や強い流れは、あっという間に危険な状況を招くことがあります。"
+          "en": "As the summer season brings more people to the water, local authorities are urging everyone to be extremely cautious.",
+          "ja": "夏の時期は多くの人が水辺に集まるため、地元当局は全員に細心の注意を払うよう呼びかけています。"
         },
         {
-          "en": "Authorities are urging the public to exercise extreme caution and always wear life jackets when playing near water.",
-          "ja": "関係当局は、水辺で遊ぶ際は細心の注意を払い、常にライフジャケットを着用するよう呼びかけています。"
+          "en": "Experts recommend wearing life jackets and keeping a close eye on changing weather conditions.",
+          "ja": "専門家は、ライフジャケットを着用することや、変化しやすい天候に注意を払うことを推奨しています。"
         },
         {
-          "en": "Please stay safe by checking the weather forecast and avoiding swimming in prohibited areas.",
-          "ja": "天気予報を確認し、遊泳禁止エリアでは泳がないようにして、安全に過ごしてください。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
-      "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "title_ja": "日奈久断層帯での地震、10年前の熊本地震の隣接領域が動く",
-      "date": "Sat, 08 Aug 2026 20:53:49 +0900",
-      "summary": "An earthquake with a maximum intensity of 7 on July 28 was caused by a shift in the Hinagu Fault Zone, right next to the area that moved during the Kumamoto earthquakes 10 years ago. Experts warn of potential future risk as some segments of the fault remain unruptured.",
-      "sentences": [
-        {
-          "en": "On July 28th, a powerful earthquake with a maximum seismic intensity of 7 struck the region.",
-          "ja": "7月28日、最大震度7を観測する強い地震が発生しました。"
-        },
-        {
-          "en": "According to expert analysis, the earthquake was caused by a shift in the \"Hinagu Fault Zone.\"",
-          "ja": "専門家の分析によると、この地震は「日奈久断層帯」の一部がずれ動いたことによって発生したとみられています。"
-        },
-        {
-          "en": "Specifically, the movement occurred in an area adjacent to the section that ruptured during the Kumamoto earthquakes ten years ago.",
-          "ja": "具体的には、10年前の熊本地震の際に活動した場所と隣り合う領域が動いたということです。"
-        },
-        {
-          "en": "Experts point out that there are still unruptured segments remaining along this fault zone.",
-          "ja": "専門家は、この断層帯にはまだ破壊されずに割れ残っている領域があると指摘しています。"
-        },
-        {
-          "en": "Because of these remaining active areas, they warn that strong aftershocks or future earthquakes could still occur.",
-          "ja": "こうした割れ残りの領域があるため、今後も強い余震や別の地震が発生するおそれがあるとして警戒を呼びかけています。"
-        }
-      ]
-    },
-    {
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200291000.html",
-      "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "title_ja": "リーグワンのフィジー出身選手、熱中症の疑いで急死",
-      "date": "Sat, 08 Aug 2026 20:29:37 +0900",
-      "summary": "Saimoni Vunilangi, a Fijian rugby player for the Kyuden Voltex in Japan's League One Division 2, has passed away after being hospitalized with suspected heatstroke.",
-      "sentences": [
-        {
-          "en": "Tragic news has come from the Japanese rugby community.",
-          "ja": "日本のラグビー界から悲しいニュースが入ってきました。"
-        },
-        {
-          "en": "The Kyuden Voltex, a Division 2 team in Japan's Rugby League One, made a devastating announcement.",
-          "ja": "ラグビー・リーグワンの2部に所属する九州電力キューデンヴォルテクスが、悲痛な発表を行いました。"
-        },
-        {
-          "en": "They revealed that Saimoni Vunilangi, a player from Fiji, has passed away.",
-          "ja": "チームは、所属選手でフィジー出身のサイモニ・ヴニランギ選手が亡くなったことを明らかにしました。"
-        },
-        {
-          "en": "According to the team, he was rushed to the hospital due to suspected heatstroke.",
-          "ja": "チームによると、ヴニランギ選手は熱中症の疑いで病院に搬送されていました。"
-        },
-        {
-          "en": "The sudden loss of this young athlete has brought deep shock and sadness to his teammates and fans.",
-          "ja": "この若い選手の突然の訃報は、チームメイトやファンに深い衝撃と悲しみをもたらしています。"
+          "en": "Please stay safe and remain vigilant when enjoying activities near rivers or the ocean.",
+          "ja": "川や海の近くでレジャーを楽しむ際は、安全第一で警戒を怠らないようにしてください。"
         }
       ]
     }
@@ -159,97 +101,122 @@
       {
         "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
         "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
-        "title_ja": "広範囲で大気不安定 記録的大雨に警戒続く",
+        "title_ja": "日本各地で大気不安定、記録的大雨に警戒続く",
         "date": "Sat, 08 Aug 2026 23:17:32 +0900",
-        "summary": "Extremely unstable weather brought record-breaking heavy rain across Japan on August 8th, with severe conditions expected to continue into the next day.",
+        "summary": "Extremely unstable atmospheric conditions caused severe localized heavy rain across Japan, with emergency alerts issued multiple times. Officials warn that this dangerous weather will continue.",
         "sentences": [
           {
-            "en": "On August 8th, extremely unstable atmospheric conditions brought heavy rainfall to a wide area of Japan, stretching from the north to the west.",
-            "ja": "8日、北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、大雨となりました。"
+            "en": "On August 8th, atmospheric conditions became extremely unstable across a wide area from northern to western Japan.",
+            "ja": "8日、北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になりました。"
           },
           {
-            "en": "Due to the sudden downpours, emergency weather bulletins for 'record-breaking short-term heavy rain' were issued a total of seven times.",
-            "ja": "局地的な大雨により、「記録的短時間大雨」の気象防災速報が合わせて7回発表されました。"
+            "en": "This led to severe localized downpours, causing sudden and intense rain in many areas.",
+            "ja": "これにより局地的な大雨が発生し、多くの地域で突然の激しい雨に見舞われました。"
           },
           {
-            "en": "These intense, localized rainstorms caused sudden flooding and disruption in several areas.",
-            "ja": "この激しい局地的な大雨により、いくつかの地域では急な道路の冠水や混乱が発生しました。"
+            "en": "In fact, emergency bulletins for \"record-breaking heavy rain in a short period\" were issued a total of seven times.",
+            "ja": "実際に、「記録的短時間大雨」の気象防災速報は合わせて7回も発表されました。"
           },
           {
-            "en": "Meteorological experts warn that the atmosphere is expected to remain highly unstable on August 9th as well.",
-            "ja": "気象庁などは、9日も大気の状態が引き続き非常に不安定になる見込みであると警告しています。"
+            "en": "Weather officials warn that the atmosphere will remain highly unstable on August 9th as well.",
+            "ja": "気象庁は、9日も大気の状態が引き続き非常に不安定になるとして警戒を呼びかけています。"
           },
           {
-            "en": "Residents are advised to stay alert for potential landslides, flooding in low-lying areas, and sudden lightning strikes.",
-            "ja": "住民の皆さんには、土砂災害や低い土地の浸水、そして突然の落雷に警戒するよう呼びかけられています。"
+            "en": "People are advised to stay alert for sudden downpours, lightning, and potential flooding in low-lying areas.",
+            "ja": "住民に対しては、突然の豪雨や雷、そして低い土地の浸水などに警戒するよう呼びかけられています。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
         "title": "愛知県内で水難事故相次ぐ 2人死亡",
-        "title_ja": "愛知県内で水難事故相次ぐ、2人死亡",
+        "title_ja": "愛知県内で水難事故相次ぐ 2人死亡",
         "date": "Sat, 08 Aug 2026 23:06:51 +0900",
-        "summary": "On August 8th, two separate water accidents in Aichi Prefecture's sea and river resulted in two deaths, prompting authorities to urge caution during water activities.",
+        "summary": "Two people lost their lives in separate water accidents in the sea and a river in Aichi Prefecture on August 8th, prompting authorities to call for increased vigilance.",
         "sentences": [
           {
             "en": "On August 8th, a series of tragic water accidents occurred in Aichi Prefecture, resulting in the deaths of two people.",
-            "ja": "8日、愛知県内で悲惨な水難事故が相次ぎ、2人が死亡しました。"
+            "ja": "8日、愛知県内で悲しい水難事故が相次ぎ、2人が死亡しました。"
           },
           {
-            "en": "According to local authorities, one incident took place in the sea, while another occurred in a river.",
-            "ja": "地元当局によると、一つの事故は海で、もう一つは川で発生しました。"
+            "en": "According to local reports, the incidents took place separately in both the sea and a river within the prefecture.",
+            "ja": "地元の報道によると、事故は県内の海と川で、それぞれ別々に発生したとのことです。"
           },
           {
-            "en": "Emergency services were dispatched to both locations, but unfortunately, the victims could not be saved.",
-            "ja": "両方の現場に救急隊が駆けつけましたが、残念ながら被害者を救うことはできませんでした。"
+            "en": "With many people heading to the water during the summer season, authorities are raising awareness about safety.",
+            "ja": "夏のシーズン中に多くの人が水辺へ向かう中、関係当局は安全への意識を高めるよう呼びかけています。"
           },
           {
-            "en": "Summer is a peak season for water activities, but it also brings a higher risk of drowning accidents.",
-            "ja": "夏は水辺のレジャーが盛んな時期ですが、水難事故のリスクも高まります。"
+            "en": "Officials urge everyone to pay close attention to weather conditions and avoid swimming in dangerous areas.",
+            "ja": "担当者は、気象状況に細心の注意を払い、危険な場所での遊泳を避けるよう強く促しています。"
           },
           {
-            "en": "Officials are urging the public to exercise extreme caution and wear life jackets when swimming.",
-            "ja": "関係機関は市民に対し、泳ぐ際は細心の注意を払い、ライフジャケットを着用するよう呼びかけています。"
-          },
-          {
-            "en": "Please stay safe and remain vigilant of local weather conditions when enjoying the water.",
-            "ja": "水辺を楽しむ際は、安全に気を配り、現地の気象状況にも注意を払ってください。"
+            "en": "Taking simple precautions, such as wearing a life jacket, can prevent future tragedies.",
+            "ja": "ライフジャケットを着用するなどの簡単な予防策を講じることが、今後の悲劇を防ぐことにつながります。"
           }
         ]
       }
     ],
     "文化・エンタメ": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200061000.html",
-        "title": "熊本県内 避難情報 124か所 6591人が避難【8月8日】",
-        "title_ja": "熊本県の地震被害と避難状況（8月8日時点）",
-        "date": "Sat, 08 Aug 2026 17:52:08 +0900",
-        "summary": "As of August 8th, Kumamoto Prefecture reports 39 deaths and over 6,500 people staying in evacuation shelters following the recent earthquake. Over 18,000 homes have been confirmed damaged, with assessments still ongoing.",
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199951000.html",
+        "title": "お盆休みで下りの混雑ピーク 高速道路や新幹線は",
+        "title_ja": "お盆休みの下り混雑がピークに、高速道路や新幹線で渋滞と満席相次ぐ",
+        "date": "Sat, 08 Aug 2026 19:49:38 +0900",
+        "summary": "The outbound travel rush for the Obon holiday peaked on August 8th, leading to fully booked bullet trains and heavy traffic jams on expressways across Japan.",
         "sentences": [
           {
-            "en": "As of August 8th, Kumamoto Prefecture has released an updated report on the damage caused by the recent earthquake.",
-            "ja": "8月8日現在、熊本県は最近発生した地震による被害に関する最新の状況を発表しました。"
+            "en": "The rush of people traveling to their hometowns and holiday destinations for the Obon holiday peaked on August 8th.",
+            "ja": "お盆休みをふるさとや行楽地で過ごす人たちの混雑は、8日にピークを迎えました。"
           },
           {
-            "en": "The death toll in the prefecture has reached 39, which includes one suspected disaster-related death and two cases currently under investigation.",
-            "ja": "県内の死者数は39人に達しており、これには災害関連死の疑いがある1人と、直接死かどうか現在調査中の2人が含まれています。"
+            "en": "Outbound Shinkansen bullet trains were highly congested, with many services fully booked throughout the day.",
+            "ja": "新幹線の下り列車は非常に混雑しており、多くの列車が終日満席となりました。"
           },
           {
-            "en": "In addition, 23 people are reported to have suffered serious injuries.",
-            "ja": "さらに、23人が大けがを負ったと報告されています。"
+            "en": "Major traffic jams were also reported on expressways in various parts of the country.",
+            "ja": "また、全国各地の高速道路でも激しい渋滞が報告されています。"
           },
           {
-            "en": "Currently, 124 evacuation shelters remain open across the prefecture, providing refuge for 6,591 people.",
-            "ja": "現在、県内では124か所の避難所が開設されており、6,591人が避難生活を送っています。"
+            "en": "This annual travel rush occurs as millions of people return home to visit family during the traditional summer holiday.",
+            "ja": "この毎年恒例の帰省ラッシュは、伝統的な夏の休暇中に何百万人もの人々が家族に会うために帰省することで発生します。"
           },
           {
-            "en": "Damage to residential buildings is severe, with a total of 18,086 homes confirmed to have suffered some level of damage.",
-            "ja": "住宅への被害は深刻で、合わせて1万8,086棟の住宅に何らかの被害があったことが確認されています。"
+            "en": "Travelers are advised to check the latest traffic updates and allow extra time for their journeys.",
+            "ja": "旅行者は最新の交通情報を確認し、移動には十分に余裕を持った時間を確保するよう勧められています。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200061000.html",
+        "title": "熊本県内 避難情報 124か所 6591人が避難【8月8日】",
+        "title_ja": "熊本県が地震の最新被害状況を発表、6500人以上が避難",
+        "date": "Sat, 08 Aug 2026 17:52:08 +0900",
+        "summary": "The disaster response headquarters in Kumamoto Prefecture released an update on August 8th, revealing that over 6,500 people remain in shelters and more than 18,000 homes have been damaged by the recent earthquake.",
+        "sentences": [
+          {
+            "en": "On the morning of August 8th, Kumamoto Prefecture's disaster response headquarters released an update on the damage caused by the recent earthquake.",
+            "ja": "8月8日の午前、熊本県の災害対策本部は、今回発生した地震による最新の被害状況を発表しました。"
           },
           {
-            "en": "This total includes 699 homes that were completely destroyed, while the degree of damage for over 9,000 homes is still under investigation.",
-            "ja": "この内訳には全壊した699棟が含まれているほか、9,000棟以上の住宅については現在も被害の程度を調査中です。"
+            "en": "Currently, 6,591 people are staying in 124 evacuation shelters opened across the prefecture.",
+            "ja": "現在、県内124か所に開設された避難所に、6,591人が避難しています。"
+          },
+          {
+            "en": "The official death toll in Kumamoto now stands at 39, which includes one suspected disaster-related death.",
+            "ja": "県内における地震による死者は、災害関連死の疑いがある1人を含めて39人となっています。"
+          },
+          {
+            "en": "Officials are currently investigating whether two of these deaths were directly caused by the earthquake, while 23 people have been reported seriously injured.",
+            "ja": "このうち2人については地震による「直接死」かどうか調査が進められており、また、23人が大けがを負ったということです。"
+          },
+          {
+            "en": "The disaster has also caused severe damage to local housing, with over 18,000 buildings affected in total.",
+            "ja": "この災害は地元の住宅にも深刻な被害をもたらし、確認された被害は合わせて1万8,000棟を超えています。"
+          },
+          {
+            "en": "Specifically, 699 buildings were completely destroyed, more than 1,000 were half-destroyed, and over 9,000 are still undergoing damage assessment.",
+            "ja": "具体的には、699棟が全壊、1,000棟以上が半壊し、9,000棟以上については現在も被害の程度を調査中とのことです。"
           }
         ]
       }
@@ -258,62 +225,66 @@
       {
         "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200241000.html",
         "title": "「みちびき」打ち上げは11日に再延期 気象条件が整わず JAXA",
-        "title_ja": "「みちびき」打ち上げが11日に再延期、気象条件整わず",
+        "title_ja": "「みちびき」7号機の打ち上げ、気象条件により11日に再延期",
         "date": "Sat, 08 Aug 2026 16:37:08 +0900",
-        "summary": "JAXA has postponed the launch of Japan's 'Michibiki' No. 7 satellite to August 11th due to bad weather, marking the second delay this month.",
+        "summary": "JAXA has postponed the launch of the 'Michibiki' No. 7 satellite from August 10th to August 11th due to unfavorable weather conditions, marking the second delay this month.",
         "sentences": [
           {
-            "en": "The Japan Aerospace Exploration Agency, known as JAXA, has announced another postponement for the launch of its \"Michibiki\" No. 7 satellite.",
-            "ja": "宇宙航空研究開発機構（JAXA）は、衛星「みちびき」7号機の打ち上げを再び延期すると発表しました。"
+            "en": "The Japan Aerospace Exploration Agency, known as JAXA, has announced another delay for the launch of its \"Michibiki\" No. 7 satellite.",
+            "ja": "宇宙航空研究開発機構（JAXA）は、準天頂衛星「みちびき」7号機の打ち上げを再び延期すると発表しました。"
           },
           {
-            "en": "The satellite was originally scheduled to lift off on August 10th from the Tanegashima Space Center in Kagoshima Prefecture.",
-            "ja": "この衛星は当初、8月10日に鹿児島県の種子島宇宙センターから打ち上げられる予定でした。"
+            "en": "The launch was originally scheduled to take place on August 10th from the Tanegashima Space Center in Kagoshima Prefecture.",
+            "ja": "打ち上げは当初、8月10日に鹿児島県の種子島宇宙センターから行われる予定でした。"
           },
           {
-            "en": "However, due to unfavorable weather conditions, JAXA decided to reschedule the launch to August 11th.",
-            "ja": "しかし、気象条件が整わないため、JAXAは打ち上げを8月11日に延期することを決定しました。"
+            "en": "However, JAXA decided to postpone the liftoff to August 11th due to unfavorable weather conditions.",
+            "ja": "しかしJAXAは、気象条件が整わないことから、打ち上げを8月11日に延期することを決定しました。"
           },
           {
-            "en": "This marks the second time the launch has been delayed since the beginning of August.",
-            "ja": "打ち上げの延期は、8月に入ってからこれで2度目となります。"
+            "en": "The \"Michibiki\" satellites serve as Japan's proprietary positioning system, often described as the Japanese version of GPS.",
+            "ja": "「みちびき」衛星は、日本独自の測位システムであり、日本版GPSとも呼ばれています。"
           },
           {
-            "en": "The Michibiki satellite series is highly important as it forms Japan's own regional GPS network.",
-            "ja": "みちびき衛星シリーズは、日本独自のGPSネットワークを構築するものとして非常に重要な役割を担っています。"
+            "en": "This postponement marks the second time the launch has been put off since the beginning of August.",
+            "ja": "今回の延期は、8月に入ってから2回目の延期となります。"
+          },
+          {
+            "en": "JAXA will continue to monitor the weather closely to ensure a safe and successful mission.",
+            "ja": "JAXAは、安全で確実なミッションのために、引き続き気象状況を注意深く見極める方針です。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260807/k10015199251000.html",
         "title": "台風で打ち上げ延期「みちびき7号機」 8月10日打ち上げ JAXA",
-        "title_ja": "日本版GPS衛星「みちびき」7号機、今月10日に打ち上げへ",
+        "title_ja": "「みちびき」7号機、10日に打ち上げ延期分を実施へ",
         "date": "Fri, 07 Aug 2026 17:23:49 +0900",
-        "summary": "JAXA has rescheduled the launch of its seventh \"Michibiki\" satellite for the 10th of this month. The launch from Tanegashima Space Center had been postponed due to bad weather from a typhoon.",
+        "summary": "JAXA has rescheduled the launch of Japan's \"Michibiki\" No. 7 GPS satellite to the 10th of this month, following a postponement caused by a typhoon.",
         "sentences": [
           {
-            "en": "The Japan Aerospace Exploration Agency, known as JAXA, has announced a new launch date for its seventh \"Michibiki\" satellite.",
-            "ja": "宇宙航空研究開発機構（JAXA）は、日本版GPS衛星「みちびき」7号機の新たな打ち上げ日程を発表しました。"
+            "en": "The Japan Aerospace Exploration Agency, or JAXA, has announced a new launch date for the country's latest satellite.",
+            "ja": "宇宙航空研究開発機構（JAXA）は、日本の最新の人工衛星の新たな打ち上げ日程を発表しました。"
           },
           {
-            "en": "The satellite is now scheduled to lift off on the 10th of this month from the Tanegashima Space Center in Kagoshima Prefecture.",
-            "ja": "この衛星は、今月10日に鹿児島県の種子島宇宙センターから打ち上げられる予定です。"
+            "en": "The \"Michibiki\" No. 7 is a key component of Japan's own regional GPS network.",
+            "ja": "「みちびき」7号機は、日本独自の地域GPSネットワークの重要な構成要素です。"
           },
           {
-            "en": "The launch was originally postponed due to deteriorating weather conditions caused by a typhoon.",
-            "ja": "この打ち上げは、当初は台風による天候悪化のために延期されていました。"
+            "en": "The launch was originally postponed due to severe weather conditions caused by a typhoon.",
+            "ja": "この打ち上げは当初、台風による天候悪化のために延期されていました。"
           },
           {
-            "en": "The \"Michibiki\" satellite system is often referred to as the Japanese version of GPS.",
-            "ja": "「みちびき」衛星システムは、日本版のGPSとも呼ばれています。"
+            "en": "According to JAXA, the satellite is now rescheduled to lift off on the 10th of this month.",
+            "ja": "JAXAによると、この衛星は今月10日に打ち上げが再設定されました。"
           },
           {
-            "en": "It works alongside American GPS satellites to provide highly accurate location information in Japan.",
-            "ja": "アメリカのGPS衛星と連携し、日本国内で極めて高精度な位置情報を提供します。"
+            "en": "The rocket will be launched from the Tanegashima Space Center in Kagoshima Prefecture.",
+            "ja": "ロケットは鹿児島県の種子島宇宙センターから打ち上げられます。"
           },
           {
-            "en": "JAXA will continue to monitor the weather closely as the new launch date approaches.",
-            "ja": "JAXAは、新たな打ち上げ日が近づく中、引き続き天候状況を慎重に見極める方針です。"
+            "en": "Once in orbit, it is expected to help improve the accuracy and stability of location services across Japan.",
+            "ja": "軌道に乗れば、日本全国の位置情報サービスの精度と安定性の向上に役立つことが期待されています。"
           }
         ]
       }
@@ -322,66 +293,62 @@
       {
         "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
         "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
-        "title_ja": "政府、SNS事業者に「なりすまし広告」対策強化を要請",
+        "title_ja": "SNSの「なりすまし広告」対策、政府が運営事業者に強化要請",
         "date": "Sat, 08 Aug 2026 10:04:37 +0900",
-        "summary": "The Japanese government has urged social media operators to strengthen their countermeasures against fraudulent impersonation ads, specifically by verifying the identities of advertisers.",
+        "summary": "The Japanese government has urged social media operators to strengthen measures against fake advertisements that use celebrities' photos without permission. This action aims to prevent a rising number of online fraud cases.",
         "sentences": [
           {
-            "en": "Recently, there has been a sharp increase in online scams using fake advertisements on social media.",
-            "ja": "最近、SNS上で偽の広告を悪用したネット詐欺が急増しています。"
+            "en": "In Japan, there has been a rise in fraud cases involving deceptive advertisements on social media.",
+            "ja": "日本において、SNS上のなりすまし広告による詐欺被害が相次いでいます。"
           },
           {
-            "en": "These misleading ads often use photos of celebrities and well-known public figures without their permission.",
-            "ja": "これらの紛らわしい広告は、有名人や著名人の写真を無断で使用していることがよくあります。"
+            "en": "These fraudulent ads often use photos of celebrities and public figures without their permission.",
+            "ja": "これらの詐欺的な広告は、有名人の写真などを無断で使用することがよくあります。"
           },
           {
-            "en": "Many users are deceived by these fake endorsements and end up losing significant amounts of money.",
-            "ja": "多くのユーザーがこれらの偽の推奨広告にだまされ、結果として多額の資金を失っています。"
+            "en": "In response, the Japanese government has issued a formal written request to social media operators.",
+            "ja": "これを受けて、日本政府はSNSの運営事業者に対して書面で要請を行いました。"
           },
           {
-            "en": "In response to this growing issue, the Japanese government has taken formal action.",
-            "ja": "この深刻化する問題に対応するため、日本政府は正式な行動を起こしました。"
+            "en": "The government is urging these platform providers to strengthen their security measures.",
+            "ja": "政府は、これらのプラットフォーム事業者に対し、対策を強化するよう強く求めています。"
           },
           {
-            "en": "They issued a written request to social media operators, urging them to implement stricter countermeasures.",
-            "ja": "政府はSNSの運営事業者に対し、より厳格な対策を講じるよう文書で要請しました。"
+            "en": "Specifically, they are asking for stricter identity verification of advertisers to prevent scams.",
+            "ja": "具体的には、詐欺を防ぐために広告主の本人確認を厳格化することを求めています。"
           },
           {
-            "en": "Specifically, the government is calling on these platforms to thoroughly verify the identities of all advertisers.",
-            "ja": "具体的には、政府はこれらのプラットフォームに対し、すべての広告主の本人確認を徹底するよう求めています。"
+            "en": "Officials hope this move will help curb the growing number of online scams.",
+            "ja": "政府は、この取り組みがオンライン詐欺の増加を抑えることにつながるよう期待しています。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199761000.html",
         "title": "カリブ海のトリニダード・トバゴと協力推進で一致 茂木外相",
-        "title_ja": "茂木外相、トリニダード・トバゴ外相と会談",
+        "title_ja": "茂木外相、トリニダード・トバゴ外相と会談し協力強化で一致",
         "date": "Sat, 08 Aug 2026 07:48:27 +0900",
-        "summary": "Japanese Foreign Minister Motegi met with Foreign Minister Sobers in Trinidad and Tobago, agreeing to boost cooperation in various fields, including energy.",
+        "summary": "Japanese Foreign Minister Toshimitsu Motegi met with his counterpart in Trinidad and Tobago, agreeing to boost cooperation in energy and other sectors.",
         "sentences": [
           {
-            "en": "Japanese Foreign Minister Toshimitsu Motegi is currently visiting several countries in Latin America and the Caribbean.",
-            "ja": "中南米を歴訪中の茂木外務大臣は、現在、カリブ海諸国などを訪問しています。"
+            "en": "Japanese Foreign Minister Toshimitsu Motegi is currently touring Latin American and Caribbean countries.",
+            "ja": "中南米諸国を歴訪中の茂木外務大臣は、現在、カリブ海諸国を訪問しています。"
           },
           {
-            "en": "During his stop in Trinidad and Tobago, he held a meeting with Foreign Minister Sobers.",
-            "ja": "訪問先のトリニダード・トバゴにおいて、茂木外相はソバース外相と会談を行いました。"
+            "en": "During his trip, he visited Trinidad and Tobago to hold a meeting with Foreign Minister Sobers.",
+            "ja": "今回の旅のなかで、茂木大臣はトリニダード・トバゴを訪れ、ソバース外相と会談を行いました。"
           },
           {
-            "en": "During the meeting, the two ministers agreed to promote cooperation in a wide range of fields, including the energy sector.",
-            "ja": "会談の中で両外相は、エネルギー分野を含む幅広い分野で協力を推進していくことで一致しました。"
+            "en": "The two ministers agreed to promote cooperation in a wide range of fields, including the energy sector.",
+            "ja": "両外相は、エネルギー分野を含む幅広い分野で協力を推進していくことで一致しました。"
           },
           {
-            "en": "Trinidad and Tobago is rich in natural resources and serves as an important partner for Japan in the Caribbean.",
+            "en": "Trinidad and Tobago is rich in natural resources and serves as a key partner for Japan in the Caribbean.",
             "ja": "トリニダード・トバゴは天然資源が豊富であり、カリブ海地域における日本にとって重要なパートナーです。"
           },
           {
-            "en": "They also discussed various global challenges and confirmed their commitment to strengthening bilateral relations.",
-            "ja": "また、両氏は地球規模の様々な課題について議論し、二国間関係を強化していく方針を確認しました。"
-          },
-          {
-            "en": "This visit highlights Japan's ongoing efforts to deepen its diplomatic ties across the region.",
-            "ja": "今回の訪問は、この地域全体との外交関係を深めようとする日本の継続的な取り組みを浮き彫りにしています。"
+            "en": "Through this visit, Japan aims to further strengthen its diplomatic ties with countries in the region.",
+            "ja": "日本は今回の訪問を通じて、この地域の国々との外交関係をさらに強化することを目指しています。"
           }
         ]
       }
@@ -390,97 +357,164 @@
       {
         "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
         "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
-        "title_ja": "オープンAI、新型モデル「アストラ」の開発を一時中断。自律的なサイバー攻撃の懸念から",
+        "title_ja": "オープンAIが新しいAIモデル「アストラ」の開発を一時中断",
         "date": "Sat, 08 Aug 2026 15:10:11 +0900",
-        "summary": "OpenAI has temporarily paused development of its new AI model, 'Astra,' due to concerns that the highly advanced AI could execute cyberattacks on its own.",
+        "summary": "OpenAI has temporarily suspended the development of its new AI model, Astra, due to concerns that its advanced capabilities could allow it to launch cyberattacks independently.",
         "sentences": [
           {
-            "en": "OpenAI, the creator of the popular generative AI \"ChatGPT,\" has announced a temporary pause in the development of its new AI model, \"Astra.\"",
-            "ja": "人気の生成AI「ChatGPT」を開発するオープンAIは、新たなAIモデル「アストラ」の開発を一時中断することを発表しました。"
+            "en": "OpenAI, the creator of ChatGPT, announced on the 7th that it has temporarily suspended the development of its new AI model, Astra.",
+            "ja": "ChatGPTの開発元であるオープンAIは7日、新たなAIモデル「アストラ」の開発を一時中断したと発表しました。"
           },
           {
-            "en": "The US-based company made this announcement on the 7th.",
-            "ja": "アメリカに拠点を置く同社は、この発表を7日に行いました。"
+            "en": "According to the company, the decision was made because the AI's capabilities have improved significantly.",
+            "ja": "同社によると、この決定はAIの能力が大幅に向上したために下されたとのことです。"
           },
           {
-            "en": "As for the reason, OpenAI explained that the capabilities of the AI have improved significantly.",
-            "ja": "その理由についてオープンAIは、AIの能力が大幅に向上したためだと説明しています。"
+            "en": "There are growing concerns that the AI could potentially launch major cyberattacks on its own initiative.",
+            "ja": "AIが自らの判断で、重大なサイバー攻撃を実行するおそれが懸念されています。"
           },
           {
-            "en": "Because of this, they cannot rule out the risk that the AI might execute major cyberattacks on its own initiative.",
-            "ja": "このため、AIが自らの判断で重大なサイバー攻撃を実行するおそれを排除できないとしています。"
+            "en": "OpenAI stated that they cannot completely rule out this dangerous possibility at the moment.",
+            "ja": "オープンAIは、現時点でこの危険な可能性を完全に排除することはできないと説明しています。"
           },
           {
-            "en": "This decision highlights the increasing challenges tech companies face in balancing rapid AI progress with safety concerns.",
-            "ja": "この決定は、急速なAIの進歩と安全への懸念のバランスを取る中で、テック企業が直面している課題を浮き彫りにしています。"
+            "en": "This move highlights the rising debate over the safety and control of rapidly evolving artificial intelligence.",
+            "ja": "今回の動きは、急速に進化する人工知能の安全性と制御に関する議論の高まりを浮き彫りにしています。"
+          },
+          {
+            "en": "The company plans to address these security risks before resuming development.",
+            "ja": "同社は、開発を再開する前に、これらのセキュリティ上のリスクに対処する方針です。"
           }
         ]
       },
       {
         "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199771000.html",
         "title": "「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請",
-        "title_ja": "SNSの「なりすまし広告」対策、政府が運営事業者に強化を要請",
+        "title_ja": "SNSの「なりすまし広告」対策、政府が事業者に要請",
         "date": "Sat, 08 Aug 2026 10:04:37 +0900",
-        "summary": "The Japanese government has formally requested social media operators to strengthen countermeasures against fraudulent impersonation ads by enforcing strict advertiser identity verification.",
+        "summary": "The Japanese government has urged social media operators to strengthen countermeasures against fraudulent impersonation ads that use celebrities' photos without permission.",
         "sentences": [
           {
-            "en": "Recently, there has been a sharp increase in online fraud cases involving fake advertisements on social media.",
-            "ja": "最近、SNS上の偽の広告による詐欺被害が急増しています。"
+            "en": "Recently, there has been a rise in scams on social media using fake advertisements that feature photos of famous people without permission.",
+            "ja": "最近、有名人の写真を無断で使用した「なりすまし広告」によるSNS上の詐欺被害が相次いでいます。"
           },
           {
-            "en": "These deceptive ads unauthorizedly use photos of well-known celebrities to trick users into scams.",
-            "ja": "これらの詐欺的な広告は、有名人の写真を無断で使用し、ユーザーを騙して詐欺に誘導するものです。"
+            "en": "In response to this growing issue, the Japanese government has taken action to protect users.",
+            "ja": "この深刻化する問題に対応するため、日本政府は利用者を保護するための行動を起こしました。"
           },
           {
-            "en": "In response to this growing problem, the Japanese government has taken action against social media platform operators.",
-            "ja": "この深刻化する問題を受けて、日本政府はSNSの運営事業者に対して行動を起こしました。"
+            "en": "They issued a written request to social media platform operators, urging them to strengthen their countermeasures.",
+            "ja": "政府はSNSの運営事業者に対し、対策を強化するよう文書で要請しました。"
           },
           {
-            "en": "The government issued a written request urging these companies to strengthen their countermeasures against fraudulent ads.",
-            "ja": "政府はこれらの企業に対し、詐欺広告への対策を強化するよう文書で要請しました。"
+            "en": "Specifically, the government is asking these platforms to strictly verify the identity of their advertisers.",
+            "ja": "具体的には、政府はこれらのプラットフォームに対し、広告主の本人確認を厳格に行うよう求めています。"
           },
           {
-            "en": "Specifically, they are asking platforms to strictly verify the identity of advertisers before their ads go live.",
-            "ja": "具体的には、広告が掲載される前に、広告主の本人確認を厳格に行うよう求めています。"
-          },
-          {
-            "en": "It is hoped that these stricter verification steps will help protect social media users from falling victim to such scams.",
-            "ja": "こうした厳格な確認手順によって、SNSユーザーが詐欺の被害に遭うのを防ぐことが期待されています。"
+            "en": "By implementing stricter verification processes, they hope to prevent scammers from posting deceptive ads in the first place.",
+            "ja": "より厳格な本人確認プロセスを導入することで、詐欺師がそもそも虚偽の広告を掲載するのを防ぐことが期待されています。"
           }
         ]
       }
     ],
     "国際": [
       {
-        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199681000.html",
-        "title": "【動画】中国 北京で人気のレトロ写真館",
-        "title_ja": "北京で人気のレトロ写真館",
-        "date": "Sat, 08 Aug 2026 20:25:15 +0900",
-        "summary": "A unique photo studio in Beijing is drawing young customers by allowing them to experience and take photos in recreated 1980s and 1990s settings.",
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200331000.html",
+        "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
+        "title_ja": "イチロー氏、マリナーズ50周年記念のホームラン競争でファンを魅了",
+        "date": "Sat, 08 Aug 2026 20:55:50 +0900",
+        "summary": "Former MLB star Ichiro Suzuki participated in a special alumni home run derby for the Mariners' 50th anniversary, thrilling fans with consecutive home runs.",
         "sentences": [
           {
-            "en": "A retro trend is quietly gaining popularity among young people in China.",
-            "ja": "中国の若者の間で、レトロブームがひそかに人気を集めています。"
+            "en": "Ichiro Suzuki, who starred for the Seattle Mariners and was inducted into the baseball Hall of Fame in the U.S. last year, recently delighted fans once again.",
+            "ja": "シアトル・マリナーズなどで活躍し、昨年アメリカで野球殿堂入りを果たしたイチローさんが、先日、再びファンを沸かせました。"
           },
           {
-            "en": "To capture this trend, we visited a unique photo studio in Beijing that has become a hot topic.",
-            "ja": "このトレンドを捉えるため、私たちは北京で話題となっている一風変わった写真館を取材しました。"
+            "en": "He participated in an alumni home run derby held to celebrate the 50th anniversary of the Mariners' founding.",
+            "ja": "彼は、マリナーズの創設50周年を記念して開催されたOBによるホームラン競争に参加しました。"
           },
           {
-            "en": "This studio offers customers a chance to take photos while experiencing daily life from the 1980s and 1990s.",
-            "ja": "この写真館では、1980年代から90年代の日常生活を体験しながら写真を撮影することができます。"
+            "en": "During the exhibition, the legendary outfielder showed that he still possesses his incredible batting skills.",
+            "ja": "このエキシビションの中で、伝説的な外野手である彼は、今なお素晴らしい打撃技術を持ち合わせていることを示しました。"
           },
           {
-            "en": "Inside, the space is decorated with nostalgic items and furniture from those decades to recreate the atmosphere of the past.",
-            "ja": "店内には当時の懐かしいアイテムや家具が飾られており、過去の雰囲気が再現されています。"
+            "en": "Ichiro hit a series of powerful drives that easily cleared the outfield fence.",
+            "ja": "イチローさんは、外野フェンスを軽々と越える力強い当たりを連発しました。"
           },
           {
-            "en": "For many young visitors, it is a fun and nostalgic way to connect with an era they never personally lived through.",
-            "ja": "多くの若い来店客にとって、これは自分が実際には生きてこなかった時代とつながる、楽しくてノスタルジックな方法となっています。"
+            "en": "The exciting performance brought massive cheers from the crowd of devoted fans.",
+            "ja": "このエキサイティングなパフォーマンスに、熱心なファンで埋め尽くされた観客席からは大歓声が上がりました。"
+          },
+          {
+            "en": "It was a nostalgic and thrilling moment for everyone watching the baseball icon back in action.",
+            "ja": "野球界のアイコンが再び躍動する姿を目にしたすべての人にとって、懐かしく、そして胸が躍る瞬間となりました。"
+          }
+        ]
+      },
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199681000.html",
+        "title": "【動画】中国 北京で人気のレトロ写真館",
+        "title_ja": "北京で人気を集めるレトロ写真館",
+        "date": "Sat, 08 Aug 2026 20:25:15 +0900",
+        "summary": "A unique photo studio in Beijing is gaining popularity among young Chinese people by allowing them to experience and take photos in recreated 1980s and 90s settings.",
+        "sentences": [
+          {
+            "en": "A retro boom is quietly spreading among young people in China.",
+            "ja": "中国の若者の間で、レトロブームが静かに広がっています。"
+          },
+          {
+            "en": "In Beijing, a unique photo studio has become highly popular by tapping into this trend.",
+            "ja": "北京では、このトレンドを取り入れた一風変わった写真館が大人気となっています。"
+          },
+          {
+            "en": "At this studio, customers can take photos while experiencing what daily life was like in the 1980s and 90s.",
+            "ja": "この写真館では、1980年代や90年代の日常生活を体験しながら写真を撮影することができます。"
+          },
+          {
+            "en": "The studio is filled with nostalgic items, such as old-fashioned television sets and vintage furniture.",
+            "ja": "館内には、昔ながらのテレビやヴィンテージ家具など、懐かしい品々があふれています。"
+          },
+          {
+            "en": "Many young people visit to capture a sense of nostalgia for an era they never personally lived through.",
+            "ja": "多くの若者が、自分たちが実際には経験したことのない時代へのノスタルジーを味わうために訪れています。"
+          },
+          {
+            "en": "This unique experience offers them a fun way to connect with the past and share their memories online.",
+            "ja": "このユニークな体験は、彼らにとって過去とつながり、その思い出をネット上で共有する楽しい方法となっています。"
           }
         ]
       }
     ],
-    "スポーツ": []
+    "スポーツ": [
+      {
+        "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200281000.html",
+        "title": "【プロ野球結果】中日 首位阪神に勝利 今シーズン初の5連勝",
+        "title_ja": "中日が首位阪神に勝利、今季初の5連勝",
+        "date": "Sun, 09 Aug 2026 01:38:10 +0900",
+        "summary": "In Japanese professional baseball, the Chunichi Dragons defeated the league-leading Hanshin Tigers, securing their first five-game winning streak of the season.",
+        "sentences": [
+          {
+            "en": "Six professional baseball games were played on Saturday, bringing exciting action to fans.",
+            "ja": "土曜日にプロ野球の6試合が行われ、ファンに興奮を届けました。"
+          },
+          {
+            "en": "In the Central League, the Chunichi Dragons faced off against the league-leading Hanshin Tigers.",
+            "ja": "セ・リーグでは、中日ドラゴンズが首位の阪神タイガースと対戦しました。"
+          },
+          {
+            "en": "Chunichi defeated Hanshin to secure their first five-game winning streak of the season.",
+            "ja": "中日が阪神に勝利し、今シーズン初となる5連勝を飾りました。"
+          },
+          {
+            "en": "Highlights of this matchup and other games are available on NHK's \"Saturday Watch 9.\"",
+            "ja": "この対戦やその他の試合のハイライトは、NHKの「サタデーウオッチ9」でご覧いただけます。"
+          },
+          {
+            "en": "The sports news video can be streamed on NHK ONE until Friday, August 15th, at 10:00 p.m.",
+            "ja": "このプロ野球ニュース動画は、8月15日金曜日の午後10時までNHK ONEで配信されています。"
+          }
+        ]
+      }
+    ]
   }
 }
